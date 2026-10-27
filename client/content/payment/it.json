@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Pagamento | Mentor Language Institute",
+    "pageDescription": "Pagamento",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">È possibile effettuare il pagamento in modo sicuro con carta di credito compilando il modulo in questa pagina e inviandolo. Mentor Language Institute non memorizza i dati della carta di credito. Questo processo di pagamento è facilitato dal pagamento online di Stripe.<br />Compilare le informazioni qui sotto</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Data",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Campus",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Nome dello studente",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Cognome/Famiglia dello studente",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Nome dell'agenzia (se applicabile)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Importo",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*Il 4% della tassa di elaborazione CR sarà aggiunto all'importo del pagamento.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Importo addebitato sulla carta di credito"
+        }
+    ]
+    },
+  "btn_label": "Continuare alla pagina di checkout"
+}

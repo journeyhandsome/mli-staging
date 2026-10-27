@@ -1,0 +1,43 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "يرجى تحميل الكتيب باستخدام الروابط أدناه",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "يرجى تحميل الكتيب باستخدام الروابط أدناه:"
+    ],
+    "brochures": [
+      {
+        "title": " كتيب المعهد",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": " كتيب الإسكان",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": " 2026 الاسعار و حزمة التسجيل",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "كتيب الأنشطة الخاص بـ MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "إذا كان لديك أي أسئلة مثل قضية تأشيرة طالب، وتوافر السكن أو غيرها من القضايا، لا تتردد في الاتصال بنا في أي وقت.",
+      "ويستوود الحرم الجامعي: هاتف: 310-887-0777 البريد الإلكتروني: info@mliesl.edu",
+      "هوليوود الحرم الجامعي: هاتف: 323-870-7102 البريد الإلكتروني: hollywood@mliesl.edu",
+      "ساعة المكتب:",
+      "معهد ويستوود : من الاثنين إلى الخميس: 8:30 - 20:30 الجمعة: 8:30 - 18:00",
+      "معهد هوليوود : من الاثنين إلى الجمعة: 8:30 حتي 17:00",
+      "نحن نتطلع إلى الترحيب بكم في معهدنا في لوس انجليس!"
+    ]
+  }

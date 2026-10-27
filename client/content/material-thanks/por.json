@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "Por favor, baixe o catálogo usando os links abaixo",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "Por favor, baixe o catálogo usando os links abaixo"
+    ],
+    "brochures": [
+      {
+        "title": "Catálogo da escola",
+        "image": "/images/material/mli-brochure-program-schedule-por.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "Catálogo da acomodação",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Pacote de preços e inscrição",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "Folheto de atividades da MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "Se você tiver alguma dúvida, quanto a questão do visto de estudante, disponibilidade de acomodação, ou qualquer outra pergunta, por favor não hesite em entrar em contato a qualquer momento.",
+      "<b>【 Westwood Campus 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />TEL: ＋1（310）887-0777 <br />E-mail: info@mliesl.edu <br />Horário de expediente: Segunda a Quinta: das 08:30 às 20:30, Sexta: das 08:30 às 18:00",
+      "<b>【 Hollywood Campus 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102 <br />E-mail: hollywood@mliesl.edu <br />Horário de expediente: Segunda a Sexta: das 08:30 às 17:00",
+      "Esperamos lhe dar boas-vindas na MLI em Los Angeles!"
+    ]
+  }

@@ -1,0 +1,208 @@
+{
+    "pageTitle": "2022 Promosyonu İçin İletişim | Mentor Language Institute",
+    "pageDescription": "Adınız",
+    "title": "2022 Promosyonu İçin İletişim",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "Adınız",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "E-posta adresiniz",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "Ülke",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "Telefon numarası",
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "MLI`dan telefon çağrısı almak ISTEMIYORUM"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "Kampüs tercihi",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "Hollywood"
+          },
+          {
+            "value": "Westwood",
+            "label": "Westwood"
+          },
+          {
+            "value": "Both",
+            "label": "Her ikisi de"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "ABD’de programınıza ortalama ne kadar süre içerisinde başlamayı planlıyorsunuz?",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1 Ay"
+          },
+          {
+            "value": "three months",
+            "label": "3 Ay"
+          },
+          {
+            "value": "six months",
+            "label": "6 Ay"
+          },
+          {
+            "value": "one year or more",
+            "label": "1 Sene veya daha fazla"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "MLI'yı nasıl buldun?",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "Ajans"
+          },
+          {
+            "value": "Friend",
+            "label": "Arkadaş"
+          },
+          {
+            "value": "Internet",
+            "label": "Internet"
+          },
+          {
+            "value": "Other",
+            "label": "Diğer"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Mesajınız"
+      }
+    ],
+    "btn_label": "Gönder"
+  }

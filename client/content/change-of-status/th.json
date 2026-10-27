@@ -1,0 +1,45 @@
+{
+    "pageTitle": "เปลี่ยนสถานะ | Mentor Language Institute",
+    "pageDescription": "ขอบคุณที่ท่านสนใจเข้าเรียนกับ MLI. หน้านี้ใช้สำหรับผู้ที่อยู่ในสหรัฐฯโดยไม่มีวีซ่า F1 (นักเรียน) และต้องการเปลี่ยนเป็นสถานะ F1.",
+    "title": "เปลี่ยนสถานะ",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "ขอบคุณที่ท่านสนใจเข้าเรียนกับ MLI.<br /> หน้านี้ใช้สำหรับผู้ที่อยู่ในสหรัฐฯโดยไม่มีวีซ่า F1 (นักเรียน) และต้องการเปลี่ยนเป็นสถานะ F1.",
+      "หากคุณต้องการสมัครกรุณาดำเนินการต่อไป:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-th.png",
+        "link": "/th/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "ขั้นตอนการสมัคร",
+      "description": [
+        "ขั้นตอนการสมัครจะขึ้นอยู่กับประเทศ สัญชาติ หลักสูตร ประเภทวีซ่า ฯลฯ. เจ้าหน้าที่ของเรายินดีที่จะแนะนำคุณเกี่ยวกับขั้นตอนที่เหมาะสมตามสถานการณ์ของคุณ"
+      ]
+    },
+    "needHelp": {
+      "title": "ต้องการความช่วยเหลือ โปรดติดต่อเรา",
+      "description": [
+        "กฎการขอวีซ่าและขั้นตอนการสมัครแตกต่างกันไปขึ้นอยู่กับสถานะปัจจุบันของคุณ.<br />หากคุณต้องการคำแนะนำก่อนการสมัคร โปรดติดต่อเรา.<br />เรามีเจ้าหน้าที่ที่สามารถพูดได้ถึง 8 ภาษา."
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-th.jpg",
+      "link": "/th/contact",
+      "title": "ติดต่อเรา",
+      "lists": [
+        {
+          "campus": "<สาขา Westwood>",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "โทร:310⁻887⁻0777"
+        },
+        {
+          "campus": "<สาขา Hollywood>",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "โทร:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

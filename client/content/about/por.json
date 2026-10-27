@@ -1,0 +1,43 @@
+{
+  "pageTitle": "O que é MLI? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute foi fundada em 2002 e está localizada em duas áreas populares: Westwood e Hollywood.",
+  "section1": {
+    "title": "O que é MLI?",
+    "description": [
+      "Mentor Language Institute foi fundada em 2002 e está localizada em duas áreas populares: Westwood e Hollywood.<br />Ajudamos estudantes de todo o mundo a melhorar o inglês.."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Pague menos por aulas de qualidade",
+    "description": [
+      "Valorizamos duas coisas:  <b>\"Educação de Qualidade\"</b> e <b>\"Preço\".<b>",
+      "O inglês é a língua global e uma ferramenta necessária para a comunicação com as pessoas de todo o mundo. Nossa esperança é que os estudantes internacionais adquirem habilidades de inglês para ter sucesso no mundo. Por esta razão, nos concentramos na qualidade das aulas e preço baixo."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "Até 2020, mais de 17.000 estudantes escolheram e se formaram na MLI.",
+    "description": [
+      "Oferecemos ESL (Programa de inglês geral com 6 áreas de habilidades: Gramática /Escrita, Leitura/Vocabulário e Escuta/Fala), TOEFL®, IELTS ™ (Para alunos que desejam transferir para a faculdade) e TOEIC®.",
+      "Muitos estudantes também passaram a estudar em universidades ou faculdades nos EUA como UCLA, USC e Santa Monica College."
+    ],
+    "lists": [
+      {
+        "link": "/por/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "5 razões pelas quais as pessoas escolhem MLI"
+      },
+      {
+        "link": "/por/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Informações da Empresa"
+      },
+      {
+        "link": "/por/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Galeria de fotos/vídeos"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Оплата | Mentor Language Institute",
+    "pageDescription": "Оплата",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">Вы можете безопасно произвести оплату кредитной картой, заполнив форму на этой странице и отправив ее. Mentor Language Institute не хранит информацию о вашей кредитной карте. Этот процесс оплаты осуществляется через систему онлайн-платежей Stripe.<br />Пожалуйста, заполните приведенную ниже информацию</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Дата",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Кампус",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Фамилия студента",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Фамилия/имя семьи студента",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Название агентства (если применимо)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Сумма",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*4% от стоимости обработки CR будет добавлено к сумме вашего платежа.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Сумма, списанная с вашей кредитной карты"
+        }
+    ]
+    },
+  "btn_label": "Перейдите на страницу оформления заказа"
+}

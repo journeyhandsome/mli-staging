@@ -1,0 +1,171 @@
+{
+    "pageTitle": "أماكن الإقامة | Mentor Language Institute",
+    "pageDescription": "يمكن للطلاب اختيار أماكن الإقامة المنزلية أو الإقامة المشتركة.",
+    "title": "أماكن الإقامة",
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "يمكن للطلاب اختيار أماكن الإقامة المنزلية أو الإقامة المشتركة.",
+    "types": [
+      {
+        "title": "Dormitory",
+        "description": [
+          "هناك 40 غرفة في المهجع. سيكون هناك الكثير من الفرص للتواصل مع الطلاب الدوليين الآخرين. ننصحك بالإقامة في سكن الطلاب إذا اردت ان توفر مالا."
+        ],
+        "lists": [
+          " غرفة: خاصة (الفردية)، المشتركة (2 الناس) أو رباعية (4 أشخاص)",
+          " وجبة: لا وجبات [مطبخ مفروشة بالكامل متاح] ",
+          " الخصوصية: هناك المزيد من الخصوصية في المهاجع مما كانت عليه في منزل، ومع ذلك، هناك بعض قواعد المهجع.",
+          "الانتقال إلى المدرسة: الانتقال إلى المدرسة: حوالي 20 دقيقة سيرا على الأقدام أو الحافلة."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "أسعار السكن الطلابي",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> إذا كان عمره أقل من 18 عامًا ، فسيكون الإيجار أعلى بنسبة 10٪ تقريبًا من سعر الشخص الأكبر من 18 عامًا.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "سكن مع عائلة امريكية",
+        "description": [
+          "الطلاب الذين يختارون العيش مع عائلة امريكية الإقامة يبحثون عن آمنة، والترحيب، وجو مريح حيث يمكنهم ممارسة مهاراتهم في اللغة الإنجليزية. كما انها فرصة للتعرف على العادات والتقاليد الامريكية والقيم العائلية."
+        ],
+        "lists": [
+          "الغرفة: خاص (فردي)",
+          "وجبة: 2 وجبات يوميا (الإفطار والعشاء)",
+          "الخصوصية: هناك بعض قواعد المنزل اعتمادا على الأسرة المضيفة.",
+          "تخفيف: 30- 45 دقيقة في المتوسط ​​بالحافلة"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "أسعار الإقامة",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> إذا كان عمره أقل من 18 عامًا ، فسيكون الإيجار أعلى بنسبة 10٪ تقريبًا من سعر الشخص الأكبر من 18 عامًا.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "تعليقات من موظفينا",
+      "description": [
+        "ليس من السهل العثور على مكان للإقامة عند وصولك لأول مرة إلى الولايات المتحدة، <br />خاصة للطلاب الأجانب الذين ليس لديهم رقم الضمان الاجتماعي (SSN) والتاريخ الائتماني. <br />تتطلب معظم الأماكن كلا من رقم التأمين الاجتماعي (SSN) والتاريخ الائتماني لاستئجار مكان. <br />ولذلك، فإننا نوصي لك البقاء في أماكن الإقامة لدينا"
+      ]
+    }
+  }

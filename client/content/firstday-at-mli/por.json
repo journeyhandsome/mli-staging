@@ -1,0 +1,92 @@
+{
+  "pageTitle": "Primeiro dia na MLI | Mentor Language Institute",
+  "pageDescription": "Na MLI, temos uma sessão de orientação para novos alunos no início de cada semestre (a cada 4 semanas).",
+  "title": "Primeiro dia na MLI",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "Bem-vindo a Mentor Language Institute!",
+      "description": [
+        "Na MLI, temos uma sessão de orientação para novos alunos no início de cada semestre (a cada 4 semanas).",
+        "Aqui na nossa escola, queremos facilitar o seu processo de adaptação e ajudá-lo a alcançar todos os seus objetivos acadêmicos. Por isso, preparamos uma Orientação completa e amigável para que você possa entender melhor nossos programas, regulamentos de imigração e regras da escola. Além disso, nossa equipe de admissões, professores, recepcionistas, administrativos e gerentes ficarão muito felizes em recebê-lo e tornar sua experiência conosco a mais agradável possível. Seja bem-vindo!"
+      ],
+      "dates": [
+        "＜Data de Início de cada termo＞",
+        "- 22 de maio de 2023 <br /> - 20 de junho de 2023 <br /> - 17 de julho de 2023 <br /> - 14 de agosto de 2023 <br /> - 11 de setembro de 2023 <br /> - 10 de outubro de 2023 <br /> - 6 de novembro de 2023 <br /> - 4 de dezembro de 2023 <br /> - 8 de janeiro de 2024 <br /> - 5 de fevereiro de 2024 <br /> - 4 de março de 2024",
+        "A orientação começará às 13 horas."
+      ],
+      "groups": [
+        {
+          "title": "Teste de Avaliação e Orientação",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "Documento de inscrição"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "Orientação acadêmica"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "Teste de nivelamento"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "Política Escolar, Regras de Imigração"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "College Transfer Service"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "Atividades e Habitação"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "Avaliação oral para definição de turmas"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "Compra de material didático"
+            }
+          ]
+        },
+        {
+          "title": "O que levar com você no primeiro dia",
+          "lists": [
+            "Passaporte (Se você é um Titular do Visto de Estudante)",
+            "I-20 (Se você é um Titular do Visto de Estudante)",
+            "Caneta e papel",
+            "Taxa do livro didático e pagamento do saldo da mensalidade"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Detalhes",
+      "groups": [
+        {
+          "title": "Cronograma de orientação",
+          "description": [
+            "Antes de se matricular, será necessário preencher toda a documentação exigida. Em seguida, você terá a oportunidade de participar de uma apresentação conduzida pelo Diretor Acadêmico ou pelo Coordenador do Programa. Nessa apresentação, você receberá informações valiosas sobre nossos diversos programas, regras da sala de aula e estratégias para alcançar o sucesso acadêmico. Essas dicas permitirão que você progrida entre os diferentes níveis e programas de forma eficiente, aproveitando ao máximo sua experiência de aprendizado"
+          ]
+        },
+        {
+          "title": "Teste de nivelamento e entrevista",
+          "description": [
+            "Seguindo a orientação, você tomará o \"Teste de nivelamento em inglês\", que é cerca de 80 perguntas, com uma parte de escuta e escrita que cobra gramática, vocabulário e compreensão de leitura. É um teste de 60 minutos que ajuda a determinar o seu nível de inglês.<br />Após o teste, você terá um rápido teste oral (mais como uma Entrevista) com um dos nossos Instrutores (o PC, o AD ou um professor MLI).<br />Este teste é para ajudar a finalizar sua colocação no nível e / ou programa mais adequado com base em suas habilidades e objetivos."
+          ]
+        },
+        {
+          "title": "Comprando material didático",
+          "description": [
+            "Após o teste de nivelamento e a entrevista, os alunos compram livros didáticos com a equipe da recepção. A equipe da recepção está disponível para responder quaisquer dúvidas ou dúvidas adicionais que os alunos possam ter."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "pageTitle": "Estudiantes transferidos | Mentor Language Institute",
+    "pageDescription": "Estudiantes que actualmente estudian en otra escuela en los EE. UU. Y desean cambiar de escuela.",
+    "title": "Estudiantes transferidos",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "subtitle": [
+      "Estudiantes que actualmente estudian en otra escuela en los EE. UU. Y desean cambiar de escuela."
+    ],
+    "category": [
+      {
+        "title": "Pasos de la aplicación",
+        "image": "/images/how-to-apply/transfer-students/application-steps-sp.png",
+        "listType": "decimal",
+        "lists": [
+          "Aplicar a MLI (completar la solicitud en línea)",
+          "Presentar los documentos requeridos",
+          "Asistir a la orientación para nuevos alumnos",
+          "Recibe un nuevo I-20"
+        ],
+        "description": [
+          "Los estudiantes deben aplicar a MLI 1 o 2 meses antes de la fecha de inicio del programa deseado.  Lo mejor es hablar con un asesor estudiantil en MLI después de enviar una solicitud en línea para confirmar el proceso de transferencia, ya que puede ser complicado según su situación."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Política de cancelación",
+        "description": [
+          "La tarifa de inscripción de $ 150 se cobrará en el momento de la solicitud. La tarifa de inscripción no es reembolsable independientemente de si se rechaza una solicitud de visa o si se cancela la inscripción."
+        ]
+      },
+      {
+        "title": "Después de enviar su solicitud",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "Después de que los estudiantes envíen la solicitud en línea, MLI procesará la solicitud y enviará un enlace para iMLI (la página de la aplicación en línea de cada estudiante).  Los estudiantes pueden continuar el proceso de aplicación indicado en iMLI."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Aplica online",
+      "description": [
+        "Complete la solicitud en línea.<br />Contáctenos por correo electrónico para cualquier consulta."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/transfer-students/apply-now-sp.png",
+        "link": "/sp/admission"
+      }
+    }
+  }

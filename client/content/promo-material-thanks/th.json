@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Promo - Thanks Download Brochure | Mentor Language Institute",
+    "pageDescription": "กรุณาดาวน์โหลดแผ่นพับโดยใช้ลิงค์ด้านล่าง",
+    "title": "Promo - Thanks Download Brochure",
+    "subtitle": [
+      "กรุณาดาวน์โหลดแผ่นพับโดยใช้ลิงค์ด้านล่าง:"
+    ],
+    "brochures": [
+      {
+        "title": "โปรโมชั่นต้อนรับปี 2022",
+        "image": "/images/material/1643410547-WELCOME_Promotion_THAI_JAN19.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/assets/images/material/1643410547-WELCOME_Promotion_THAI_JAN19.jpg"
+      },
+      {
+        "title": "แผ่นพับเกี่ยวกับโรงเรียน",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "แผ่นพับเกี่ยวกับที่พัก",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 ราคาและการลงทะเบียน",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "โบรชัวร์กิจกรรมของ MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>เจ้าหน้าที่รับสมัครจะส่งอีเมลถึงคุณเกี่ยวกับการสอบถามของคุณ</span><br />หากคุณมีคำถามใดๆ เกี่ยวกับวีซ่านักเรียน ความพร้อมในการอยู่อาศัย หรือสิ่งอื่นใด โปรดติดต่อเราได้ตลอดเวลา",
+      "ขั้นตอนการเรียนต่อต่างประเทศในสหรัฐอเมริกานั้นซับซ้อนมาก เราสามารถแนะนำขั้นตอนต่าง ๆ ให้คุณได้ทางโทรศัพท์",
+      "หากคุณไม่ได้เลือก \"อย่าติดต่อฉันทางโทรศัพท์\" เราจะโทรหาคุณในหนึ่งหรือสองวัน",
+      "<b>【วิทยาเขตเวสต์วูด】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />TEL: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />เวลาทำการ: วันจันทร์ถึงวันพฤหัสบดี 8:30 – 20:30 น. วันศุกร์ 8:30 – 18:00 น.",
+      "<b>【วิทยาเขตฮอลลีวูด】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />เวลาทำการ : จันทร์-ศุกร์ 8:30-17:00 น."
+    ]
+  }

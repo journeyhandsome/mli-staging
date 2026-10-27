@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLI mantém todos seguros durante a pandemia | Mentor Language Institute",
+    "pageDescription": "MLI oferece atualmente aulas de conversação presenciais (intermediário e avançado) e programas online, incluindo; ESL, TOEFL®︎, IELTS ™ ️, Inglês para Negócios e TOEIC®︎ e Life Skills",
+    "title": "MLI mantém todos seguros durante a pandemia",
+    "subtitle": [
+      "MLI oferece atualmente aulas de conversação presenciais (intermediário e avançado) e programas online, incluindo; ESL, TOEFL®︎, IELTS ™ ️, Inglês para Negócios e TOEIC®︎ e Life Skills",
+      "MLI aceita atualmente estudantes estrangeiros e transferidos."
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "Aqui estão 6 medidas de segurança que a MLI exige dos alunos que frequentam aulas presenciais.",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  A MLI fará da vacinação uma exigência para todos no campus, a fim de manter a segurança de todos. Se você não deseja ou não pode ser vacinado, pode fazer um teste PCR e fornecer os resultados do teste a MLI todas as segundas-feiras."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "Certificado de vacinação COVID-19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  Os alunos precisam fazer o teste de COVID-19 no máximo 3 dias antes da viagem de avião para os Estados Unidos, (EUA) e fornecer resultados negativos do teste (em inglês), para a MLI. Os alunos devem enviar por e-mail à MLI uma cópia dos resultados antes da partida e trazer os resultados originais do teste PCR para a escola.",
+            "Se o aluno não fornecer os resultados do teste de PCR para a MLI, ele deve ficar em quarentena por 10 dias após a chegada aos EUA. Contanto que não haja sintomas de COVID-19, o aluno tem permissão para iniciar seu programa pessoalmente após a quarentena de 10 dias."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "Exemplo de resultado negativo da COVID19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  Ao entrar na escola, todos devem higienizar as mãos com o desinfetante na entrada e verificar a temperatura. A temperatura deve estar abaixo de 99,5F (37,5 ℃)."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  Todos são obrigados a usar uma máscara facial durante todo o tempo na escola. O distanciamento social é mantido; Distância de 6 pés entre as carteiras dos alunos."
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  Antes e depois de cada aula, salas de aula, áreas comuns e superfícies que são freqüentemente tocadas, são limpas e desinfetadas de acordo com as diretrizes do CDC."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  Proteção de plástico instalada na recepção."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

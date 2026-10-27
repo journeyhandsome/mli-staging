@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Transfer Students | Mentor Language Institute",
+  "pageDescription": "Students who currently study at another school in the U.S. and want to change their schools. ",
+  "title": "Transfer Students",
+  "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+  "section" :[
+    {
+    "description" : ["Students who currently study at another school in the U.S. and want to change their schools."]
+    }
+  ],
+  "category": [
+    {
+      "title": "Application Steps",
+      "image": "/images/how-to-apply/transfer-students/application-steps-en.jpg",
+      "listType": "decimal",
+      "lists": [
+        "Apply to MLI (Fill out on-line application)",
+        "Submit the supporting documents",
+        "Attend new students Orientation",
+        "Receive a New I-20"
+      ],
+      "description": [
+        "Students should apply to MLI 1 or 2 months before their desired program starting date. It is best to speak with a student advisor at MLI after submitting an on-line application to confirm the transfer process as it can be complicated depending on your situation."
+      ],
+      "hasApplyNow": true
+    },
+    {
+      "title": "Cancellation Policy",
+      "description": [
+        "The enrollment fee of $150, will be charged at the time of application. The enrollment fee is non-refundable regardless if a visa application is rejected or enrollment is cancelled."
+      ]
+    },
+    {
+      "title": "After submitting your application",
+      "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+      "description": [
+        "After students submit the on-line application, MLI will process the application and send a the link for iMLI (Each Student's on-line application page). Students can follow the continued application process stated on the iMLI."
+      ]
+    }
+  ],
+  "applyOnline": {
+    "title": "Apply Online",
+    "description": [
+      "Fill out the on-line application.<br />Contact us via e-mail with any questions."
+    ],
+    "imageLink": {
+      "image": "/images/how-to-apply/transfer-students/apply-now-en.jpg",
+      "link": "/en/admission"
+    }
+  }
+}

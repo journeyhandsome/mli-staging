@@ -1,0 +1,51 @@
+{
+  "pageTitle": "海外からの長期留学申込 | Mentor Language Institute",
+  "pageDescription": "学生ビザを申請する方",
+  "title": "海外からの長期留学申込",
+  "image": "/images/visa-overseas/visa.jpg",
+  "category": [
+    {
+      "title": "学生ビザを申請する方",
+      "list_content": [
+        "アメリカ国外（日本）に滞在している",
+        "アメリカに90日以上滞在する予定",
+        "アメリカ国内の語学学校（教育機関）に通われる方"
+      ]
+    },
+    {
+      "title": "手続きの手順",
+      "image": "/images/visa-overseas/steps-jp.jpg",
+      "ordered_content": [
+        "お申し込み",
+        "必要書類の提出",
+        "I-20の受領",
+        "Visa申請/面接",
+        "渡米"
+      ],
+      "content": [
+        "学生ビザを取得して留学する場合、<span class='ymarker'>通常3ヵ月程度の準備期間</span>を要します。<br />余裕を持った手続きを進めるために<span class='hutoaka'>遅くとも3ヶ月前にはお申込み</span>をお願いします。<br />3ヵ月を切りお申込みをする際は、その旨スタッフまでお申し出ください。"
+      ]
+    },
+    {
+      "title": "お申し込み後の手続きの進め方について",
+      "image": "/images/visa-overseas/mli-short-jp.jpg",
+      "content": [
+        "お申し込み後はiMLIと言う当校独自の申し込みシステムにより手続きを進めて参ります。<br />手続き方法はiMLIに記載され、ひとつひとつ順を追って進めていく事が可能です。"
+      ]
+    },
+    {
+      "title": "お申込みはこちら",
+      "content": [
+        "米国ビザに関する情報の入力<br />手続きに関する質問のやりとりも",
+        "以下、フォームボタンよりお申込みください。"
+      ]
+    }
+  ],
+  "btn_label": "オンライン申込フォームへ",
+  "admission": {
+    "link": "/jp/admission",
+    "content": [
+      "※お申込みの際はクレジットカードをご用意ください。"
+    ]
+  }
+}

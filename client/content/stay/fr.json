@@ -1,0 +1,175 @@
+{
+    "pageTitle": "Accommodations | Mentor Language Institute",
+    "pageDescription": "MLI works with U.S. Support Services Inc. to provide housing for MLI students. ",
+    "title": "Accommodations",
+    "subtitle": [
+      "MLI works with U.S. Support Services Inc. to provide housing for MLI students. <br />For more details, please visit <a href=\"www.usssinc.net/fr\" target=\"_blank\">www.usssinc.net/fr</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "Les étudiants peuvent choisir soit le séjour en famille d'acceuil, soit en dortoir.",
+    "types": [
+      {
+        "title": "Dortoir",
+        "description": [
+          "Il y a 40 chambres dans les dortoirs et beaucoup d'occasions de communiquer avec d'autres étudiants internationaux. Nous vous conseillons le dortoir si vous avez un budget limité."
+        ],
+        "lists": [
+          "Chambres : Privée, Shared (2 personnes) ou Quad (4 personnes)",
+          "Repas: repas non fourni [une cuisine entièrement équipée est disponible]",
+          "Intimité: Les dortoirs sont plus intimes que les séjours en famille d'accueil. Cependant, il existe des règles spécifiques pour les dortoirs.",
+          "Trajet: environ 20 minutes à pied ou en bus."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Prix des dortoirs",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Si vous avez moins de 18 ans, le loyer sera environ 10% plus élevé que le prix pour une personne de plus de 18 ans.",
+              "thead": [
+                "",
+                "Privée",
+                "Partagée (2 personnes)",
+                "Quad (4 personnes)"
+              ],
+              "tbody": [
+                [
+                  "<b>Caution**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semaine",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 semaines",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 semaines",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 semaines",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 semaines",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 semaines",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*Les frais de placement sont un paiement unique. Ce n'est pas remboursable.<br />**La caution sera remboursée après le départ des étudiants."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Famille d'acceuil",
+        "description": [
+          "Les étudiants qui choisissent de vivre dans une famille d'accueil recherchent un endroit sûr, accueillant, et une atmosphère confortable dans laquelle ils peuvent pratiquer leurs compétences en anglais. C'est aussi l'occasion de découvrir les coutumes, les traditions et les valeurs familiales américaines."
+        ],
+        "lists": [
+          "Chambre: Privée",
+          "Repas: 2 repas par jour (petit déjeuner et dîner)",
+          "Intimité: les règles dépendent de la famille d'accueil.",
+          "Trajet: 30-45 minutes en moyenne par bus"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Prix de séjour en famille d'acceuil",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Frais de placement* : 300$<br /> Si vous avez moins de 18 ans, le loyer sera environ 10% plus élevé que le prix pour une personne de plus de 18 ans.",
+              "thead": [
+                "",
+                "Chambre privée",
+                "Partagée***"
+              ],
+              "tbody": [
+                [
+                  "<b>Caution**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semaine",
+                  "436$",
+                  "384$"
+                ],
+                [
+                  "2 semaines",
+                  "872$",
+                  "768$"
+                ],
+                [
+                  "3 semaines",
+                  "1,308$",
+                  "1,152$"
+                ],
+                [
+                  "4 semaines",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 semaines",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 semaines",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*Les frais de placement sont un paiement unique. Ce n'est pas remboursable.<br />**La caution sera remboursée après le départ des étudiants.<br />***Si vous demandez une chambre partagée chez la famille d'acceuil,  <span class=\"rmarker\">vous devez faire la demande avec l'autre personne</span>"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "Commentaires de notre personnel",
+      "description": [
+        "Il n'est pas facile de trouver un lieu de séjour lors de votre arrivée aux États-Unis, en particulier pour les étudiants internationaux qui n'ont pas de numéro de sécurité sociale (SSN) et de crédit. La plupart des endroits exigent à la fois un SSN et un historique de crédit pour louer une place. Par conséquent, nous vous recommandons de rester dans nos logements pour au moins les deux premiers mois.",
+        "※ Votre hébergement sera assuré par U.S. Support Service Inc. ou d'autres agents."
+      ]
+    }
+  }

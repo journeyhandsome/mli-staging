@@ -1,0 +1,88 @@
+{
+  "pageTitle": "ハリウッド校 | Mentor Language Institute",
+  "pageDescription": "ハリウッドはエンターテイメントの中心地。MLIのハリウッド校はまさにそのど真ん中に校舎を構えます。オスカー授賞式はハリウッド校からたった2分のDolby Theaterで行われ、プレミアショーやオープニングセレモニーなどの多くのイベントもここで開催されています。",
+  "title": "ハリウッド校",
+  "image": "/images/location/hollywood/hollywood-campus.jpg",
+  "yt_link": "https://www.youtube.com/embed/0CIokHZIrcc",
+  "subtitle": [
+    "<span class=\"hutoaka\">ハリウッドはエンターテイメントの中心地。</span>MLIのハリウッド校はまさにそのど真ん中に校舎を構えます。オスカー授賞式はハリウッド校からたった2分のDolby Theaterで行われ、プレミアショーやオープニングセレモニーなどの多くのイベントもここで開催されています。",
+    "そんなハリウッド校にはダンス、音楽、演技、映画、ヨガなどのエンターテイメント方面に興味がある生徒が集います。当校に通いながら午後、以下のような他スクールに通う生徒も少なくありません。",
+    "また、<span class=\"font-weight-bold\">地下鉄の駅、ハリウッド/ハイランドからも徒歩2分と好立地。</span>とりわけ、車を持たない留学生にはバス停や駅からどれぐらいの離れているかはとても重要です。"
+  ],
+  "lists": [
+    "Musician Institute",
+    "Edge Performing Arts",
+    "Millennium Dance Complex",
+    "Debbie Raynolds",
+    "MovementLifestyle",
+    "Los Angeles Film School",
+    "NY Film Academy"
+  ],
+  "other_desc": [
+    "芸能業界、映画、音楽業界の側で勉強がしたいと考えている方にはハリウッド校はお勧めです！"
+  ],
+  "albums": [
+    {
+      "title": "Campus",
+      "photos": [
+        "/images/location/hollywood/campus-1.jpg",
+        "/images/location/hollywood/campus-2.jpg"
+      ]
+    },
+    {
+      "title": "Class",
+      "photos": [
+        "/images/location/hollywood/class-1.jpg",
+        "/images/location/hollywood/class-2.jpg"
+      ]
+    }
+  ],
+  "location": {
+    "title": "Location",
+    "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+  },
+  "video": [
+    {
+      "title": "1. ハリウッド・ハイランド駅からMLIハリウッド・キャンパスへの行き方",
+      "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+    },
+    {
+      "title": "2. MLI ハリウッド キャンパスへの車での行き方",
+      "space": "<br/>",
+      "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+    }
+  ],
+  "accommodation": {
+    "title": "滞在について",
+    "description": [
+      "MLIウェストウッド校では滞在方法としてホームステイと学生寮を提供しております。",
+      "＜学生寮＞",
+      "40部屋の学生寮があり、徒歩・またはバスで通学が可能です。"
+    ],
+    "information": [
+      {
+        "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+        "desc": [
+          "＜ホームステイ＞",
+          "ホームステイはアメリカの文化に触れる、ネイティブ英語を話す機会を増やすという意味で最適な方法です。"
+        ]
+      },
+      {
+        "yt_link": "https://www.youtube.com/embed/K4DT7WEI7MY",
+        "desc": [
+          "※動画は実際のホストファミリーですが、どのファミリーにアサインされるかの選択は出来ませんので予めご了承下さい。",
+          "<a href=\"/jp/stay/\">滞在先の詳細はこちら</a>"
+        ]
+      }
+    ]
+  },
+  "message": {
+    "title": "ディレクターの声",
+    "image": "/images/location/hollywood/julie.jpg",
+    "position": "",
+    "description": [
+      "MLI ハリウッドキャンパスは、ロサンゼルスを代表する街の１つのハリウッドに、またそのハリウッドの中でも、ハリウッドハイランドと呼ばれる、Oscar（アカデミー賞）が行われるドルビーシアター、チャイニーズシアター、また地下鉄のハリウッドハイランドから徒歩2分、ハリウッドスターの名前が刻まれたウォーク・オブ・フェーム通りに面するハリウッドの中心に位置しています。"
+    ]
+  },
+  "dl_links": "資料ダウンロードはこちら"
+}

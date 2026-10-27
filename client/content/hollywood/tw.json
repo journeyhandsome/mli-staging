@@ -1,0 +1,91 @@
+{
+  "pageTitle": "Hollywood院區 | Mentor Language Institute",
+  "pageDescription": "Hollywood院區以娛樂圈重心為名。奧斯卡頒獎典禮，以及許多電影首映都是在Dolby劇院舉辦，距離我們學院只有兩分鐘路程。您將有機會可以看到電影明星在Dolby劇院前踏出他們豪華轎車的時候。",
+    "title": "Hollywood院區",
+    "image": "/images/location/hollywood/hollywood-campus.jpg",
+    "yt_link": "https://www.youtube.com/embed/UzMNGL0_SzU",
+    "subtitle": [
+      "Hollywood院區以娛樂圈重心為名。奧斯卡頒獎典禮，以及許多電影首映都是在Dolby劇院舉辦，距離我們學院只有兩分鐘路程。您將有機會可以看到電影明星在Dolby劇院前踏出他們豪華轎車的時候。",
+      "我們Hollywood的學生大多對於舞蹈、音樂、演藝、電影、瑜珈等方面的環境有興趣。有名的Musician Institute就在我們學院的對街。",
+      "那裏有許多舞蹈工作室像是:"
+    ],
+    "lists": [
+      "Musician Institute",
+      "Edge Performing Arts",
+      "Millennium Dance Complex",
+      "Debbie Raynolds",
+      "MovementLifestyle",
+      "Los Angeles Film School",
+      "NY Film Academy"
+    ],
+    "other_desc": [
+      "Hollywood院區對於依賴公共交通工具的國際學生是一個方便完美的地方(the Hollywood 及 Highland 站牌距離院區只有兩分鐘路程)。",
+      "如果您喜歡小班制且喜歡娛樂/電影/音樂圈的環境，請加入我們MLI的Hollywood學院!"
+    ],
+    "albums": [
+      {
+        "title": "院區",
+        "photos": [
+          "/images/location/hollywood/campus-1.jpg",
+          "/images/location/hollywood/campus-2.jpg"
+        ]
+      },
+      {
+        "title": "教室",
+        "photos": [
+          "/images/location/hollywood/class-1.jpg",
+          "/images/location/hollywood/class-2.jpg"
+        ]
+      }
+    ],
+    "location": {
+      "title": "地點",
+      "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+    },
+    "video": [
+      {
+        "title": "1. 如何經好萊塢高地火車站前往MLI好萊塢校區",
+        "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+      },
+      {
+        "title": "2. 如何駕車前往MLI Hollywood Campus",
+        "addspace": "<br/>",
+        "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+      }
+    ],
+    "accommodation": {
+      "title": "住宿",
+      "description": [
+        "我們提供寄宿家庭或宿舍兩個住宿選擇",
+        "＜宿舍＞<br/>",
+        "我們的宿舍都位於離學校很近的方便地區。"
+      ],
+      "information": [
+        {
+          "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+          "desc": [
+            "＜寄宿家庭＞ <br/>",
+            "寄宿家庭是增進說英語及學習美國文化的最佳機會。",
+            "<a href=\"/tw/stay/\"><i class='bi bi-arrow-right'></i> 更多關於住宿資訊</a>"
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "課程總覽",
+      "lists": [
+        "ESL 課程",
+        "TOEFL®(托福)",
+        "口說對話課程",
+        "TOEIC®(多益)課程"
+      ]
+    },
+    "message": {
+      "title": "來自Hollywood院區的話",
+      "image": "/images/location/hollywood/julie.jpg",
+      "position": "來自校長的話",
+      "description": [
+        "MLI 的Hollywood院區位於繁忙的Hollywood市中心，距離 the Hollywood/Highland車站只有兩分鐘路程。The Dolby Theater, Chinese Theater, 以及 Walk of Fame就在我們院區的旁邊，提供很多讓生活更有趣的機會。"
+      ]
+    }
+  }

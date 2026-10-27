@@ -1,0 +1,85 @@
+{
+    "pageTitle": "在大流行期間，MLI確保全校師生的安全 | Mentor Language Institute",
+    "pageDescription": "MLI當前提供面對面的會話課程（中級和高級）和在線課程，包括； ESL，TOEFL®︎，IELTS™️，商務英語以及TOEIC®︎和日常生活技能英語。",
+    "title": "在大流行期間，MLI確保全校師生的安全",
+    "subtitle": [
+      "MLI當前提供面對面的會話課程（中級和高級）和在線課程，包括； ESL，TOEFL®︎，IELTS™️，商務英語以及TOEIC®︎和日常生活技能英語。",
+      "MLI目前正在接受海外學生和轉學生。"
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "這是MLI要求參加實體課程的學生的6項安全措施。",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLI 將要求校園內的每個人都必須接種疫苗，以確保每個人的安全。如果您不願意或無法接種疫苗，您可以在每週一之前進行 PCR 測試並將測試結果提供給 MLI。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "COVID-19 疫苗接種證書"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  學生需要在乘飛機前往美國（美國）之前的3天之內接受COVID-19的測試，並提供英語的MLI陰性測試結果。 學生必須在出發前通過電子郵件將結果的副本發送給MLI，並將PCR測試結果正本帶到學校。",
+            "如果學生未能向MLI提供PCR測試結果，則他/她必須在到達美國後隔離10天，只要沒有COVID-19症狀，就可以允許學生在下課後親自開始其課程。 為期10天的隔離。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "COVID19陰性結果樣本"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  入學時，每個人都必須在入口處使用消毒劑對手進行消毒，並檢查溫度。 溫度必須低於99.5F（37.5℃）。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  在學校期間，每個人都必須始終戴上口罩。 保持社交距離； 學生課桌之間的距離為6英尺。"
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  每次上課之前和之後，教室，公共區域和經常觸摸的表面均按照CDC指南進行清潔和消毒。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  前台區域已安裝隔離保護設置。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

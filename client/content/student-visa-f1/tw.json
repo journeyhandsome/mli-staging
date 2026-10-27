@@ -1,0 +1,36 @@
+{
+    "pageTitle": "學生簽證F1 | Mentor Language Institute",
+    "pageDescription": "請從下列表選擇您的情況。若是您不清楚您的情況，請點選'閱讀更多'。",
+    "title": "學生簽證F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "請從下列表選擇您的情況。若是您不清楚您的情況，請點選'閱讀更多'。"
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_tw.png",
+                    "link": "/tw/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_tw.png",
+                    "link": "/tw/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_tw.png",
+                    "link": "/tw/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "其它問題?",
+            "description": [
+                "基本上，您需要一個學生簽證才能以長期學生身分待在美國。如果您不知道您是否需要簽證，請聯絡我們。我們有八國語言的客服。"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-tw.png",
+                "link": "/tw/contact"
+            }
+        }
+}

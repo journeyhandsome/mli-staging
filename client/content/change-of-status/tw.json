@@ -1,0 +1,44 @@
+{
+    "pageTitle": "轉換簽證 | Mentor Language Institute",
+    "pageDescription": "感謝您對MLI的支持,此頁面是針對目前在美國沒有F1(學生簽證)，但是想要轉換成F1簽證的人。若是您欲申請，接下來請繼續操作",
+    "title": "轉換簽證",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "感謝您對MLI的支持,此頁面是針對目前在美國沒有F1(學生簽證)，但是想要轉換成F1簽證的人。若是您欲申請，接下來請繼續操作:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-tw.png",
+        "link": "/tw/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "申請步驟",
+      "description": [
+        "確切的申請步驟根據您的國家、國籍、課程、簽證需求而不同。我們的人員將根據您的個別情況指示您正確的步驟。"
+      ]
+    },
+    "needHelp": {
+      "title": "需要幫助嗎? 請聯繫我們!",
+      "description": [
+        "簽證規則及申請步驟依照您的現況有所不同。若是您在申請之前需要詳細說明，歡迎聯繫我們。我們有八個語言的服務。"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-tw.png",
+      "link": "/tw/contact",
+      "title": "聯繫我們",
+      "lists": [
+        {
+          "campus": "\"＜WESTWOOD 院區＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "電話:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD 院區＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "電話:310 870 5643\""
+        }
+      ]
+    }
+  }

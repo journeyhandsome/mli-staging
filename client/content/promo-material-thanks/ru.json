@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Promo - Thanks Download Brochure | Mentor Language Institute",
+    "pageDescription": "Скачайте брошюру, используя ссылки ниже",
+    "title": "Promo - Thanks Download Brochure",
+    "subtitle": [
+      "Скачайте брошюру, используя ссылки ниже:"
+    ],
+    "brochures": [
+      {
+        "title": "Приветственная акция 2022 года",
+        "image": "/images/material/1642409014-WELCOME_Promotion_RUSSIAN_JAN13.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/assets/images/material/1642409014-WELCOME_Promotion_RUSSIAN_JAN13.jpg"
+      },
+      {
+        "title": "Школьная брошюра",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "Брошюра проживания",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Цены и предложения при подаче заявки",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "Брошюра мероприятий MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>Сотрудники приемной комиссии отправят вам электронное письмо по поводу вашего запроса.</span><br />Если у вас есть какие-либо вопросы относительно студенческих виз, вариантов проживания или чего-либо еще, пожалуйста, свяжитесь с нами в любое время.",
+      "Процесс обучения за границей в Соединенных Штатах очень сложен, мы можем проконсультировать вас по телефону.",
+      "Если вы не отметили «Не связываться со мной по телефону», мы позвоним вам через 1-2 дня.",
+      "<b>【кампус WESTWOOD】</b><br />10880 Wilshire Blvd., офис122<br />Los Angeles, CA 90024<br />ТЕЛ: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />Часы работы: с понедельника по четверг с 8:30 до 20:30, в пятницу с 8:30 до 18:00.",
+      "<b>【кампус HOLLYWOOD】</b><br />7080 Hollywood Blvd., офис314<br />Los Angeles, CA 90028<br />ТЕЛ: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />Часы работы: с понедельника по пятницу с 8:30 до 17:00"
+    ]
+  }

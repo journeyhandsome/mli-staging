@@ -1,0 +1,106 @@
+{
+    "pageTitle": "TOEFL iBT testの出題形式及び設問変更について（2023年7月26日〜） | Mentor Language Institute",
+    "pageDescription": "TOEFL iBT testの出題形式及び設問変更について（2023年7月26日〜）",
+    "title": "TOEFL iBT testの出題形式及び設問変更について（2023年7月26日〜）",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "皆さん、こんにちは。",
+      "今回は先日ETSから発表された、TOEFL iBT（英語圏の大学や短期大学への入学に必要な英語能力試験の一つ）の問題形式および設問の変更についてご紹介します。受験者の皆さんがTOEFL iBTの準備をされる上で役立つ情報がたくさんありますので、ぜひ参考にしてください。 ",
+      "私たち、 <a href=\"https://mliesl.edu/jp/\" style=\"color: #3D4C5C;\"><u>Mentor Language Institute</u></a> （MLI）は、ACCETに認定された語学学校であり、SEVP（アメリカ移民局）に承認され留学生を受け入れている英語専門校です。MLIは長年にわたり、英語能力試験（TOEFL, IELTS, TOEIC, GRE, GMATなど）のスコアアップや対策授業を行っております。また、私たちのテスト対策プログラムの講師チームは、常に学生の皆様に最新の情報並びに目標点数をできる限り短い期間で取得できるストラテジーを伝授しております。",
+      "2023年7月26日から、TOEFL iBTに新しいテスト形式と問題の変更が導入されます。これらの変更により、試験時間が短くなるため、受験者にとってかなり負担が減ります。"
+    ],
+    "services":
+        {
+            "title": "TOEFL iBT フォーマット変更点（2023年7月26日〜）",
+            "subtitle": "変更は以下の通りです。",
+            "lists": [
+                "<span class=\"circle\">1 </span> テストのInstruction(どのように回答するのかの指示)がより簡単で分かり易すくなります。<br />(これは小さな変更ですw)",
+                "<span class=\"circle\">2 </span> リーディングセクションは、10問ずつ2つのパッセージ（合計20問）になります。 <br /> (現在は、合計：30問〜40問で3〜4つのパッセージがあることがありますが、新形式テストでは、問題数が33％〜50％減少し、このリーディングセクションの時間は54〜72分から35分に短縮されます。)",
+                "<span class=\"circle\">3 </span> ライティングセクションも変更されます。 「Independent Writing」の質問（Writing 2）は「Academic Discussion」という新しい設問に置き換割わります。これは、今回の変更の中で最も大きなまた重要な変更です。",
+                "<span class=\"circle\">4 </span> リーディングセクションとリスニングセクションには、採点されないダミー問題がなくなります。"
+            ]
+        },
+    "format":
+        {
+            "title": "2023年7月26日以降の新TOEFL iBT テストフォーマット",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>テストセクション</b>",
+                  "<b>問題数</b>",
+                  "<b>試験時間 <br />（概算）</b>"
+                ],
+                [
+                  "リーディング",
+                  "20問",
+                  "35分"
+                ],
+                [
+                  "リスニング",
+                  "28問",
+                  "36分"
+                ],
+                [
+                  "スピーキング",
+                  "4問",
+                  "16分"
+                ],
+                [
+                  "ライティング",
+                  "2問",
+                  "29分"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">合計試験時間</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">– – – – –</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">2時間以内</span>"
+                ]
+              ]
+            },
+            "description": [
+                "新しいライティング問題は”アカデミックディスカッション”と呼ばれます。",
+                "このライティング問題はリーディングから始まります。シチュエーションは大学のクラス内で、教授がクラスの生徒に対してトピックを紹介し問題を課します。続いて2人の生徒がその問題に対して回答するという設定です。",
+                "あなたは（受験者）もその問題に対して回答を文章（ライティング）で行います。その回答（ライティング）にはあなたの意見をサポートする内容を入れ、クラス内のディスカッションに対して貢献する内容でなければいけません。 <br /> <span style=\"background:linear-gradient(transparent 60%, #98fb98 60%);\"> 回答（ライティング）には10分の時間が与えられ、100語以上使用して回答しなければいけません。 </span>"
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "以下にサンプル問題を挙げ、回答サンプル（上級回答と中級回答）を用いて解説していきましょう！",
+            "listTitle": "新TOEFL iBTライティングサンプル問題",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "サンプル回答 1 (上級レベル)：スコア[5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "回答解説 1 ",
+                  "subdescription":[
+                        "このライティングはかなりレベルの高い文章であり、ライティングのスコアリングルールに基づくと、おそらく5点のスコアになります。回答者は複雑なアイデアを提供し、詳細や例を交えてうまく説明しており、議論にうまく貢献しています。回答者は大気汚染というアイデアを選び、大気汚染がどのように生成されるかの例を示し、大気汚染が大気に与える損害を説明し、その種類の損害のいくつかの結果を挙げています。文章の記述順序は論理的で一貫性があります。また、回答者は関連する別の結果である、人間の健康への影響について触れ、大気汚染が健康状態に影響を与える方法を説明しています。 <span style=\"background:linear-gradient(transparent 60%, #98fb98 60%);\">回答者は文法や文章構造に多様性を持たせるだけでなく、トピックに関連する用語や多くの類義語を提供しています。</span>",
+                        "誤りは非常に少なく、「contaminants」という単語のスペルが間違っているという点がありますが、それは単語の特定の性質による許容範囲内のエラーです。また、「problem with air pollution」というフレーズに文法の間違いがあり、正しくは「problem of air pollution」となります。最後の文での名詞「problem」に文法の誤りがあります。この単語は複数形でなければなりません。ただし、これらの文法の誤りは、高い英語レベルでも制限時間があるという縛りの中では起こりえるミスです。したがって、これらのミスはスコアの低下には該当しません。"
+                    ]
+            },
+            "sample2":
+            {
+              "title": "サンプル回答 2 (中級レベル)：スコア[3.0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "回答解説 2",
+              "subdescription":[
+                "このライティング回答例は中級レベルの回答であり、TOEFLライティングの採点基準に基づいて3点の評価を受ける可能性が高いでしょう。回答者は議論に貢献していますが、アイデアのいくつかは不完全であるか、十分な詳細がないため、評価が下がる可能性があります。例えば、筆者は工場を汚染源として挙げていますが、その後、LA（ロサンゼルス）と車に関する情報に移っており、関連性がありません。また、回答者は電気自動車の使用を提案していますが、この種の車がどのようにして汚染量を減らすのかについて説明していません。回答者には文法や文構造の多様性がなく、語彙の多様性はある程度あります。回答者はまた、トピックに関連する用語、「地球温暖化」などを回答の中で使用しています。",
+                "回答には様々な間違いがあります。これらのエラーは評価を下げる原因となり、時間制限に関係がない可能性が高く英語力によるものと考えられます。例えば、「a lot of pollution come from」のようなフレーズは、誤った動詞時制を使用しており、「a lot of pollution comes from」とする必要があります。また、「smoke goes to the air」というフレーズは、別の前置詞を使用する必要があります。「smoke goes into the air」とすべきです。また、「can not」は1つの単語でなければならず、情報の提供についての文においては、助動詞「need」の後は「stop」ではなく、「to stop」という不定詞を後に続ける必要があります。回答者は「predictable」の形容詞の接頭辞を間違えて使用していますが、句読点には正しい知識を持っており、適切な箇所でコンマとピリオドを使用しています。"
+              ]
+            },
+            "description": [
+                "結論として、今回のTOEFL iBTテスト問題形式変更は受験者にとってプラスに働くと捉えています。<br />テストの受験時間が大幅に短縮され、高い集中力をテスト中維持できるでしょう！すなわちケアレスミスも減ります！",
+                "皆さんも、7/26以降に本試験を受験される方はこの問題変更にしっかりと対策・練習をして試験本番に望んでください！現行のTOEFL iBTテストよりもきっと高いスコアを取得できると思います。<br /> また目標スコア取得にかかる期間も短くなるはずです！",
+                "それでは今日の解説はここまでにさせて頂きます。 <br /> Good Luck your TOEFL Study & Test!!"
+            ]
+            
+        }
+    
+  }

@@ -1,0 +1,222 @@
+{
+  "pageTitle": "Университеты и Колледжы Партнеры MLI | Mentor Language Institute",
+  "pageDescription": "Студенты, которые закончили курсы Продвинутого уровня английского в Mentor Language Institute, могут подать заявку на  бакалавриат и магистратуру без результатов TOEFL или IELTS  а это значит могут быть зачислены на основе университетского экзамена  и соответствия их академической квалификации.",
+  "title": "Университеты и Колледжы Партнеры MLI",
+  "university": {
+    "title": "Соглашения с университетами",
+    "description": "Студенты, которые закончили курсы Продвинутого уровня английского в Mentor Language Institute, могут подать заявку на  бакалавриат и магистратуру без результатов TOEFL или IELTS  а это значит могут быть зачислены на основе университетского экзамена  и соответствия их академической квалификации.",
+    "lists": [
+      {
+        "image": "/images/going-to-college/yum.png",
+        "link": "https://www.adelphi.edu/",
+        "title": "Adelphi University",
+        "address": "Long Island, New York",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "Adelphi воспитывает в своих учениках страсть к знаниям, понимание культурных ценностей и представление о себе как о независимых, учащихся по жизни и стремящихся к знаниям людям."
+      },
+      {
+        "image": "/images/going-to-college/international-accelerator.png",
+        "link": "https://www.american.edu/",
+        "title": "American University",
+        "address": "Washington, D.C.",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "AU предлагает широкий и гибкий выбор специальностей. Студенты могут получать два образования одновременно, Выбрать основное направлению по одной специальности и дополнительное по другому. AU помогает студентам преодолевать границы академических дисциплин."
+      },
+      {
+        "image": "/images/going-to-college/auburn-university.png",
+        "link": "https://www.auburn.edu/",
+        "title": "Auburn University",
+        "address": "Auburn, Alabama",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "Auburn University стремится подготовить своих студентов к современной мировой экономике. На веб-сайте Офиса Международных Программ представлена информация об  иммиграционных вопросах  для иностранных студентов, варианты обучения за рубежом и многое другое, информацию о спонсорах от академических подразделений, и условия приема международных студентов и аспирантов."
+      },
+      {
+        "image": "/images/going-to-college/floria-international-university.png",
+        "link": "https://www.fiu.edu/",
+        "title": "Floria International University",
+        "address": "Miami, Florida",
+        "subtitle": "",
+        "description": "«Florida International» приглашает студентов в разнообразное и дружелюбное сообщество с развитыми отраслевыми связями и возможностями стажировки для начала своей карьеры на мировом рынке. В FIU  вы получите достойное образование в городе предпринимателей."
+      },
+      {
+        "image": "/images/going-to-college/louisiana-state-university.png",
+        "link": "https://www.lsu.edu/",
+        "title": "Louisiana State University",
+        "address": "Baton Rougue, Louisiana",
+        "subtitle": "",
+        "description": "Получение образования в LSU - это инвестиции в будущее студента. LSU предлагает исключительное образование и возможности иметь полноценный и доступный опыт колледжа."
+      },
+      {
+        "image": "/images/going-to-college/university-of-kansas.png",
+        "link": "https://www.ku.edu/",
+        "title": "The University of Kansas",
+        "address": "Lawrence, Kansas",
+        "subtitle": "",
+        "description": "В мире изобретений и открытий, KU предлагает образование, которое дает миру глобальных лидеров, бизнес-гигантов и провидцов во многих областях, а также делиться опытом  который меняет в дальнейшем жизнь студентов."
+      },
+      {
+        "image": "/images/going-to-college/university-of-central-florida.png",
+        "link": "https://www.ucf.edu/",
+        "title": "University of Central Florida",
+        "address": "Orlando, Florida",
+        "subtitle": "",
+        "description": "У студентов большие мечты. Возможно, они хотят путешествовать по миру, вести собственный бизнес или иметь патенты, которые помогают спасти жизнь. University of Central Florida поможет им достичь поставленых целей."
+      },
+      {
+        "image": "/images/going-to-college/university-of-the-pacific.png",
+        "link": "https://www.pacific.edu/",
+        "title": "University of the Pacific",
+        "address": "Stockton, California",
+        "subtitle": "",
+        "description": "University of the Pacific расположен в красивом университетском городке в 1,5 часах езды от Сан-Франциско. Помимо гуманитарных наук, в университете есть школы образования, инженерное дело и бизнес, а также специальности в облости стоматологии, права, фармации и здравоохранения. Самый стариный  университет в Калифорнии был первым в штате принявший на обучение женщин."
+      },
+      {
+        "image": "/images/going-to-college/university-of-south-carolina.png",
+        "link": "https://www.sc.edu/",
+        "title": "University of South Carolina",
+        "address": "Columbia, South Carolina",
+        "subtitle": "",
+        "description": "University of South Carolina, место где подготавливают студентов решениющих завтрашние проблемы творческим путем, и ведущих будущее поколение к более здоровому, умному и яркому образу жизни."
+      },
+      {
+        "image": "/images/going-to-college/university-of-illinois.png",
+        "link": "https://www.uic.edu/",
+        "title": "University of Illinois at Chicago",
+        "address": "Chicago, Illinois",
+        "subtitle": "",
+        "description": "University of Illinois at Chicago (UIC) расширяет возможности в облости образования для студентов со всего мира, уделяя особое внимание многообразию и предоставляя студентам богатую этническую и культурную среду обучения."
+      },
+      {
+        "image": "/images/going-to-college/university-of-utah.png",
+        "link": "https://www.utah.edu/",
+        "title": "The University of Utah",
+        "address": "Salt Lake City, Utah",
+        "subtitle": "",
+        "description": " University of Utah является одним из лучших в стране в создание стартап-компаний, основанных на исследованиях студентов и преподавателей. Это свидетельствует об инновационном и трудолюбивом мышление, присутствующим  в университетском городке и классе."
+      },
+      {
+        "image": "/images/going-to-college/university-of-dayton.png",
+        "link": "https://www.udayton.edu/",
+        "title": "University of Dayton",
+        "address": "Dayton, Ohio",
+        "subtitle": "",
+        "description": "University of Dayton - это высокопоставленный национальный католический университет исследований и крупнейший частный университет в Огайо. Университет, основанный в 1850 году обществом Марии, характеризуется их образовательной философией обучения, приветствуя всех, служит благам других, одобряет интеллектуальное любопытство и академические строгости, чтобы помочь студентам, которые связывают обучение с лидерством и служением."
+      },
+      {
+        "image": "/images/going-to-college/umass-amherst.png",
+        "link": "https://www.umass.edu/",
+        "title": "UMass Amherst",
+        "address": "Amherst, Massachusetts",
+        "subtitle": "",
+        "description": "UMass Amherst является одним из крупнейших государственных исследовательских университетов в Америке. Расположенный в идеальном Амхерст, штат Массачусетс, их кампус  входит в число ведущих государственных исследовательских университетов в стране и предлагает богатую культурную среду в мальньком городке, расположенным в близи крупных городских центров."
+      },
+      {
+        "image": "/images/going-to-college/university-of-cincinnati.png",
+        "link": "https://www.uc.edu/",
+        "title": "University of Cincinnati",
+        "address": "Cincinnati, Ohio",
+        "subtitle": "",
+        "description": "University of Cincinnati - это центр для будущих лидеров и тех, кто жаждет знаний. Университет занимает  135 место в рейтинге Национальных университетах, согласно данным США и Всемирного доклада, он имеет школьный дух с четвертьмиллионными выпускниками по всему миру."
+      }
+    ]
+  },
+  "campus": {
+    "title": "Соглашения с колледжами",
+    "description": "MLI имеет специальные соглашения или как это еще называется Программа взаимного признания (MRP) со многими колледжами Лос-Анджелеса. Эти соглашения MRP позволяют студентам переводить в колледж без результатов TOEFL®, а некоторые также разрешают брать неполные кредитные классы, пока они по-прежнему учатся в MLI. Студенты должны успешно завершить Высший средний уровень английского в MLI, чтобы получить рекомендационное письмо.",
+    "lists": [
+      {
+        "image": "/images/going-to-college/santa-monica-college.png",
+        "link": "https://www.smc.edu/",
+        "title": "Santa Monica College",
+        "address": "Santa Monica, California",
+        "subtitle": "",
+        "description": "За последние 27 лет Santa Monica College помог с переводом в университеты Калифорнии огромному количеству студентов в университетские кампусы Университета Калифорнии. SMC также возглавляет переводы в UCLA, USC и Loyola Marymount University, и является ведущим лидером к западу от Миссисипи в Лиги плюща Колумбийского университета."
+      },
+      {
+        "image": "/images/going-to-college/glendale-community-college.png",
+        "link": "https://www.glendale.edu/",
+        "title": "Glendale Community College",
+        "address": "Glendale, California",
+        "subtitle": "",
+        "description": "Glendale Community College динамичное учреждение с более чем 25 000 студентов. Студенты начинают обучение в кампусе Вердуго, продолжают обучение в Гарфилд Кампусе а классы общественных услуги Центр профессионального развития (PDC), расположенны в Монтроуз. "
+      },
+      {
+        "image": "/images/going-to-college/pasadena-city-college.png",
+        "link": "https://pasadena.edu/",
+        "title": "Pasadena City College",
+        "address": "Pasadena, California",
+        "subtitle": "",
+        "description": "Pasadena City Collegeпредоставляет долине Сан-Габриэль высококачественную, инновационную и динамичную среду обучения, которая вдохновляет студентов. В каждом семестре мы предлагаем академические программы, которые охватывают ученые степени, программы передачи и сертификаты, до 30 250 студентов. Мы новые студенты и возвращающиеся студенты. Мы местные, международные и онлайн. Мы занимаемся многими культурами - ЛГБТ, мультикультурными, ветеранами и всеми остальными."
+      },
+      {
+        "image": "/images/going-to-college/cypress-college.png",
+        "link": "https://www.cypresscollege.edu/",
+        "title": "Cypress College",
+        "address": "Cypress, California",
+        "subtitle": "",
+        "description": "Cypress College удиляет внимание образованию каждого студента. Превосходное преподавание и индивидуализированное обучение в лабораториях дает возможность студентам достигнуть их наивысшего потенциала. Кроме того, преподватели и репетиторы предоставляют поддержку в учебном процессе и обширную справочную информацию, которая помогает учащимся в выборе программ и занятий. Для студента, который планирует закончить степень бакалавра, колледж обеспечивает плавный переход от школы к колледжу а затем и университету."
+      },
+      {
+        "image": "/images/going-to-college/west-los-angeles-college.png",
+        "link": "http://www.wlac.edu/",
+        "title": "West Los Angeles College",
+        "address": "Culver City, California",
+        "subtitle": "",
+        "description": "Западный Лос-Анджелесский колледж является аккредитованным Калифорнийским колледжем, помогающим с переводом в университет, предлагающим образование по многим карьерным направлениям а также курсы для личного или профессионального роста. Он занимает територия 70 акров паркового типа с видом на Калвер-Сити, Марина-дель-Рей и Западный Лос-Анджелес. В ясный день, с самой высокой точки на территории кампуса, вы можете увидеть Тихий океан. 12000 студентов кто учится на сегодняшний день а также выпукники прошлых лет , 110 штатных преподавателей, более 300 преподавателей на часовой основе  и 112 сотрудников, все вместо создают уникальную образовательную среду в Южной Калифорнии."
+      },
+      {
+        "image": "/images/going-to-college/el-camino-college.png",
+        "link": "https://www.elcamino.edu/",
+        "title": "El Camino College",
+        "address": "Torrance, California",
+        "subtitle": "",
+        "description": "Знаете ли вы El Camino College предлагает много замечательных возможностей?<ul><li>Лидер по переводу в университеты в Южной Калифорнии</li><li>Удобное расположение и большая парковка</li><li>Выдающиеся образовательные программы</li><li>Более 80 высоко продвинутых программ карьеры</li></ul>"
+      },
+      {
+        "image": "/images/going-to-college/pierce-college.png",
+        "link": "http://www.piercecollege.edu/",
+        "title": "Pierce College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Pierce College - это процветающее государственное учебное заведение на двухгодичноц системе образования в Южной Калифорнии, предоставляющее возможности перевевода в университет, получение профессиональной подготовки и обучения на протяжении всей жизни. Pierce сочетает в себе академическое превосходство с дружелюбным и полезным педагогами и персоналом. Он обладает солидной репутацией для того, чтобы быть студенческим учебным заведением, предлагая студентам высококачественное образование, которое подготовит их к университетской или профессиональной работе. Студенты Pierce имеет приемущество обучения в мальньких группах и платить более доступную цену за обучение, по сравнению с четырехлетними университетами."
+      },
+      {
+        "image": "/images/going-to-college/latcc.png",
+        "link": "http://www.lattc.edu/",
+        "title": "LATCC - Traning. Transfer. Tradition. Trade Tech.",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Миссия : Los Angeles Trade Technical College продвигать сообщества к успеху через образование и карьеру, это  дает учащимся стимул получить специализированный сертификат, степень и работу. Видение Los Angeles Trade Technical College - признание на региональном и национальном уровнях  жизни студентов и их сообществ."
+      },
+      {
+        "image": "/images/going-to-college/los-angeles-harbor-college.png",
+        "link": "https://www.lahc.edu/",
+        "title": "Los Angeles Harbor College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Los Angeles Harbor College содействует продвижению и успеваемости студентов через получение степени, специализированных сертификатов, экономическую и рабочую силу, а также обучение основным навыкам. Наши образовательные программы и вспомогательные службы отвечают потребностям различных сообществ, измеряемых институциональными результатами обучения в университетском городке."
+      },
+      {
+        "image": "/images/going-to-college/new-york-film-academy.png",
+        "link": "https://www.nyfa.edu/",
+        "title": "New York Film Academy",
+        "address": "Battery Place, New York",
+        "subtitle": "",
+        "description": "За последние 25 лет  New York Film Academy (NYFA)  зарекомендовала себя как одна из ведущих школ изобразительного и исполнительского искусства в мире. Наши инновационные программы предназначены для нового поколения художников, которые разделяют страсть к визуальному и исполнительскому искусству, в широком спектре средств массовой информации и хотят учиться. Благодаря непревзойденному подходу к практическому интерактивному обучению, студенты с первого дня полностью погружаются в курс обучения. Занятия преподают профессионалы в реальной обстановке с самыми современными удобствами и оборудованием."
+      },
+      {
+        "image": "/images/going-to-college/lacc-city-college.png",
+        "link": "https:/www.lacitycollege.edu",
+        "title": "Los Angeles City College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "LACC обеспечивает динамичную и инновационную среду обучения, предлагая более 100 профессиональных и профессионально-технических программ, включая степени, трансферные программы и сертификаты, для более чем 18 000 студентов. В 2019 году LACC отметит свое 90-летие.<br>Согласно обещанию LA College, мы предлагаем один год бесплатного зачисления всем студентам дневного отделения, окончившим средние и чартерные школы LAUSD. Мы также предлагаем бесплатное обучение музыкальным специальностям, частные уроки и финансовую помощь благодаря подарку от Фонда The Herb Alpert Foundation. Кроме того, нашим студентам предоставляется широкий выбор вариантов финансовой помощи."
+      }
+    ]
+  },
+  "contactUs": {
+    "title": "Хотели бы получить больше информации? Свяжитесь с нами",
+    "description": "Свяжитесь с нами по телефону, имейлу или через социальные сети",
+    "btnText": "Свяжитесь с нами"
+  }
+}

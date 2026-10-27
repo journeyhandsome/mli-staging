@@ -1,0 +1,43 @@
+{
+  "pageTitle": "MLI는 어떤 학교인가요? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute는 2002년에 설립되었고 유명한 두 지역에 위치해 있습니다.: 웨스트우드 & 헐리우드",
+  "section1": {
+    "title": "MLI는 어떤 학교인가요?",
+    "description": [
+      "Mentor Language Institute는 2002년에 설립되었고 유명한 두 지역에 위치해 있습니다.: 웨스트우드 & 헐리우드<br />우리는 세계 각지에서 오는 학생들이 영어 실력을 향상 시킬 수 있도록 도와 줍니다."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "높은 수준의 수업을 저렴한 가격으로 수강하세요",
+    "description": [
+      "우리는 두가지를 보장합니다: <b>\"수업의 질\"</b>  그리고  <b>\"가격\"<b>",
+      "영어는 글로벌 언어이며, 전 세계 사람들과 의사 소통하는데 필요합니다. 따라서 세계 곳곳에서 오는 모든 학생들이 우리와 함께 성공적으로 영어 실력을 쌓아서 전 세계에서 사용 하기를 희망합니다. 이 때문에, 우리는 수업의 질과 가격에 신경을 쓰고 있습니다."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "지난 2020년까지, 17,000명 이상의 학생들이 MLI를 선택하고 수강했습니다.",
+    "description": [
+      "우리는 ESL(6개의 과목이 있는 일반적인 영어수업: 문법/쓰기, 읽기/어휘, 듣기/말하기), 토플,  IELTS(대학교로 진학하고 싶은 학생들을 위한 수업들)을 제공합니다.",
+      "많은 학생들이 UCLA, USC, Santa Monica College 같은 미국에 있는 대학으로 진학을 했습니다."
+    ],
+    "lists": [
+      {
+        "link": "/kr/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "사람들이 MLI를 선택하는 5가지 이유"
+      },
+      {
+        "link": "/kr/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "회사 정보"
+      },
+      {
+        "link": "/kr/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "사진/비디오 갤러리"
+      }
+    ]
+  }
+}

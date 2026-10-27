@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!--
+  OGP image preview — 1200×630px
+  To regenerate og-image.png:
+    1. Open this file in a browser (file:// is fine)
+    2. Screenshot the card at exactly 1200×630
+    3. Save as client/static/og-image.png
+-->
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            body {
+                width: 1200px;
+                height: 630px;
+                overflow: hidden;
+                font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+            }
+
+            .card {
+                width: 1200px;
+                height: 630px;
+                background: #ffffff;
+                display: flex;
+                flex-direction: row;
+                align-items: stretch;
+                border-top: 8px solid #0062af;
+            }
+
+            /* left / right photo panels */
+            .photo {
+                width: 270px;
+                flex-shrink: 0;
+                overflow: hidden;
+            }
+
+            .photo img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                object-position: center;
+                display: block;
+            }
+
+            .photo.left img {
+                object-position: 27% center;
+            }
+
+            /* center content */
+            .center {
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 24px;
+                padding: 0 32px;
+                position: relative;
+            }
+
+            .logo {
+                height: 80px;
+            }
+
+            .stars {
+                color: #ffb800;
+                font-size: 25px;
+                letter-spacing: 6px;
+            }
+
+            .tagline {
+                font-size: 38px;
+                font-weight: 700;
+                letter-spacing: -0.5px;
+                text-align: center;
+                line-height: 1.2;
+                background: linear-gradient(90deg, #ea6216 0%, #ffb800 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+            }
+
+            .sub {
+                color: #3d4c5c;
+                font-size: 24px;
+                font-weight: 400;
+                letter-spacing: 0.5px;
+                text-align: center;
+            }
+
+            .url {
+                position: absolute;
+                bottom: 20px;
+                color: #aaaaaa;
+                font-size: 18px;
+                letter-spacing: 0.5px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="card">
+            <div class="photo left">
+                <img
+                    src="../static/assets/images/what-is-mli/teachers/mli-student-teachers.jpg"
+                    alt="MLI students in class"
+                />
+            </div>
+
+            <div class="center">
+                <img
+                    class="logo"
+                    src="../static/assets/images/mli-logo.png"
+                    alt="Mentor Language Institute"
+                />
+                <div class="tagline">
+                    Affordable English School<br />in Los Angeles
+                </div>
+                <div class="stars">★★★★★</div>
+                <div class="sub">Westwood &nbsp;·&nbsp; Hollywood</div>
+                <div class="url">mliesl.edu</div>
+            </div>
+
+            <div class="photo">
+                <img
+                    src="../static/assets/images/home/photo-gallery-2.jpg"
+                    alt="MLI students at the beach"
+                />
+            </div>
+        </div>
+    </body>
+</html>

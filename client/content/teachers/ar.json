@@ -1,0 +1,139 @@
+{
+  "pageTitle": "فئات التعليم والمعلمين | Mentor Language Institute",
+  "pageDescription": "في دورات اللغة الإنجليزية العامة، يكتسب الطلاب المهارات العملية باستخدام مواد العالم الحقيقي مثل المشاركات تويتر، محادثات تيد، ومقاطع الفيلم. باستخدام هذه المواد، والطلاب يكتسبون بانتظام أنماط من قواعد اللغة والكتابة والقراءة والمفردات والاستماع والتحدث.",
+  "title": "فئات التعليم والمعلمين",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "تركز الفصول الدراسية على المهارات العملية",
+      "description": [
+        "في دورات اللغة الإنجليزية العامة، يكتسب الطلاب المهارات العملية باستخدام مواد العالم الحقيقي مثل المشاركات تويتر، محادثات تيد، ومقاطع الفيلم. باستخدام هذه المواد، والطلاب يكتسبون بانتظام أنماط من قواعد اللغة والكتابة والقراءة والمفردات والاستماع والتحدث.",
+        "وبالإضافة إلى ذلك، توفل وغيرها من دورات إعداد الامتحانات توفر استراتيجيات لحل المشاكل مع أساليبها الخاصة."
+      ]
+    },
+    {
+      "title": "المعلمون في المعهد",
+      "description": [
+        "يتخرج سنويا حوالي ألف ومائتين طالب من معاهد مينتور, وهذا نتيجة كفائة معلمينا و جودة تعليمنا  <br />ونحن نسعى باستمرار لتحسين مهارات المدربين من خلال الملاحظات والتقييمات وورش العمل التطوير المهني."
+      ],
+      "checklist": [
+        {
+          "title": "متطلبات التوظيف (المرجعية لتعيين المعلمين)",
+          "lists": [
+            "خريج كلية لمدة أربع سنوات",
+            "3 سنوات من الخبرة كمعلم اللغة الإنجليزية",
+            "تدريس المؤهلات مثل تيسول",
+            "معرفة اختبارات الامتحان مثل TOEFL® / GMAT®",
+            "مهارات اتصال قوية",
+            "العاطفة والالتزام للتدريس"
+          ]
+        },
+        {
+          "title": "طريقة الاختيار",
+          "lists": [
+            "⁻Resume والدبلوم",
+            "⁻ اختبار قواعد اللغة الإنجليزية",
+            "مقابلة",
+            "⁻Model الدرس"
+          ],
+          "note": "معدل التوظيف أقل من 20٪."
+        }
+      ]
+    },
+    {
+      "title": "نظام التدريب والتقييم",
+      "description": [
+        "في معهد مالي، نتحقق من البنود الثلاثة التالية كل 12 أسبوعا للحفاظ على جودة المعلم."
+      ],
+      "listType": "decimal",
+      "lists": [
+        " الطلاب تقييم الكتب المدرسية والمعلمين. المدربين مع معدل رضا 85٪ أو أقل يخضعون للتدريب التطوير المهني.",
+        "ملاحظات الدرس وردود الفعل المقدمة من قبل فريق أكاديمي كبير",
+        " حلقات عمل للتدريب المهني والتدريب لتحسين التعليم"
+      ],
+      "note": "الإدارة والمدربين نسعى جاهدين لتحسين نوعية التعليم كل يوم!"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

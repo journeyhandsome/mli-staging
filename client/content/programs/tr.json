@@ -1,0 +1,99 @@
+{
+  "pageTitle": "Programı | Mentor Language Institute",
+  "pageDescription": "MLI'da 8 adet program sunuyoruz. ESL Program, Tatil ESL Programı, TOEFL® Hazırlık Programı, IELTS™ Programı, Konuşma Orta Seviye Programı, Konuşma Gelişmiş Seviye Programı, İş Ingilizcesi + TOEIC® Programı, GRE® / GMAT® Programı",
+  "title": "Programı",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "MLI'da 7 adet program sunuyoruz.",
+    "lists": [
+      "ESL Programı",
+      "Tatil ESL Programı",
+      "TOEFL® Test Preparation / TOEFL® and University Preparation Programı",
+      "IELTS™ Programı",
+      "Konuşma Orta Seviye Programı",
+      "Konuşma Gelişmiş Seviye Programı",
+      "İş Ingilizcesi + TOEIC® Programı"
+    ]
+  },
+  "subtitle": [
+    "Tüm programlar İngilizce olarak düzenlenmektedir. Birçok öğrenci genel ESL programına başlar, ardından İngilizceye alıştıktan sonra, genellikle TOEFL®,  gibi özel alanları inceler.",
+    "* Seçmeli ders tüm öğrencilere açıktır.<br />** Bazı sınıflar katılmak için minimum bir yerleştirme sınavı puanı gerekir."
+  ],
+  "services_esl": [
+    {
+      "title": "ESL Programı (Genel İngilizce)",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "Bu program İngilizce olarak nasıl iletişim kuracağına odaklanmaktadır. 4 becerinizi (yazma, dinleme, konuşma ve okuma) güçlendirme konusunda yardımcı olur.",
+      "description": [
+        "Bu program MLI'daki en popüler programdır. 8 seviyeye ayrılmıştır. İngilizce becerilerinizi İngilizce yeterliliğinize uygun bir sınıfta geliştirebilirsiniz."
+      ],
+      "youtube": "https://www.youtube.com/embed/Aq_MfkF3x0g"
+    }
+  ],
+  "services_toefl": [ 
+    {
+      "title": "TOEFL® Test Preparation / TOEFL® and University Preparation Programı",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/tr/2026-yeni-toefl-ibtbilmeniz-gereken-tum-degisiklikler/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "TOEFL® iBT, İngilizce konuşamayan kişilerin İngilizce yeterliliğini değerlendirmek için bir testtir. Bir TOEFL® puanı, Amerika Birleşik Devletleri'ndeki birçok üniversite tarafından değil, devlet kurumları, özel işletmeler, yeterlilik kazanma kuruluşları ve burs kurumları tarafından da istenmektedir.",
+      "description": [
+        "MLI'ın TOEFL® Hazırlık programı, İnternet Tabanlı Test'te (iBT) yüksek puan almak için test stratejilerine ve 4 becerinin de (yazma, dinleme, konuşma ve okuma) geliştirilmesine odaklanmaktadır."
+      ],
+      "youtube": "https://www.youtube.com/embed/KYPYbU-D3M0"
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "IELTS™ Programı",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "IELTS™, öğrencilerin İngilizce yeterliliğini değerlendirmek için İngiltere ve Avustralya'da geliştirilen bir testtir. Son zamanlarda, birçok Amerikan üniversitesi bir TOEFL® puanı veya IELTS ™ puanı gerektirmektedir.",
+      "description": [
+        "Program dört bölümden oluşmaktadır: dinleme, konuşma, okuma ve yazma. Bu sınıfta, her bölümde yüksek puanlar elde etmek için gereken becerileri / stratejileri öğreneceksiniz.",
+        "IELTS™ 'nin TOEFL®' den nispeten daha kolay olduğu söylenmektedir. TOEFL®'i zor bulan öğrenciler için mükemmel bir programdır."
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "Konuşma Programı",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "Bu program günlük yaşam konuşmasına odaklanır ve öğrencilerin akıcı bir şekilde İngilizce konuşmasına yardımcı olmayı amaçlar.",
+      "description": [
+        "Programımız, ilgi çekici etkinlikler ve etkileşimli öğrenme yoluyla İngilizce konuşma becerilerinizi geliştirmeye odaklanmaktadır! Konuşma derslerimizde, öğrenciler geniş bir kelime dağarcığı, deyim ve tabirler keşfedecekler ve konuşmalarını canlandıracaklar. CMAR sınıfımızda telaffuzunuzu prati̇k edebilirsiniz. Eğlenceli tartışmalar, rol oyunları ve grup etkinlikleri aracılığıyla kendinizi ifade etme ve anlamlı diyaloglara katılma konusunda özgüven kazanacaksınız. Tecrübeli eğitmenlerimiz, sizi destekleyici bir öğrenme ortamında yönlendirerek dil keşfi yolculuğunda sizinle birlikte olacaklardır."
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "İş Ingilizcesi + TOEIC® Programı",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "Uluslararası iş dünyasında, İngilizce dünyanın evrensel dilidir. Bu programın amacı İngilizce iletişim becerilerini geliştirmek.",
+      "description": [
+        "İngilizce becerileriniz, öğrenci powerpoint sunumları, telefon uygulaması, müzakereler ve toplantılar gibi pratik simülasyonlarla kapsamlı bir şekilde gelişecek, aynı zamanda işletme kelime hazinesi, dinleme, yazma ve tartışma becerilerine de odaklanarak gelişecektir."
+      ],
+      "youtube": "https://www.youtube.com/embed/2htjAgPz984",
+      "other_info": {
+        "description": [
+          "TOEIC® testi iş dünyasında İngilizce yeterliliğinin bir göstergesidir ve dünyadaki çeşitli şirketler ve kuruluşlar tarafından kullanılmaktadır. Standart İşletme programına ek olarak, TOEIC® programı öğrencileri temel bir kelime haznesi getirerek ve testte yüksek bir puan elde etmek için stratejiler keşfederek TOEIC® - Dinleme ve Okuma Sınavında başarı için hazırlar.",
+          "Bu program, kelime bilgisi, okuma, dinleme ve gramer gibi İngilizce becerilerinizi geliştirmenize yardımcı olacaktır. Doğru cevapları bulmak için stratejileri öğrenerek, yüksek bir puan alabileceksiniz."
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "Özel dersler",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "Özel dersler, bire bir veya küçük grup ortamlarında SİZİN hedeflerinizi karşılamak için özelleştirilmiştir.",
+      "description": [
+        "Özel dersler en esnek dil öğrenme seçeneğimizdir. Yüksek eğitimli eğitmenler, özel İngilizce hedeflerinize ulaşmanıza yardımcı olmak için tasarlanmış kişiselleştirilmiş dersler geliştirir. Genel İngilizce becerileri, Konuşma, Akıcılık, Aksan Redüksiyon, İş İngilizcesi, TOEFL, TOEIC, GRE ve daha pek çok şeyden öğrenim alabilirsiniz. Uygunluğunuza ve istediğiniz hızınıza bağlı olarak özel dersler planlayabilirsiniz. Örneğin, yoğun bir şekilde çalışmak istiyorsanız, 3 saat boyunca her gün özel bir ders isteyebilirsiniz veya daha rahat bir adım arıyorsanız, 1 saat boyunca haftada bir kez özel bir ders isteyebilirsiniz. Esneklik, kişiselleştirilmiş talimatlar ve hepiniz için uygun bir fiyata çalışan bir hız kazanın!",
+        "Normal özel ders ücreti: <br />$80/1 Saat <br />$912/12 Saat <br />$1,632/24 Saat <br />$2,688/48 Saat",
+        "Bir öğrenci belirli bir öğretmen talep ederse:  <br /> $92/1 Saat <br /> $1,044/12 Saat <br /> $1,896/24 Saat <br /> $3,120/48 Saat",
+        "* 2 öğrencinin özel ders alması durumunda, ikinci öğrenciye% 50 indirim uygulanır."
+      ]
+    }
+  ]
+}

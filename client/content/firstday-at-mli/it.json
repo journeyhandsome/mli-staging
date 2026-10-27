@@ -1,0 +1,92 @@
+{
+  "pageTitle": "Primo giorno a MLI | Mentor Language Institute",
+  "pageDescription": "All'inizio di ogni semestre (ogni 4 settimane) è prevista una sessione di orientamento per i nuovi studenti.",
+  "title": "Primo giorno a MLI",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "Benvenuti a Mentor Language Institute!",
+      "description": [
+        "All'inizio di ogni semestre (ogni 4 settimane) è prevista una sessione di orientamento per i nuovi studenti.",
+        "L'orientamento fornisce informazioni importanti e necessarie per garantirti una maggiore comprensione dei nostri programmi, delle norme sull'immigrazione e delle regole scolastiche. Al tempo stesso, esso costituisce un'utile guida per la realizzazione dei tuoi obiettivi accademici. Sarai accolto dal nostro staff dell'Ufficio Amministrativo, dai nostri insegnanti, dalla reception e dallo staff amministrativo    "
+      ],
+      "dates": [
+        "＜Start Date of each term＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "Orientation start time other than the start date of each term starts at 1 pm."
+      ],
+      "groups": [
+        {
+          "title": "Orientamento e Test di ingresso",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "Modulistica di iscrizione"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "Orientamento accademico"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "Test di ingresso"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "Regolamento scolastico, Norme sull'immigrazione"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "Servizio di trasferimento al College"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "Attività e Alloggi"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "Esame orale e inquadramento"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "acquisto dei libri di testo"
+            }
+          ]
+        },
+        {
+          "title": "Documentazione da presentare il primo giorno",
+          "lists": [
+            "Passaporto (Se sei un titolare di visto per studenti)",
+            "I-20 (Se sei un titolare di visto per studenti)",
+            "Foglio e penna",
+            "Tassa del libro di testo e pagamento del saldo delle lezioni"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dettagli",
+      "groups": [
+        {
+          "title": "Organizzazione della sessione di orientamento",
+          "description": [
+            "La sessione di Orientamento si apre con la raccolta e sottoscrizione della documentazione necessaria per l'iscrizione<br />Successivamente, il Direttore Accademico o il Coordinatore del programma presentano i vari programmi offerti da MLI tra cui è possibile scegliere al termine dell'orientamento, il regolamento scolastico e spiegano come avere successo nel tuo programma di studio al fine di avanzare di livello ed eventualmente passare ad un programma più specifico."
+          ]
+        },
+        {
+          "title": "Test di ingresso e Esame orale",
+          "description": [
+            "In seguito all'orientamento, si tiene il \"test di ingresso\" costituito da circa 80 quesiti suddivisi in due parti,Comprensione Orale e Scritta, che coprono Grammatica, lessico e lettura e comprensione del testo. Il test ha una durata di 60 minuti e ha lo scopo di valutare il livello di inglese di partenza dello studente.<br />Dopo aver sostenuto il test di ingresso, un breve esame orale ( più simile ad un colloquio) è tenuto da uno dei nostri insegnanti.<br />Questo test funge da supporto nel determinare la collocazione dello studente nel livello e/o programma più appropriato sulla base della sue a abilità di partenza e del suo obiettivo."
+          ]
+        },
+        {
+          "title": "Acquisto dei libri di testo",
+          "description": [
+            "Successivamente al sostenimento del Test di ingresso e dell'Esame orale, gli studenti procedono all'acquisto dei libri di testo del rispettivo programma e livello in cui sono stati collocati. Per eventuali dubbi o chiarimenti è possibile rivolgersi allo staff alla reception."
+          ]
+        }
+      ]
+    }
+  ]
+}

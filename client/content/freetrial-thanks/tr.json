@@ -1,0 +1,19 @@
+{
+  "pageTitle": "Thank you for scheduling your Free Trial Lesson! | Mentor Language Institute",
+  "pageDescription": "Thank you for your interest in Mentor Language Institute. We have received your free trial lesson request.",
+  "title": "Thank you for scheduling your Free Trial Lesson!",
+  "subtitle": [
+    "Thank you for your interest in Mentor Language Institute. We have received your free trial lesson request.",
+    "A school representative will confirm your date and time for your free trial class within 24 to 48 hours."
+  ],
+  "category":[
+      {
+          "description": ["<b>Westwood Campus: </b><br />10880 Wilshire Blvd., Suite 122 Los Angeles, CA, 90024<br >e-mail: info@mliesl.edu<br />TEL: 310-887-0777<br />"],
+          "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4289041796537!2d-118.44512238478478!3d34.05851788060419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb7e2b42fadf%3A0xad96227841e11efb!2s10880+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90024!5e0!3m2!1sen!2sus!4v1513884279258"
+      },
+      {
+          "description" : ["<b>Hollywood Campus:</b><br />7080 Hollywood Blvd., Suite 314 Los Angeles, CA, 90028<br />e-mail: hollywood@mliesl.edu<br />TEL: 323-870-7102"],
+          "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+      }
+  ]
+}

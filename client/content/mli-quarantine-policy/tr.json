@@ -1,0 +1,53 @@
+{
+    "pageTitle": "MLI Karantina Politikası | Mentor Language Institute",
+    "pageDescription": "MLI, ağırlıklı olarak Westwood kampüsünde Yüz yüze derslere devam ediyor.",
+    "title": "MLI Karantina Politikası",
+    "subtitle": [
+      "MLI, ağırlıklı olarak Westwood kampüsünde Yüz yüze derslere devam ediyor. <br />Tüm ESL dersleri TEMMUZ/06/2021 tarihinden itibaren yüz yüze devam edecektir.<br />Diğer programlar mevcuttur.<br />İşte Los Angeles ilçe gereksinimlerine dayalı MLI'nin en güncel karantina politikası.",
+      "Conversation (Konuşma) programı Hollywood kampüsünde sunulurken, diğer tüm Hollywood dersleri bir sonraki duyuruya kadar online kalacaktır."
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "Tam Aşılı Öğrenciler",
+        "unvaccinated": "Aşısız öğrenciler"
+      },
+      "table_header": [
+        "Yurtdışından",
+        "Yurtiçinden (ABD'de)",
+        "Yurtdışı ve Yurtiçi"
+      ],
+      "table_content": [
+        [
+          "Los Angeles'a vardıktan hemen sonra yüz yüze derslere katılabilir miyim?",
+          "<span class='hutoaka'>Evet</span>",
+          "<span class='hutoaka'>Evet</span>",
+          "<span class='font-weight-bold'>Hayır</span>"
+        ],
+        [
+          "Los Angeles'a geldikten 3-5 gün sonra PCR testi yaptırırsam yüz yüze derslere katılabilir miyim?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>Hayır</span>"
+        ],
+        [
+          "Los Angeles'a geldikten sonra yüz yüze derslere katılmak için 10 gün karantinada kalmam gerekir mi?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Evet</span>"
+        ],
+        [
+          "MLI, aşılanmamış öğrencilerin Yüz yüze programlara katılabilmeleri için her hafta PCR testlerini yaptırmaları ve her Pazartesi gününe kadar negatif sonuç vermelerini şart koşar.",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Evet</span>"
+        ],
+        [
+          "Los Angeles'a geldikten sonra PCR sınavına girersem karantinamı (7 gün) kısaltabilir miyim?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Evet</span>"
+        ]
+      ]
+    },
+    "note": "*Aşıları tam olan öğrenciler kanıt sunmalıdır.<br />**Derslerde tüm öğrencilerin maske takması zorunludur."
+  }

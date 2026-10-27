@@ -1,0 +1,54 @@
+{
+    "pageTitle": "aus dem Ausland | Mentor Language Institute",
+    "pageDescription": "Studenten aus dem Ausland sind diejenigen, die derzeit ausserhalb der USA leben und sich für ein STUDENTENVISUM bewerben möchten.",
+    "title": "aus dem Ausland",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "subtitle": [
+      "Studenten aus dem Ausland sind diejenigen, die derzeit ausserhalb der USA leben und sich für ein STUDENTENVISUM bewerben möchten.",
+      "ODER",
+      "bereits ein STUDENTENVISUM haben und aus dem Ausland wieder in die USA einreisen möchten. "
+    ],
+    "category": [
+      {
+        "title": "Bewerbungsschritte",
+        "image": "/images/how-to-apply/overseas-student/application-steps-de.png",
+        "listType": "decimal",
+        "lists": [
+          "Bewirb dich am MLI (Fülle die Online Bewerbung aus)",
+          "Reiche die Begleitdokumente für das I-20 ein",
+          "Erhalte dein I-20",
+          "Beantrage ein Studentenvisum und mache das Interview an der amerikanischen Botschaft ",
+          "Erhalte dein Studentenvisum ",
+          "Reise in die USA"
+        ],
+        "description": [
+          "Studenten sollten sich 1 oder 2 Monate vor dem gewünschten Programmbeginn am MLI bewerben. Wir führen dich durch die einzelnen Schritte nachdem du deine Online Bewerbung abgeschickt hast."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Stornierungsbedingungen",
+        "description": [
+          "Die Anmeldegebühr von $150 wird zum Zeitpunkt der Bewerbung fällig. Die Anmeldegebühr wird nicht zurückerstattet, unabhängig davon, ob ein Visumantrag abgelehnt oder die Einschreibung storniert wird."
+        ]
+      },
+      {
+        "title": "Nach dem Absenden deiner Bewerbung",
+        "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+        "description": [
+          "Nachdem die Studenten die Online Bewerbung eingereicht haben, wird MLI die Bewerbung bearbeiten und Ihnen einen Link für iMLI (die Online-Bewerbungsseite jedes Studenten) senden. Studenten können den Bewerbungsprozess auf dem iMLI verfolgen.<br />"
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Bewirb dich online",
+      "description": [
+        "Fülle die Online Bewerbung aus.<br />Kontaktiere uns per e-mail für Anliegen jeglicher Art.",
+        "Bewirb dich am MLI über die Online Bewerbung weiter unten."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/overseas-student/apply-now-de.png",
+        "link": "/de/admission"
+      }
+    }
+  }

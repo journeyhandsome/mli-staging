@@ -1,0 +1,51 @@
+{
+    "pageTitle": "Transfer Students | Mentor Language Institute",
+    "pageDescription": "Studenten, die zur Zeit an einer anderen Schule in den USA studieren und die Schule wechseln möchten.",
+    "title": "Transfer Students",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "section" :[
+      {
+      "description" : ["Studenten, die zur Zeit an einer anderen Schule in den USA studieren und die Schule wechseln möchten."]
+      }
+    ],
+    "category": [
+      {
+        "title": "Bewerbungsschritte",
+        "image": "/images/how-to-apply/transfer-students/application-steps-de.png",
+        "listType": "decimal",
+        "lists": [
+          "Bewirb dich am MLI (Fülle die Online Bewerbung aus)",
+          "Reiche deine Begleitdokumente ein",
+          "Nimm an der Orientierung für neue Studenten teil",
+          "Erhalte ein neues I-20"
+        ],
+        "description": [
+          "Studenten sollten sich 1 oder 2 Monate vor dem gewünschten Programmbeginn am MLI bewerben. Nachdem du deine Online-Bewerbung eingereicht hast, kontaktierst du am besten einen Studienberater beim MLI, um den Transfervorgang zu bestätigen, da es abhängig von deiner Situation manchmal kompliziert sein kann."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Stornierungsbedingungen",
+        "description": [
+          "Die Anmeldegebühr von $150 wird zum Zeitpunkt der Bewerbung fällig. Die Anmeldegebühr wird nicht zurückerstattet, unabhängig davon, ob ein Visumantrag abgelehnt oder die Einschreibung storniert wird."
+        ]
+      },
+      {
+        "title": "Nach dem Absenden deiner Bewerbung",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "Nachdem die Studenten die Online Bewerbung eingereicht haben, wird MLI die Bewerbung bearbeiten und Ihnen einen Link für iMLI (die Online-Bewerbungsseite jedes Studenten) senden. Studenten können den Bewerbungsprozess auf dem iMLI verfolgen."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Bewirb dich online",
+      "description": [
+        "Fülle die Online Bewerbung aus.<br />Kontaktiere uns per e-mail für Anliegen jeglicher Art."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/transfer-students/apply-now-de.png",
+        "link": "/de/admission"
+      }
+    }
+  }

@@ -1,0 +1,97 @@
+{
+  "pageTitle": "Hollywood Campus | Mentor Language Institute",
+  "pageDescription": "Hollywood es conocido como el corazón de la industria del entretenimiento. La Ceremonia de entrega de los premios Oscar se lleva a cabo en el teatro Dolby, a solo 2 minutos de nuestro campus de Hollywood, que se encuentra en Hollywood & Highland.",
+  "title": "Hollywood Campus",
+  "image": "/images/location/hollywood/hollywood-campus.jpg",
+  "yt_link": "https://www.youtube.com/embed/23_-9Ckz9wU",
+  "subtitle": [
+    "<span class=\"hutoaka\">Hollywood es conocido como el corazón de la industria del entretenimiento.</span>  La Ceremonia de entrega de los premios Oscar se lleva a cabo en el teatro Dolby, a solo 2 minutos de nuestro campus de Hollywood, que se encuentra en Hollywood & Highland. La estación de metro de Hollywood/Highland se encuentra a solo 2 minutos caminando. Muchos eventos como estrenos de películas o ceremonias de apertura también se realizan aquí. ¡Es probable que veas a una famosa estrella de cine en Hollywood mientras salen de sus limusinas fuera del Dolby Theater! La ubicación conveniente de Hollywood es perfecta para estudiantes internacionales que a menudo dependen del transporte público.",
+    "Nuestros estudiantes de Hollywood suelen interesarse por aspectos del entretenimiento como danza, música, actuación, cine, yoga, etc. El famoso Musicians Institute está justo al otro lado de la calle de nuestro campus de Hollywood.",
+    "También hay muchos estudios de baile en el área tales como:"
+  ],
+  "lists": [
+    "Musician Institute",
+    "Edge Performing Arts",
+    "Millennium Dance Complex",
+    "Debbie Raynolds",
+    "MovementLifestyle",
+    "Los Angeles Film School",
+    "NY Film Academy"
+  ],
+  "other_desc": [
+    "La ubicación del campus de Hollywood es perfecta para estudiantes internacionales que dependen del transporte público. (La estación de Hollywood and Highland está a solo dos minutos a pie del campus.)",
+    "Si quieres estudiar en un ambiente de clase pequeño y estar cerca de la industria del entretenimiento/películas/música, ¡unite a nosotros en MLI Hollywood!"
+  ],
+  "albums": [
+    {
+      "title": "Campus",
+      "photos": [
+        "/images/location/hollywood/campus-1.jpg",
+        "/images/location/hollywood/campus-2.jpg"
+      ]
+    },
+    {
+      "title": "Clase",
+      "photos": [
+        "/images/location/hollywood/class-1.jpg",
+        "/images/location/hollywood/class-2.jpg"
+      ]
+    }
+  ],
+  "location": {
+    "title": "Location",
+    "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+  },
+  "video": [
+    {
+      "title": "1. Cómo llegar al campus de MLI Hollywood a través de la estación de tren Hollywood Highland",
+      "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+    },
+    {
+      "title": "2. Cómo llegar al campus de MLI Hollywood conduciendo",
+      "addspace": "<br/>",
+      "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+    }
+  ],
+  "accommodation": {
+    "title": "Alojamiento",
+    "description": [
+      "Ofrecemos alojamiento en casas de familias anfitrionas y dormitorios.",
+      "＜Dormitorio＞<br />Nuestros dormitorios están ubicados en lugares convenientes cerca de la escuela."
+    ],
+    "information": [
+      {
+        "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+        "desc": [
+          "＜Homestay＞",
+          "Casas de familias anfitrionas es la mejor manera de aprender sobre la cultura estadounidense y aumentar sus oportunidades de hablar inglés."
+        ]
+      }
+    ],
+    "information2": [
+      {
+        "yt_link": "https://www.youtube.com/embed/K4DT7WEI7MY",
+        "desc": [
+          "<a href=\"/sp/stay/\"><i class='bi bi-arrow-right'></i> Más detalles sobre Alojamiento</a>"
+        ]
+      }
+    ]
+  },
+  "courses": {
+    "title": "Cursos",
+    "lists": [
+      "Programa de ESL",
+      "TOEFL®",
+      "Programa Conversación",
+      "TOEIC®"
+    ]
+  },
+  "message": {
+    "title": "Mensaje de nuestro director",
+    "image": "/images/location/hollywood/julie.jpg",
+    "position": "Mensaje de nuestro director",
+    "description": [
+      "El campus MLI Hollywood se encuentra en el energético centro de Hollywood, a solo 2 minutos a pie de la estación de metro Hollywood/Highland. ¡El Teatro Dolby, el Teatro Chino y el Paseo de la Fama están justo al lado del campus de Hollywood y ofrecen muchas oportunidades para divertirse!"
+    ]
+  }
+}

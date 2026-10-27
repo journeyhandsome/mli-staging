@@ -1,0 +1,208 @@
+{
+    "pageTitle": "2022年促销联系方式 | Mentor Language Institute",
+    "pageDescription": "你的名字",
+    "title": "2022年促销联系方式",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "你的名字",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "你的邮件",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "国家",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "电话号码",
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "我不希望接到MLI的电话。"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "校园偏好",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "好萊塢"
+          },
+          {
+            "value": "Westwood",
+            "label": "西木校區"
+          },
+          {
+            "value": "Both",
+            "label": "兩者"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "您打算多久后在美国学习您的课程？",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1个月"
+          },
+          {
+            "value": "three months",
+            "label": "3个月"
+          },
+          {
+            "value": "six months",
+            "label": "6个月"
+          },
+          {
+            "value": "one year or more",
+            "label": "1年或更长时间"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "你怎么知道MLI的？",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "代辦中心"
+          },
+          {
+            "value": "Friend",
+            "label": "朋友"
+          },
+          {
+            "value": "Internet",
+            "label": "互聯網"
+          },
+          {
+            "value": "Other",
+            "label": "其他"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "你的信息"
+      }
+    ],
+    "btn_label": "發送"
+  }

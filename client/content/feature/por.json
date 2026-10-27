@@ -1,0 +1,103 @@
+{
+  "pageTitle": "5 razões pelas quais as pessoas escolhem MLI | Mentor Language Institute",
+  "pageDescription": "Nós ajudamos mais de 17 mil estudantes a melhorar suas habilidades de inglês desde a nossa abertura.",
+  "section1": {
+    "title": "5 razões pelas quais as pessoas escolhem MLI",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "5 Características da Mentor Language Institute",
+    "description": [
+      "Nós ajudamos mais de 17 mil estudantes a melhorar suas habilidades de inglês desde a nossa abertura. Por que os alunos escolhem a MLI embora haja tantas escolas de inglês em Los Angeles? Nós fizemos uma pesquisa com os alunos da MLI e suas respostas estão abaixo."
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "Período de levantamento: 342 alunos, de Janeiro a Junho de 2017"
+  },
+  "section3": [
+    {
+      "title": "No.1: preço razoável",
+      "subtitle": "Ótimo preço! A partir de $209 por semana. As aulas da tarde têm 40% de desconto em relação ao preço das aulas da manhã!",
+      "description": [
+        "A razão número 1 que os estudantes escolherem a MLI é devido a acessibilidade.",
+        "Quanto mais tempo você estudar em nossa escola, mais barato será a taxa da mensalidade. Se você inscrever-se por 1 mês, a taxa da mensalidade será de US $1,220, ou seja, <b>US $305 por semana</b>. (esse preço já é ótimo!) mas se você inscrever-se por 1 ano (48 semanas), a taxa da mensalidade será de US $10,032, ou seja,  <span style=\"color: #ff0000; font-weight: bold;\">US $209 por semana</span>. Por favor, compare nossas taxas com outras escolas."
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "mais informações sobre a taxa de mensalidade",
+          "link": "/por/price"
+        }
+      ]
+    },
+    {
+      "title": "No.2: excelente localização",
+      "subtitle": "Westwood & Hollywood: áreas populares em Los Angeles",
+      "description": [
+        "Estamos localizados em excelentes áreas populares de Los Angeles, Westwood e Hollywood. Os alunos podem acessar facilmente lugares famosos, como Santa Mônica e o Centro da Cidade de Los Angeles, etc."
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "Westwood Campus"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "Hollywood Campus"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Mais informações sobre Westwood Campus",
+          "link": "/por/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Mais informações sobre Hollywood Campus",
+          "link": "/por/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "No.3: variedade de cursos preparatórios para faculdade",
+      "subtitle": "Muitos estudantes transferem para UCLA e Santa Monica College depois de estudar na MLI",
+      "description": [
+        "Oferecemos cursos preparatórios populares para o teste universitário, como TOEFL®, IELTS ™. Muitos alunos transferem para UCLA, USC e Santa Monica depois de estudar na MLI."
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Mais informações como ir para a faculdade",
+          "link": "/por/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "No.4: horário de aulas flexível",
+      "subtitle": "Oferecemos aulas de manhã, de tarde e à noite.",
+      "description": [
+        "A MLI oferece 3 horários de aulas diferentes. Os alunos podem escolher entre aulas de manhã, de tarde e à noite."
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※Este é um horário de aula para Westwood Campus. Se você quiser o horário das aulas de Hollywood, entre em contato conosco."
+    },
+    {
+      "title": "No.5: Dormitório",
+      "subtitle": "Oferecemos a oportunidade de comunicação com estudantes de todo o mundo em nosso dormitório.",
+      "description": [
+        "Arranjamos não apenas estadia em homestay, mas também em dormitórios. Temos mais de 40 quartos na área de Los Angeles e os dormitórios estão localizados perto de cada campus. Muitos estudantes ficam em um dormitório se for a primeira vez nos Estados Unidos."
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Mais informações sobre habitação",
+          "link": "/por/stay"
+        }
+      ]
+    }
+  ]
+}

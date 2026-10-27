@@ -1,0 +1,28 @@
+{
+  "pageTitle": "사진/비디오 갤러리 | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute의 두 캠퍼스는 로스엔젤레스의 중심부인 Westwood와 Hollywood에 위치해 있습니다.",
+  "title": "사진/비디오 갤러리",
+  "image": "/images/what-is-mli/image-gallery/gallery.jpg",
+  "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+  "subtitle": [
+    "Mentor Language Institute의 두 캠퍼스는 로스엔젤레스의 중심부인 Westwood와 Hollywood에 위치해 있습니다.<br />아래에 있는 각 캠퍼스의 사진과 비디오를 마음껏 즐기세요."
+  ],
+  "schools": [
+    {
+      "key": "hollywood-campus",
+      "value": "Hollywood - Campus"
+    },
+    {
+      "key": "hollywood-class",
+      "value": "Hollywood - Class"
+    },
+    {
+      "key": "westwood-campus",
+      "value": "Westwood - Campus"
+    },
+    {
+      "key": "westwood-class",
+      "value": "Westwood - Class"
+    }
+  ]
+}

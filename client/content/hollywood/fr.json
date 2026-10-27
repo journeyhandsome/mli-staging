@@ -1,0 +1,97 @@
+{
+  "pageTitle": "Campus de Hollywood | Mentor Language Institute",
+  "pageDescription": "Hollywood est bien connu pour être le centre de l'industrie du divertissement.",
+  "title": "Campus de Hollywood",
+  "image": "/images/location/hollywood/hollywood-campus.jpg",
+  "yt_link": "https://www.youtube.com/embed/wiixL2XiyUs",
+  "subtitle": [
+    "<span class=\"hutoaka\">Hollywood est bien connu pour être le centre de l'industrie du divertissement.</span>  La cérémonie de remise des Oscars a lieu chaque année au théâtre Dolby, à seulement 2 minutes de notre campus d'Hollywood, situé à Hollywood & Highland. Cela prend seulement 2 minutes à pied de la station de métro Hollywood/Highland. De nombreux événements tels que les premières des films ou les cérémonies d'ouverture sont également organisées ici. Vous êtes susceptible de voir des vedettes de cinéma sortant de leurs limousines à l'extérieur du Théâtre Dolby à Hollywood! L'emplacement idéal d'Hollywood est parfait pour les étudiants internationaux qui prennent souvent les transports en commun.",
+    "Nos étudiants de Hollywood s'intéressent plus à des activités tels que la danse, la musique, le théâtre, le cinéma, le yoga, etc. La célèbre Musician's Institute se trouve juste en face de notre campus d'Hollywood.",
+    "Il y a aussi de nombreux studios de danse aux alentours du campus tels que:"
+  ],
+  "lists": [
+    "Musician Institute",
+    "Edge Performing Arts",
+    "Millennium Dance Complex",
+    "Debbie Raynolds",
+    "MovementLifestyle",
+    "Los Angeles Film School",
+    "NY Film Academy"
+  ],
+  "other_desc": [
+    "Hollywood's convenient location is perfect for international students who often rely on public transportation (the Hollywood & Highland stop is just a 2 minute walk from campus.)",
+    "Si vous souhaitez étudier dans un environnement de petite classe et être proche de l'industrie du divertissement tels que le cinéma et/ou la musique, rejoignez-nous au MLI-Hollywood!"
+  ],
+  "albums": [
+    {
+      "title": "Campus",
+      "photos": [
+        "/images/location/hollywood/campus-1.jpg",
+        "/images/location/hollywood/campus-2.jpg"
+      ]
+    },
+    {
+      "title": "Classe",
+      "photos": [
+        "/images/location/hollywood/class-1.jpg",
+        "/images/location/hollywood/class-2.jpg"
+      ]
+    }
+  ],
+  "location": {
+    "title": "Location",
+    "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+  },
+  "video": [
+    {
+      "title": "1. Comment se rendre au MLI Hollywood Campus via la gare Hollywood Highland",
+      "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+    },
+    {
+      "title": "2. Comment se rendre au MLI Hollywood Campus en voiture",
+      "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+    }
+  ],
+  "accommodation": {
+    "title": "Accommodations",
+    "description": [
+      "Nous fournissons des séjours chez la famille d'acceuil et  des dortoirs pour votre hébergement.",
+      "＜Dortoir＞",
+      "Nos dortoirs sont situés à proximité de l'école."
+    ],
+    "information": [
+      {
+        "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+        "desc": [
+          "＜Famille d'acceuil＞",
+          "Séjour chez la famille d'acceuil est le meilleur moyen de se familiariser avec la culture américaine et d'augmenter vos chances de parler anglais."
+        ]
+      }
+    ],
+    "information2": [
+      {
+        "yt_link": "https://www.youtube.com/embed/K4DT7WEI7MY",
+        "desc": [
+          "<a href=\"/fr/stay/\"><i class='bi bi-arrow-right'></i> Plus de détails sur nos logements</a>"
+        ]
+      }
+    ]
+  },
+  "courses": {
+    "title": "Cours",
+    "lists": [
+      "Programme ESL",
+      "TOEFL®",
+      "Conversation",
+      "TOEIC®"
+    ]
+  },
+  "message": {
+    "title": "Message du directeur du campus",
+    "image": "/images/location/hollywood/julie.jpg",
+    "position": "Message du directeur du campus",
+    "description": [
+      "Le campus de Hollywood est situé au centre animé de Hollywood, à seulement 2 minutes à pied de la station de métro Hollywood/Highland. Le Dolby Theatre, le Chinese Theatre et le Walk of Fame se trouvent juste à côté du campus d'Hollywood et offrent de nombreuses possibilités pour s'amuser!"
+    ]
+  }
+}

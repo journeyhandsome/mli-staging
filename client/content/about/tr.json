@@ -1,0 +1,43 @@
+{
+  "pageTitle": "MLI nedir? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute 2002 yılında kuruldu ve iki popüler alandayız : Westwood ve Hollywood.",
+  "section1": {
+    "title": "MLI nedir?",
+    "description": [
+      "Mentor Language Institute 2002 yılında kuruldu ve iki popüler alandayız : Westwood ve Hollywood. <br />Dünyanın her yerinden gelen öğrencilerin İngilizcelerini geliştirmelerine yardımcı oluyoruz"
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Kaliteli Sınıflar için Daha Az Ödeyin",
+    "description": [
+      "İki şeye değer veriyoruz:  <b>“Eğitimin Kalitesi”</b> ve <b>“Fiyat.”<b>",
+      "İngilizce, dünyanın dört bir yanından insanlarla iletişim için küresel bir dil ve gerekli bir araçtır. Umudumuz, uluslararası öğrencilerin dünyada başarılı olmak için İngilizce becerilerini kazanmalarıdır.<br />Bu nedenle, sınıfların kalitesine ve düşük fiyata odaklanıyoruz."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "2020 itibariyle 17.000'den fazla öğrenci MLI'ı seçti ve mezun oldu.",
+    "description": [
+      "ESL programını (6 beceri alanına sahip Genel İngilizce Programı: Dilbilgisi / Yazma, Okuma / Kelime Bilgisi ve Dinleme / Konuşma), TOEFL®, IELTS ™ (üniversiteye gitmek için hazırlanmak isteyen öğrenciler için) sunuyoruz., ve TOEIC®.",
+      "Birçok öğrenci, UCLA, USC ve Santa Monica College gibi ABD'deki üniversitelerde eğitim görmeye devam etti."
+    ],
+    "lists": [
+      {
+        "link": "/tr/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Insanlarin MLI'ı Seçmeleri'nin 5 Nedeni"
+      },
+      {
+        "link": "/tr/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Şirket Bilgisi"
+      },
+      {
+        "link": "/tr/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Fotoğraf / video galerisi"
+      }
+    ]
+  }
+}

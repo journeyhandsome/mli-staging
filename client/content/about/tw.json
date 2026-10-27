@@ -1,0 +1,43 @@
+{
+  "pageTitle": "什麼是MLI? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute成立於2002年，位於兩個有名的地方: Westwood及Hollywood",
+  "section1": {
+    "title": "什麼是MLI?",
+    "description": [
+      "Mentor Language Institute成立於2002年，位於兩個有名的地方: Westwood及Hollywood，<br />我們幫助世界各地學生提升英語能力"
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "用更少的錢上有品質的課程",
+    "description": [
+      "我們重視兩件事情:  <b>“教育的品質及價格”<b>",
+      "英語是全球性的語言，是一個和來自世界各地的人溝通的必要工具。我們希望國際學生擁有英語能力，在世界上獲得成功。因此，我們著重於課程品質及低價位的課程。"
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "到2020年為止，超過17,000位學生選擇MLI並畢業於此。",
+    "description": [
+      "我們有ESL課程(一般英語課程包和六大項目: 文法/寫作，閱讀/單字及聽力/口說)，TOEFL®, IELTS™ (預準備唸大專院校的學生), 和 TOEIC®。",
+      "許多學生繼續接著在美國各大專校唸書，像是UCLA，USC和 Santa Monica College。"
+    ],
+    "lists": [
+      {
+        "link": "/tw/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "選擇MLI的五個理由"
+      },
+      {
+        "link": "/tw/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "機構資訊"
+      },
+      {
+        "link": "/tw/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "照片/影片總覽"
+      }
+    ]
+  }
+}

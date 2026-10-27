@@ -1,0 +1,16 @@
+{
+    "pageTitle": "해외에서 등록하는 학생 | Mentor Language Institute",
+    "pageDescription": "미국에서 얼마나 머물 예정이신가요?",
+    "title": "해외에서 등록하는 학생",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "category": {
+      "title": "미국에서 얼마나 머물 예정이신가요?",
+      "subtitle": "미국에서 얼마나 머물 계획이신가요?",
+      "content": [
+        "<a class='btn btn-primary text-center' href='/kr/how-to-apply/short'>Stay less than 90 days</a>",
+        "<span class='text-center'>또는</span>",
+        "<a class='btn btn-primary text-center' href='/kr/visaholder'>Stay longer than 90 days</a>",
+        "<span class='text-center'>* 만약 미국에 90일 이상 머물 계획이시라면, 반드시 비자를 신청하셔야 합니다.</span>"
+      ]
+    }
+  }

@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Zahlung | Mentor Language Institute",
+    "pageDescription": "Zahlung",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">Sie können Ihre Zahlung sicher mit einer Kreditkarte vornehmen, indem Sie das Formular auf dieser Seite ausfüllen und absenden. Mentor Language Institute speichert Ihre Kreditkarteninformationen nicht. Dieser Zahlungsvorgang wird durch die Online-Zahlung von Stripe erleichtert.<br />Bitte füllen Sie die folgenden Informationen aus</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Datum",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Campus",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Vorname des Schülers",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Nachname/Familienname des Schülers",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Name der Agentur (falls zutreffend)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Betrag",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*4% der CR-Bearbeitungsgebühr wird zusätzlich zu Ihrem Zahlungsbetrag erhoben.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Betrag, mit dem Ihre Kreditkarte belastet wurde"
+        }
+    ]
+    },
+  "btn_label": "Weiter zur Kassenseite"
+}

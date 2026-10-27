@@ -1,0 +1,47 @@
+{
+    "pageTitle": "其他 | Mentor Language Institute",
+    "pageDescription": "感谢您申请MLI。此页面适用于那些已经拥有除学生签证以外的任何签证身份的人士，或来自ESTA国家或旅游签证国家的人士。",
+    "title": "其他",
+    "image": "/images/how-to-apply/apply-others/apply-others.jpg",
+    "subtitle": [
+      "感谢您申请MLI。<br />此页面适用于那些已经拥有除学生签证以外的任何签证身份的人士，或来自ESTA国家或旅游签证国家的人士。",
+      "如果您打算申请MLI而没有获得学生（F-1）签证，请从本页继续注册。"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/common/apply-now-ch.png",
+        "link": "/ch/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "申请步骤",
+      "description": [
+        "您的申请步骤根据您的国家，国籍，课程和签证等而有所不同。 <b> 一旦您提交在线申请，我们的工作人员会指导您确切的步骤。</b>"
+      ]
+    },
+    "needHelp": {
+      "title": "需要幫忙？問我們!",
+      "description": [
+        "- 我可以在没有获得签证的情况下在MLI学习吗？<br />- 除了学生签证（F-1）之外是否可以申请其他签证？<br />- 没有学生签证，我可以在美国呆多久？<br />- 为了获得学生签证，我应该在MLI学习多少个小时？",
+        "这些问题的答案在美国大使馆或美国公民和移民服务局（USCIS）的网站上解释。",
+        "如果您想在提交申请之前澄清，请在网站上确认或随时与我们联系。我们可以有8国语言不同的工作人员为您帮忙。"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/common/contact-us-ch.jpg",
+      "link": "/ch/contact",
+      "title": "联系我们",
+      "lists": [
+        {
+          "campus": "<西木校區>",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "電話：310⁻887⁻0777"
+        },
+        {
+          "campus": "<好萊塢校園>",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "電話：323⁻870⁻7102"
+        }
+      ]
+    }
+  }

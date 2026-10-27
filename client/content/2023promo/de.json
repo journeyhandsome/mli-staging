@@ -1,0 +1,377 @@
+{
+    "pageTitle": "2023 MLI Diversify Stipendium für Studierende ausschließlich bestimmter Nationalitäten | Mentor Language Institute",
+    "pageDescription": "2023 MLI Diversify Stipendium für Studierende ausschließlich bestimmter Nationalitäten",
+    "title": "2023 MLI Diversify Stipendium für Studierende ausschließlich bestimmter Nationalitäten",
+    "subtitle": [
+        "MLI strebt immer danach, den bestmöglichen Lernumfeld für seine Studierenden zu bieten. Im Herbst 2023 wird MLI ein spezielles Stipendium/einen Rabatt ausschließlich für Studierende <span style=\"color: red; font-weight: 700;\">aus Brasilien, Kolumbien, Spanien, Deutschland und Italien</span> anbieten, um eine ausgewogene Vertretung verschiedener Nationalitäten an der Schule zu erreichen.",
+        "Dieses Stipendium wird ausschließlich Studierenden aus Brasilien, Kolumbien, Spanien, Deutschland und Italien angeboten, die MLI während der Monate Juli, August und September 2023 besuchen.",
+        "Das Stipendium ist begrenzt und wird nur an jeweils 10 Studierende an jedem Campus (Westwood und Hollywood) angeboten. Die Stipendien werden nach dem Prinzip \"Wer zuerst kommt, mahlt zuerst\" vergeben.",
+        "Wenn Sie ausschließlich <span style=\"color: red; font-weight: 700;\">aus Brasilien, Kolumbien, Spanien, Deutschland und Italien </span> kommen, ermutigen wir Sie, von diesem besonderen Stipendienangebot Gebrauch zu machen, um Ihre Englischkenntnisse am MLI zu verbessern!",
+        "Q1.  Wie hoch ist das Stipendium, das ich von MLI erhalten kann?",
+        "Bitte finden Sie den speziellen Preis für dieses Diversity-Stipendium.",
+        "Regeln",
+        "1. Bewerber können sich nur für ihr Programm bewerben (Unterkunft ist nicht obligatorisch). <br> Dieser Diversity-Stipendienpreis gilt nur für Ihre erstmalige Immatrikulation. <br> 2. (Sie können dieses Stipendium nicht für Ihre Verlängerung verwenden). <br> Wenn Sie unsere Wohnungsvermittlung für mehr als 8 Wochen benötigen, gilt dieser spezielle Wohnungspreis <br> 3. auch für einen Zeitraum von mehr als 8 Wochen. Bitte fordern Sie ein Angebot über das Kontaktformular an. <br> 4. Alle Gebühren müssen bei Ihrer Ankunft bezahlt werden."
+    ],
+    "questions": {
+        "tables" :[ 
+            { 
+                "title_optional": "=Kurzzeit-Aufenthalt mit Touristenvisum oder ESTA= ",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "2 Wochen des Studiums",
+                "weeksPlan": "2-wöchiger Plan",
+                "tbody": [
+                    [
+                        "$100",
+                        "Bearbeitungsgebühr"
+                    ],
+                    [
+                        "$250",
+                        "Studiengebühr"
+                    ],
+                    [
+                        "$30",
+                        "Mietgebühr für Lehrbücher"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$380</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für die Schule</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-50%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "2 Wochen Studentenunterkunft (Wohnheim)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Vermittlungsgebühr"
+                    ],
+                    [
+                        "$420",
+                        "Miete (Viererzimmer: 4 Zimmer)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$520</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für die Unterkunft </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$900</b>",
+                        "<b style=\"background-color: yellow;\">Gesamtkosten für Schule und Unterkunft</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-57%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "3 Wochen des Studiums",
+                "weeksPlan": "3-wöchiger Plan",
+                "tbody": [
+                    [
+                        "$100",
+                        "Bearbeitungsgebühr"
+                    ],
+                    [
+                        "$375",
+                        "Studiengebühr"
+                    ],
+                    [
+                        "$35",
+                        "Mietgebühr für Lehrbücher"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$510</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für die Schule</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-53%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "3 Wochen Studentenunterkunft (Wohnheim)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Vermittlungsgebühr"
+                    ],
+                    [
+                        "$630",
+                        "Miete (Viererzimmer: 4 Zimmer)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$730</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für die Unterkunft </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-34%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,240</b>",
+                        "<b style=\"background-color: yellow;\">Gesamtkosten für Schule und Unterkunft</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-43%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "4 Wochen des Studiums",
+                "weeksPlan": "4wöchiger Plan",
+                "tbody": [
+                    [
+                        "$100",
+                        "Bearbeitungsgebühr"
+                    ],
+                    [
+                        "$400",
+                        "Studiengebühr"
+                    ],
+                    [
+                        "$40",
+                        "Mietgebühr für Lehrbücher"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$540</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für die Schule</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-61%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "4 Wochen Studentenunterkunft (Wohnheim)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Vermittlungsgebühr"
+                    ],
+                    [
+                        "$840",
+                        "Miete (Viererzimmer: 4 Zimmer)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$940</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für die Unterkunft </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-33%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,480</b>",
+                        "<b style=\"background-color: yellow;\">Gesamtkosten für Schule und Unterkunft</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-47%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "title_optional": "Längerfristiger Aufenthalt mit Studentenvisum",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "12 Wochen des Studiums",
+                "weeksPlan": "12 wöchiger Plan",
+                "tbody": [
+                    [
+                        "$150",
+                        "Bearbeitungsgebühr"
+                    ],
+                    [
+                        "$1,721",
+                        "Studiengebühr"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,871</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Schulgesamtkosten</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-41%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 ochen Studentenunterkunft (Wohnheim):",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Vermittlungsgebühr"
+                    ],
+                    [
+                        "$1,512",
+                        "Miete (Viererzimmer: 4 Zimmer)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für Unterkunft </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-30%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$3,483</b>",
+                        "<b style=\"background-color: yellow;\">Gesamtkosten für Schule und Unterkunft</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-37%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "24 Wochen des Studiums",
+                "weeksPlan": "24 wöchiger Plan",
+                "tbody": [
+                    [
+                        "$150",
+                        "Bearbeitungsgebühr"
+                    ],
+                    [
+                        "$3,125",
+                        "Studiengebühr"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$3,275</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Schulgesamtkosten</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 ochen Studentenunterkunft (Wohnheim):",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Vermittlungsgebühr"
+                    ],
+                    [
+                        "$1,512",
+                        "Miete (Viererzimmer: 4 Zimmer) für 8 Wochen"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für Unterkunft </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$4,887</b>",
+                        "<b style=\"background-color: yellow;\">Gesamtkosten für Schule und Unterkunft</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-63%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "48 Wochen des Studiums",
+                "weeksPlan": "48 wöchiger Plan",
+                "tbody": [
+                    [
+                        "$150",
+                        "Bearbeitungsgebühr"
+                    ],
+                    [
+                        "$5,789",
+                        "Studiengebühr"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$5,939</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Schulgesamtkosten</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 ochen Studentenunterkunft (Wohnheim):",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Vermittlungsgebühr"
+                    ],
+                    [
+                        "$1,512",
+                        "Miete (Viererzimmer: 4 Zimmer) für 8 Wochen"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Gesamtkosten für Unterkunft </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$7,551</b>",
+                        "<b style=\"background-color: yellow;\">Gesamtkosten für Schule und Unterkunft</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>geringer als reguläre Gebühren</b></span>"
+                    ]
+                ]
+                }
+            }
+        ]
+    },
+    "qa": [
+        {
+            "question": "Q2. Wie kann ich dieses Stipendium erhalten?", 
+            "answer": [
+                "Sie können sich für Ihr Stipendium über unser <span style=\"background-color: #F7DCB4;\">Online-Bewerbungsformular</span>  unter Verwendung des Codes <b>\"SCHOLAR2023\"</b> bewerben. <br> Für die Bearbeitungsgebühr (nicht erstattungsfähig) zahlen Sie lediglich 150 US-Dollar und erhalten einen Gutschrift von 50 US-Dollar, sofern Sie kein F1-Student sind. <br> Am ersten Schultag bei MLI zahlen Sie den Restbetrag abzüglich 50 US-Dollar."
+            ],
+            "btn": "/images/home/image1.png",
+            "btn_link" : "/de/admission"
+        },
+        {
+            "question": "Q3. Welche Programme kann ich mit diesem Stipendium belegen?", 
+            "answer": [
+                "Sie haben die Möglichkeit, entweder am ESL-Programm (9:00 Uhr - 13:15 Uhr) oder am Konversationsprogramm (13:45 Uhr - 18:00 Uhr) teilzunehmen.",
+                "- <a href=\"/documents/2023/MLI WW Class schedule 2023.pdf\">Westwood Programmplan </a> <br> - <a href=\"/documents/2023/MLI HW Class schedule 2023.pdf\">Hollywood Programmplan </a>"
+            ]
+        },
+        {
+            "question": "Q4. Bietet MLI Wohnmöglichkeiten an?", 
+            "answer": [
+                "a, wir bieten Homestay-Optionen sowie Studentenwohnheime und Studentenwohnungen an. <br> Bitte besuchen Sie den <a href=\"/de/stay\">hier</a>.",
+                "Bitte kontaktieren Sie uns, wenn Sie Fragen haben!"
+            ],
+            "btn" : "/images/home/image2.png",
+            "btn_link": "/de/contact"
+        }
+    ]
+}

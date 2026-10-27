@@ -1,0 +1,103 @@
+{
+  "pageTitle": "5 Charakteristiken vom Mentor Language Institute | Mentor Language Institute",
+  "pageDescription": "Wir haben seit unserer Eröffnung mehr als 17,000 Studenten geholfen ihr Englisch zu verbessern.",
+  "section1": {
+    "title": "Warum MLI?",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "5 Charakteristiken vom Mentor Language Institute",
+    "description": [
+      "Wir haben seit unserer Eröffnung mehr als 17,000 Studenten geholfen ihr Englisch zu verbessern. Warum wählen Studenten MLI, obwohl es doch so viele andere Englisch Sprachschulen in Los Angeles gibt? Wir haben eine Umfrage bei MLI Studenten gemacht und du findest ihre Antworten weiter unten."
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "Umfragezeitraum : Januar bis Juni 2017 mit 342 Studenten"
+  },
+  "section3": [
+    {
+      "title": "Nr.1 : Erschwinglicher Preis",
+      "subtitle": "Großartiger Preis! Ab $209 pro Woche. Nachmittagskurse sind 40 % günstiger als Vormittagskurse!",
+      "description": [
+        "Der Nummer 1 Grund für Studenten MLI als Schule zu wählen, ist die Erschwinglichkeit.",
+        "Je länger du unsere Schule besuchst, desto günstiger ist die Studiengebühr. Wenn du dich für 1 Monat (4 Wochen) anmeldest, beträgt die Studiengebühr $1,220 = <b>$305 pro Woche</b>. Das ist schon preiswert für LA. Aber wenn du dich für 48 Wochen anmeldest, beträgt die Studiengebühr nur $10,032 = <span style=\"color: #ff0000; font-weight: bold;\">$209 pro Woche</span>. Vergleiche unsere Preise mit denen anderer Schulen."
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details über die Studiengebühr",
+          "link": "/de/price"
+        }
+      ]
+    },
+    {
+      "title": "Nr.2 : Grossartiger Standort",
+      "subtitle": "Westwood & Hollywood: populäre Gegenden in Los Angeles",
+      "description": [
+        "Wir haben unsere Standorte in grossartigen und populären Gegenden von Los Angeles, <b>Westwood</b> und <b>Hollywood</b>. Von hier aus können Studenten bekannte Orte wie Santa Monica und Downtown LA einfach erreichen."
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "Westwood Campus"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "Hollywood Campus"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details über den Westwood Campus",
+          "link": "/de/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details über den Hollywood Campus",
+          "link": "/de/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "Nr.3 : Vielzahl von Hochschul-Vorbereitungskursen",
+      "subtitle": "Viele Studenten wechseln später an die UCLA oder das Santa Monica College, nachdem sie an der MLI studiert haben.",
+      "description": [
+        "Wir bieten beliebte Test-Vorbereitungsprogramme wie TOEFL®, IELTS™ an. Viele Studenten wechseln an die UCLA, das USC oder das Santa Monica College, nachdem sie ihr Test-Vorbereitungsprogramm bei uns abgeschlossen haben."
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details über das Studieren am College",
+          "link": "/de/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "Nr.4 : Flexible Stundenpläne",
+      "subtitle": "Wir bieten Kurse am Morgen, Nachmittag und Abend an.",
+      "description": [
+        "<b>MLI bietet 3 verschiedene Kurszeiten an</b>. Studenten können zwischen Kursen am Morgen, Nachmittag und Abend wählen."
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※Dies ist ein Stundenplan vom Westwood Campus. Wenn du einen Hollywood Campus Stundenplan sehen möchtest, kontaktiere uns bitte."
+    },
+    {
+      "title": "Nr.5 : Studentenwohnheim",
+      "subtitle": "Unser Partner: US Support Services Inc. bietet die Möglichkeit sich mit Studenten aus aller Welt in unserem Studentenwohnheim auszutauschen.",
+      "description": [
+        "Unser Partner: U.S. Support Service Inc. arrangiert Aufenthalte in Gastfamilien und in Studentenwohnheimen. Sie bieten über 40 Räume in unseren Studentenwohnheimen an, die jeweils in der Nähe des Campus liegen. Viele Studenten wählen ein Studentenwohnheim, wenn sie das erste Mal in die Staaten kommen."
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details über Unterkünfte",
+          "link": "/de/stay"
+        }
+      ]
+    }
+  ]
+}

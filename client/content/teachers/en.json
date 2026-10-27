@@ -1,0 +1,139 @@
+{
+  "pageTitle": "MLI Classes and Teachers | Mentor Language Institute",
+  "pageDescription": "In General English courses, students acquire practical skills utilizing real world materials such as Twitter posts, TED talks,and movie clips.",
+  "title": "MLI Classes and Teachers",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "Classes focus on Practical Skills",
+      "description": [
+        "In General English courses, students <b>acquire practical skills</b> utilizing real world materials such as Twitter posts, TED talks,and movie clips.  Using these materials, students systematically acquire patterns of grammar, writing, reading, vocabulary, listening and speaking.",
+        "In addition, TOEFL® and other exam preparation courses <b>provide strategies to solve problems with their our methods.</b>"
+      ]
+    },
+    {
+      "title": "MLI's Teachers",
+      "description": [
+        "1,200 students graduate from MLI each year, which speaks to the quality of our educators. We constantly strive to improve the skills of instructors through observations, evaluations and professional development workshops."
+      ],
+      "checklist": [
+        {
+          "title": "Hiring Requirements　(checklist for hiring teachers)",
+          "lists": [
+            "Four-year college graduate",
+            "3 years of experience as an English instructor",
+            "Teaching qualification such as TESOL",
+            "Knowledge of examination tests such as TOEFL® / GMAT®",
+            "Strong communication skills",
+            "Passion and commitment for teaching"
+          ]
+        },
+        {
+          "title": "Selection Method",
+          "lists": [
+            "Resume and diploma",
+            "English Grammar test",
+            "Interview",
+            "Model Lesson"
+          ],
+          "note": "Hiring rate is less than 20%"
+        }
+      ]
+    },
+    {
+      "title": "Training & Evaluation System",
+      "description": [
+        "At MLI, we check the following three items every 12 weeks to maintain teacher quality."
+      ],
+      "listType": "decimal",
+      "lists": [
+        "Students evaluate textbooks and instructors. Instructors with a satisfaction rate of 85% or less undergo professional development training.",
+        "Lesson observation and feedback provided by senior academic team",
+        "Professional development and training workshops to improve instruction"
+      ],
+      "note": "Management and instructors strive to improve the quality of education everyday!"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

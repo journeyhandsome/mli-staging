@@ -1,0 +1,68 @@
+{
+    "pageTitle": "支付 | Mentor Language Institute",
+    "pageDescription": "支付",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">您可以填寫此頁面上的表格並提交，使用信用卡安全地付款。 Mentor Language Institute 不會儲存您的信用卡資料。此支付流程透過 Stripe 的線上支付實現。<br />請填寫以下資訊</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "日期",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "校園",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "學生的名字",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "學生的姓氏",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "機構名稱（如果適用）"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "金額",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*4% 的 CR 處理費將會加到您的付款金額上。</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "從您的信用卡中扣除的金額"
+        }
+    ]
+    },
+  "btn_label": "繼續前往結帳頁面"
+}

@@ -1,0 +1,53 @@
+{
+    "pageTitle": "海外學生 | Mentor Language Institute",
+    "pageDescription": "海外學生為目前住在美國以外的學生，而即將申請學生簽證。",
+    "title": "海外學生",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "subtitle": [
+      "海外學生為目前住在美國以外的學生，而即將申請學生簽證。",
+      "或者",
+      "已經有學生簽證，會由其它國家再次入境美國。"
+    ],
+    "category": [
+      {
+        "title": "申請步驟",
+        "image": "/images/how-to-apply/overseas-student/application-steps-tw.png",
+        "listType": "decimal",
+        "lists": [
+          "向 MLI申請(填寫線上表格)",
+          "繳交 I-20 所需有效文件",
+          "收到您的I-20",
+          "申請學生簽證，到美國大使館面試",
+          "收到您的學生簽證",
+          "來到美國"
+        ],
+        "description": [
+          "學生必須在欲上課日期的兩個月前向MLI申請。繳交線上申請表格後，我們指示帶您成申請步驟。"
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "取消政策",
+        "description": [
+          "註冊費用會在申請的時候被收取。註冊費用是不可退還的，無論簽證被拒絕或是註冊被取消。"
+        ]
+      },
+      {
+        "title": "繳交申請表之後",
+        "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+        "description": [
+          "學生繳交線上申請表後，MLI會審核申請表並將申請表網址傳給iMLI。學生可以透過iMLI追蹤申請狀況。<br />"
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "線上申請",
+      "description": [
+        "請填寫線上申請表格。如有任何需求請透過信箱聯繫我們。透過下列線上申請表格向MLI申請。"
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/overseas-student/apply-now-tw.png",
+        "link": "/tw/admission"
+      }
+    }
+  }

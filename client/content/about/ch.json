@@ -1,0 +1,42 @@
+{
+  "pageTitle": "MLI概况 | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute语言学院成立于2002年",
+  "section1": {
+    "title": "MLI概况",
+    "description": [
+      "Mentor Language Institute语言学院成立于2002年。<br />地点：Westwood & Hollywood"
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "花更少的钱 学高品质的课",
+    "description": [
+      "我们重视两件事情： <b>教育品质</b> 与 <b>价格<b>",
+      "英语是全球性的语言，是一个和来自世界各地的人沟通的必要工具。我们希望国际学生拥有英语能力，在世界上获得成功。因此，我们着重于课程品质及低价位的课程。"
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "截至2020年，超过17000位学生选择MLI并毕业于此",
+    "description": [
+      "我们有ESL课程（一般英语课程包和六大项目：文法/写作，阅读/单字及听力/口说），TOEFL®，IELTS™（预准备念大专院校的学生），和 TOEIC®。"
+    ],
+    "lists": [
+      {
+        "link": "/ch/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": " 选择MLI的五个理由"
+      },
+      {
+        "link": "/ch/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": " 学校信息"
+      },
+      {
+        "link": "/ch/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": " 照片/影片总览"
+      }
+    ]
+  }
+}

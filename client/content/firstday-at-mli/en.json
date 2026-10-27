@@ -1,0 +1,92 @@
+{
+  "pageTitle": "First day at MLI | Mentor Language Institute",
+  "pageDescription": "At MLI, we have an orientation session for new students at the beginning of each semester (every 4 weeks).",
+  "title": "First day at MLI",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "Welcome to Mentor Language Institute!",
+      "description": [
+        "At MLI, we have an orientation session for new students at the beginning of each semester (every 4 weeks).",
+        "The Orientation will provide you with important information to increase your understanding of our programs, immigration regulations, and school rules. You will be welcomed by our Admissions Office Staff, greeted by our Teachers, Front Desk, Administrative and Management Staff."
+      ],
+      "dates": [
+        "＜Start Date of each term＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "Orientation starts at 1:00 pm."
+      ],
+      "groups": [
+        {
+          "title": "Orientation & Placement Test",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "Enrollment Paperwork"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "Academic Orientation"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "Placement Test"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "School Policies, Immigration Rules"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "College Transfer Service"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "Activities & Housing"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "Speaking Test & Class Placement"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "Purchase Textbooks"
+            }
+          ]
+        },
+        {
+          "title": "What to bring with you on the first day",
+          "lists": [
+            "Passport (If you are a Student Visa Holder)",
+            "I-20 (If you are a Student Visa Holder)",
+            "Pen and paper",
+            "Textbook Fee and Tuition Balance Payment"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Details",
+      "groups": [
+        {
+          "title": "Orientation schedule",
+          "description": [
+            "You will fill out the necessary paperwork for enrollment. <br />Next, the Academic Director or Program Coordinator will give a presentation about our different programs, class rules, and how to succeed in your studies in order to move up from one level to another, and from one program to another."
+          ]
+        },
+        {
+          "title": "Placement Test and Interview",
+          "description": [
+            "Following the orientation, you will take the “English Placement Test”, which is about 80 questions, with a listening and writing part that covers Grammar, Vocabulary, and Reading comprehension. It is a 60 minute test that helps determine your English Level. <br />After the test, you will have a quick Speaking Test (more like an Interview) with one of our Instructors (either the PC, the AD or an MLI teacher).<br />This test is to help finalize your placement in the most appropriate level and/or program based on your skills and goals."
+          ]
+        },
+        {
+          "title": "Purchasing Textbooks",
+          "description": [
+            "After the Placement test and interview, students purchase textbooks from front desk staff. Front desk staff is available to answer any additional questions or concerns students may have."
+          ]
+        }
+      ]
+    }
+  ]
+}

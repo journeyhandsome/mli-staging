@@ -1,0 +1,96 @@
+{
+  "pageTitle": "สาขา Hollywood | Mentor Language Institute",
+  "pageDescription": "Hollywood เป็นที่รู้จักกันดีว่า เป็นศูนย์กลางของวงการบันเทิง",
+    "title": "สาขา Hollywood",
+    "image": "/images/location/hollywood/hollywood-campus.jpg",
+    "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+    "subtitle": [
+      "<span class=\"hutoaka\">Hollywood เป็นที่รู้จักกันดีว่า เป็นศูนย์กลางของวงการบันเทิง</span><br/>",
+      "พิธีมอบรางวัล Oscars จัดขึ้นที่โรงละคร Dolby ซึ่งห่างจากสาขา Hollywood เพียง 2 นาที โรงเรียนของเราตั้งอยู่ที่ Hollywood และ Highlandใช้เวลาเพียง 2 นาทีในการเดินไป-กลับจากสถานีรถไฟฟ้าใต้ดิน Hollywood/Highlandนอกจากนี้ยังมีกิจกรรมต่างๆมากมาย เช่น ภาพยนตร์หรือพิธีเปิดงานต่างๆ เป็นต้นท่านอาจจะได้เห็นดาราภาพยนตร์ที่มีชื่อเสียงใน Hollywood เมื่อพวกเขาออกจากรถลีมูซีนนอกโรงละคร DolbyHollywood เหมาะสำหรับนักเรียน-นักศึกษาชาวต่างชาติ ที่ต้องใช้บริการขนส่งสาธารณะนักเรียนจากสาขา Hollywood ของเรา มีแนวโน้มที่จะสนใจในด้านความบันเทิง เช่น การเต้น ดนตรี การแสดง ภาพยนตร์และการฝึกโยคะ เป็นต้น",
+      "สถาบันดนตรีที่มีชื่อเสียงตั้งอยู่ตรงข้ามสาขา Hollywood <br/>",
+      "นอกจากนี้ยังมีสตูดิโอสำหรับนักเรียนที่สนใจการเต้นหลายแห่ง เช่น"
+    ],
+    "lists": [
+      "Musician Institute",
+      "Edge Performing Arts",
+      "Millennium Dance Complex",
+      "Debbie Raynolds",
+      "MovementLifestyle",
+      "Los Angeles Film School",
+      "NY Film Academy"
+    ],
+    "other_desc": [
+      "Hollywood's convenient location is perfect for international students who often rely on public transportation (the Hollywood & Highland stop is just a 2 minute walk from campus.)",
+      "หากท่านต้องการเรียนชั้นเรียนแบบอบอุ่นและอยู่ใกล้กับแหล่งวงการบันเทิง ภาพยนตร์ ดนตรี ท่านสามารถเข้าร่วม MLI-Hollywood ได้"
+    ],
+    "albums": [
+      {
+        "title": "สาขา",
+        "photos": [
+          "/images/location/hollywood/campus-1-th.jpg",
+          "/images/location/hollywood/campus-2-th.jpg"
+        ]
+      },
+      {
+        "title": "ชั้นเรียน",
+        "photos": [
+          "/images/location/hollywood/class-1.jpg",
+          "/images/location/hollywood/class-2.jpg"
+        ]
+      }
+    ],
+    "location": {
+      "title": "Location",
+      "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+    },
+    "video": [
+      {
+        "title": "1. การเดินทางไปยัง MLI Hollywood Campus ผ่านสถานีรถไฟ Hollywood Highland",
+        "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+      },
+      {
+        "title": "2. การเดินทางไปยัง MLI Hollywood Campus โดยการขับรถ",
+        "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+      }
+    ],
+    "accommodation": {
+      "title": "Accommodations",
+      "description": [
+        "เราสามารถจัดหาที่พักให้ท่านได้",
+        "＜หอพัก＞<br/>",
+        "หอพักของเราตั้งอยู่ในสถานที่สะดวก และใกล้โรงเรียน"
+      ],
+      "information": [
+        {
+          "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+          "desc": [
+            "＜บ้านพัก＞ <br/>",
+            "บ้านพักเป็นวิธีที่ดีที่สุดในการเรียนรู้วัฒนธรรมอเมริกันและเพิ่มโอกาสในการพูดภาษาอังกฤษ"
+          ]
+        },
+        {
+          "yt_link": "https://www.youtube.com/embed/K4DT7WEI7MY",
+          "desc": [
+            "<a href=\"/th/stay/\"><i class='bi bi-arrow-right'></i> ข้อมูลเพิ่มเติมเกี่ยวกับบ้านพัก/หอพัก</a>"
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "หลักสูตร",
+      "lists": [
+        "หลักสูตร ESL",
+        "TOEFL®",
+        "หลักสูตรสนทนาภาษาอังกฤษ",
+        "TOEIC®"
+      ]
+    },
+    "message": {
+      "title": "สาส์นจากผู้อำนวยการ",
+      "image": "/images/location/hollywood/julie.jpg",
+      "position": "สาส์นจากผู้อำนวยการ",
+      "description": [
+        "MLI สาขา Hollywood ตั้งอยู่ใจกลางย่าน Hollywood ซึ่งห่างจากสถานีรถไฟฟ้าใต้ดิน Hollywood/Highland เพียง 2 นาที ถัดจากโรงเรียนไปยังมีโรงภาพยนตร์ Dolby โรงภาพยนตร์จีนและ Walk of Fame ซึ่งท่านจะมีโอกาสมากมายที่ได้ร่วมสนุกไปกับที่แห่งนี้"
+      ]
+    }
+  }

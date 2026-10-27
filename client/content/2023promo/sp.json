@@ -1,0 +1,377 @@
+{
+    "pageTitle": "Beca de Diversidad MLI 2023 ÚNICAMENTE para estudiantes de Nacionalidades Específicas | Mentor Language Institute",
+    "pageDescription": " Beca de Diversidad MLI 2023 ÚNICAMENTE para estudiantes de Nacionalidades Específicas",
+    "title": "Beca de Diversidad MLI 2023 ÚNICAMENTE para estudiantes de Nacionalidades Específicas",
+    "subtitle": [
+        "MLI siempre se esfuerza por proporcionar el mejor entorno de aprendizaje posible para sus estudiantes. En otoño de 2023, MLI ofrecerá una beca/descuento especial<span style=\"color: red; font-weight: 700;\"><u> ÚNICAMENTE para estudiantes de Brasil, Colombia, España, Alemania y Italia</u></span> con el objetivo de lograr una representación equilibrada de nacionalidades dentro de la escuela.",
+        "Esta beca se ofrecerá únicamente a estudiantes de España, Brasil y Colombia que asistan a MLI durante los meses de julio, agosto y septiembre de 2023.",
+        "La beca es limitada y se ofrecerá a solo 10 estudiantes en cada campus (campus Westwood y Hollywood). Ofreceremos las becas por orden de llegada.",
+        "Si eres <span style=\"color: red; font-weight: 700;\"><u>ÚNICAMENTE de Brasil, Colombia, España, Alemania y Italia</u></span>, ¡te animamos a aprovechar esta beca especial para mejorar tus habilidades en inglés en MLI!",
+        "P1. ¿Cuánta beca puedo recibir de MLI?",
+        "Por favor, consulta el precio especial de esta beca de diversidad.",
+        "Reglas",
+        "1. Los solicitantes pueden solicitar solo su programa (el alojamiento NO es obligatorio). <br> 2. Este precio de beca de diversidad se aplicará únicamente a su inscripción inicial (No podrás utilizar esta beca para tu extensión). <br> 3. Si necesitas nuestros servicios de alojamiento por más de 8 semanas, este precio especial de alojamiento está disponible para más de 8 semanas. Por favor, solicita un presupuesto a través del formulario de contacto. <br> 4. Todos los costos deben pagarse a tu llegada."
+    ],
+    "questions": {
+        "tables" :[ 
+            { 
+                "title_optional": "= Estancia Corta con Visa de Turista o ESTA =",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "2 Semanas de estudio",
+                "weeksPlan": "Plan 2 Semanas",
+                "tbody": [
+                    [
+                        "$100",
+                        "Tarifa de procesamiento"
+                    ],
+                    [
+                        "$250",
+                        "Matrícula"
+                    ],
+                    [
+                        "$30",
+                        "Renta Libros"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$380</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total de la escuela</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-50%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "2 semanas de alojamiento para estudiantes (Residencia)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Tarifa de acomodación"
+                    ],
+                    [
+                        "$420",
+                        "Renta(Hab Cuad:4)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$520</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total Alojamiento </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$900</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escuela y Alojamiento</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-57%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "3 Semanas de estudio",
+                "weeksPlan": "Plan 3 semanas",
+                "tbody": [
+                    [
+                        "$100",
+                        "Tarifa de procesamiento"
+                    ],
+                    [
+                        "$375",
+                        "Matrícula"
+                    ],
+                    [
+                        "$35",
+                        "Renta Libros"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$510</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total de la escuela</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-53%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "3 semanas de alojamiento para estudiantes (Residencia)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Tarifa de acomodación"
+                    ],
+                    [
+                        "$630",
+                        "Renta(Hab Cuad:4)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$730</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total Alojamiento </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-34%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,240</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escuela y Alojamiento</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-43%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "4 Semanas de estudio",
+                "weeksPlan": "Plan 4 semanas",
+                "tbody": [
+                    [
+                        "$100",
+                        "Tarifa de procesamiento"
+                    ],
+                    [
+                        "$400",
+                        "Matrícula"
+                    ],
+                    [
+                        "$40",
+                        "Renta Libros"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$540</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total de la escuela</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-61%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "4 semanas de alojamiento para estudiantes (Residencia)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Tarifa de acomodación"
+                    ],
+                    [
+                        "$840",
+                        "Renta(Hab Cuad:4)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$940</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total Alojamiento </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-33%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,480</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escuela y Alojamiento</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-47%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "title_optional": "Termino más largo con visa de estudiante",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "12 semanas de estudio",
+                "weeksPlan": "Plan 12 semanas",
+                "tbody": [
+                    [
+                        "$150",
+                        "Tarifa de procesamiento"
+                    ],
+                    [
+                        "$1,721",
+                        "Matrícula 12 semanas"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,871</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total escuela</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-41%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 sem de alojamiento para estudiantes (Residencia)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Tarifa de acomodación"
+                    ],
+                    [
+                        "$1,512",
+                        "Renta(Hab Cuad:4)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total Alojamiento </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-30%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$3,483</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escuela y Alojamiento</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "24 semanas de estudio",
+                "weeksPlan": "Plan 24 semanas",
+                "tbody": [
+                    [
+                        "$150",
+                        "Tarifa de procesamiento"
+                    ],
+                    [
+                        "$3,125",
+                        "Matrícula 24 semanas"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$3,275</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total escuela</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 sem de alojamiento para estudiantes (Residencia)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Tarifa de acomodación"
+                    ],
+                    [
+                        "$1,512",
+                        "Renta(Hab Cuad:4)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total Alojamiento </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$4,887</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escuela y Alojamiento</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-37%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "48 semanas de estudio",
+                "weeksPlan": "Plan 48 semanas",
+                "tbody": [
+                    [
+                        "$150",
+                        "Tarifa de procesamiento"
+                    ],
+                    [
+                        "$5,789",
+                        "Matrícula 48 semanas"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$5,939</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total escuela</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 sem de alojamiento para estudiantes (Residencia)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Tarifa de acomodación"
+                    ],
+                    [
+                        "$1,512",
+                        "Renta(Hab Cuad:4)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total Alojamiento </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$7,551</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escuela y Alojamiento</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>Menos que la tarifa regular</b></span>"
+                    ]
+                ]
+                }
+            }
+        ]
+    },
+    "qa": [
+        {
+            "question": "P2. ¿Cómo puedo recibir esta beca?", 
+            "answer": [
+                "Puedes solicitar tu beca a través de nuestro formulario de solicitud en línea utilizando el código \"SCHOLAR2023\". Pagarás solo $150 por la tarifa de procesamiento (no reembolsable) y recibirás un crédito de $50, si no eres estudiante F1. El primer día de clases en MLI, realizarás tu pago restante, menos $50."
+            ],
+            "btn": "/images/home/image1.png",
+            "btn_link" : "/sp/admission"
+        },
+        {
+            "question": "P3. ¿Qué programas puedo tomar con esta beca?", 
+            "answer": [
+                "Podrás elegir entre los programas de ESL (9:00 am-1:15 pm) o Conversación (1:45 pm-6:00 pm). ",
+                "• <a href=\"/documents/2023/MLI WW Class schedule 2023.pdf\">Horario del programa en Westwood </a> <br> • <a href=\"/documents/2023/MLI HW Class schedule 2023.pdf\">Horario del programa en Hollywood </a>"
+            ]
+        },
+        {
+            "question": "P4. ¿Ofrece MLI algún servicio de alojamiento?", 
+            "answer": [
+                "Sí, tenemos opciones de alojamiento en casas de familia y residencias de estudiantes / dormitorios de estudiantes. Por favor, visita el siguiente enlace. <a href=\"/sp/stay\">here</a>",
+                "¡Por favor, contáctanos si tienes alguna pregunta!"
+            ],
+            "btn" : "/images/home/image2.png",
+            "btn_link": "/sp/contact"
+        }
+    ]
+}

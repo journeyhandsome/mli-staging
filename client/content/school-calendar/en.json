@@ -1,0 +1,60 @@
+{
+  "pageTitle": "MLI School Calendar | Mentor Language Institute",
+  "pageDescription": "The program strating date varies depending on F1 or Non F1 students.",
+  "title": "MLI School Calendar (2025-2026)",
+  "calendar": [
+    {
+      "year": "2026",
+      "image": "/images/courses/school-calendar/2026.PNG"
+    },
+    {
+      "year": "2027",
+      "image": "/images/courses/school-calendar/2027.png"
+    }
+  ],
+  "notes": [
+    "<font color=\"#FECC13\">Yellow</font>: Program Starting Date (Module)<br /><font color=\"”#008000”\">Green</font>： No school (Holiday)"
+  ],
+  "schoolCalendar": {
+    "title": "School Calendar (Program starting dates)",
+    "description": [
+      "The program strating date <span class=\"ymarker\">varies depending on F1 or Non F1 students.</span>"
+    ],
+    "lists": [
+      {
+        "key": "Non F1 students who don't obtain a student visa.",
+        "value": [
+          "Can start their program on any Monday. <br>If Monday is a holiday, then the program starting date will be Tuesday for that week."
+        ]
+      },
+      {
+        "key": "F1 students who obtain a student (F) visa.",
+        "value": [
+          "Can start on specific Mondays. (high-lighted in yellow on the Calendar).",
+          "<2026> <br />1/20, 2/17, 3/16, 4/13, 5/11, 6/8, 7/6, 8/3, 8/31, 9/28, 10/26, 11/23, 12/21",
+          "<2027><br /> 1/25, 2/22, 3/22, 4/19, 5/17, 6/14, 7/12, 8/9, 9/7, 10/4, 11/1, 11/29",
+          "<2028> <br /> 1/3"
+
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions about arrival dates in the U.S.",
+    "lists": [
+      {
+        "key": "<b>Q: How many days before the program starting date can a student enter the U.S?</b>",
+        "value": [
+          "A: MLI doesn't require our students to come to the U.S. a specific number of days in advance.<br />However, our students usually enter the U.S 1 or 2 days before their program starting dates."
+        ],
+        "note": "Note: International students are allowed to enter the U.S. 30 days prior to their program starting dates."
+      },
+      {
+        "key": "<b>Q: Is it possible to move into the accommodation before the program starting dates?</b>",
+        "value": [
+          "A: Yes. We can arrange your accommodation moving in date as any date.<br />If there are other questions, please do not hesitate to consult us."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "pageTitle": "Qual tipo de visto você está pensando em aplicar? | Mentor Language Institute",
+    "pageDescription": "Qual tipo de visto você está pensando em aplicar?",
+    "title": "Qual tipo de visto você está pensando em aplicar?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "Qual tipo de visto você está pensando em aplicar?:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-por.png",
+                    "link": "/por/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-por.png",
+                    "link": "/por/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Alguma dúvida?",
+            "description": [
+                "Normalmente, para que você fique por um período maior nos Estados Unidos, você vai precisar de um visto de estudante.",
+                "Se você não tem certeza se precisa ou não de um visto, sinta-se a vontade para entrar em contato conosco.",
+                "Nós temos um time de funcionários com capacidade de comunicação em 8 línguas diferentes."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-por.jpg",
+                "link": "/por/contact"
+            }
+        }
+}

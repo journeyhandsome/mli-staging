@@ -1,0 +1,53 @@
+{
+    "pageTitle": "MLI Politica di quarantena | Mentor Language Institute",
+    "pageDescription": "MLI sta riprendendo le lezioni di persona principalmente nel campus di Westwood. ",
+    "title": "MLI Politica di quarantena",
+    "subtitle": [
+      "MLI sta riprendendo le lezioni di persona principalmente nel campus di Westwood. <br /> Tutte le lezioni ESL riprenderanno di persona dal <b>July, 6, 21</b>. <br /> Altri programmi disponibili. <br />Ecco la politica di quarantena più aggiornata di MLI basata sui requisiti della contea di Los Angeles.",
+      "Mentre il programma di conversazione è offerto presso il campus di Hollywood, tutte le altre lezioni di Hollywood rimarranno online fino a nuovo avviso."
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "Studenti completamente vaccinati",
+        "unvaccinated": "Studenti non vaccinati"
+      },
+      "table_header": [
+        "Dall'estero",
+        "Da domestico (negli Stati Uniti)",
+        "Estero e nazionale"
+      ],
+      "table_content": [
+        [
+          "Posso partecipare alle lezioni di persona subito dopo l'arrivo a Los Angeles?",
+          "<span class='hutoaka'>sì</span>",
+          "<span class='hutoaka'>sì</span>",
+          "<span class='font-weight-bold'>No</span>"
+        ],
+        [
+          "Posso partecipare alle lezioni di persona se ricevo un test PCR 3-5 giorni dopo l'arrivo a Los Angeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>No</span>"
+        ],
+        [
+          "Devo mettermi in quarantena per 10 giorni per partecipare alle lezioni di persona dopo essere arrivato a Los Angeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>sì</span>"
+        ],
+        [
+          "MLI richiede che gli studenti non vaccinati debbano sostenere i test PCR ogni settimana e presentare risultati negativi entro ogni lunedì, al fine di frequentare i programmi di persona.",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>sì</span>"
+        ],
+        [
+          "Posso abbreviare la mia quarantena (7 giorni) se sostengo un esame PCR dopo il mio arrivo a Los Angeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>sì</span>"
+        ]
+      ]
+    },
+    "note": "*Gli studenti completamente vaccinati devono presentare una prova.<br />**Tutti gli studenti devono indossare maschere durante le lezioni."
+  }

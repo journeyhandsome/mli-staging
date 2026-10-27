@@ -1,0 +1,47 @@
+{
+  "pageTitle": "Promo - Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "Veuillez télécharger la brochure en utilisant les liens ci-dessous",
+    "title": "Promo - Thanks Download Brochure",
+    "subtitle": [
+      "Veuillez télécharger la brochure en utilisant les liens ci-dessous"
+    ],
+    "brochures": [
+      {
+        "title": "Promotion de bienvenue 2022",
+        "image": "/images/material/1642409051-WELCOME_Promotion_FRENCH_JAN12.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/assets/images/material/1642409051-WELCOME_Promotion_FRENCH_JAN12.jpg"
+      },
+      {
+        "title": "Brochure de l'école",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "Brochure des logements",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Prix et forfait d'inscription",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "Brochure des activités de MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>Un personnel d'admission vous enverra un e-mail concernant votre demande.</span><br />Si vous avez des questions concernant les visas étudiants, la disponibilité des logements ou toute autre chose, n'hésitez pas à nous contacter à tout moment.",
+      "Le processus pour étudier à l'étranger aux États-Unis est très compliqué, nous pouvons vous guider dans les démarches par téléphone.",
+      "Si vous n'avez pas coché \"Ne pas me contacter par téléphone\", nous vous rappellerons dans un jour ou deux.",
+      "<b>【 WESTWOOD CAMPUS 】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />TEL: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />Heures d'ouverture : du lundi au jeudi de 8h30 à 20h30, le vendredi de 8h30 à 18h00",
+      "<b>【 HOLLYWOOD CAMPUS 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />Heures de bureau : du lundi au vendredi de 8h30 à 17h00"
+    ]
+  }

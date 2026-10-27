@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Ödeme | Mentor Language Institute",
+    "pageDescription": "Ödeme",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">Ödemenizi bu sayfadaki formu doldurup göndererek kredi kartı ile güvenli bir şekilde yapabilirsiniz. Mentor Dil Enstitüsü kredi kartı bilgilerinizi saklamaz. Bu ödeme işlemi Stripe'ın online ödeme sistemi üzerinden gerçekleştirilmektedir.<br />Lütfen aşağıdaki bilgileri doldurun</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Tarih",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Kampüs",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Öğrencinin Adı",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Öğrencinin Soyadı/Aile Adı",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Kurum Adı (varsa)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Miktar",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*Ödeme tutarınızın üzerine %4 CR işlem ücreti eklenecektir.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Kredi kartınızdan tahsil edilen tutar"
+        }
+    ]
+    },
+  "btn_label": "Ödeme sayfasına devam edin"
+}

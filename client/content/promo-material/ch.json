@@ -1,0 +1,225 @@
+{
+  "pageTitle": "下载手册：2022 年促销 | Mentor Language Institute",
+  "pageDescription": "如果您有任何其他问题，请随时与我们联系。",
+  "title": "下载手册：2022 年促销",
+    "category": {
+      "content" :[
+        "如果您有任何其他问题，请随时与我们联系。",
+        "<b>&#10003;</b> 可用的語言",
+        "英文/韓文/日文/西班牙文/葡萄牙文/法文/俄文/中文/土耳其文/阿拉伯文/泰文",
+        "<b>问：即使我的英语不太好，我是否可以申请到你的学校？</b> <br />是的，MLI有许多讲其他语言的国际工作员工。我们有8种语言可供选择，来自30多个国家的学生。请用您的语言与我们联系。",
+        "<b>问：你有学生签证专家吗？</b> <br />是的，我们有学生签证专家。请随时提出任何问题。"
+        ]
+    },
+    "subtitle": "下载宣传册并询问问题",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "你的名字",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "你的邮件",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "电话号码",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "我不希望接到MLI的电话。"
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "国家",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "Chile",
+            "label": "Chile"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "校園",
+        "selection": [
+          {
+            "value": "Westwood",
+            "label": "西木區"
+          },
+          {
+            "value": "Hollywood",
+            "label": "好萊塢"
+          },
+          {
+            "value": "Both",
+            "label": "兩者都是"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "您打算多久后在美国学习您的课程？",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1个月"
+          },
+          {
+            "value": "three months",
+            "label": "3个月"
+          },
+          {
+            "value": "six months",
+            "label": "6个月"
+          },
+          {
+            "value": "one year or more",
+            "label": "1年或更长时间"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "你怎么知道MLI？",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "代理商"
+          },
+          {
+            "value": "Friend",
+            "label": "朋友"
+          },
+          {
+            "value": "Internet",
+            "label": "互聯網"
+          },
+          {
+            "value": "Other",
+            "label": "其他"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "任何问题"
+      }
+    ],
+    "btn_label": "發送"
+  }

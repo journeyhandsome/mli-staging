@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLI соблюдает все меры безопасности во время пандемии | Mentor Language Institute",
+    "pageDescription": "MLI в настоящее время предлагает очную программу Conversation (средний и продвинутый уровни) и онлайн-программы, в том числе; ESL, TOEFL®︎, IELTS ™ ️, Деловой английский плюс TOEIC®︎ и Life Skills.",
+    "title": "MLI соблюдает все меры безопасности во время пандемии",
+    "subtitle": [
+      "MLI в настоящее время предлагает очную программу Conversation (средний и продвинутый уровни) и онлайн-программы, в том числе; ESL, TOEFL®︎, IELTS ™ ️, Деловой английский плюс TOEIC®︎ и Life Skills.",
+      "MLI в настоящее время принимает как иностранных, так и переводящихся студентов."
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "6 мер безопасности, которые MLI требует от учащихся, посещающих очные занятия.",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLI сделает вакцинацию обязательной для всех на кампусе, чтобы все были в безопасности. Если вы не хотите или не можете пройти вакцинацию, вы можете сдавать ПЦР-тесты и отправлять результаты в MLI каждый понедельник."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "Сертификат о прививке от COVID-19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  Студенты должны сдать тест на COVID-19 не ранее, чем за 3 дня до пперелета в Соединенные Штаты (США) и предоставить отрицательные результаты теста для MLI на английском языке. Студенты должны отправить в MLI копию результатов перед отъездом и принести в школу исходные результаты теста PCR.",
+            "Если учащийся не предоставит для MLI отрицательные результаты теста на вирус, он/она должены находиться под карантином в течение 10 дней после прибытия в США. При отсутствии симптомов COVID-19, учащемуся разрешается начать свою программу очно после 10-дневного карантина."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "Пример отрицательного результата теста на COVID 19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  При входе в школу каждый должен продезинфицировать руки с помощью дезинфицирующего средства и проверить температуру. Температура должна быть ниже 99,5F (37,5 ℃)."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  В школе все должны носить маски для лица. Социальное дистанцирование сохраняется; 6 футов между партами студентов."
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  До и после каждого занятия классные комнаты, места общего пользования и поверхности, к которым часто прикасаются, очищаются и дезинфицируются в соответствии с рекомендациями CDC."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  Пластиковая защита установлена ​​на стойке регистрации."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

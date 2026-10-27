@@ -1,0 +1,49 @@
+{
+    "pageTitle": "轉學生 | Mentor Language Institute",
+    "pageDescription": "目前就讀於其它在美國的學校，欲轉換學校的學生",
+    "title": "轉學生",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "subtitle": [
+      "目前就讀於其它在美國的學校，欲轉換學校的學生"
+    ],
+    "category": [
+      {
+        "title": "申請步驟",
+        "image": "/images/how-to-apply/transfer-students/application-steps-tw.png",
+        "listType": "decimal",
+        "lists": [
+          "向 MLI申請(填寫線上表格)",
+          "繳交有效文件",
+          "參加新生培訓",
+          "收到新的I-20"
+        ],
+        "description": [
+          "學生必須在欲上課日期的一至兩個月前向MLI申請。繳交線上申請表格後，最好能夠跟MLI學生諮詢師確認轉學狀態，因為依據每個人的情況有時候過程可能會較複雜。"
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "取消政策",
+        "description": [
+          "註冊費用會在申請的時候被收取。註冊費用是不可退還的，無論簽證被拒絕或是註冊被取消。"
+        ]
+      },
+      {
+        "title": "繳交申請表之後",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "學生繳交線上申請表後，MLI會審核申請表並將申請表網址傳給iMLI。學生可以透過iMLI追蹤申請狀況。"
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "線上申請",
+      "description": [
+        "請填寫線上申請表格。如有任何需求請透過信箱聯繫我們。"
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/transfer-students/apply-now-tw.png",
+        "link": "/tw/admission"
+      }
+    }
+  }

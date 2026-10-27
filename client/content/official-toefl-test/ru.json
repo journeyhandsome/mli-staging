@@ -1,0 +1,101 @@
+{
+    "pageTitle": "Изменения в формате и в вопросах экзамена TOEFL iBT с 26.07.2023 | Mentor Language Institute",
+    "pageDescription": "Изменения в формате и в вопросах экзамена TOEFL iBT с 26.07.2023",
+    "title": "Изменения в формате и в вопросах экзамена TOEFL iBT с 26.07.2023",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "Всем привет. Сегодня мы представим изменения в формате и вопросах TOEFL iBT, одного из тестов на знание английского языка, который требуется иностранным студентам для поступления в университеты и колледжи. Мы надеемся, что это краткое объяснение поможет вам в подготовке к экзамену.",
+      "Мы, <a href=\"https://mliesl.edu/ru/\" style=\"color: #3D4C5C;\"><u>Mentor Language Institute</u></a> (MLI), являемся школой английского языка, аккредитованной ACCET и принимающей иностранных студентов, утвержденных SEVP в США. MLI уже много лет обучает студентов подготовке к экзаменам на знание английского языка, а наша команда преподавателей в рамках Программы подготовки к экзаменам учит студентов, как добиться успеха на таких экзаменах, и информирует их об изменениях в экзаменах, когда бы они ни происходили.",
+      "С 26.07.2023 у TOEFL iBT будет новый формат теста и некоторые другие изменения. Эти изменения хороши для испытуемых, потому что тест станет намного короче и менее обременительным."
+    ],
+    "services":
+        {
+            "title": "Изменения формата TOEFL iBT с 26 июля 2023 года",
+            "subtitle": "Изменения перечислены ниже:",
+            "lists": [
+                "<span class=\"circle\">1 </span>Тест будет иметь более простые и прямые инструкции. (Это незначительное изменение.)",
+                "<span class=\"circle\">2 </span>Тестовый пользовательский интерфейс «ПИ» будет проще в использовании и понимании. (Это незначительное изменение.)",
+                "<span class=\"circle\">3 </span>Раздел чтения будет состоять из 2 отрывков по 10 вопросов в каждом. <br /> (Сейчас возможно 3 или 4 отрывка с 30-40 вопросами. В новой версии теста вопросов будет на 33%-50% меньше, а время на этот раздел сократится с 54 — 72 минут до 35 минут.)",
+                "<span class=\"circle\">4 </span>Раздел письма также изменится. Вопрос «Самостоятельное письмо» (Письмо 2) будет заменен новым упражнением, которое называется «Академическая дискуссия». Это самое существенное изменение в тесте.",
+                "<span class=\"circle\">5 </span>В разделах чтения и аудирования не будет вопросов без баллов.<br />(Больше не будет экспериментальных, «фиктивных» вопросов.)"
+            ]
+        },
+    "format":
+        {
+            "title": "Формат TOEFL iBT с 26.07.2023",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>Раздел теста</b>",
+                  "<b>Количество вопросов</b>",
+                  "<b>Количество времени</b>"
+                ],
+                [
+                  "Чтение",
+                  "20 вопросов",
+                  "35 минут"
+                ],
+                [
+                  "Аудирование",
+                  "28 вопросов",
+                  "36 минут"
+                ],
+                [
+                  "Говорение",
+                  "4 задания",
+                  "16 минут"
+                ],
+                [
+                  "Письмо",
+                  "2 задания",
+                  "29 минут"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"><b>Общее время</b></span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">– – – – –</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"><b>Менее 2 часов</b></span>"
+                ]
+              ]
+            },
+            "description": [
+                "Новое письменное задание называется «Академическая дискуссия». Упражнение начинается с чтения отрывка. Это онлайн-дискуссия между профессором и двумя студентами. Преподаватель знакомит студентов с темой и задает им вопрос, связанный с этой темой. После, два студента отвечают на вопрос.",
+                "Вы также должны написать сообщение, отвечающее на вопрос профессора. В своем ответе вы должны выразить и поддержать свое мнение и внести свой вклад в обсуждение. <span style=\"background:linear-gradient(transparent 60%, #98fb98 60%);\"> <b>«Эффективный ответ» должен состоять более чем из 100 слов, и у вас есть 10 минут, чтобы написать его.</b></span>"
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "Вот пример упражнения на новый письменный вопрос и два примера эссе для продвинутого и среднего уровня владения английским языком:",
+            "listTitle": "Пример Bопроса",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "Образец Oтвета 1 (расширенный): Bозможная оценка [5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "Обоснование Oценки и Oбъяснение 1",
+                  "subdescription":[
+                        "Это расширенный ответ, и он, вероятно, получит 5 баллов на основе оценочной рубрики для письма 1. Автор хорошо участвует в обсуждении со сложными идеями, которые хорошо объяснены с подробностями и примерами. Автор выбирает идею загрязнения воздуха и далее приводит пример того, как возникает загрязнение воздуха, объясняет, как загрязнение воздуха наносит ущерб атмосфере, и упоминает некоторые последствия такого рода ущерба. Порядок утверждений в ответе логичный и последовательный. Кроме того, автор упоминает еще одно актуальное последствие, влияние на здоровье человека, и объясняет, как загрязнение воздуха может повлиять на человека и его состояние здоровья. Автор не только использует различные грамматические конструкции и структуры предложений, но также предоставляет широкий спектр терминологии по теме и большое количество синонимов в ответе.",
+                        "Ошибок очень мало; слово “contaminants” написано неправильно, но это допустимая ошибка из-за специфики слова. Также автор делает грамматическую ошибку во фразе “problem with air pollution”, которая должна быть “problem of air pollution”. Есть еще одна грамматическая ошибка с существительным “problem” в последнем предложении. Это слово должно стоять во множественном числе. Тем не менее, обе эти грамматические ошибки возможны у автора с высоким уровнем владения английским языком в условиях ограниченного времени. Благодаря этому данные ошибки не приводят к снижению оценки."
+                    ]
+            },
+            "sample2":
+            {
+              "title": "Образец Oтвета 2 (промежуточный): Возможная оценка [3,0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "Обоснование Oценки и Oбъяснение 2",
+              "subdescription":[
+                "Это промежуточный ответ, и он, вероятно, получит 3 балла на основе подсчета баллов за Письмо 1. Автор участвует в обсуждении, но некоторые идеи являются неполными или не содержат достаточно подробностей. Например, писатель упоминает фабрики как источник загрязнения. Однако после этого писатель переходит к информации о Лос-Анджелесе и автомобилях, что не имеет отношения к делу. Кроме того, автор предлагает использовать электромобили, но не объясняет, как такие автомобили помогают снизить уровень загрязнения. У автора нет большого разнообразия грамматики и структур предложений, но есть разумное разнообразие словарного запаса. Автор также использует в ответе терминологию по теме, например, “global warming”.",
+                "В ответах разные ошибки. Эти ошибки приводят к снижению оценки и, вероятно, не связаны с временными условиями. Например, фраза “a lot of pollution come from” использует неправильное время глагола и должно быть “a lot of pollution comes from”. Кроме того, во фразе “smoke goes to the air”  следует использовать другой предлог: “smoke goes into the air.” Помимо этого, глагол “can not” должен состоять из одного слова, а модальный глагол “need” должен сопровождаться инфинитивным глаголом “to stop” вместо “stop”. Писатель также использовал неверную приставку для прилагательного “predictable”. Тем не менее, писатель хорошо владеет пунктуацией и правильно использует запятые и точки."
+              ]
+            },
+            "description": ["В целом, эти изменения в TOEFL iBT должны принести вам пользу, сделав тест короче и менее обременительным. Мы надеемся, что эта информация поможет вам, и мы желаем вам удачи в подготовке и учебе!"]
+            
+        }
+    
+  }

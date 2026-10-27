@@ -1,0 +1,377 @@
+{
+    "pageTitle": "Borsa di studio MLI Diversify 2023 per studenti di specifiche nazionalità | Mentor Language Institute",
+    "pageDescription": "Borsa di studio MLI Diversify 2023 per studenti di specifiche nazionalità",
+    "title": "Borsa di studio MLI Diversify 2023 per studenti di specifiche nazionalità",
+    "subtitle": [
+        "MLI si impegna sempre a offrire il miglior ambiente di apprendimento possibile per i suoi studenti. A partire dall'autunno 2023, MLI offrirà una speciale borsa di studio/sconto agli studenti provenienti <span style=\"color: red; font-weight: 700;\">ESCLUSIVAMENTE dal Brasile, dalla Colombia, dalla Spagna, dalla Germania e dall'Italia</span>, al fine di raggiungere una rappresentanza equilibrata delle nazionalità all'interno della scuola.",
+        "Questa borsa di studio sarà offerta agli studenti provenienti solo dalla Spagna, dal Brasile e dalla Colombia che frequenteranno MLI nei mesi di luglio, agosto e settembre 2023.",
+        "La borsa di studio è limitata e sarà offerta solo a 10 studenti presso ciascun campus (campus di Westwood e di Hollywood). Le borse di studio saranno assegnate agli studenti in base all'ordine di arrivo delle richieste.",
+        "Se sei <span style=\"color: red; font-weight: 700;\">ESCLUSIVAMENTE dal Brasile, dalla Colombia, dalla Spagna, dalla Germania e dall'Italia</span>, ti incoraggiamo a usufruire di questa speciale offerta di borsa di studio per migliorare le tue competenze in inglese presso MLI!",
+        "Q1. Quanto denaro posso ricevere come borsa di studio da MLI?",
+        "Ti invitiamo a scoprire il prezzo speciale per questa borsa di studio diversificata.",
+        "Regole:",
+        "1. I candidati possono presentare domanda solo per il proprio programma (l'alloggio NON è obbligatorio). <br>2. Questo prezzo della borsa di studio diversificata sarà applicato solo all'iscrizione iniziale (Non sarà possibile utilizzare questa borsa di studio per l'estensione). <br>3.Se hai bisogno dei nostri servizi di alloggio per più di 8 settimane, questo prezzo speciale per l'alloggio è disponibile per periodi superiori a 8 settimane. Ti preghiamo di richiedere un preventivo tramite il modulo di contatto. <br>4. Tutte le tasse devono essere pagate all'arrivo."
+    ],
+    "questions": {
+        "tables" :[ 
+            { 
+                "title_optional": "=Breve termine con visto turistico o ESTA=",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "2 settimane di studio",
+                "weeksPlan": "2 Piano settimanale",
+                "tbody": [
+                    [
+                        "$100",
+                        "Spese di elaborazione"
+                    ],
+                    [
+                        "$250",
+                        "Tasse Scolastiche"
+                    ],
+                    [
+                        "$30",
+                        "Noleggio di un libro di testo"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$380</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale scuola</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-50%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "2 settimane di alloggio per studenti (Residence)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Commissione di sistemazione"
+                    ],
+                    [
+                        "$420",
+                        "Affitto (Quadrupla: 4 camere)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$520</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale alloggio </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$900</b>",
+                        "<b style=\"background-color: yellow;\">Totale scuola e alloggio</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-57%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "3 settimane di studio",
+                "weeksPlan": "3 Piano settimanale",
+                "tbody": [
+                    [
+                        "$100",
+                        "Spese di elaborazione"
+                    ],
+                    [
+                        "$375",
+                        "Tasse Scolastiche"
+                    ],
+                    [
+                        "$35",
+                        "Noleggio di un libro di testo"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$510</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale scuola</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-53%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "3 settimane di alloggio per studenti (Residence)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Commissione di sistemazione"
+                    ],
+                    [
+                        "$630",
+                        "Affitto (Quadrupla: 4 camere)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$730</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale alloggio </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-34%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,240</b>",
+                        "<b style=\"background-color: yellow;\">Totale scuola e alloggio</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-43%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "4 settimane di studio",
+                "weeksPlan": "4 Piano settimanale",
+                "tbody": [
+                    [
+                        "$100",
+                        "Spese di elaborazione"
+                    ],
+                    [
+                        "$400",
+                        "Tasse Scolastiche"
+                    ],
+                    [
+                        "$40",
+                        "Noleggio di un libro di testo"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$540</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale scuola</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-61%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "4 settimane di alloggio per studenti (Residence)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Commissione di sistemazione"
+                    ],
+                    [
+                        "$840",
+                        "Affitto (Quadrupla: 4 camere)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$940</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale alloggio </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-33%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,480</b>",
+                        "<b style=\"background-color: yellow;\">Totale scuola e alloggio</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-47%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "title_optional": "Durata più lunga con visto per studenti",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "12 settimane di studio",
+                "weeksPlan": "12 Piano settimanale",
+                "tbody": [
+                    [
+                        "$150",
+                        "Spese di elaborazione"
+                    ],
+                    [
+                        "$1,721",
+                        "Tasse Scolastiche"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,871</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale scuola</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-38%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 settimane di alloggio per studenti (Residence)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Commissione di sistemazione"
+                    ],
+                    [
+                        "$1,512",
+                        "Affitto (Quadrupla: 4 camere)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale alloggio </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$3,483</b>",
+                        "<b style=\"background-color: yellow;\">Totale scuola e alloggio</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "24 settimane di studio",
+                "weeksPlan": "24 Piano settimanale",
+                "tbody": [
+                    [
+                        "$150",
+                        "Spese di elaborazione"
+                    ],
+                    [
+                        "$3,125",
+                        "Tasse Scolastiche"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$3,275</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale scuola</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 settimane di alloggio per studenti (Residence)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Commissione di sistemazione"
+                    ],
+                    [
+                        "$1,512",
+                        "Affitto (Quadrupla: 4 camere)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale alloggio </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$4,887</b>",
+                        "<b style=\"background-color: yellow;\">Totale scuola e alloggio</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-37%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "48 settimane di studio",
+                "weeksPlan": "48 Piano settimanale",
+                "tbody": [
+                    [
+                        "$150",
+                        "Spese di elaborazione"
+                    ],
+                    [
+                        "$5,789",
+                        "Tasse Scolastiche"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$5,939</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale scuola</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 settimane di alloggio per studenti (Residence)",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Commissione di sistemazione"
+                    ],
+                    [
+                        "$1,512",
+                        "Affitto (Quadrupla: 4 camere)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Totale alloggio </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$7,551</b>",
+                        "<b style=\"background-color: yellow;\">Totale scuola e alloggio</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>Rispetto alle tariffe normali</b></span>"
+                    ]
+                ]
+                }
+            }
+        ]
+    },
+    "qa": [
+        {
+            "question": "Q2. Come posso ottenere questa borsa di studio?", 
+            "answer": [
+                "Puoi richiedere la borsa di studio tramite il nostro modulo di candidatura online  utilizzando il codice <b>\"SCHOLAR-IT2023\"</b>. Pagherai solo $150 per la tassa di elaborazione (non rimborsabile) e riceverai un credito di $50 se non sei uno studente F1. Il primo giorno di scuola presso MLI, effettuerai il pagamento del saldo, al netto di $50."
+            ],
+            "btn": "/images/home/image1.png",
+            "btn_link" : "/it/admission"
+        },
+        {
+            "question": "Q3. Quali programmi posso seguire con questa borsa di studio?", 
+            "answer": [
+                " Potrai scegliere tra i programmi di ESL (dalle 9:00 alle 13:15) o di Conversazione (dalle 13:45 alle 18:00).",
+                "- <a href=\"/documents/2023/MLI WW Class schedule 2023.pdf\">Orario del programma Westwood</a> <br> - <a href=\"/documents/2023/MLI HW Class schedule 2023.pdf\">Orario del programma Hollywood </a>"
+            ]
+        },
+        {
+            "question": "Q4. Offre l'MLI servizi abitativi?", 
+            "answer": [
+                "Sì, offriamo opzioni di ospitalità presso famiglie e residenze per studenti/camere studentesche. Ti invitiamo a visitare il seguente <a href=\"/it/stay\">link</a>.",
+                "Non esitare a contattarci se hai domande!"
+            ],
+            "btn" : "/images/home/image2.png",
+            "btn_link": "/it/contact"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Pagamento | Mentor Language Institute",
+    "pageDescription": "Pagamento",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">Pode efetuar o seu pagamento de forma segura com um cartão de crédito, preenchendo o formulário nesta página e submetendo-o. O Mentor Language Institute não guarda as informações do seu cartão de crédito. Este processo de pagamento é facilitado através do pagamento online da Stripe.<br />Preencher as informações abaixo</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Data",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Campus",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Nome próprio do aluno",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Apelido do aluno / Nome de família",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Nome da agência (se aplicável)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Montante",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*Será adicionada uma taxa de processamento de 4% do CR ao montante do pagamento.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Montante debitado no seu cartão de crédito"
+        }
+    ]
+    },
+  "btn_label": "Continuar para a página de finalização da compra"
+}

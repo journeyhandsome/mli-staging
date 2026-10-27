@@ -1,0 +1,45 @@
+{
+    "pageTitle": "Statuswechsel | Mentor Language Institute",
+    "pageDescription": "Vielen Dank für dein Interesse am MLI. Diese Seite ist für diejenigen, die derzeit ohne F-1 (Studenten-) Visum  in den USA sind und in den F1-Status wechseln möchten.",
+    "title": "Statuswechsel",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "Vielen Dank für dein Interesse am MLI.<br />Diese Seite ist für diejenigen, die derzeit ohne F-1 (Studenten-) Visum  in den USA sind und in den F1-Status wechseln möchten.",
+      "Wenn du dich bewerben möchtest, fahre bitte fort:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-de.png",
+        "link": "/de/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Bewerbungsschritte",
+      "description": [
+        "Die genauen Bewerbungsschritte hängen vom Land, der Nationalität, dem Kurs, dem zu erhaltenden Visum, etc. ab. Unsere Mitarbeiter beraten dich gerne über die passenden Schritte, basierend auf deiner individuellen Situation. "
+      ]
+    },
+    "needHelp": {
+      "title": "Brauchst du Hilfe? Frag uns!",
+      "description": [
+        "Visumsregeln und Bewerbungsschritte unterscheiden sich basierend auf deinem aktuellen Status.<br />Wenn du dir Klarheit wünscht, bevor du dich bewirbst, fühl dich frei uns zu kontaktieren. Wir haben Mitarbeiter in 8 Sprachen."
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-de.png",
+      "link": "/de/contact",
+      "title": "Kontaktiere uns",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

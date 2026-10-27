@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Andere | Mentor Language Institute",
+    "pageDescription": "Vielen Dank für dein Interesse am MLI. Diese Seite ist für diejenigen, die bereits ein anderes Visum als ein Studentenvisum haben oder aus ESTA-Ländern oder Touristenvisum-Ländern stammen.",
+    "title": "Andere",
+    "image": "/images/how-to-apply/apply-others/apply-others.jpg",
+    "subtitle": [
+      "Vielen Dank für dein Interesse am MLI.<br />Diese Seite ist für diejenigen, die bereits ein anderes Visum als ein Studentenvisum haben oder aus ESTA-Ländern oder Touristenvisum-Ländern stammen.",
+      "Wenn du beabsichtigst, dich bei MLI zu bewerben, ohne ein Studentenvisum (F-1) zu beantragen, fahre bitte mit der Anmeldung auf dieser Seite fort."
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/common/apply-now-en.jpg",
+        "link": "/de/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Bewerbungsschritte",
+      "description": [
+        "Die Bewerbungsschritte unterscheiden sich je nach Land, Nationalität, Kursen, Visum usw. Unsere Mitarbeiter werden dich bei der Einreichung deiner Online-Bewerbung über die genauen Schritte informieren."
+      ]
+    },
+    "needHelp": {
+      "title": "Brauchst du Hilfe? Frag uns!",
+      "description": [
+        "- Kann ich am MLI studieren ohne ein VISUM zu beantragen?<br />- Ist es möglich mich mit einem anderen Visum als das Studentenvisum(F-1) anzumelden?<br />- Wie lange kann ich in den USA bleiben ohne Studentenvisum?<br />- Wieviele Stunden pro Woche muss ich am MLI studieren um ein Studentenvisum zu erhalten?",
+        "Die Antworten auf diese Fragen werden auf der Website der US-Botschaft oder der US-Einwanderungsbehörde (USCIS) erläutert.",
+        "Wenn du dir diese Fragen beantworten möchtest, bevor du dich bewirbst, liess die Informationen auf den genannten Webseiten oder kontaktiere uns. Wir können dir Unterstützung in 8 Sprachen anbieten."
+      ]
+    },
+    "contactUs": {
+      "image": "/images/common/contact-us-en.png",
+      "link": "/de/contact",
+      "title": "Kontaktiere uns",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

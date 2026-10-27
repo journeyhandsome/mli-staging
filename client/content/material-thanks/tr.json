@@ -1,0 +1,40 @@
+{
+    "pageTitle": "Broşürü İndirdiğiniz için Teşekkurler | Mentor Language Institute",
+    "pageDescription": "Okul broşürümüz ve bilgi paketimizi indirme isteğiniz için teşekkür ederiz.",
+    "title": "Broşürü İndirdiğiniz için Teşekkurler",
+    "subtitle": [
+      "Okul broşürümüz ve bilgi paketimizi indirme isteğiniz için teşekkür ederiz.",
+      "Lütfen aşağıdaki linkleri kullanarak broşürü indirin."
+    ],
+    "brochures": [
+      {
+        "title": "MLI Broşürü ve Program Çizelgesi",
+        "image": "/images/material/mli-brochure-program-schedule-tr.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> İndir",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "Konut Broşürü",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> İndir",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Fiyat ve Kayıt Paketi",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> İndir",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "MLI Etkinlik Broşürü",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> İndir",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>Bir kabül personeli, sorunuzla ilgili size e-posta gönderecektir.<br />Öğrenci vizesi, konut müsaitliği veya başka bir şeyle ilgili herhangi bir sorunuz varsa, lütfen istediğiniz zaman bizimle iletişime geçmekten çekinmeyin.</span>",
+      "<b>【 WESTWOOD KAMPÜSÜ 】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />TEL: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />Çalışma saatleri: Pazartesiden Perşembeye 08:30 - 20:30, Cuma 08:30 - 18:00",
+      "<b>【 HOLLYWOOD KAMPÜSÜ 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />Çalışma saatleri: Pazartesiden Cumaya 08:30 - 17:00"
+    ]
+  }

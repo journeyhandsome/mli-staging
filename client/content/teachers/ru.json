@@ -1,0 +1,139 @@
+{
+  "pageTitle": "MLI Классы и Учителя | Mentor Language Institute",
+  "pageDescription": "На курсах общего английского, студенты приобретают практические навыки, используя материалы реального мира, такие как сообщения в Twitter,  TED и видеоклипы.",
+  "title": "MLI Классы и Учителя",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "Классы сосредоточены на практических навыках",
+      "description": [
+        "На курсах общего английского, студенты приобретают практические навыки, используя материалы реального мира, такие как сообщения в Twitter,  TED и видеоклипы. Используя эти материалы, студенты систематически приобретают навыки грамматики, письма, чтения, словарного запаса, аудирования и речи.",
+        "Кроме того, TOEFL® и другие курсы по подготовке к академическим экзаменам предоставляют стратегии для решения тестов."
+      ]
+    },
+    {
+      "title": "Учителя MLI",
+      "description": [
+        "Ежегодно 1200 студентов заканчивают курсы в MLI, что говорит о качестве наших педагогов. Мы постоянно стремимся улучшить навыки преподавателей с помощью наблюдений, оценок и семинаров по профессиональному развитию."
+      ],
+      "checklist": [
+        {
+          "title": "Требования к найму (контрольный список для найма учителей)",
+          "lists": [
+            "Выпускник четырехгодичного колледжа",
+            "3-летний опыт работы в качестве учителя английского языка",
+            "Преподавательская квалификация, такая как TESOL",
+            "Знание экзаменационных тестов, таких как TOEFL® / GMAT®",
+            "Сильные коммуникативные навыки",
+            "Страсть и приверженность к обучению"
+          ]
+        },
+        {
+          "title": "Метод отбора",
+          "lists": [
+            "Резюме и диплом",
+            "Грамматический тест по английскому языку",
+            "Интервью",
+            "Модель урока"
+          ],
+          "note": "Уровень найма составляет менее 20%."
+        }
+      ]
+    },
+    {
+      "title": "Система обучения и оценки",
+      "description": [
+        "В MLI оцениваются следующие три краитерия каждые 12 недель, для сохранения качества учителей."
+      ],
+      "listType": "decimal",
+      "lists": [
+        "Учащиеся оценивают учебники и учителей. Учителя со степенью удовлетворенности 85% или менее проходят профессиональную подготовку.",
+        "Наблюдения за уроками и отзывы, предоставленные старшей академической командой.",
+        "Профессиональные семинары для повышения квалификации и обучения."
+      ],
+      "note": "Руководство и учителя стремятся ежедневно повышать качество образования!"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

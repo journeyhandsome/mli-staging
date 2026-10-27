@@ -1,0 +1,68 @@
+{
+    "pageTitle": "支払い | Mentor Language Institute",
+    "pageDescription": "支払い",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">このページのフォームにご記入の上、送信していただくと、クレジットカードで安全にお支払いいただけます。メンターランゲージインスティテュートは、お客様のクレジットカード情報を保存しません。このお支払い手続きは、Stripeのオンライン決済を利用しています。<br />下記に必要事項をご記入ください。</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "日付",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "キャンパス",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "生徒の名前",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "生徒の名字",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "エージェント名（該当する場合）"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "金額",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*CR処理手数料の4％がお支払い金額に加算されます。</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "クレジットカードへの請求額"
+        }
+    ]
+    },
+  "btn_label": "レジに進む"
+}

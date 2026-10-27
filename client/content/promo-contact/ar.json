@@ -1,0 +1,208 @@
+{
+  "pageTitle": "اتصل للحصول على عرض 2022 | Mentor Language Institute",
+  "pageDescription": "اسمك",
+    "title": "اتصل للحصول على عرض 2022",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": " اسمك",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": " بريدك الالكتروني ",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "بلد ",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": " رقم الهاتف ",
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "I do NOT want to receive a call from MLI"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "تفصيل  المعهد",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "هوليوود"
+          },
+          {
+            "value": "Westwood",
+            "label": "ويستوود"
+          },
+          {
+            "value": "Both",
+            "label": "الاتنين"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "نالوقت المتوقع للدراسة ؟ ",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "شهر"
+          },
+          {
+            "value": "three months",
+            "label": "ثلاثة اشهر"
+          },
+          {
+            "value": "six months",
+            "label": "ستة أشهر"
+          },
+          {
+            "value": "one year or more",
+            "label": "سنة أو أكثر"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "كيف عرفت MLI؟",
+        "selection": [
+          {
+            "value": "Friend",
+            "label": "صديق"
+          },
+          {
+            "value": "Other",
+            "label": "آخر"
+          },
+          {
+            "value": "Internet",
+            "label": "الإنترنت"
+          },
+          {
+            "value": "An agent",
+            "label": "وكيل"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": " رسالتك"
+      }
+    ],
+    "btn_label": "إرسال"
+  }

@@ -1,0 +1,422 @@
+{
+    "title": "/assets/images/lptf-new/ch/title.png",
+    "sched_text": [
+            "最大化你的时间"
+    ],
+    "sched_per_week": [
+            "加入我们的灵活和可定",
+        "<br>制的英语课程吧！<br>每周只需上课两天！<br>"
+    ],
+    "click_for_change_of_status": "点击更改状态",
+    "affordable_price": [
+            "CP值超高"
+    ],
+    "price": [
+            "$",
+        "<span class=\"mv__large\">",
+            "358",
+        "</span><span class=\"mv__small\">",
+            "/ 4周",
+        "</span>"
+    ],
+    "text_2": "*这价格含假期",
+    "apply_online": [
+        "聯繫我們"
+        ],
+
+    "intro_text": [
+            "Mentor語言學院成立於2002年，位於兩個受歡迎的領域：韋斯特伍德和好萊塢。",
+        "<br>我們幫助來自世界各地的學生提高英語技能。"
+    ],
+    "transfer": [""],
+    "free_trial": [
+            "安排免费的学校参观"
+    ],
+
+
+
+    "reason": "選擇MLI的3個理由",
+    "reason_1": "理由一 <br> 低價學費",
+    "reason_img": "/assets/images/lptf-new/ch/reason_table.png",
+    "reason_text_1": [
+        "<p class=\"reason__heading--blue\">",
+            "为您的英语班付费少",
+        "</p><p class=\"reasonIntro__text\">",
+            "MLI以其出色的计划和低的学费而闻名  我们的学费通常比其他语言学校要经济得多，特别是在通货膨胀时期。",
+        "</p>"
+    ],
+    "reason_text_2": [
+            "转校生限定优惠",
+        "</span><br><span class=\"reasonIntro__medium\">",
+            "低至",
+        "</span><span class=\"reasonIntro__price\">",
+            "$358",
+        "<span class=\"reasonIntro__small\">",
+            "/ 4周",
+        "</span></span>"
+    ],
+    "reason_text_3": "*这价格含假期",
+    "prices": [
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 58px;\"></p><p class=\"reasonPrice__head first_header\">",
+                "学费<br>(早上)",
+            "</p><p class=\"reasonPrice__head second_header ch_header\" style=\"width: 450px;\">",
+                "学费",
+            "<br>",
+                "(下午和晚上)",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 58px;\">",
+                "",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "12週",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,988",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,868",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,703*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,577*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "24週",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,424",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,208",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 3,092*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 2,864*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "48週",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 10,032",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 9,648",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,718*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,306*",
+            "</p>"
+        ]
+    ],
+    "price_notes": [
+        "<p class=\"reasonPrice__note\">",
+            "僅出於本地促銷價格",
+        "</p><p class=\"reasonPrice__text\">",
+            "註冊費:$150",
+        "<br>",
+        "<br>",
+            "**不退還",
+        "</p>"
+    ],
+    "compare_text_1": "跟我們周圍的其他學校比起來",
+    "compare_text_2": "我們的價格非常有競爭力，提供公平性價格",
+    "compare_img": "/assets/images/lptf-new/Tuition Comp Chart 2024.png",
+    "private_lessons": "/assets/images/lptf-new/ch/private_lessons.jpg",
+    "private_lessons_sp": "/assets/images/lptf-new/ch/private_lessons_sp.jpg",
+    "download_brochure": "下載手冊",
+    "reason_2": "理由二 <br> 靈活的課程時間表",
+    "reason_2_text_1": [
+        "<span class=\"reason__heading--orange\">",
+            "可選擇最適合您 <br>的時間表"
+    ],
+    "reason_2_text_2": [
+        "MLI 在整個課程中提供非常靈活的時間表，可以根據您 <br> 的生活方式選者課程時間。 此外，新設的“具有可定制 <br> Conversation Program”允許更靈活的課程日程安排。"
+    ],
+    "reason_2_row_1": [ 
+        "<p class=\"reasonFlex__head\">",
+            "早上課程",
+        "</p>",
+        "<div class=\"reasonFlex__textBox\">",
+        "<p class=\"reasonFlex__list\">",
+            "• ESL 課程 (總共4級別)",
+        "<br>",
+            "• TOEFL測試準備課程",
+        "</p>",
+        "<p class=\"reasonFlex__detail\">",
+            "上午9:00至下午1:15",
+        "<br><span class=\"reasonFlex__small\">",
+            "星期一至週四",
+        "</span></p>",
+        "</div>"
+    ],
+    "reason_2_row_2": [
+        "<p class=\"reasonFlex__head\">",
+            "下午和晚上課程",
+        "<br class=\"sp\">",
+            "",
+        "</p><div class=\"reasonFlex__textBox\"><p class=\"reasonFlex__list\">",
+            "• 英文對話課程（總共4級別）",
+        "</p><p class=\"reasonFlex__detail\">",
+            "下午：下午1:45至下午6:00",
+        "<br><span class=\"reasonFlex__small\">",
+            "星期一至週四",
+        "</span></p><p class=\"reasonFlex__detail\">",
+            "晚上：下午6:30至10:45",
+        "<br><span class=\"reasonFlex__small\">",
+            "僅在星期一和星期三",
+        "</span></p></div>"
+    ],
+    "reason_2_notes": [
+        "<span class=\"reasonText__line\">",
+            "您可以選擇每週2天,3天或4天的課程日程！",
+        "</span><br>",
+            "\"我們在下午和晚上新設英文對話課程。您可為您的課程日程及生活方式安排上課。\""
+    ],
+    "reason_2_lead": "你必須上 A、B、C、D 的順, 每週上一次 A-D 課。",
+    "reason_schedule_row_1": [
+        "<p class=\"reasonSchedule__head\">",
+            "週一",
+        "</p><p class=\"reasonSchedule__head\">",
+            "週二",
+        "</p><p class=\"reasonSchedule__head\">",
+            "週三",
+        "</p><p class=\"reasonSchedule__head\">",
+            "週四",
+        "</p>"
+    ],
+    "reason_schedule_row_2": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "9:00 AM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "1:15 PM",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p>"
+    ],
+    "reason_schedule_row_3": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "1:45 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "6:00 PM",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "A",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "C",
+        "</p><p class=\"reasonSchedule__text--purple\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_schedule_row_4": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "6:30 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "10:45 PM",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--purple mr\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_computation": "示例：Conversation Program => 星期一 A 和 B + 星期三 C 和 D（2 天/週）",
+    "ask_question": "下載手冊",
+    "reason_3": [
+            "理由三",
+        "<br>",
+            "洛杉磯的偉大地點"
+    ],
+    "reason_heading":[
+        "<span class=\"reason__heading--purple\">",
+            "不用擔心沒有車子"
+    ],
+    "reason_location_text": [
+            "\"MLI校園位於洛杉磯的偉大和受歡迎的地區，特別是韋斯特伍德和好萊塢中心。 <br> 公共交通很方便,不需要開車來上課.\""
+    ],
+    "westwood_text": [
+            "\"韋斯特伍德校園（Westwood Campus）距比佛利山莊 <br>（Beverly Hills）僅10分鐘路程，該山丘以其世界知名的購物 <br>和時尚區（例如Rodeo Drive和Beverly Drive）而聞名。 <br>比佛利山莊是洛杉磯最豪華的城市之一。\""
+    ],
+    "hollywood_text": [
+            "好萊塢校園距離著名的中國劇院和名人之旅的步行距離。 <br> 好萊塢總是令人興奮，周圍是受歡迎的劇院，時尚的餐廳， <br> 設計師商店和夜店。"
+    ],
+    "easy_transfer": "簡單轉學過程",
+    "transfer_text": "MLI 將幫助您轉學過程很順利",
+    "transfer_text_2": [
+            "我們的多語言員工友好而樂 ",
+            "於助人。我們隨時為您提供",
+        "<br class=\"pc\">",
+            "服務，包括：轉學相關文",
+        "<br class=\"pc\">",
+            "檔，班級信息，宿舍信息，",
+        "<br class=\"pc\">",
+            "運輸信息和服務。"
+    ],
+    "step_1": [
+        "<p class=\"process__head\">",
+            "步驟1",
+        "</p><p class=\"process__desc--01\">",
+            "準備轉學相",
+        "<br>",
+            "關文檔",
+        "</p><p class=\"process__btn\">",
+            ">> 更多詳細",
+        "</p>"
+    ],
+    "step_2": [
+        "<p class=\"process__head\">",
+            "步驟2",
+        "</p><p class=\"process__desc--02\">",
+            "填寫我們的線上",
+        "<br>",
+            "報名表並支付$ 150：",
+        "<br>",
+            "註冊費 (不可退還)支付",
+        "</p><p class=\"process__btn\">",
+            ">> 更多詳細",
+        "</p>"
+    ],
+    "step_3": [
+        "<p class=\"process__head\">",
+            "步驟3",
+        "</p><p class=\"process__desc--03\">",
+            "新的學生定向將於",
+        "<br>",
+            "週一下午1:00開始。",
+        "<br>",
+            "（如果星期一是假期，",
+        "<br>",
+            "那麼定向將在星期",
+        "<br>",
+            "二舉行。）",
+        "</p><p class=\"process__btn\">",
+            ">> 更多詳細",
+        "</p>"
+    ],
+    "read_1": [
+        "<p class=\"stepBox__head\">",
+            "步驟1",
+        "</p><p class=\"stepBox__text\">",
+            "準備下列文件並將其帶到 MLI。",
+        "</p><p class=\"stepBox__text\">",
+            "a) 有填寫好的Transfer Form (轉學表格)",
+        "<br>",
+        "<a class=\"stepBox__link--01\" href=\"/documents/2022/TF form - Westwood - 2022.pdf\">",
+            "Download Westwood Transfer Form",
+        "</a><br>",
+        "<a class=\"stepBox__link--02\" href=\"/documents/2022/TF form - Hollywood - 2022.pdf\">",
+            "Download Hollywood Transfer Form",
+        "</a><br>",
+            "b) 護照<br>c) 簽證",
+        "<br>",
+            "d) I-94",
+        "<br>",
+            "e) 3 個月內出具的最低餘額為 $7,800 的財力證明書",
+        "</p>"
+    ],
+    "read_2": [
+        "<p class=\"stepBox__head\">",
+            "步驟2",
+        "</p><p class=\"stepBox__text\">",
+            "您可以通過以下鏈接填寫在線申請表並支付 150 美元的報名費。",
+        "<br><a href=\"../admission\">https://mliesl.edu/admission</a></p>",
+        "<p class=\"stepBox__text\">",
+            "我們收到所有相關資料再進行發行入學許可書",
+        "<br>",
+            "您可以向您當前的學校提供入學許可書，以向我們發布您的 SEVIS ID。",
+        "</p>"
+    ],
+    "read_3": [
+        "<p class=\"stepBox__head\">",
+            "步驟3",
+        "</p><p class=\"stepBox__text\">",
+            "您可以通過以下鏈接查看我們的學校月曆以查看您的開學日期。",
+        "<br><a href=\"../school-calendar\">https://mliesl.edu/school-calendar/</a></p>"
+    ],
+    "apply_now": "進行報名",
+    "change_of_status": "/assets/images/lptf-new/ch/change_of_status.jpg",
+    "change_of_status_sp": "/assets/images/lptf-new/ch/change_of_status_sp.jpg",
+    "with_our_school_lawyer": "/assets/images/lptf-new/ch/with_our_school_lawyer.jpg",
+    "with_our_school_lawyer_sp": "/assets/images/lptf-new/ch/with_our_school_lawyer_sp.jpg",
+    "step_for_change_of_status": ["<span>更改身份的6个步骤请见此处</span>"],
+    "pop_up_steps": "/assets/images/lptf-new/ch/pop_up_steps.jpg",
+    "pop_up_steps_sp": "/assets/images/lptf-new/ch/pop_up_steps_sp.jpg",
+    "not_sure_text": [
+        "<p class=\"schedule__text\">",
+            "还不确定吗？",
+        "</p><p class=\"schedule__text\">",
+            "探索我们的校园 <br> 立即预订免费的学校参观！",
+        "</p>"
+    ],
+    "free_trial_text": [
+            "免费体验课预约"
+    ],
+
+    "contact": "聯繫我們",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone Number",
+    "receive": "I do not want to receive a call from MLI",
+    "campus_ref": "Campus Preference",
+    "approx": "Approximately how soon do you plan on starting your program in the U.S.? ",
+    "media": "How did you hear about MLI?",
+    "msg": "Your Message",
+    "send": "Send"
+
+}

@@ -1,0 +1,38 @@
+{
+    "pageTitle": "Visto de Estudante F1 | Mentor Language Institute",
+    "pageDescription": "Por favor escolha uma opção da lista abaixo. Se você não tem certeza sobre a sua situação, clique em LEIA MAIS, para detalhes.",
+    "title": "Visto de Estudante F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "Por favor escolha uma opção da lista abaixo. <br /> Se você não tem certeza sobre a sua situação, clique em LEIA MAIS, para detalhes."
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_por.png",
+                    "link": "/por/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_por.png",
+                    "link": "/por/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_por.png",
+                    "link": "/por/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Alguma dúvida?",
+            "description": [
+                "Normalmente, para que você fique por um período maior nos Estados Unidos, você vai precisar de um visto de estudante.",
+                "Se você não tem certeza se precisa ou não de um visto, sinta-se a vontade de entrar em contato conosco.",
+                "Nós temos um time de funcionários com capacidade de comunicação em 8 línguas diferentes."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-por.jpg",
+                "link": "/por/contact"
+            }
+        }
+}

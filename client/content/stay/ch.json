@@ -1,0 +1,175 @@
+{
+    "pageTitle": "住宿 | Mentor Language Institute",
+    "pageDescription": "MLI与USSS合作，为MLI的学生提供住宿信息",
+    "title": "住宿",
+    "subtitle": [
+      "MLI与USSS合作，为MLI的学生提供住宿信息 <br />有关更多详细信息，请访问  <a href=\"www.usssinc.net/ch\" target=\"_blank\">www.usssinc.net/ch</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "学生可选择寄宿或是宿舍",
+    "types": [
+      {
+        "title": "宿舍",
+        "description": [
+          "我们共有40多间宿舍，每间宿舍都有来自各个国家的学生。因此学生有很多交流的机会。如果学生的预算有限，我们建议您选择宿舍。"
+        ],
+        "lists": [
+          "<b>宿舍类型</b> : 单人间 (一人), 双人间 (两人) 和 四人间 (四人)",
+          "<b>供餐</b> ：不提供早/中/晚餐【配套齐全的厨房设施】",
+          "<b>个人隐私</b> ：宿舍和寄宿家庭同样注重隐私。由于宿舍学生较多，因此，我们更加注重隐私保护。",
+          "<b>交通</b> ：公车大约20分钟，步行大约40分钟。"
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "宿舍费用",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "安置费用* : $200<br /> 如果小于18岁，租金将比18岁以上的人的价格高出大约10%。",
+              "thead": [
+                "",
+                "单间 (一人)",
+                "合住 (两人)",
+                "四人间 (四人)"
+              ],
+              "tbody": [
+                [
+                  "<b>押金**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*安置费用需一次性缴交。不可退还。<br />**押金将在学生搬出后退还。<br />"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "寄宿家庭",
+        "description": [
+          "寄宿家庭适合一些想住在安全且有家庭气息的地方的学生。同时也是一个可以学习美国文化、传统及家庭观念的机会。"
+        ],
+        "lists": [
+          "<b>宿舍类型 </b> ：私人（個人）",
+          "<b>供餐</b> ：一日两餐（早餐和晚餐）",
+          "<b>隐私</b> ：因家庭而异",
+          "<b>交通</b> ：因家庭的地理位置而已"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "寄宿家庭的费用",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "安置费用* : $300<br /> 如果小于18岁，租金将比18岁以上的人的价格高出大约10%。",
+              "thead": [
+                "",
+                "单间 (一人)",
+                "合住***"
+              ],
+              "tbody": [
+                [
+                  "<b>押金**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*安置费用需一次性缴交，不可退还。<br />**押金将在学生搬出后退还。<br />***您如果申请寄宿家庭的合住房间，您需要和另一个人一起申请。<br />"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "注意事项",
+      "description": [
+        "当您刚到达美国时，很难找到安全且信赖的地点，尤其是没有社安号码(SSN)的国际学生。<br />大多数的地方需要SSN及信用历史才能租房。<br />因此，我们建议可以先选择我们的宿舍。",
+        "※您的住宿将由 U.S. Support Service Inc.或是其它仲介提供。"
+      ]
+    }
+  }

@@ -1,0 +1,139 @@
+{
+    "pageTitle": "MLI Dersleri ve Öğretmenleri | Mentor Language Institute",
+    "pageDescription": "Genel İngilizce derslerinde, öğrenciler Twitter mesajları, TED görüşmeleri ve film klipleri gibi gerçek dünya materyallerini kullanarak pratik beceriler edinirler.",
+    "title": "MLI Dersleri ve Öğretmenleri",
+    "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+    "lists": [
+      {
+        "title": "Sınıflar Pratik Becerilere odaklanır",
+        "description": [
+          "Genel İngilizce derslerinde, öğrenciler Twitter mesajları, TED görüşmeleri ve film klipleri gibi gerçek dünya materyallerini kullanarak pratik beceriler edinirler. Bu materyalleri kullanarak, öğrenciler dilbilgisi, yazma, okuma, kelime hazinesi, dinleme ve konuşma kalıplarını sistematik bir şekilde edinirler.",
+          "Ayrıca TOEFL® ve diğer sınav hazırlık kursları, problemleri kendi yöntemlerimizle çözmek için stratejiler sunmaktadır."
+        ]
+      },
+      {
+        "title": "MLI'in Öğretmenleri",
+        "description": [
+          "Her yıl MLI'dan mezun olan 1,200 öğrenci, eğitmenlerimizin kalitesine hitap ediyor. Sürekli olarak eğitmenlerin becerilerini gözlem yoluyla geliştirmeye çalışıyoruz. değerlendirmeler ve profesyonel gelişim atölyeleri."
+        ],
+        "checklist": [
+          {
+            "title": "İşe Alma Gereksinimleri (işe alma öğretmenleri için kontrol listesi)",
+            "lists": [
+              "Dört yıllık üniversite mezunu",
+              "İngilizce öğretmeni olarak 3 yıllık deneyim",
+              "TESOL gibi öğretim yeterliliği",
+              "TOEFL® / GMAT® gibi sınav testleri bilgisi",
+              "Güçlü iletişim becerileri",
+              "Tutku ve öğretime bağlılık"
+            ]
+          },
+          {
+            "title": "Seçim yöntemi",
+            "lists": [
+              "Özgeçmiş ve diploma",
+              "Ingilizce ve dilbilgisi testi",
+              "Mülakat",
+              "Model Dersi"
+            ],
+            "note": "İşe alma oranı % 20'den az."
+          }
+        ]
+      },
+      {
+        "title": "Eğitim ve Değerlendirme Sistemi",
+        "description": [
+          "MLI'da, öğretmen kalitesini korumak için her üç haftada bir üç öğeyi kontrol ediyoruz."
+        ],
+        "listType": "decimal",
+        "lists": [
+          "Öğrenciler ders kitaplarını ve eğitmenleri değerlendirir. % 85 veya daha az bir memnuniyet oranı olan eğitmenler mesleki gelişim eğitimine girerler.",
+          "Üst düzey akademik ekip tarafından sağlanan ders gözlem ve geri bildirimleri",
+          "Eğitimi geliştirmek için mesleki gelişim ve eğitim atölyeleri"
+        ],
+        "note": "Yönetim ve eğitmenler, her gün eğitim kalitesini arttırmaya gayret ederler!"
+      }
+    ],
+    "teachers": [
+      {
+        "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+        "name": "Julie"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+        "name": "Brian"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+        "name": "Kelsey"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+        "name": "Shawna"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+        "name": "Benjamin"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+        "name": "Kyle"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+        "name": "Lindsay"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+        "name": "Leo"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+        "name": "Alex"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+        "name": "Carl"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+        "name": "Shenna"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+        "name": "Bonnie"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+        "name": "Patrick"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+        "name": "Hubert"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+        "name": "Matt"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+        "name": "Maribel"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+        "name": "Joan"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+        "name": "Sara"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+        "name": "Tom"
+      },
+      {
+        "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+        "name": "Gannon"
+      }
+    ]
+  }

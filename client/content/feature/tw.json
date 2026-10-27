@@ -1,0 +1,103 @@
+{
+  "pageTitle": "五個選擇MLI的理由 | Mentor Language Institute",
+  "pageDescription": "我們至今已經幫助超過17,000位學生增進他們的英語能力。洛杉磯有這麼多的英語學校，為什麼學生們選擇我們呢?以下是我們調查後得到的結果。",
+  "section1": {
+    "title": "五個選擇MLI的理由",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "Mentor Language institute 的五個特色",
+    "description": [
+      "我們至今已經幫助超過17,000位學生增進他們的英語能力。洛杉磯有這麼多的英語學校，為什麼學生們選擇我們呢?以下是我們調查後得到的結果。"
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "調查時間: 2017年1月至6月份，共342位學生。"
+  },
+  "section3": [
+    {
+      "title": "No.1 : 價格合理",
+      "subtitle": "超值價格！每週 $209 起。下午課程比上午課程便宜 40%！",
+      "description": [
+        "學生選擇MLI第一個主要原因是因為價格可負擔得起。",
+        "您在我們學校上課的時間越久，學費越便宜。若是您上課一個月(四周)，學費是$1,220 = 每周 $305。這個價格在LA已經非常合理，不過若是您上課48周，學費是 $10,032 = 每周$209。請比較我們和其他學校的價格。"
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "學費的細項",
+          "link": "/tw/price"
+        }
+      ]
+    },
+    {
+      "title": "No.2 : 絕佳的地點",
+      "subtitle": "Westwood & Hollywood :洛杉磯熱鬧的區域",
+      "description": [
+        "我們位於洛杉磯極好，極熱鬧的地方, <b>Westwood</b>  及  <b>Hollywood</b>。 學生可以輕易抵達有名的地方像是 Santa Monica和LA 市區。"
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "Westwood 院區"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "Hollywood 院區"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "關於Westwood 院區",
+          "link": "/tw/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "關於Hollywood 院區",
+          "link": "/tw/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "No.3 : 多種大專院校準備課程",
+      "subtitle": "許多學生結束MLI課程之後，接著就讀UCLA和 Santa Monica College。",
+      "description": [
+        "我們提供各大語言檢定的課程像是 <b>TOEFL®, IELTS™.</b>。許多學生結束MLI語言檢定課程之後，接著就讀UCLA，USC和 Santa Monica College。"
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "關於就讀大專院校",
+          "link": "/tw/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "No.4 : 彈性課程時間",
+      "subtitle": "我們提供早上，下午及晚上的課程。",
+      "description": [
+        "MLI提供三種不同課程時間。學生可選擇早上，下午或是晚上的課程。"
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※這是Westwood院區的課程時間表。如果您需要 Hollywood 院區的時間表，請聯繫我們。"
+    },
+    {
+      "title": "No.5 : 宿舍",
+      "subtitle": "Our Partner: 我們的合作夥伴: US Support Services Inc. 提供宿舍來自世界各地的學生交流的機會。",
+      "description": [
+        "我們的合作夥伴: US Support Services Inc. 負責寄宿家庭及宿舍的安排。他們提供各院區的附近超過40個房間。許多第一次來到美國的學生選擇住在宿舍。"
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "關於住宿",
+          "link": "/tw/stay"
+        }
+      ]
+    }
+  ]
+}

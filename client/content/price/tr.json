@@ -1,0 +1,229 @@
+{
+  "pageTitle": "Fiyatlar | Mentor Language Institute",
+  "pageDescription": "Kendi konaklamanızı sağlıyorsanız, konaklama ücreti ödemenize gerek yoktur.",
+  "title": "Fiyatlar",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/tr/price-auto\">Fiyat hesaplayıcısı</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Öğrenim Ücreti ＋ ②Konaklama Ücreti ＋ ③Diğer masraflar",
+    "subtitle": [
+      "Kendi konaklamanızı sağlıyorsanız, konaklama ücreti ödemenize gerek yoktur.<br> <a href=\"/tr/price-auto/\">*Fiyat teklifi almak için lütfen fiyat hesaplayıcısını kullanın.</a>"
+    ],
+    "lists": [
+      {
+        "title": "①Öğrenim Ücreti",
+        "subtitle": [
+          "Fiyat, kursunuza ve kalış sürenize bağlı olarak değişecektir.MLI'da ne kadar uzun kalirsaniz, indirim o kadar büyük olur."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "link": [
+          "<b>S&C</b>",
+          "<b>S1: Ücretleri kredi kartıyla ödeyebilir miyim? </b><br /><b>C1:</b> Evet, kredi kartıyla ödeyebilirsiniz. Ancak %4 hizmet ücreti eklenecektir.",
+          "<b>S2: MLI’ye ödeme yapmak için hangi ödeme yöntemlerini kullanabilirim?</b> <br /><b>C2:</b> Aşağıdaki ödeme yöntemlerini kabul ediyoruz: <br> • Banka havalesi <br> • Uluslararası para transferi <br> • Nakit <br> • Kişisel çek <br> • Kredi kartı <br> • Banka kartı <br> • Zelle",
+          "Kredi/banka kartı ödemeleri için %4 hizmet ücretinden kaçınmak istiyorsanız, aşağıdaki alternatiflerden birini tercih edebilirsiniz: <br><b>Banka havalesi, uluslararası para transferi (35 ABD doları banka ücreti uygulanır), nakit, kişisel çek veya Zelle.</b>",
+          "<b>S3: Programım başladıktan sonra öğrenim ücretimi ödeyebilir miyim? </b><br /><b>C3:</b> Hayır. Tam ödeme program başlamadan önce veya ilk gününde yapılmalıdır."
+        ],
+        "category": [
+          {   
+            "title": "İsteğe Bağlı Hizmet",     
+            "table": {
+              "tableMaxCol": 4,
+              "title_optional": "Statü Değişikliği (B1/B2 veya J1 vizeniz varsa ve şu anda ABD'de bulunuyorsanız) veya Eski Haline Getirme",
+              "tbody": [
+                [
+                  "<b>Ücret açıklamaları</b>",
+                  "<b>Başvuru Sahiplerinin Türü</b>",
+                  "<b>Ücretler.</b>",
+                  "<b>Başvuru Sayısı</b>"
+                ],
+                [
+                  "Doldurma Ücreti (370 ABD Doları) ve Posta Ücreti dahil 1.185 ABD Doları Hizmet Ücreti <br> *Onay üzerine, öğrenciye öğrenim kredisi olarak 600 $ uygulanacaktır (nakit dışı değer).",
+                  "F1 öğrenci vizesi",
+                  "1,885$",
+                  "1"
+                ],
+                [
+                  "Bakmakla yükümlü olunan kişi başına 365$ Hizmet Ücreti",
+                  "F2 bağımlı vizesi",
+                  "365$",
+                  ""
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "②Konaklama Ücreti",
+        "subtitle": [
+          "Öğrenciler için aile yanı ve konut seçenekleri sunuyoruz. Amerikan kültürünü yaşamak isteyenler için aile yanı konaklama tavsiye edilir. Çok sayıda arkadaş edinmek isteyenler için yurtlar tavsiye edilir."
+        ],
+        "category": [
+          {
+            "title": "Aile Yanı Fiyatları",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Yerleşim Ücreti *: 300 ABD doları<br /> 18 yaşından küçükler için kira bedeli, 18 yaşından büyükler için belirlenen fiyattan yaklaşık %10 daha yüksek olacaktır.",
+              "thead": [
+                "",
+                "Özel",
+                "Paylaşımli***"
+              ],
+              "tbody": [
+                [
+                  "<b>Depozito**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 hafta",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 hafta",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 hafta",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 hafta",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 hafta",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 hafta",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Yurt Fiyatları",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Yerleşim Ücreti *: 200 TL<br /> 18 yaşından küçükler için kira bedeli, 18 yaşından büyükler için belirlenen fiyattan yaklaşık %10 daha yüksek olacaktır.",
+              "thead": [
+                "",
+                "Özel",
+                "Paylaşımli",
+                "Dörtlü"
+              ],
+              "tbody": [
+                [
+                  "<b>Depozito**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 hafta",
+                  "$570",
+                  "$430",
+                  "$315"
+                ],
+                [
+                  "2 hafta",
+                  "$1,140",
+                  "$860",
+                  "$630"
+                ],
+                [
+                  "3 hafta",
+                  "$1,710",
+                  "$1,290",
+                  "$945"
+                ],
+                [
+                  "4 hafta",
+                  "$2,280",
+                  "$1,720",
+                  "$1,260"
+                ],
+                [
+                  "8 hafta",
+                  "$4,320",
+                  "$3,080",
+                  "$2,320"
+                ],
+                [
+                  "12 hafta",
+                  "$6,480",
+                  "$4,620",
+                  "$3,480"
+                ]
+              ]
+            },
+            "description": [
+              "*Yerleşim ücreti bir defalık ödeme şeklindedir. Bu iade edilmez.<br />** Öğrenciler taşındıktan sonra güvenlik teminatı iade edilecektir.<br />*** Aile yanında bir ortak oda talep ediyorsanız, başka biriyle başvurmalısınız.",
+              "※Konaklayacağıniz yer ABD Destek Hizmetleri A.Ş. veya diğer acenteler tarafından sağlanacaktır.",
+              "<a href=\"/tr/stay/\"><i class='bi bi-arrow-right'></i>   Konaklama hakkında daha fazla bilgi</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③ İlk Ücretler",
+        "subtitle": [
+          "Yukarıdaki ücretlere ek olarak, diğer başlangıç ücretleri de vardır."
+        ],
+        "lists": [
+          "İlk İşleme Ücreti* ： 150 $",
+          "I-20 Posta Ücreti**: 120 $",
+          "SEVIS ücreti** ： 350 $ (Doğrudan SEVP'ye ödenir)",
+          "Ders kitabı: 150-240 $"
+        ],
+        "description": [
+          "*İade yapılmaz<br />**Öğrenci Vizesine başvurulursa"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Örnekler",
+    "subtitle": [
+      "Ödeme örnekleri: 1 ay (4 hafta) ve 1 yıl (48 hafta)"
+    ],
+    "lists": [
+      {
+        "title": "1 ay (4 hafta)",
+        "items": [
+          "İlk Ücret : 150 $",
+          "Öğrenim ücreti : 1,220$",
+          "Konut : $1,630（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Toplam: 3,000 ABD doları</span>"
+        ]
+      },
+      {
+        "title": "1 yıl (48 hafta)",
+        "items": [
+          "Başlangıç ücreti : 150 $",
+          "Öğrenim ücreti : 10,032 ABD doları",
+          "Konut : $13,810（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Toplam: 23,992 ABD doları</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Ücretler hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçmekten çekinmeyin."
+  ]
+}

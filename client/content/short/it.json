@@ -1,0 +1,60 @@
+{
+    "pageTitle": "Application Process for Short-term Overseas | Mentor Language Institute",
+    "pageDescription": "Who is elgible to apply for short-term study?",
+    "title": "Application Process for Short-term Overseas",
+    "image": "/images/short/passport-jp.jpg",
+    "category": [
+      {
+        "title": "Less than 90 days",
+        "content": [
+          "Who is elgible to apply for short-term study?",
+          "-A person living outside of the U.S.<br />-A person planning to stay in the U.S. less than 90 days."
+        ]
+      },
+      {
+        "title": "Application Steps",
+        "image": "/images/short/mli-design-apply-short-en.jpg",
+        "ordered_content": [
+          "Apply to MLI",
+          "Submit the documents",
+          "Recieve the final confirmation",
+          "Leave for the U.S."
+        ],
+        "content": [
+          "Short-term international students do not need a visa. However it is recommended that you complete the application process as early as possible to secure housing and class registration.",
+          "MLI is especially busy during summer holidays and spring breaks. Therefore, even for short-term study,<b>we recommend you complete the application at least two months prior to departure.</b>"
+        ],
+        "types": [
+          {
+            "title": "Cancellation Policy",
+            "content": [
+              "The enrollment fee of $150, will be charged at the time of application. The enrollment fee is non-refundable regardless if an application is rejected or enrollment is cancelled. Exceptions include insufficient housing."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "About the steps after application",
+        "image": "/images/short/mli-short-en.jpg",
+        "content": [
+          "After students have applied, the iMLI system processes the application. Students can follow the process which is listed on the iMLI."
+        ],
+        "types": [
+          {
+            "title": "Apply Online",
+            "content": [
+              "Fill out the information about your visa status <br /> Contact us via iMLI for all inquiries",
+              "Apply from below."
+            ]
+          }
+        ]
+      }
+    ],
+    "btn_label": "Online Application Form",
+    "admission": {
+      "link": "/it/admission",
+      "content": [
+        "*Please have your credit card in hand."
+      ]
+    }
+  }

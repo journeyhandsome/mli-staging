@@ -1,0 +1,45 @@
+{
+    "pageTitle": "Statü değişikliği | Mentor Language Institute",
+    "pageDescription": "MLI'ya kaydolduğunuz için çok teşekkürler. Bu sayfa ABD'de F1 (öğrenci) VISE'si olmayan ve F1 statüsüne geçmek isteyen kişiler içindir.",
+    "title": "Statü değişikliği",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "MLI'ya kaydolduğunuz için çok teşekkürler.<br /> Bu sayfa ABD'de F1 (öğrenci) VISE'si olmayan ve F1 statüsüne geçmek isteyen kişiler içindir.",
+      "Başvurmak isterseniz lütfen devam edin:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-tr.png",
+        "link": "/tr/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Uygulama adımları",
+      "description": [
+        "Kesin başvuru adımları, bir kişinin ülkesine, milliyetine, kursa, vize almasına vb. Bağlıdır. Personelimiz, size özel durumunuza göre uygun adımlar konusunda size rehberlik eder."
+      ]
+    },
+    "needHelp": {
+      "title": "Yardıma mı ihtiyacınız var? Bize sorun!",
+      "description": [
+        "Vize Kuralları ve başvuru adımları mevcut durumunuza göre farklıdır.<br />Başvuru yapmadan önce açıklamaya ihtiyacınız varsa, lütfen bizimle iletişime geçmekten çekinmeyin. 8 dilde akıcı bir kadromuz var!"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-tr.png",
+      "link": "/tr/contact",
+      "title": "Bizimle iletişime geçin",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD KAMPÜSÜ＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD KAMPÜSÜ＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

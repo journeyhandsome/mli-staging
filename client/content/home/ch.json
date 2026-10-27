@@ -1,0 +1,105 @@
+{
+  "pageTitle": "洛杉磯 C/P值最高的學校 | Mentor Language Institute",
+  "pageDescription": "洛杉磯 C/P值最高的學校 | Mentor Language Institute",
+  "peopleChooseMli": {
+    "title": "选择MLI的三大理由",
+    "lists": [
+      {
+        "image": "/images/home/ch/people-choose-mli-1.jpg",
+        "title": "好萊塢＆西木",
+        "description": "我们位于洛杉矶的黄金地段。学生不仅可以学习英语，还可以享受洛杉矶丰富多彩的生活。",
+        "read_more" : ["<a href=\"/ch/feature/\">» 閱讀更多</a>"]
+      },
+      {
+        "image": "/images/home/ch/people-choose-mli-2.jpg",
+        "title": "上午，下午或晚上",
+        "description": "我们为学生提供灵活的上课时间（上午，下午，晚上）。",
+        "read_more" : ["<a href=\"/ch/feature/\">» 閱讀更多</a>"]
+      },
+      {
+        "image": "/images/home/ch/people-choose-mli-3.jpg",
+        "title": "$201/週",
+        "description": "优越的地理位置和实惠的学费！如果您想要了解学费信息，请点击下面的联系我们。",
+        "read_more" : ["<a href=\"/ch/feature/\">» 閱讀更多</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/ch/mli-highly-rated.jpg",
+  "courses": {
+    "title": "培训班",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "ESL课程",
+        "subtitle": [
+          "这个课程包括听力，口语，阅读，词汇，语法和写作。 ESL课程是想要提高综合英语技能的学生理想选择。"
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "托福®课程",
+        "subtitle": [
+          "MLI的托福（TOEFL®）课程针对的是互联网的测试（iBT）四个部分取得成功所需的技能和策略。"
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Vacation ESL 课程",
+        "subtitle": [
+          "该课程由听力/口语、阅读/词汇和语法/写作课程组成。 <br>我们为想要短期学习英语的学生提供假期 ESL 课程。"
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "IELTS™",
+        "subtitle": [
+          "雅思考试包括四个部分，依次为听力、阅读、写作和口语。近些年来,越来越多的美国大学接受雅思成绩.在本课程中，您将学习在每个部分如何获得高分的技巧和策略。"
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "会话计划",
+        "subtitle": [
+          "我们的会话计划通过有趣的活动和互动学习，专注于提升您的英语会话能力！在我们的会话课程中，学生将探索各种词汇、短语和习语，使您的对话更加生动活泼。在我们的CMAR课程中练习发音。通过有趣的讨论、角色扮演和小组活动，您将在表达自己和进行有意义的对话方面获得信心。我们经验丰富的教师提供支持性的学习环境，引导您踏上语言探索之旅。"
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "商务+托业",
+        "subtitle": [
+          "TOEIC®考试是一项英语能力的测试指标，被全球各地的公司和组织所使用。除标准商务课程之外，TOEIC®课程还为学生在TOEIC®听力和阅读考试做准备，介绍必要的词汇i和解题策略，以帮助学生获取高分。",
+          "本课程将有助于提高词汇，阅读，听力和语法。通过学习策略来找到正确的答案。"
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/ch/free_trial_banner_CH_SIM.png",
+  "link": "/ch/freetrial",
+  "partnerSchools": {
+    "title": "MLI合作的大学",
+    "subtitle": "MLI学生在完成学校规定的课程后,可在无雅思和托福的语言成绩下转入我校的合作学校."
+  },
+  "locationCampus": {
+    "title": "位置/校园",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "Westwood校区",
+        "subtitle": "Westwood是一个充满活力且独特的地区。它有着世界著名的加州大学洛杉矶分校(UCLA)。它也拥有很多商店，餐馆和博物馆. 因此,对学生而言这是一个学习氛围和艺术气息都非常浓厚的地区. 而我们的主校区就被这优越的环境围绕着.",
+        "read_more" : ["<a href=\"/ch/westwood/\">» 閱讀更多</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "好萊塢校園",
+        "subtitle": "好莱坞校区在著名的中国剧院旁边。好莱坞地区有著名的电影院，著名的奥斯卡颁奖礼以及比弗利山庄.",
+        "read_more" : ["<a href=\"/ch/hollywood/\">» 閱讀更多</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "学生见证",
+    "seemoreBtn": "查看更多",
+    "TestimonialLink": "/ch/testimonials",
+    "readmoreBtn" : "阅读更多"
+  }
+}

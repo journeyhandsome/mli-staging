@@ -1,0 +1,59 @@
+{
+  "pageTitle": "Calendario scolastico | Mentor Language Institute",
+  "pageDescription": "La data di inizio del programma varia in base agli studenti di F1 o non F1.",
+  "title": "Calendario scolastico",
+  "calendar": [
+    {
+      "year": "2026",
+      "image": "/images/courses/school-calendar/2026.PNG"
+    },
+    {
+      "year": "2027",
+      "image": "/images/courses/school-calendar/2027.png"
+    }
+  ],
+  "notes": [
+    "<font color=\"#FECC13\">Giallo</font>: Data di inizio programma (modulo)<br /><font color=\"”#008000”\">Verde</font>： no scuola (festivo)"
+  ],
+  "schoolCalendar": {
+    "title": "Calendario scolastico (date di inizio del programma)",
+    "description": [
+      "<span class=\"ymarker\">La data di inizio del programma varia in base agli studenti di F1 o non F1.</span>"
+    ],
+    "lists": [
+      {
+        "key": "Studenti non F1 che non ottengono un visto per studenti.",
+        "value": [
+          "Possono iniziare il loro programma ogni lunedì. <br>Se il lunedì è un giorno festivo, la data di inizio del programma sarà martedì per quella settimana."
+        ]
+      },
+      {
+        "key": "Studenti F1 che ottengono un visto per studenti.",
+        "value": [
+          "Puoi iniziare in specifici lunedi' (evidenziato in giallo sul calendario).",
+          "<2026> <br />1/20, 2/17, 3/16, 4/13, 5/11, 6/8, 7/6, 8/3, 8/31, 9/28, 10/26, 11/23, 12/21",
+          "<2027><br /> 1/25, 2/22, 3/22, 4/19, 5/17, 6/14, 7/12, 8/9, 9/7, 10/4, 11/1, 11/29",
+          "<2028> <br /> 1/3"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande frequenti sulle date di arrivo negli Stati Uniti",
+    "lists": [
+      {
+        "key": "<b>D: Quanti giorni prima della data di inizio del programma uno studente può entrare negli Stati Uniti? </b>",
+        "value": [
+          "A: MLI non richiede ai nostri studenti di entare negli Stati Uniti con un determinato numero di giorni di anticipo. Tuttavia, i nostri studenti di solito entrano negli Stati Uniti 1 o 2 giorni prima della data di inizio del programma."
+        ],
+        "note": "Nota: gli studenti internazionali possono entrare negli Stati Uniti 30 giorni prima delle date di inizio del programma."
+      },
+      {
+        "key": "<b>D: È possibile spostarsi nella struttura prima delle date di inizio del programma? </b>",
+        "value": [
+          "A: Sì. Siamo in grado di organizzare la tua data di trasloco per qualsiasi altra data<br />Se ci sono altre domande, non esitare a consultarci."
+        ]
+      }
+    ]
+  }
+}

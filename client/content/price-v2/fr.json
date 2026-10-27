@@ -1,0 +1,227 @@
+{
+  "pageTitle": "Prix | Mentor Language Institute",
+  "pageDescription": "Si vous avez votre propre logement, vous n'avez pas besoin de payer ② les frais de logement.",
+  "title": "Prix",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/fr/price-auto\">Calculateur de prix</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Prix des cours + ②prix des hébergements + ③Autres frais",
+    "subtitle": [
+      "Si vous avez votre propre logement, vous n'avez pas besoin de payer ② les frais de logement.<br> *Veuillez utiliser notre  <a href=\"/fr/price-auto/\">Calculateur de prix</a>  pour obtenir un devis."
+    ],
+    "lists": [
+      {
+        "title": "①Prix des cours",
+        "subtitle": [
+          "Le prix varie en fonction de votre programme et de la durée.<br /> Plus vous étudiez à MLI, plus vous benéficierez de la réduction."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "link": [
+          "<b>Q&A</b>",
+          "<b>Q:</b>  Puis-je changer de classe après le début des cours? <br /><b>A:</b>  Oui, vous pouvez!",
+          "<br />"
+        ],
+        "category": [
+          {   
+            "title": "Service en option",     
+            "table": {
+              "tableMaxCol": 4,
+              "title_optional": "Changement de statut (si vous avez un visa B1/B2 ou J1 et que vous êtes actuellement aux États-Unis) ou réintégration",
+              "tbody": [
+                [
+                  "<b>Descriptif des frais</b>",
+                  "<b>Type de candidats</b>",
+                  "<b>Frais</b>",
+                  "<b>Nombre de candidats</b>"
+                ],
+                [
+                  "Frais de service de 1 885 $, y compris les frais de remplissage (370 $) et les frais d'envoi <br> *Une fois approuvé, 600 $ seront appliqués comme crédit pour frais de scolarité pour l'étudiant (valeur non monétaire).",
+                  "Visa étudiant F1",
+                  "1,885$",
+                  "1"
+                ],
+                [
+                  "Frais de service de 365 $ pour chaque personne à charge",
+                  "Visa dépendant F2",
+                  "365$",
+                  ""
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "②Frais d'hébergement",
+        "subtitle": [
+          "Nous offrons des options telles que la famille d'acceuil et des dortoirs pour les étudiants. La famille d'acceuil est recommandée pour les personnes qui souhaitent se familiariser avec la culture américaine. Les dortoirs sont recommandés pour les personnes qui aimeraient se faire beaucoup d'amis."
+        ],
+        "category": [
+          {
+            "title": "Prix de séjour en famille d'acceuil",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Frais de placement* : 300$<br /> Si vous avez moins de 18 ans, le loyer sera environ 10% plus élevé que le prix pour une personne de plus de 18 ans.",
+              "thead": [
+                "",
+                "Chambre privée",
+                "Partagée***"
+              ],
+              "tbody": [
+                [
+                  "<b>Caution**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semaine",
+                  "436$",
+                  "384$"
+                ],
+                [
+                  "2 semaines",
+                  "872$",
+                  "768$"
+                ],
+                [
+                  "3 semaines",
+                  "1,308$",
+                  "1,152$"
+                ],
+                [
+                  "4 semaines",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 semaines",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 semaines",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Prix des dortoirs",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Si vous avez moins de 18 ans, le loyer sera environ 10% plus élevé que le prix pour une personne de plus de 18 ans.",
+              "thead": [
+                "",
+                "Privée",
+                "Partagée (2 personnes)",
+                "Quad (4 personnes)"
+              ],
+              "tbody": [
+                [
+                  "<b>Caution**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semaine",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 semaines",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 semaines",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 semaines",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 semaines",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 semaines",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "description": [
+              "*Les frais de placement sont un paiement unique. Ce n'est pas remboursable.<br />**Le caution sera remboursée après le départ des étudiants.<br />***Si vous demandez une chambre partagée chez la famille d'acceuil,  <span class=\"rmarker\">vous devez faire la demande avec l'autre personne</span>",
+              "※Votre hébergement sera assuré par U.S. Support Service Inc. ou d'autres agents.",
+              "<a href=\"/fr/stay/\"><i class='bi bi-arrow-right'></i>  Plus d'informations sur les hébergements</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Frais initiaux",
+        "subtitle": [
+          "En plus des frais ci-dessus, il y a d'autres frais initiaux."
+        ],
+        "lists": [
+          "Frais de traitement: $150",
+          "I-20 Frais d'envoi ** $120",
+          "Frais SEVIS **: $350 (Payé directement à SEVP)",
+          "Livres: $150-$240"
+        ],
+        "description": [
+          "*Non remboursable<br />**Si le visa étudiant a été demandé"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Exemples",
+    "subtitle": [
+      "Voici des exemples de paiements: 4 semaines et 48 semaines"
+    ],
+    "lists": [
+      {
+        "title": "1 mois (4 weeks)",
+        "items": [
+          "Frais initiaux: $150",
+          "Frais des cours: $1,220",
+          "Logement: $1,560（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Total : $2,930</span>"
+        ]
+      },
+      {
+        "title": "1 an (48 semaines)",
+        "items": [
+          "Frais initiaux: $150",
+          "Frais des cours: $10,032",
+          "Logement: $12,360（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Total : $22,542</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Si vous avez des questions sur les frais, n'hésitez pas à nous contacter."
+  ]
+}

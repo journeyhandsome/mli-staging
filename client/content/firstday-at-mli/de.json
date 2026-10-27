@@ -1,0 +1,92 @@
+{
+  "pageTitle": "Der erste Tag am MLI | Mentor Language Institute",
+  "pageDescription": "Am MLI haben wir eine Orientierungsveranstaltung für neue Studenten zu Beginn jedes Semesters (alle 4 Wochen).",
+  "title": "Der erste Tag am MLI",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "Willkommen beim Mentor Language Institute!",
+      "description": [
+        "Am MLI haben wir eine Orientierungsveranstaltung für neue Studenten zu Beginn jedes Semesters (alle 4 Wochen).",
+        "Die Orientierung liefert dir wichtige Informationen zum besseren Verständnis unserer Programme, den Einwanderungsbestimmungen und Schulregeln. Du wirst von unserem Studiensekretariat, von unseren Lehrern, der Rezeption, dem Verwaltungs- und dem Managementpersonal begrüsst."
+      ],
+      "dates": [
+        "＜Anfangsdatum der einzelnen Semester＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "Die Orientierung startet um 13:00 Uhr."
+      ],
+      "groups": [
+        {
+          "title": "Orientierungs- und Einstufungstest",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "13:00 – 13:30Uhr",
+              "value": "Anmeldeunterlagen"
+            },
+            {
+              "key": "13:30 – 14:00Uhr",
+              "value": "Akademische Orientierung"
+            },
+            {
+              "key": "14:00 – 15:00Uhr",
+              "value": "Einstufungstest"
+            },
+            {
+              "key": "15:15 – 15:35Uhr",
+              "value": "Schulrichtlinien, Immigrationsregeln"
+            },
+            {
+              "key": "15:35 – 15:50Uhr",
+              "value": "College Transfer Service"
+            },
+            {
+              "key": "15:50 – 16:00Uhr",
+              "value": "Aktivitäten & Wohnen"
+            },
+            {
+              "key": "16:00 – 16:10Uhr",
+              "value": "mündlicher Test & Klassenzuweisung"
+            },
+            {
+              "key": "16:10 – 16:20Uhr",
+              "value": "Lehrbücher kaufen"
+            }
+          ]
+        },
+        {
+          "title": "Was du am ersten Tag mitbringen musst",
+          "lists": [
+            "Pass (Als u houder bent van een studentenvisum)",
+            "I-20 (Als u houder bent van een studentenvisum)",
+            "Stift und Papier",
+            "Leerboekgeld en collegegeldbetaling"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Details",
+      "groups": [
+        {
+          "title": "Orientierungsplan",
+          "description": [
+            "Zuerst füllst du die notwendigen Unterlagen für die Einschreibung aus.<br />Als nächstes wird der Akademische Direktor oder der Programmkoordinator eine Präsentation über unsere verschiedenen Programme, die Klassenregeln und wie du erfolgreich von einem Level in das nächsthöhere wechselst, halten."
+          ]
+        },
+        {
+          "title": "Einstufungstest und Interview",
+          "description": [
+            "Nach der Orientierung folgt der \"\"Englisch Einstufungstest\"\" mit etwa 80 Fragen. Er umfasst einen Hör- und Schreibteil, welcher Grammatik, Wortschatz und Leseverständnis behandelt. Es ist ein 60-minütiger Test, der dein Englischlevel bestimmt.<br />Nach dem Test gibt es einen kurzen mündlichen Test (mehr wie ein Interview) mit einem unserer Instruktoren (entweder der Programmkoordinator, der Akademische Direktor oder ein MLI Lehrer).<br />Dieser Test soll dabei helfen das richtige Level und/oder Programm für dich zu finden, basierend auf deinem jetzigen Wissenstand und deinen Zielen."
+          ]
+        },
+        {
+          "title": "Lehrbücher kaufen",
+          "description": [
+            "Nach dem Einstufungstest und dem Interview kaufen die Schüler ihre Lehrbücher an der Rezeption. Die Mitarbeiter der Rezeption stehen dir gerne zur Verfügung, um weitere Fragen oder Anliegen zu beantworten."
+          ]
+        }
+      ]
+    }
+  ]
+}

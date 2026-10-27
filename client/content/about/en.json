@@ -1,0 +1,43 @@
+{
+  "pageTitle": "What is MLI? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute was founded in 2002 and is located in two popular areas: Westwood & Hollywood.",
+  "section1": {
+    "title": "What is MLI?",
+    "description": [
+      "Mentor Language Institute was founded in 2002 and is located in two popular areas: Westwood & Hollywood. <br />We help students from all over the world improve their English."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Pay Less for Quality Classes",
+    "description": [
+      "We value two things: <b>“Quality of Education”</b> and <b>“Price.”<b>",
+      "English is the global language and a necessary tool for communication with people from around the world. Our hope is that international students acquire English skills to succeed in the world. For this reason, we focus on the quality of classes and low price."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "As of 2020, over 17,000 students have chosen and graduated from MLI.",
+    "description": [
+      "We offer ESL program (General English Program with 6 skill areas : Grammar/Writing, Reading/Vocabulary, and Listening/Speaking), TOEFL®, IELTS™ (For students who want to prepare to go to college), and TOEIC®.",
+      "Many students have also gone on to study at universities or colleges in the U.S. like UCLA, USC and Santa Monica College."
+    ],
+    "lists": [
+      {
+        "link": "/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "5 reasons People Choose MLI"
+      },
+      {
+        "link": "/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Company Information"
+      },
+      {
+        "link": "/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Photo / Video Gallery"
+      }
+    ]
+  }
+}

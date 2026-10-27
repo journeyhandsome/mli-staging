@@ -1,0 +1,45 @@
+{
+    "pageTitle": "Mudança de Status | Mentor Language Institute",
+    "pageDescription": "Muito obrigado pelo seu interesse em se inscrever na MLI. Esta página é para aqueles que estão atualmente nos EUA, sem um visto de F1 (estudante), e gostariam de mudar para o status de F1.",
+    "title": "Mudança de Status",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "Muito obrigado pelo seu interesse em se inscrever na MLI.<br />Esta página é para aqueles que estão atualmente nos EUA, sem um visto de F1 (estudante), e gostariam de mudar para o status de F1.",
+      "Caso deseje aplicar, clique no botão abaixo:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-por.png",
+        "link": "/por/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Etapas da Aplicação",
+      "description": [
+        "As etapas exatas da inscrição dependem do país, da nacionalidade, do curso, do visto, etc. Nossa equipe terá prazer em orientá-lo em cada etapa com base em sua situação exclusiva."
+      ]
+    },
+    "needHelp": {
+      "title": "Precisa de ajuda? Pergunte para nós!",
+      "description": [
+        "As regras de visto e as etapas de inscrição são diferentes com base no seu status atual.<br />Se você precisar de esclarecimentos antes de se inscrever, não hesite em nos contatar. Temos uma equipe fluente em até 8 idiomas!"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-por.jpg",
+      "link": "/por/contact",
+      "title": "Contate-nos",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,43 @@
+{
+  "pageTitle": "Qu'est-ce que MLI? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute a été fondé en 2002 et est situé dans deux quartiers populaires: Westwood et Hollywood.",
+  "section1": {
+    "title": "Qu'est-ce que MLI?",
+    "description": [
+      "Mentor Language Institute a été fondé en 2002 et est situé dans deux quartiers populaires: Westwood et Hollywood.<br />Nous aidons les étudiants du monde entier à améliorer leur anglais."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Payer moins pour les classes de qualité",
+    "description": [
+      "Nous valorisons deux choses: <b>\"Qualité de l'éducation\"</b>  et  <b>\"Prix\".<b>",
+      "L'anglais est la langue globale et un outil nécessaire pour la communication avec les gens du monde entier. Notre espoir est que les étudiants internationaux acquièrent des compétences en anglais pour réussir dans le monde. Pour cette raison, nous nous concentrons sur la qualité des classes à des prix raisonnables."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "Jusqu'en 2020, plus de 17 000 étudiants ont choisi et obtenu leur diplôme à MLI.",
+    "description": [
+      "Nous offrons des cours d'ESL (programme d'anglais général avec 7 niveaux comprenant grammaire/expression écrite, lecture/vocabulaire et compréhension à l'audition/expression orale), TOEFL®, IELTS™ (pour les étudiants qui veulent transférer à l'université) et TOEIC®.",
+      "Beaucoup d'étudiants ont également continué à étudier dans des universités ou des collèges aux États-Unis comme UCLA, USC et Santa Monica College."
+    ],
+    "lists": [
+      {
+        "link": "/fr/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "5 raisons pour lesquelles les gens choisissent MLI"
+      },
+      {
+        "link": "/fr/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Informations sur la compagnie"
+      },
+      {
+        "link": "/fr/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Galerie photo/vidéo"
+      }
+    ]
+  }
+}

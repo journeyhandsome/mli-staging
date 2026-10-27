@@ -1,0 +1,101 @@
+{
+    "pageTitle": "TOEFL iBT’deki Format ve Sorulara İlişkin 26/07/2023 Tarihli Değişiklikler | Mentor Language Institute",
+    "pageDescription": "TOEFL iBT’deki Format ve Sorulara İlişkin 26/07/2023 Tarihli Değişiklikler",
+    "title": "TOEFL iBT’deki Format ve Sorulara İlişkin 26/07/2023 Tarihli Değişiklikler",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "Merhaba, herkese. Bugün, uluslararası öğrencilerin üniversitelere ve kolejlerine kabul edilmeleri için gereken İngilizce yeterlilik testlerinden biri olan TOEFL iBT’nin formatı ve sorularında değişiklikler yapacağız. Bu kısa açıklamanın sınav için hazırlanmanızda faydalı olmasını umuyoruz.",
+      "Biz, <a href=\"https://mliesl.edu/tr/\" style=\"color: #3D4C5C;\"><u>Mentor Language Institute</u></a> (MLI), Amerika Birleşik Devletleri’nde SEVP tarafından onaylanmış uluslararası öğrencileri kabul eden ve ACCET tarafından akredite edilmiş bir İngilizce okuluz. MLI, yıllardır öğrencilere İngilizce yeterlilik sınavlarına hazırlanmayı öğretiyor ve Test Hazırlık Programımızdaki öğretmen kadromuz öğrencilere bu sınavlarda başarılı olmayı ve sınavlarda herhangi bir değişiklik olduğunda güncel kalmanın yollarını öğretiyor.",
+      "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">7/26/2023 tarihinden itibaren, TOEFL iBT yeni bir sınav formatına ve diğer bazı değişikliklere sahip olacak. Bu değişiklikler testi alan kişiler için iyi olacak, çünkü test daha kısa ve daha az yorucu olacak.</span>"
+    ],
+    "services":
+        {
+            "title": "TOEFL iBT Formatındaki Değişiklikler 7/26/2023 tarihinden itibaren",
+            "subtitle": "Değişiklikler aşağıda listelenmiştir:",
+            "lists": [
+                "1. Testin talimatları daha basit ve doğrudan olacak. (Bu küçük bir değişiklik.)",
+                "2. Test arayüzü “Kullanıcı Arayüzü” daha kolay kullanılabilir ve anlaşılır hale gelecek. (Bu küçük bir değişiklik.) ",
+                "3. Okuma bölümü, her biri 10 soru içeren 2 parçadan oluşacak. (Şu anda, 30 ila 40 soru içeren 3 veya 4 parçaya sahip olmak mümkündür. Yeni sürümde, soru sayısı %33 ila %50 azaltılacak ve bu bölümdeki süre <span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">54-72 dakikadan 35 dakikaya indirilecek</span>.)",
+                "4. Yazma bölümü de değişecek. “Bağımsız Yazma” sorusu (Yazma 2), “Akademik Tartışma” sorusu adı verilen yeni bir alıştırma ile değiştirilecek.",
+                "5. Bu testteki en önemli değişiklik olacak.Okuma ve dinleme bölümleri artık puanlama dışı sorular içermeyecek. <br /> (Deneme amaçlı veya “sahte” sorular artık olmayacak.)"
+            ]
+        },
+    "format":
+        {
+            "title": "7/26/2023 tarihinden itibaren yeni TOEFL iBT sınav formatı",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>Test Bölümü</b>",
+                  "<b># Soru Sayısı</b>",
+                  "<b>Estimated Time</b>"
+                ],
+                [
+                  "Okuma",
+                  "20 sorular",
+                  "35 dakika"
+                ],
+                [
+                  "Dinleme",
+                  "28 sorular",
+                  "36 dakika"
+                ],
+                [
+                  "Konuşma",
+                  "4 görevler",
+                  "16 dakika"
+                ],
+                [
+                  "Yazma",
+                  "2 görevler",
+                  "29 dakika"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">Toplam Süre</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">– – – – –</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">UUnder 2 saat</span>"
+                ]
+              ]
+            },
+            "description": [
+                "Yeni yazma görevine “Akademik Tartışma” görevi deniyor. Egzersiz, bir okuma parçası ile başlıyor. Bu, bir profesör ile iki öğrenci arasındaki bir çevrimiçi tartışmadır. Profesör, öğrencilere bir konu tanıtır ve konuyla ilgili bir soru sorar. Bundan sonra, iki öğrenci soruya cevap verir.",
+                "Ayrıca, profesörün sorusuna cevap veren bir gönderi de yazmanız gerekiyor.  <b>Cevabınızda, fikrinizi ifade etmeli, desteklemeli ve tartışmaya katkıda bulunmalısınız. “Bir etkili cevap”, 100 kelimeyi aşan ve yazmak için 10 dakikanız olan bir yazı olmalıdır.</b>"
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "Yeni yazma sorusunun örnek bir egzersizi ve İngilizce’nin ileri ve orta seviyelerindeki iki örnek makale şunlardır:",
+            "listTitle": "Yeni TOEFL iBT Yazma Örnek Sorusu",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "Örnek Cevap 1 (Gelişmiş düzey): Olası Puan [5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "Skor Rasyoneli ve Açıklaması 1",
+                  "subdescription":[
+                        "<span style=\"background-color: #ffff66;\">Bu ileri seviyede bir cevap ve muhtemelen Yazma 1 için puanlama rubriğine göre 5 puan alacaktır. Yazar, kompleks fikirleri detaylı ve örneklerle açıklayarak tartışmaya iyi bir katkı sağlar. Yazar, hava kirliliği fikrini seçer ve hava kirliliğinin nasıl üretildiği, atmosfere nasıl zarar verdiği ve bu tür hasarın bazı sonuçlarından bahseder. Cevapta ifade sırası mantıklı ve tutarlıdır. Ayrıca, yazar ilgili bir başka sonuç olan insan sağlığı üzerindeki etkileri de gündeme getirir ve hava kirliliğinin bir sağlık durumuna sahip bir kişiyi nasıl etkileyebileceğini açıklar. Yazar, sadece çeşitli dilbilgisi ve cümle yapılarını kullanmakla kalmaz, aynı zamanda konuyla ilgili güçlü bir terim yelpazesi ve yanıt içinde yüksek sayıda eşanlamlı kullanır. </span> ",
+                        "<span style=\"background-color: #ffff66;\">Çok az hata vardır; “contaminants” kelimesi yanlış yazılmış olsa da, bu kelimenin özgül doğası nedeniyle kabul edilebilir bir hatadır. Ayrıca, yazar, “problem with air pollution” ifadesinde bir dilbilgisi hatası yapar ve bu “problem of air pollution” şeklinde olmalıdır. Son cümledeki “problem” kelimesiyle başka bir dilbilgisi hatası vardır. Bu kelime çoğul olmalıdır. Ancak, her iki dilbilgisi hatası da zamanlı koşullar altında yüksek düzeyde İngilizce bilen bir yazar için mümkündür. Bu nedenle, bu hatalar puan azaltmasına neden olmaz. </span> "
+                    ]
+            },
+            "sample2":
+            {
+              "title": "Örnek Cevap 2 (Orta düzey): Olası Puan [3.0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "Skor Rasyoneli ve Açıklaması 2",
+              "subdescription":[
+                "<span style=\"background-color: #ffff66;\">Bu orta düzeyde bir cevap ve muhtemelen Yazma 1 için puanlama kriterlerine göre bir 3 alacaktır. Yazar, tartışmaya katkıda bulunuyor ancak bazı fikirler eksik veya yeterli ayrıntıya sahip değil. Örneğin, yazar kirliliğin kaynağı olarak fabrikalardan bahsediyor. Ancak bundan sonra, yazar LA ve arabalar hakkında bilgi veriyor ki bu ilgisiz bir nokta. Ayrıca, yazar elektrikli arabaların kullanımını öneriyor ancak bu tür arabaların nasıl kirliliği azaltmaya yardımcı olduğunu açıklamıyor. Yazarın dil ve cümle yapılarına yüksek bir çeşitlilik yok ancak makul miktarda kelime dağılımı var. Yazar ayrıca, cevapta konuyla ilgili terminoloji kullanır, örneğin “küresel ısınma”. </span> ",
+                "<span style=\"background-color: #ffff66;\">Cevapta çeşitli hatalar var. Bu hatalar puan kaybına neden olur ve muhtemelen süreli koşullarla ilgili değildir. Örneğin, “çok fazla kirlilik gelir” ifadesi yanlış fiil zamanı kullanır ve “çok fazla kirlilik gelir” olmalıdır. Ayrıca, “duman havaya gider” ifadesinde farklı bir edat kullanılmalıdır: “duman havaya gider.” Ayrıca, “can not” fiili tek bir kelime olmalı ve “need” yardımcı fiili “stop” fiilinin yerine “durmak” fiilinin altyapısını takip etmelidir. Yazar, “öngörülebilir” sıfatı için yanlış bir önek kullanmıştır. Ancak, yazar, noktalama işaretlerini iyi bir şekilde kullanır ve virgül ve noktaları uygun şekilde kullanır. </span> "
+              ]
+            },
+            "description": ["Hepsi bir arada, bu TOEFL iBT’deki değişiklikler, sınavın daha kısa ve daha az yorucu olmasını sağlayarak sizlere fayda sağlamalıdır. Umarız bu bilgi sizin için faydalı olur ve hazırlıklarınızda ve çalışmalarınızda size başarılar dileriz! "]
+            
+        }
+    
+  }

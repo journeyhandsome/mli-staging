@@ -1,0 +1,1212 @@
+{
+  "pageTitle": "Fiyat Hesaplama 2025 | Mentor Language Institute",
+  "pageDescription": "Aşağıdaki soruları cevaplayarak İngilizce çalışmalarınızın fiyatını hesaplayabilirsiniz.",
+  "defaultText": {
+    "title": "Fiyat Hesaplama 2025",
+    "subtitle": "Aşağıdaki soruları cevaplayarak İngilizce çalışmalarınızın fiyatını hesaplayabilirsiniz.",
+    "lists": [
+      {
+        "name": "course",
+        "title": "①Kurs",
+        "selection": [
+          {
+            "key": "esl",
+            "value": "ESL"
+          },
+          {
+            "key": "toefl",
+            "value": "TOEFL®"
+          },
+          {
+            "key": "ielts",
+            "value": "IELTS™"
+          },
+          {
+            "key": "business_eng",
+            "value": "Business English plus TOEIC®"
+          },
+          {
+            "key": "conversation",
+            "value": "Conversation"
+          },
+          {
+            "key": "vacational_eng",
+            "value": "Vacational English"
+          }
+        ]
+      },
+      {
+        "name": "week",
+        "title": "②Term Dönemi (hafta)",
+        "selection": [
+          {
+            "key": "1",
+            "value": "1"
+          },
+          {
+            "key": "2",
+            "value": "2"
+          },
+          {
+            "key": "3",
+            "value": "3"
+          },
+          {
+            "key": "4",
+            "value": "4"
+          },
+          {
+            "key": "6",
+            "value": "6"
+          },
+          {
+            "key": "8",
+            "value": "8"
+          },
+          {
+            "key": "10",
+            "value": "10"
+          },
+          {
+            "key": "12",
+            "value": "12"
+          },
+          {
+            "key": "16",
+            "value": "16"
+          },
+          {
+            "key": "20",
+            "value": "20"
+          },
+          {
+            "key": "24",
+            "value": "24"
+          },
+          {
+            "key": "28",
+            "value": "28"
+          },
+          {
+            "key": "32",
+            "value": "32"
+          },
+          {
+            "key": "36",
+            "value": "36"
+          },
+          {
+            "key": "40",
+            "value": "40"
+          },
+          {
+            "key": "44",
+            "value": "44"
+          },
+          {
+            "key": "48",
+            "value": "48"
+          }
+        ],
+        "notes": [
+          "※Derslere katilmayi planladığınız dönem dilimini seçiniz (Dönem sonunda bir kampüste ögrenim süresini uzatabilirsiniz.) Uzun süreli bir çalışma programı için başvuruda bulunursanız, indirim oranı da artacaktır.<br />※Eğitim görmeyi düşündüğünüz dönemi (1-48 hafta aralığında) giriniz."
+        ]
+      },
+      {
+        "name": "visa",
+        "title": "③Vize'nizi seçiniz",
+        "selection": [
+          {
+            "key": "student_visa",
+            "value": "Öğrenci Vizesi F1"
+          },
+          {
+            "key": "esta",
+            "value": "ESTA veya Turist Vizesi"
+          }
+        ]
+      }, 
+      {
+        "name": "age",
+        "title": "Select Age",
+        "selection": [
+          {
+            "key": "under_18",
+            "value": "Under 18"
+          },
+          {
+            "key": "over_18",
+            "value": "Over 18"
+          }
+        ]
+      },
+      {
+        "name": "accommodation",
+        "title": "④Konaklama",
+        "selection": [
+          {
+            "key": "one",
+            "value": "Yurt (Özel Oda)"
+          },
+          {
+            "key": "two",
+            "value": "Yatakhane (Paylaşımlı - 2 Oda)"
+          },
+          {
+            "key": "four",
+            "value": "Yatakhane (Paylaşımlı - 4 Oda)"
+          },
+          {
+            "key": "home_one",
+            "value": "Aile Yanı (Özel)"
+          },
+          {
+            "key": "home_two",
+            "value": "Aile Yanı (Paylaşımlı)"
+          }, 
+          {
+            "key": "no",
+            "value": "Kendim tarafından bir konaklama bulacağım"
+          }
+        ]
+      },
+      {
+        "name": "transport",
+        "title": "⑤Hava limanindan Alma Servisi",
+        "subtitle": "※Yurtta kalmayı veya aile yaninda kalmayı tercih ettiğinizde, havaalanında karşılama hizmeti zorunludur.",
+        "selection": [
+          {
+            "key": "yes",
+            "value": "EVET"
+          },
+          {
+            "key": "no",
+            "value": "HAYIR"
+          }
+        ]
+      }
+    ],
+    "buttonName": "Hesapla"
+  },
+  "resultText": {
+    "title": "Fiyat Hesaplama 2025",
+    "name": "Total amount ...",
+    "subtitle": [],
+    "breakdown": {
+      "title": "Tahmininizin dökümü.",
+      "header": [
+        "Heading",
+        "Price"
+      ],
+      "content": [
+        {
+          "key": "processing_fee",
+          "title": "Processing Fee"
+        },
+        {
+          "key": "tuition",
+          "title": "Tuition"
+        },
+        {
+          "key": "sevis",
+          "title": "SEVIS Fee"
+        },
+        {
+          "key": "i20",
+          "title": "E-posta yoluyla I20 gönderme ücreti",
+          "note": "*FedEx tarafından bir I-20 gönderilmesi talep edilirse, 120$ nakliye ücreti eklenecektir."
+        },
+        {
+          "key": "housing_placement",
+          "title": "Housing Placement Fee"
+        },
+        {
+          "key": "housing_rent",
+          "title": "Housing Rent for"
+        },
+        {
+          "key": "extra",
+          "title": "Accommodation Extra Day "
+        },
+        {
+          "key": "security_deposit",
+          "title": "Security Deposit (Refundable)"
+        },
+        {
+          "key": "transport",
+          "title": "Airport Pick-up (One-way)"
+        }
+      ],
+      "btn": [
+        {
+          "key": "print",
+          "value": "<i class=\"bi bi-printer-fill\"></i> Print"
+        },
+        {
+          "key": "send_email",
+          "value": "<i class=\"bi bi-envelope-fill\"></i> Send To Email"
+        }
+      ]
+    },
+    "faq": {
+      "btnApply": {
+        "text": "Check how to apply",
+        "link": "/tr/how-to-apply"
+      },
+      "btnCalculate": "Recalculate"
+    }
+  },
+  "sendToEmail": {
+    "title": "Please Enter Information",
+    "forms": [
+      {
+        "type": "text",
+        "name": "fname",
+        "label": "Adınız:",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "E-posta adresiniz:",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "Ülke:",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Abkhazia",
+            "label": "Abkhazia"
+          },
+          {
+            "value": "Afghanistan",
+            "label": "Afghanistan"
+          },
+          {
+            "value": "Albania",
+            "label": "Albania"
+          },
+          {
+            "value": "Algeria",
+            "label": "Algeria"
+          },
+          {
+            "value": "Andorra",
+            "label": "Andorra"
+          },
+          {
+            "value": "Angola",
+            "label": "Angola"
+          },
+          {
+            "value": "Antigua and Barbuda",
+            "label": "Antigua and Barbuda"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Armenia",
+            "label": "Armenia"
+          },
+          {
+            "value": "Australia",
+            "label": "Australia"
+          },
+          {
+            "value": "Austria",
+            "label": "Austria"
+          },
+          {
+            "value": "Azerbaijan",
+            "label": "Azerbaijan"
+          },
+          {
+            "value": "Bahamas",
+            "label": "Bahamas"
+          },
+          {
+            "value": "Bahrain",
+            "label": "Bahrain"
+          },
+          {
+            "value": "Bangladesh",
+            "label": "Bangladesh"
+          },
+          {
+            "value": "Barbados",
+            "label": "Barbados"
+          },
+          {
+            "value": "Belarus",
+            "label": "Belarus"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Belize",
+            "label": "Belize"
+          },
+          {
+            "value": "Benin",
+            "label": "Benin"
+          },
+          {
+            "value": "Bhutan",
+            "label": "Bhutan"
+          },
+          {
+            "value": "Bolivia",
+            "label": "Bolivia"
+          },
+          {
+            "value": "Bosnia and Herzegovina",
+            "label": "Bosnia and Herzegovina"
+          },
+          {
+            "value": "Botswana",
+            "label": "Botswana"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "Brunei Darussalam",
+            "label": "Brunei Darussalam"
+          },
+          {
+            "value": "Bulgaria",
+            "label": "Bulgaria"
+          },
+          {
+            "value": "Burkina Faso",
+            "label": "Burkina Faso"
+          },
+          {
+            "value": "Burma",
+            "label": "Burma"
+          },
+          {
+            "value": "Burundi",
+            "label": "Burundi"
+          },
+          {
+            "value": "Cambodia",
+            "label": "Cambodia"
+          },
+          {
+            "value": "Cameroon",
+            "label": "Cameroon"
+          },
+          {
+            "value": "Canada",
+            "label": "Canada"
+          },
+          {
+            "value": "Cape Verde",
+            "label": "Cape Verde"
+          },
+          {
+            "value": "Central African Republic",
+            "label": "Central African Republic"
+          },
+          {
+            "value": "Chad",
+            "label": "Chad"
+          },
+          {
+            "value": "Chile",
+            "label": "Chile"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "Comoros",
+            "label": "Comoros"
+          },
+          {
+            "value": "Congo",
+            "label": "Congo"
+          },
+          {
+            "value": "Cook Islands",
+            "label": "Cook Islands"
+          },
+          {
+            "value": "Costa Rica",
+            "label": "Costa Rica"
+          },
+          {
+            "value": "Côte d'Ivoire",
+            "label": "Côte d'Ivoire"
+          },
+          {
+            "value": "Croatia",
+            "label": "Croatia"
+          },
+          {
+            "value": "Cuba",
+            "label": "Cuba"
+          },
+          {
+            "value": "Cyprus",
+            "label": "Cyprus"
+          },
+          {
+            "value": "Czech Republic",
+            "label": "Czech Republic"
+          },
+          {
+            "value": "Denmark",
+            "label": "Denmark"
+          },
+          {
+            "value": "Djibouti",
+            "label": "Djibouti"
+          },
+          {
+            "value": "Dominica",
+            "label": "Dominica"
+          },
+          {
+            "value": "Dominican Republic",
+            "label": "Dominican Republic"
+          },
+          {
+            "value": "Ecuador",
+            "label": "Ecuador"
+          },
+          {
+            "value": "Egypt",
+            "label": "Egypt"
+          },
+          {
+            "value": "El Salvador",
+            "label": "El Salvador"
+          },
+          {
+            "value": "Equatorial Guinea",
+            "label": "Equatorial Guinea"
+          },
+          {
+            "value": "Eritrea",
+            "label": "Eritrea"
+          },
+          {
+            "value": "Estonia",
+            "label": "Estonia"
+          },
+          {
+            "value": "Eswatini",
+            "label": "Eswatini"
+          },
+          {
+            "value": "Ethiopia",
+            "label": "Ethiopia"
+          },
+          {
+            "value": "Fiji",
+            "label": "Fiji"
+          },
+          {
+            "value": "Finland",
+            "label": "Finland"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Gabon",
+            "label": "Gabon"
+          },
+          {
+            "value": "Gambia",
+            "label": "Gambia"
+          },
+          {
+            "value": "Georgia",
+            "label": "Georgia"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Ghana",
+            "label": "Ghana"
+          },
+          {
+            "value": "Greece",
+            "label": "Greece"
+          },
+          {
+            "value": "Grenada",
+            "label": "Grenada"
+          },
+          {
+            "value": "Guatemala",
+            "label": "Guatemala"
+          },
+          {
+            "value": "Guinea",
+            "label": "Guinea"
+          },
+          {
+            "value": "Guinea-Bissau",
+            "label": "Guinea-Bissau"
+          },
+          {
+            "value": "Guyana",
+            "label": "Guyana"
+          },
+          {
+            "value": "Haiti",
+            "label": "Haiti"
+          },
+          {
+            "value": "Holy See (Vatican City State)",
+            "label": "Holy See (Vatican City State)"
+          },
+          {
+            "value": "Honduras",
+            "label": "Honduras"
+          },
+          {
+            "value": "Hungary",
+            "label": "Hungary"
+          },
+          {
+            "value": "Iceland",
+            "label": "Iceland"
+          },
+          {
+            "value": "India",
+            "label": "India"
+          },
+          {
+            "value": "Indonesia",
+            "label": "Indonesia"
+          },
+          {
+            "value": "Iran",
+            "label": "Iran"
+          },
+          {
+            "value": "Iraq",
+            "label": "Iraq"
+          },
+          {
+            "value": "Ireland",
+            "label": "Ireland"
+          },
+          {
+            "value": "Israel",
+            "label": "Israel"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Jamaica",
+            "label": "Jamaica"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Jordan",
+            "label": "Jordan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Kenya",
+            "label": "Kenya"
+          },
+          {
+            "value": "Kiribati",
+            "label": "Kiribati"
+          },
+          {
+            "value": "Kosovo",
+            "label": "Kosovo"
+          },
+          {
+            "value": "Kuwait",
+            "label": "Kuwait"
+          },
+          {
+            "value": "Kyrgyzstan",
+            "label": "Kyrgyzstan"
+          },
+          {
+            "value": "Laos",
+            "label": "Laos"
+          },
+          {
+            "value": "Latvia",
+            "label": "Latvia"
+          },
+          {
+            "value": "Lebanon",
+            "label": "Lebanon"
+          },
+          {
+            "value": "Lesotho",
+            "label": "Lesotho"
+          },
+          {
+            "value": "Liberia",
+            "label": "Liberia"
+          },
+          {
+            "value": "Libya",
+            "label": "Libya"
+          },
+          {
+            "value": "Liechtenstein",
+            "label": "Liechtenstein"
+          },
+          {
+            "value": "Lithuania",
+            "label": "Lithuania"
+          },
+          {
+            "value": "Luxembourg",
+            "label": "Luxembourg"
+          },
+          {
+            "value": "Macau Special Administrative Region",
+            "label": "Macau Special Administrative Region"
+          },
+          {
+            "value": "Madagascar",
+            "label": "Madagascar"
+          },
+          {
+            "value": "Malawi",
+            "label": "Malawi"
+          },
+          {
+            "value": "Malaysia",
+            "label": "Malaysia"
+          },
+          {
+            "value": "Maldives",
+            "label": "Maldives"
+          },
+          {
+            "value": "Mali",
+            "label": "Mali"
+          },
+          {
+            "value": "Malta",
+            "label": "Malta"
+          },
+          {
+            "value": "Marshall Islands",
+            "label": "Marshall Islands"
+          },
+          {
+            "value": "Mauritania",
+            "label": "Mauritania"
+          },
+          {
+            "value": "Mauritius",
+            "label": "Mauritius"
+          },
+          {
+            "value": "Mexico",
+            "label": "Mexico"
+          },
+          {
+            "value": "Micronesia",
+            "label": "Micronesia"
+          },
+          {
+            "value": "Moldova",
+            "label": "Moldova"
+          },
+          {
+            "value": "Monaco",
+            "label": "Monaco"
+          },
+          {
+            "value": "Mongolia",
+            "label": "Mongolia"
+          },
+          {
+            "value": "Montenegro",
+            "label": "Montenegro"
+          },
+          {
+            "value": "Morocco",
+            "label": "Morocco"
+          },
+          {
+            "value": "Mozambique",
+            "label": "Mozambique"
+          },
+          {
+            "value": "Myanmar",
+            "label": "Myanmar"
+          },
+          {
+            "value": "Nagorno Karabakh Republic",
+            "label": "Nagorno Karabakh Republic"
+          },
+          {
+            "value": "Namibia",
+            "label": "Namibia"
+          },
+          {
+            "value": "Nauru",
+            "label": "Nauru"
+          },
+          {
+            "value": "Nepal",
+            "label": "Nepal"
+          },
+          {
+            "value": "Netherlands",
+            "label": "Netherlands"
+          },
+          {
+            "value": "New Zealand",
+            "label": "New Zealand"
+          },
+          {
+            "value": "Nicaragua",
+            "label": "Nicaragua"
+          },
+          {
+            "value": "Niger",
+            "label": "Niger"
+          },
+          {
+            "value": "Nigeria",
+            "label": "Nigeria"
+          },
+          {
+            "value": "Niue",
+            "label": "Niue"
+          },
+          {
+            "value": "Northern Cyprus",
+            "label": "Northern Cyprus"
+          },
+          {
+            "value": "Northern Ireland",
+            "label": "Northern Ireland"
+          },
+          {
+            "value": "North Korea",
+            "label": "North Korea"
+          },
+          {
+            "value": "North Macedonia",
+            "label": "North Macedonia"
+          },
+          {
+            "value": "Norway",
+            "label": "Norway"
+          },
+          {
+            "value": "Oman",
+            "label": "Oman"
+          },
+          {
+            "value": "Pakistan",
+            "label": "Pakistan"
+          },
+          {
+            "value": "Palau",
+            "label": "Palau"
+          },
+          {
+            "value": "Palestinian Territories",
+            "label": "Palestinian Territories"
+          },
+          {
+            "value": "Panama",
+            "label": "Panama"
+          },
+          {
+            "value": "Papua New Guinea",
+            "label": "Papua New Guinea"
+          },
+          {
+            "value": "Paraguay",
+            "label": "Paraguay"
+          },
+          {
+            "value": "Peru",
+            "label": "Peru"
+          },
+          {
+            "value": "Philippines",
+            "label": "Philippines"
+          },
+          {
+            "value": "Poland",
+            "label": "Poland"
+          },
+          {
+            "value": "Portugal",
+            "label": "Portugal"
+          },
+          {
+            "value": "Pridnestrovian Moldavian Republic",
+            "label": "Pridnestrovian Moldavian Republic"
+          },
+          {
+            "value": "Qatar",
+            "label": "Qatar"
+          },
+          {
+            "value": "Romania",
+            "label": "Romania"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Rwanda",
+            "label": "Rwanda"
+          },
+          {
+            "value": "Saint Kitts and Nevis",
+            "label": "Saint Kitts and Nevis"
+          },
+          {
+            "value": "Saint Lucia",
+            "label": "Saint Lucia"
+          },
+          {
+            "value": "Saint Vincent and the Grenadines",
+            "label": "Saint Vincent and the Grenadines"
+          },
+          {
+            "value": "Samoa",
+            "label": "Samoa"
+          },
+          {
+            "value": "San Marino",
+            "label": "San Marino"
+          },
+          {
+            "value": "Sao Tome and Principe",
+            "label": "Sao Tome and Principe"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "Senegal",
+            "label": "Senegal"
+          },
+          {
+            "value": "Serbia",
+            "label": "Serbia"
+          },
+          {
+            "value": "Seychelles",
+            "label": "Seychelles"
+          },
+          {
+            "value": "Sierra Leone",
+            "label": "Sierra Leone"
+          },
+          {
+            "value": "Singapore",
+            "label": "Singapore"
+          },
+          {
+            "value": "Slovakia",
+            "label": "Slovakia"
+          },
+          {
+            "value": "Slovenia",
+            "label": "Slovenia"
+          },
+          {
+            "value": "Solomon Islands",
+            "label": "Solomon Islands"
+          },
+          {
+            "value": "Somalia",
+            "label": "Somalia"
+          },
+          {
+            "value": "Somaliland",
+            "label": "Somaliland"
+          },
+          {
+            "value": "South Africa",
+            "label": "South Africa"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "South Ossetia",
+            "label": "South Ossetia"
+          },
+          {
+            "value": "South Sudan",
+            "label": "South Sudan"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Sri Lanka",
+            "label": "Sri Lanka"
+          },
+          {
+            "value": "Sudan",
+            "label": "Sudan"
+          },
+          {
+            "value": "Suriname",
+            "label": "Suriname"
+          },
+          {
+            "value": "Swaziland",
+            "label": "Swaziland"
+          },
+          {
+            "value": "Sweden",
+            "label": "Sweden"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Syrian Arab Republic",
+            "label": "Syrian Arab Republic"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Tajikistan",
+            "label": "Tajikistan"
+          },
+          {
+            "value": "Tanzania",
+            "label": "Tanzania"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Timor-Leste",
+            "label": "Timor-Leste"
+          },
+          {
+            "value": "Togo",
+            "label": "Togo"
+          },
+          {
+            "value": "Tonga",
+            "label": "Tonga"
+          },
+          {
+            "value": "Trinidad and Tobago",
+            "label": "Trinidad and Tobago"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Turkmenistan",
+            "label": "Turkmenistan"
+          },
+          {
+            "value": "Tuvalu",
+            "label": "Tuvalu"
+          },
+          {
+            "value": "Uganda",
+            "label": "Uganda"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "United Arab Emirates",
+            "label": "United Arab Emirates"
+          },
+          {
+            "value": "United Kingdom",
+            "label": "United Kingdom"
+          },
+          {
+            "value": "United States",
+            "label": "United States"
+          },
+          {
+            "value": "Uruguay",
+            "label": "Uruguay"
+          },
+          {
+            "value": "Uzbekistan",
+            "label": "Uzbekistan"
+          },
+          {
+            "value": "Vanuatu",
+            "label": "Vanuatu"
+          },
+          {
+            "value": "Vatican City",
+            "label": "Vatican City"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Vietnam",
+            "label": "Vietnam"
+          },
+          {
+            "value": "Western Sahara",
+            "label": "Western Sahara"
+          },
+          {
+            "value": "Yemen",
+            "label": "Yemen"
+          },
+          {
+            "value": "Zambia",
+            "label": "Zambia"
+          },
+          {
+            "value": "Zimbabwe",
+            "label": "Zimbabwe"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "name": "tel",
+        "label": "Telefon numarası:"
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "MLI`dan telefon çağrısı almak ISTEMIYORUM"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "Campus:",
+        "isRequired": true,
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "Hollywood"
+          },
+          {
+            "value": "Westwood",
+            "label": "Westwood"
+          },
+          {
+            "value": "Both",
+            "label": "Her ikisi de"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "ABD’de programınıza ortalama ne kadar süre içerisinde başlamayı planlıyorsunuz?",
+        "selection": [
+          {
+            "value": "one month",
+            "label": "1 Ay"
+          },
+          {
+            "value": "three months",
+            "label": "3 Ay"
+          },
+          {
+            "value": "six months",
+            "label": "6 Ay"
+          },
+          {
+            "value": "one year or more",
+            "label": "1 Sene veya daha fazla"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "radio",
+        "name": "media",
+        "label": "MLI'yı nasıl buldun?",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "Ajans"
+          },
+          {
+            "value": "Friend",
+            "label": "Arkadaş"
+          },
+          {
+            "value": "Internet",
+            "label": "Internet"
+          },
+          {
+            "value": "Other",
+            "label": "Diğer"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Herhangi bir sorunuz varmı ?"
+      }
+      
+    ]
+  },
+  "btn_label" : "Gönder"
+}

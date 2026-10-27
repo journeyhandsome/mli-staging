@@ -1,0 +1,45 @@
+{
+  "pageTitle": "Was ist MLI? | Mentor Language Institute",
+  "pageDescription": "Das Mentor Language Institute  wurde 2002 gegründet und ist an zwei beliebten Standorten vertreten: Westwood & Hollywood.",
+  "section1": {
+    "title": "Was ist MLI?",
+    "description": [
+      "Das Mentor Language Institute  wurde 2002 gegründet und ist an zwei beliebten Standorten vertreten: Westwood & Hollywood.",
+      "Wir helfen Studenten von der ganzen Welt ihr Englisch zu verbessern."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Weniger zahlen für qualitativ hochwertige Kurse",
+    "description": [
+      "Wir schätzen zwei Dinge: <b>“Bildungsqualität”</b>  und  <b>“Preis.”<b>",
+      "Englisch ist die Weltsprache und ein nützliches Werkzeug bei der Kommunikation mit Menschen rund um den Globus. Unsere Hoffnung ist, dass internationale Studenten Englischkenntnisse erwerben um in der Welt Erfolg zu haben.",
+      "Aus diesem Grund fokussieren wir uns auf die Qualität der Kurse und einen niedrigen Preis."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "Bis zum Jahr 2020 haben über 17,000 Studenten am MLI studiert und abgeschlossen.",
+    "description": [
+      "Wir bieten ESL Programme (allgemeines Englisch Programm mit 6 Bereichen: Grammatik/Schreiben, Lesen/Vokabular und Zuhören/Sprechen), TOEFL®, IELTS™ (für Studenten die sich aufs College vorbereiten möchten), und TOEIC®.",
+      "Viele Studenten haben danach, innerhalb der USA, zu Universitäten oder ans College gewechselt um zu studieren, zum Beispiel an die UCLA, das USC oder das Santa Monica College."
+    ],
+    "lists": [
+      {
+        "link": "/de/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "5 Gründe warum Studenten MLI wählen "
+      },
+      {
+        "link": "/de/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Unternehmensinformationen"
+      },
+      {
+        "link": "/de/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Foto- / Videogallerie"
+      }
+    ]
+  }
+}

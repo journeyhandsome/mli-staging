@@ -1,0 +1,176 @@
+{
+  "pageTitle": "Accommodations | Mentor Language Institute",
+  "pageDescription": "MLI works with U.S. Support Services Inc. to provide housing for MLI students. ",
+  "title": "Accommodations",
+  "subtitle": [
+    "MLI works with U.S. Support Services Inc. to provide housing for MLI students. <br />For more details, please visit <a href='https://usssinc.net/' target='_blank'>www.usssinc.net</a>"
+  ],
+  "image": "/images/location/accommodations/accommodation-1.jpg",
+  "gallery": [
+    "/images/location/accommodations/accommodation-2.jpg",
+    "/images/location/accommodations/accommodation-3.jpg"
+  ],
+  "note": "Students can choose either homestay or dormitory accommodations.",
+  "types": [
+    {
+      "title": "Dormitory",
+      "description": [
+        "We provide 40 rooms at our dormitories. There will be a lot of opportunities to communicate with other international students. We recommend you stay in a dormitory if you are on a budget."
+      ],
+      "lists": [
+        "<b>Room</b> : Private (Individual), Shared (2 people) and Quad (4 people)",
+        "<b>Meal</b> : No meals (a fully furnished kitchen is available)",
+        "<b>Privacy</b> : There is more privacy than homestay. There are some dormitory rules.",
+        "<b>Commute</b> : about 20 minutes by foot or bus."
+      ],
+      "gallery": [
+        "/images/location/accommodations/dormitory-1.jpg",
+        "/images/location/accommodations/dormitory-2.jpg",
+        "/images/location/accommodations/dormitory-3.jpg",
+        "/images/location/accommodations/dormitory-4.jpg"
+      ],
+      "prices": [
+        {
+          "title": "Dormitory Prices",
+          "table": {
+            "tableMaxCol": 4,
+            "title": "Placement Fee* : $200<br /> If younger than 18 years old, the rent will be approximately 10% higher than the price for a person older than 18 years old.",
+            "thead": [
+              "",
+              "Private",
+              "Shared",
+              "Quad"
+            ],
+            "tbody": [
+              [
+                "<b>Deposit</b>",
+                "$300",
+                "$300",
+                "$300"
+              ],
+              [
+                "1 week",
+                "$550",
+                "$410",
+                "$300"
+              ],
+              [
+                "2 weeks",
+                "$1,100",
+                "$820",
+                "$600"
+              ],
+              [
+                "3 weeks",
+                "$1,650",
+                "$1,230",
+                "$900"
+              ],
+              [
+                "4 weeks",
+                "$2,200",
+                "$1,640",
+                "$1,200"
+              ],
+              [
+                "8 weeks",
+                "$4,160",
+                "$2,960",
+                "$2,160"
+              ],
+              [
+                "12 weeks",
+                "$6,240",
+                "$4,440",
+                "$3,240"
+              ]
+            ]
+          },
+          "notes": [
+            "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Homestay",
+      "description": [
+        "Students who choose to live with a homestay family are looking for a safe, welcoming, and comfortable atmosphere in which they can practice their English skills. It's also an opportunity to learn about American customs, traditions, and family values."
+      ],
+      "lists": [
+        "<b>Room</b> : Private (Individual)",
+        "<b>Meal</b> : 2 meals a day (Breakfast and Dinner)",
+        "<b>Privacy</b> : There are some house rules depending on the host family.",
+        "<b>Commute</b> : 30- 45 minutes by bus"
+      ],
+      "gallery": [
+        "/images/location/accommodations/homestay-1.jpg",
+        "/images/location/accommodations/homestay-2.jpg",
+        "/images/location/accommodations/homestay-3.jpg",
+        "/images/location/accommodations/homestay-4.jpg"
+      ],
+      "prices": [
+        {
+          "title": "Homestay Prices",
+          "table": {
+            "tableMaxCol": 3,
+            "title": "Placement Fee* : $300<br /> If younger than 18 years old, the rent will be approximately 10% higher than the price for a person older than 18 years old.",
+            "thead": [
+              "",
+              "Private",
+              "Shared***"
+            ],
+            "tbody": [
+              [
+                "<b>Deposit</b>",
+                "$300",
+                "$300"
+              ],
+              [
+                "1 week",
+                "$436",
+                "$384"
+              ],
+              [
+                "2 weeks",
+                "$872",
+                "$768"
+              ],
+              [
+                "3 weeks",
+                "$1,308",
+                "$1,152"
+              ],
+              [
+                "4 weeks",
+                "$1,744",
+                "$1,536"
+              ],
+              [
+                "8 weeks",
+                "$3,160",
+                "$2,904"
+              ],
+              [
+                "12 weeks",
+                "$4,740",
+                "$4,356"
+              ]
+            ]
+          },
+          "notes": [
+            "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>"
+          ]
+        }
+      ]
+    }
+  ],
+  "comments": {
+    "title": "Comments from our staff",
+    "description": [
+      "It is not easy to find a place to stay when you first arrive in the U.S., especially for international students who do not have a Social Security Number (SSN) and credit history.",
+      "Most places require both a SSN and credit history to rent a place.<br />Therefore, we reccommend you stay at our accommodations for at least the first couple of months.",
+      "※Your accommodation will be provided by U.S. Support Service Inc. or other agents."
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "pageTitle": "MLI Partnership con universita' e college | Mentor Language Institute",
+  "pageDescription": "Gli studenti che terminano le lezioni di livello avanzato presso Mentor Language Institute possono iscriversi a questi corsi di laurea e master senza TOEFL o IELTS al termine dell'esame di lingua approvato dall'università e previa verifica delle qualifiche accademiche propedeutiche all'iscrizione.",
+  "title": "MLI Partnership con universita' e college",
+  "university": {
+    "title": "Accordi con le universita'",
+    "description": "Gli studenti che terminano le lezioni di livello avanzato presso Mentor Language Institute possono iscriversi a questi corsi di laurea e master senza TOEFL o IELTS al termine dell'esame di lingua approvato dall'università e previa verifica delle qualifiche accademiche propedeutiche all'iscrizione.",
+    "lists": [
+      {
+        "image": "/images/going-to-college/yum.png",
+        "link": "https://www.adelphi.edu/",
+        "title": "Adelphi University",
+        "address": "Long Island, New York",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "Adelphi promuove nei suoi studenti la passione per la conoscenza, la comprensione e il dibattito culturale nonche' una visione di se stessi come pensatori indipendenti alla costante ricerca della conoscenza al servizio in un mondo in continua evoluzione."
+      },
+      {
+        "image": "/images/going-to-college/international-accelerator.png",
+        "link": "https://www.american.edu/",
+        "title": "American University",
+        "address": "Washington, D.C.",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "AU offre una scelta ampia e flessibile di corsi di laurea. Gli studenti possono estendere il loro piano di studi e costruire il proprio diploma interdisciplinare scegliendo diverse concentrazioni. AU incoraggia gli studenti a superare i confini delle discipline accademiche."
+      },
+      {
+        "image": "/images/going-to-college/auburn-university.png",
+        "link": "https://www.auburn.edu/",
+        "title": "Auburn University",
+        "address": "Auburn, Alabama",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "Ad Auburn University ci impegnamo a preparare i nostri studenti per l'economia globale di oggi. Il nostro sito internet dell'Office of International Programs fornisce informazioni sulla presenza internazionale di Auburn University, mentre l'Office of International Education fornisce consulenza internazionale in materia di immigrazione ai fini di studio, opzioni di studio all'estero e altro, informazioni su iniziative sponsorizzate dai vari dipartimenti accademici e ammissioni internazionali per studenti universitari e laureati."
+      },
+      {
+        "image": "/images/going-to-college/floria-international-university.png",
+        "link": "https://www.fiu.edu/",
+        "title": "Floria International University",
+        "address": "Miami, Florida",
+        "subtitle": "",
+        "description": "Florida International accoglie gli studenti in una comunità diversificata e amichevole, in cui le connessioni e le opportunità di tirocinio li aiuteranno a lanciare la loro carriera in un mercato globale. Alla FIU riceveranno un'istruzione eccezionale in una città imprenditoriale."
+      },
+      {
+        "image": "/images/going-to-college/louisiana-state-university.png",
+        "link": "https://www.lsu.edu/",
+        "title": "Louisiana State University",
+        "address": "Baton Rougue, Louisiana",
+        "subtitle": "",
+        "description": "Ottenere un diploma LSU è un investimento nel futuro di uno studente. LSU offre un insegnamento eccezionale oltre all'opportunità di avere un'esperienza universitaria soddisfacente ma accessibile."
+      },
+      {
+        "image": "/images/going-to-college/university-of-kansas.png",
+        "link": "https://www.ku.edu/",
+        "title": "The University of Kansas",
+        "address": "Lawrence, Kansas",
+        "subtitle": "",
+        "description": "Tante borse di studio, invenzioni e scoperte avanzate, KU offre una formazione che plasma leader globali, giganti del mondo degli affari e visionari in molti campi oltre a un'esperienza  universitaria che cambierà la loro vita."
+      },
+      {
+        "image": "/images/going-to-college/university-of-central-florida.png",
+        "link": "https://www.ucf.edu/",
+        "title": "University of Central Florida",
+        "address": "Orlando, Florida",
+        "subtitle": "",
+        "description": "Gli studenti hanno grandi sogni. Forse vogliono scoprire il mondo, gestire la propria attività o brevettare invenzioni che possano salvare vite umane. L'Università della Florida centrale li aiuterà a realizzarli."
+      },
+      {
+        "image": "/images/going-to-college/university-of-the-pacific.png",
+        "link": "https://www.pacific.edu/",
+        "title": "University of the Pacific",
+        "address": "Stockton, California",
+        "subtitle": "",
+        "description": "L'Università del Pacifico si trova in un bellissimo campus a 1,5 ore da San Francisco. Oltre alle materie umanistiche, l'Università ha facolta' di scienze dell'educazione, ingegneria ed economia  e scuole di specializzazione in odontoiatria, giurisprudenza, farmacia e scienze della salute. E' la più antica università con sede in California e nel Pacifico e fu anche la prima nello stato ad ammettere le donne."
+      },
+      {
+        "image": "/images/going-to-college/university-of-south-carolina.png",
+        "link": "https://www.sc.edu/",
+        "title": "University of South Carolina",
+        "address": "Columbia, South Carolina",
+        "subtitle": "",
+        "description": "L'Università della Carolina del Sud è il luogo in cui gli studenti si preparano a trovare soluzioni creative  e brillanti ai problemi del futuro e a guidare le prossime generazioni verso uno stile di vita più sano, più intelligente e più vivace."
+      },
+      {
+        "image": "/images/going-to-college/university-of-illinois.png",
+        "link": "https://www.uic.edu/",
+        "title": "University of Illinois at Chicago",
+        "address": "Chicago, Illinois",
+        "subtitle": "",
+        "description": "L'Università dell'Illinois a Chicago (UIC) amplia le opportunità educative per gli studenti di tutto il mondo attraverso un'enfasi sulla diversità e fornendo agli studenti un ambiente di apprendimento multietnico e ricco culturalmente."
+      },
+      {
+        "image": "/images/going-to-college/university-of-utah.png",
+        "link": "https://www.utah.edu/",
+        "title": "The University of Utah",
+        "address": "Salt Lake City, Utah",
+        "subtitle": "",
+        "description": "L'Università dello Utah è una delle migliori della nazione nella creazione di startup basate sulla ricerca di studenti e docenti. Questo è il risultato del modo di pensare innovativo che pervade tutto il campus e le aule."
+      },
+      {
+        "image": "/images/going-to-college/university-of-dayton.png",
+        "link": "https://www.udayton.edu/",
+        "title": "University of Dayton",
+        "address": "Dayton, Ohio",
+        "subtitle": "",
+        "description": "L'Università di Dayton è un'università cattolica di primo piano per quanto riguarda la ricerca ed e' la più grande università privata dell'Ohio. Fondata nel 1850 dalla Società di Maria (marianisti), l'Università è caratterizzata dalla filosofia educativa marianista dell'apprendimento in comunità, dell'accoglienza, del servire gli altri, della curiosità intellettuale e del rigore accademico per formare i futuri leaders che siano in grado di unire l'apprendimento con la leadership e il sevizio alla comunita"
+      },
+      {
+        "image": "/images/going-to-college/umass-amherst.png",
+        "link": "https://www.umass.edu/",
+        "title": "UMass Amherst",
+        "address": "Amherst, Massachusetts",
+        "subtitle": "",
+        "description": "UMass Amherst è una delle principali università di ricerca pubbliche in America. Immerso nell'idilliaca Amherst, nel Massachusetts, il campus si è costantemente classificato tra le migliori università di ricerca pubbliche della nazione e offre un ricco ambiente culturale a breve distanza dai maggiori centri urbani."
+      },
+      {
+        "image": "/images/going-to-college/university-of-cincinnati.png",
+        "link": "https://www.uc.edu/",
+        "title": "University of Cincinnati",
+        "address": "Cincinnati, Ohio",
+        "subtitle": "",
+        "description": "Con Cincinnati sede di dieci aziende Fortune 500, l'Università di Cincinnati è un centro per future persone di successo, leader e tutti coloro che hanno sete di conoscenza. N ° 135 tra le Università Nazionali secondo il rapporto U.S. News & World, vanta una associazione studentesca orgogliosa e coesa formata da un quarto di milione di ex studenti sparsi in tutto il mondo."
+      }
+    ]
+  },
+  "campus": {
+    "title": "Accordi con i College",
+    "description": "MLI ha accordi speciali, o programmi di riconoscimento reciproco (MRP), con molti college nell'area di Los Angeles. Questi accordi MRP consentono agli studenti di trasferirsi senza un punteggio TOEFL® e alcuni consentono anche l'iscrizione concorrente, il che significa che gli studenti MLI possono seguire le lezioni part-time mentre sono ancora iscritti a MLI. Gli studenti devono completare con successo il programma High-intermediate di MLI per essere idonei.",
+    "lists": [
+      {
+        "image": "/images/going-to-college/santa-monica-college.png",
+        "link": "https://www.smc.edu/",
+        "title": "Santa Monica College",
+        "address": "Santa Monica, California",
+        "subtitle": "",
+        "description": "Il Santa Monica College ha trasferito più studenti nelle università della California rispetto a qualsiasi altro college nel paese per 27 anni consecutivi. SMC è inoltre in cima ai trasferimenti verso UCLA, USC e Loyola Marymount University e a ovest del Mississippi ha trasferito il maggior numero di studenti verso la prestigiosissima Columbia University."
+      },
+      {
+        "image": "/images/going-to-college/glendale-community-college.png",
+        "link": "https://www.glendale.edu/",
+        "title": "Glendale Community College",
+        "address": "Glendale, California",
+        "subtitle": "",
+        "description": "Glendale Community College è un'istituzione dinamica con oltre 25.000 studenti. Gli studenti che vogliono ottenere crediti scolastici sono iscritti presso il Campus Verdugo, per formazione continua presso il Garfield Campus, i corsi di servizi per la comunità, invece, si tengono in tutta la comunità, e il Professional Development Center (PDC) presso Montrose. Il college e' formato da un corpo studentesco etnicamente diversificato dove nessun gruppo rappresenta la maggioranza."
+      },
+      {
+        "image": "/images/going-to-college/pasadena-city-college.png",
+        "link": "https://pasadena.edu/",
+        "title": "Pasadena City College",
+        "address": "Pasadena, California",
+        "subtitle": "",
+        "description": "Il Pasadena City College offre alla valle di San Gabriel un ambiente di apprendimento di alta qualità, innovativo e dinamico che ispira il successo degli studenti. Ogni semestre offriamo programmi accademici che comprendono diplomi, programmi di trasferimento e certificati a oltre 30.250 studenti. Annoveriamo tra gli studenti matricole e studenti che ritornano sui banchi di scuola. Abbiamo studenti locali, internazionali e online. Ci occupiamo di unire diverse culture e comunita' da quella LGBT, ai veterani di guerra e molte altre ancora."
+      },
+      {
+        "image": "/images/going-to-college/cypress-college.png",
+        "link": "https://www.cypresscollege.edu/",
+        "title": "Cypress College",
+        "address": "Cypress, California",
+        "subtitle": "",
+        "description": "Cypress College enfatizza l'istruzione per il singolo studente. L'eccellenza dell'insegnamento e dei laboratori di apprendimento personalizzati aumentano la possibilità per gli studenti di raggiungere il loro massimo potenziale. Inoltre, uno staff di tutor e consulenti a tempo pieno fornisce supporto didattico e ampie informazioni di orientamento per aiutare gli studenti nella scelta dei programmi e delle lezioni. Per lo studente che ha intenzione di completare un diploma di laurea, il college offre una transizione graduale dalla scuola superiore all'università."
+      },
+      {
+        "image": "/images/going-to-college/west-los-angeles-college.png",
+        "link": "http://www.wlac.edu/",
+        "title": "West Los Angeles College",
+        "address": "Culver City, California",
+        "subtitle": "",
+        "description": "West Los Angeles College è un California Community College accreditato che offre percorsi di trasferimento universitario, formazione professionale e corsi per la crescita personale o professionale. Il College e' dotato di 70 ettari di parco che si affacciano su Culver City, Marina Del Rey e Greater West Los Angeles. In una giornata limpida, dai punti più alti del campus, è possibile vedere l'Oceano Pacifico. Con una popolazione studentesca attiva di quasi 12.000 studenti regolari, i nostri 110 docenti a tempo pieno, oltre 300 docenti part time e 112 dipendenti creano un ambiente educativo unico nel sud della California."
+      },
+      {
+        "image": "/images/going-to-college/el-camino-college.png",
+        "link": "https://www.elcamino.edu/",
+        "title": "El Camino College",
+        "address": "Torrance, California",
+        "subtitle": "",
+        "description": "Lo sapevi che El Camino College offre dei programmi eccezionali?<ul><li>Un istituto importante nel Sud della California per il trasferimento degli studenti all'universita'</li><li>Posizione comoda e ampio parcheggio</li><li>Eccezionali programmi di apprendimento per la comunita'</li><li>Oltre 80 programmi molto acclamati per la crescita professionale</li></ul>"
+      },
+      {
+        "image": "/images/going-to-college/pierce-college.png",
+        "link": "http://www.piercecollege.edu/",
+        "title": "Pierce College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Il Pierce College una fiorente istituzione pubblica del sud della California che offre opportunità  di formazione professionale e continua. Pierce combina l'eccellenza accademica del corpo docente con del personale cordiale e disponibile. Ha una solida reputazione di essere un'istituzione studentesca aperta, offrendo agli studenti un'istruzione di alta qualità e stimolante che li preparerà all'università o al lavoro professionale. Gli studenti Pierce beneficiano di classi più piccole a un costo ridotto."
+      },
+      {
+        "image": "/images/going-to-college/latcc.png",
+        "link": "http://www.lattc.edu/",
+        "title": "LATCC - Traning. Transfer. Tradition. Trade Tech.",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Missione: il Los Angeles Trade Technical College e' di aiuto alle varie comunita' attraverso percorsi accademici e di carriera  professionale che consentono agli studenti di ottenere certificati e diplomi di laurea. La nostra visione: il Los Angeles Trade Technical College sarà un eccellente college comunitario riconosciuto a livello regionale e nazionale per trasformare le vite degli studenti e le loro comunità."
+      },
+      {
+        "image": "/images/going-to-college/los-angeles-harbor-college.png",
+        "link": "https://www.lahc.edu/",
+        "title": "Los Angeles Harbor College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Il Los Angeles Harbour College promuove il successo dei propri studenti attraverso i diplomi, certificati, lo sviluppo economico e della forza lavoro e l'insegnamento delle competenze di base. I nostri programmi educativi e servizi di supporto soddisfano le esigenze di diverse comunità, come comprovato dai risultati di apprendimento all'interno del campus."
+      },
+      {
+        "image": "/images/going-to-college/new-york-film-academy.png",
+        "link": "https://www.nyfa.edu/",
+        "title": "New York Film Academy",
+        "address": "Battery Place, New York",
+        "subtitle": "",
+        "description": "Negli ultimi 25 anni, la New York Film Academy (NYFA) si è costruita una reputazione come una delle migliori scuole di arti visive e dello spettacolo del mondo. I nostri programmi innovativi sono pensati per una nuova generazione di scrittori e per artisti che condividono la passione per le arti visive attraverso l'utilizzo pratico di una vasta gamma di media. Con un approccio impareggiabile all'apprendimento interattivo e pratico, gli studenti si trovano completamente immersi nel loro corso di studi sin dal primo giorno. Le lezioni sono tenute da professionisti del settore pluripremiati, in un ambiente reale con strutture e attrezzature all'avanguardia."
+      },
+      {
+        "image": "/images/going-to-college/lacc-city-college.png",
+        "link": "https:/www.lacitycollege.edu",
+        "title": "Los Angeles City College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "LACC fornisce un ambiente di apprendimento dinamico e innovativo che offre più di 100 programmi professionali e professionali tra cui lauree, programmi di trasferimento e certificati a più di 18.000 studenti. Nel 2019, LACC celebrerà il suo 90 ° anniversario.<br>Con la promessa del LA College, offriamo un anno di iscrizione gratuita a tutti gli studenti a tempo pieno che si diplomano alle scuole superiori e charter LAUSD. Offriamo anche lezioni gratuite per le major di musica, lezioni private e aiuti finanziari grazie a un regalo della Herb Alpert Foundation. Inoltre, i nostri studenti beneficiano di un'ampia varietà di opzioni di aiuto finanziario."
+      }
+    ]
+  },
+  "contactUs": {
+    "title": "Hai bisogno di piu' informazioni? Contattaci",
+    "description": "Contattaci via telefono, email o tramite i nostri social media",
+    "btnText": "Contattaci"
+  }
+}

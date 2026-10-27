@@ -1,0 +1,53 @@
+{
+  "pageTitle": "MLI Quarantine Policy | Mentor Language Institute",
+  "pageDescription": "MLI is resuming in-person classes mainly at Westwood campus. All ESL classes will resume in-person at Westwood campus from 7/06/21.",
+  "title": "MLI Quarantine Policy",
+  "subtitle": [
+    "MLI is resuming in-person classes mainly at Westwood campus. All ESL classes will resume in-person at Westwood campus from <b><u>7/06/21</u></b>. Other programs available. Here is MLI's most updated quarantine policy based on LA county requirements.",
+    "While the Conversation program is offered at the Hollywood campus, all other Hollywood classes will remain online until further notice."
+  ],
+  "table": {
+    "main_header": {
+      "vaccinated": "Fully Vaccinated Students",
+      "unvaccinated": "Unvaccinated Students"
+    },
+    "table_header": [
+      "From Abroad",
+      "From Domestic<br />(in U.S.)",
+      "Abroad & Domestic"
+    ],
+    "table_content": [
+      [
+        "Can I join in-person classes immediately after arrival in LA?",
+        "<span class='hutoaka'>Yes</span>",
+        "<span class='hutoaka'>Yes</span>",
+        "<span class='font-weight-bold'>No</span>"
+      ],
+      [
+        "Can I join in-person classes if I get a PCR test 3-5 days after arrival in LA?",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='font-weight-bold'>No</span>"
+      ],
+      [
+        "Do I need to quarantine for 10 days in order to join in-person classes after arrival in LA?",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='hutoaka'>Yes</span>"
+      ],
+      [
+        "MLI requires that non- vaccinated students must take a PCR test every week, and submit a negative result every Monday in order to attend In-person programs.",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='hutoaka'>Yes</span>"
+      ],
+      [
+        "Can I shorten my quarantine (7days) if I take a PCR exam after my arrival in LA?",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='font-weight-bold'>-</span>",
+        "<span class='hutoaka'>Yes</span>"
+      ]
+    ]
+  },
+  "note": "*Fully vaccinated students must submit proof.<br />**All students must wear masks in classes."
+}

@@ -1,0 +1,90 @@
+{
+  "pageTitle": "Hollywood Kampüsü | Mentor Language Institute",
+  "pageDescription": "Hollywood, eğlence endüstrisinin kalbi olarak bilinir. Oscar ödüllü töreninin yanı sıra birçok film prömiyeri, Dolby tiyatrosunda , Hollywood kampüsümüze sadece 2 dakika uzaklikda ev sahipliği yapıyor.",
+    "title": "Hollywood Kampüsü",
+    "image": "/images/location/hollywood/hollywood-campus.jpg",
+    "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+    "subtitle": [
+      "<span class=\"hutoaka\">Hollywood, eğlence endüstrisinin kalbi olarak bilinir.</span> Oscar ödüllü töreninin yanı sıra birçok film prömiyeri, Dolby tiyatrosunda , Hollywood kampüsümüze sadece 2 dakika uzaklikda ev sahipliği yapıyor. Muhtemelen Dolby Theatre'ın dışındaki alanda limuzinden inen bir Hollywood film yıldızın göreceksiniz!",
+      "Hollywood öğrencilerimiz, Dans, Müzik, Oyunculuk, Film, Yoga vb. Eğlencelerle ilgilenmeye eğilimlidirler. Ünlü Musician’ın enstitüsü, Hollywood kampüsümüzün tam karşısındadır.",
+      "Bölgede ayrıca birçok dans stüdyosu bulunmaktadır:"
+    ],
+    "lists": [
+      "Müzisyen Enstitüsü",
+      "Kenar Sahne Sanatları",
+      "Milenyum Dans Kompleksi",
+      "Debbie Raynolds",
+      "MovementLifestyle",
+      "Los Angeles Film Okulu",
+      "NY Film Akademisi"
+    ],
+    "other_desc": [
+      "Hollywood'un elverişli konumu, genellikle toplu taşıma araçlarına bel bağlayan uluslararası öğrenciler için mükemmeldir (Hollywood ve Highland durağı kampüse sadece 2 dakikalık yürüme mesafesindedir.)",
+      "Küçük bir sınıf ortamında eğitim almak ve eğlence / film / müzik endüstrisine yakın olmak isterseniz, lütfen MLI-Hollywood'da bize katılın!"
+    ],
+    "albums": [
+      {
+        "title": "Kampüs",
+        "photos": [
+          "/images/location/hollywood/campus-1.jpg",
+          "/images/location/hollywood/campus-2.jpg"
+        ]
+      },
+      {
+        "title": "Sınıf",
+        "photos": [
+          "/images/location/hollywood/class-1.jpg",
+          "/images/location/hollywood/class-2.jpg"
+        ]
+      }
+    ],
+    "location": {
+      "title": "Konum",
+      "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+    },
+    "video": [
+      {
+        "title": "1. Hollywood Highland Tren İstasyonu üzerinden MLI Hollywood Kampüsü'ne nasıl gidilir?",
+        "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+      },
+      {
+        "title": "2. Araçla MLI Hollywood Kampüsüne Nasıl Gidilir? <br /><br />",
+        "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+      }
+    ],
+    "accommodation": {
+      "title": "Konaklama",
+      "description": [
+        "Konaklamalarınız için Aile yani ve yurt sağlamaktayız.",
+        "＜Yurt＞<br/>",
+        "Yurtlarımız, okula yakın elverişli yerlerde bulunmaktadır."
+      ],
+      "information": [
+        {
+          "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+          "desc": [
+            "＜Aile Yani＞ <br/>",
+            "Aile yanı, Amerikan kültürü hakkında bilgi edinmenin ve İngilizce konuşma fırsatlarınızı artırmanın en iyi yoludur.",
+            "<a href=\"/tr/stay/\"><i class='bi bi-arrow-right'></i> Konaklama hakkında daha fazla bilgi</a>"
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "Dersler",
+      "lists": [
+        "ESL Programı",
+        "TOEFL®",
+        "Konuşma Programı",
+        "TOEIC®"
+      ]
+    },
+    "message": {
+      "title": "Hollywood Kampüsünden Mesaj",
+      "image": "/images/location/hollywood/julie.jpg",
+      "position": "Kampüs Direktörünün Mesajı",
+      "description": [
+        "MLI Hollywood kampüsü, Hollywood'un hareketli merkezinde, Hollywood / Highland metro istasyonuna sadece 2 dakikalık yürüme mesafesinde yer almaktadır. Dolby Tiyatrosu, Çin Tiyatrosu ve Walk of Fame, Hollywood'un kampüsünün hemen yanında eğlenmek için birçok fırsat sunuyor!"
+      ]
+    }
+  }

@@ -1,0 +1,172 @@
+{
+    "pageTitle": "หอพัก | Mentor Language Institute",
+    "pageDescription": "นักเรียนสามารถเลือกพักบ้านพักหรือพักหอพักได้",
+    "title": "หอพัก",
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "นักเรียนสามารถเลือกพักบ้านพักหรือพักหอพักได้",
+    "types": [
+      {
+        "title": "Dormitory",
+        "description": [
+          "หอพักนักเรียนมีจำนวน 40 ห้อง <br />ท่านจะมีโอกาสในการสื่อสารกับนักเรียนชาวต่างชาติอีกมากมาย <br />เราขอแนะนำหอพัก หากท่านต้องการราคาที่ประหยัดกว่า"
+        ],
+        "lists": [
+          "ห้อง : ส่วนตัว (รายบุคคล), ส่วนรวม (2 หรือ 4 คน)",
+          "อาหาร: ไม่มีบริการมื้ออาหาร [แต่มีห้องครัวและอุปกรณ์ครบครัน ซึ่งท่านสามารถใช้ได้]",
+          "ข้อมูลเพิ่มเติม: หอพักจะมีความเป็นส่วนตัวมากกว่าบ้านพัก แต่จะมีข้อบังคับในการอยู่ร่วมกับผู้อื่น",
+          "การเดินทาง: ใช้เวลาประมาณ 20 นาทีโดยการเดินเท้าหรือรถโดยสารประจำทาง"
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "ราคาหอพัก",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> หากอายุน้อยกว่า 18 ปี ค่าเช่าจะสูงกว่าราคาของผู้ที่มีอายุมากกว่า 18 ปีประมาณ 10%",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "บ้านพัก",
+        "description": [
+          "นักเรียนที่เลือกอยู่กับครอบครัวชาวต่างชาติ ซึ่งเป็นสถานที่ที่ปลอดภัย มีการต้อนรับอย่างอบอุ่นและบรรยากาศที่สะดวกสบายในการฝึกทักษะภาษาอังกฤษ อีกทั้งยังเป็นโอกาสดีที่จะได้เรียนรู้เกี่ยวกับประเพณีและวัฒนธรรมของครอบครัวชาวอเมริกันด้วย"
+        ],
+        "lists": [
+          "ห้อง: ส่วนตัว (รายบุคคล)",
+          "อาหาร: 2 มื้อต่อวัน (อาหารเช้าและอาหารเย็น)",
+          "ความเป็นส่วนตัว: อาจมีกฎระเบียบเล็กน้อย ขึ้นอยู่กับครอบครัวชาวต่างชาติ",
+          "การเดินทาง: เฉลี่ย 30-45 นาทีด้วยรถโดยสารประจำทาง"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "ราคาบ้านพัก",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> หากอายุน้อยกว่า 18 ปี ค่าเช่าจะสูงกว่าราคาของผู้ที่มีอายุมากกว่า 18 ปีประมาณ 10%",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "ข้อเสนอแนะจากเจ้าหน้าที่",
+      "description": [
+        "การหาที่พักเมื่อท่านมาถึงสหรัฐฯครั้งแรกนั้นไม่ง่ายเลย <br />โดยเฉพาะอย่างยิ่งสำหรับนักเรียน-นักศึกษาชาวต่างชาติที่ไม่มีหมายเลขประกันสังคม (SSN) และประวัติเครดิต <br />สถานที่ส่วนใหญ่ต้องการทั้ง SSN และประวัติเครดิตในการเช่า ดังนั้นเราจึงขอแนะนำให้ท่านพักกับเราอย่างน้อย 2-3 เดือนแรก",
+        "※การเข้าพักของท่านได้รับการสนับสนุนโดยบริษัท U.S Support Service หรือตัวแทนอื่นๆ"
+      ]
+    }
+  }

@@ -1,0 +1,31 @@
+{
+    "pageTitle": "お申し込み方法 | Mentor Language Institute",
+    "pageDescription": "MLIへの各種お申し込み方法はこちら",
+    "title": "お申し込み方法",
+    "image": "/images/how-to-apply/how-to-apply/staff.jpg",
+    "category":  [
+        {
+            "title": "MLIへの各種お申し込み方法はこちら",
+            "content": [
+                {
+                    "description": [
+                    "Mentor Languega Instituteへのお申込みをご検討いただき、誠にありがとうございます。<br />お申込み方法は、現在の居住地、ビザや受講される期間によって異なります。質問にお答えいただき、適切な申し込み方法をご選択ください。"
+                    ]
+                }
+            ],
+            "subtitle": "現在、住んでいらっしゃる国はどちらですか？",
+            "description": "現在滞在されている国よって申込方法が異なります。",
+            "other_info": [
+                "<a class='btn btn-primary text-center' href='/jp/how-to-apply/overseas'>日本からの申込</a>",
+                "<span class='text-center'>or</span>",
+                "<a class='btn btn-primary text-center' href='/jp/how-to-apply/student-visa-f1/transfer-students'>米国内からの転校</a>",
+                "<span class='text-center'>or</span>",
+                "<a class='btn btn-primary text-center' href='/jp/how-to-apply/student-visa-f1/change-of-status'>その他</a>"  
+            ]
+        }
+    ],
+    "content": [
+        "MLIは英語以外にも合計 <span style=\"color: #ff0000; font-weight: bold;\">8言語で皆様の質問に対応しております。</span>現在の状況や、分類がお分かりにならない方はお気軽にお問合せページよりお聞き下さい。"
+    ],
+    "hasBrochure": true
+}

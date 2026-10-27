@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+    "pageDescription": "يرجى تحميل الكتيب باستخدام الروابط أدناه:",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "يرجى تحميل الكتيب باستخدام الروابط أدناه:"
+    ],
+    "brochures": [
+      {
+        "title": "2022 ترحيب ترحيبي",
+        "image": "/images/material/1642828197-WELCOME_Promotion_ARABIC.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/assets/images/material/1642828197-WELCOME_Promotion_ARABIC.jpg"
+      },
+      {
+        "title": " كتيب المعهد",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": " كتيب الإسكان",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": " 2026 الاسعار و حزمة التسجيل",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "كتيب الأنشطة الخاص بـ MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>سيرسل لك موظفو القبول رسالة إلكترونية بخصوص استفسارك.</span><br />إذا كانت لديك أي أسئلة بخصوص تأشيرات الطلاب أو توفر السكن أو أي شيء آخر ، فلا تتردد في الاتصال بنا في أي وقت.",
+      "عملية الدراسة بالخارج في الولايات المتحدة معقدة للغاية ، ويمكننا إرشادك إلى الإجراءات عبر الهاتف.",
+      "إذا لم تحدد \"لا تتصل بي عبر الهاتف\" ، فسنتصل بك في غضون يوم أو يومين.",
+      "<b>【حرم ويستوود】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />TEL: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />ساعات العمل: من الاثنين إلى الخميس 8:30 - 20:30 ، الجمعة 8:30 - 18:00",
+      "<b>【حرم هوليوود】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />ساعات العمل: من الاثنين إلى الجمعة من الساعة 8:30 إلى الساعة 17:00"
+    ]
+  }

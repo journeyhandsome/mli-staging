@@ -1,0 +1,53 @@
+{
+    "pageTitle": "MLI Politique de quarantaine | Mentor Language Institute",
+    "pageDescription": "MLI reprend les cours en personne principalement sur le campus de Westwood.",
+    "title": "MLI Politique de quarantaine",
+    "subtitle": [
+      "MLI reprend les cours en personne principalement sur le campus de Westwood. Tous les cours d'ESL reprendront en personne à partir du <b>7/06/21</b>. Autres programmes disponibles. Voici la mise à jour de la politique de quarantaine de MLI basée sur les exigences du comté de LA.",
+      "Bien que le programme de conversation soit offert sur le campus d'Hollywood, tous les autres cours d'Hollywood resteront en ligne jusqu'à nouvel ordre."
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "Étudiants entièrement vaccinés",
+        "unvaccinated": "Étudiants non vaccinés"
+      },
+      "table_header": [
+        "De l'étranger",
+        "De domestique (aux États-Unis)",
+        "Outre-mer et domestique"
+      ],
+      "table_content": [
+        [
+          "Puis-je rejoindre des cours en personne immédiatement après mon arrivée à LA ?",
+          "<span class='hutoaka'>Oui</span>",
+          "<span class='hutoaka'>Oui</span>",
+          "<span class='font-weight-bold'>Non</span>"
+        ],
+        [
+          "Puis-je participer à des cours en personne si je reçois un test PCR 3 à 5 jours après mon arrivée à Los Angeles ?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>Non</span>"
+        ],
+        [
+          "Dois-je mettre en quarantaine pendant 10 jours pour pouvoir rejoindre les cours en personne après mon arrivée à LA ?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Oui</span>"
+        ],
+        [
+          "MLI exige que les étudiants non vaccinés passent des tests PCR chaque semaine et soumettent des résultats négatifs avant chaque lundi, afin de participer aux programmes en personne.",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Oui</span>"
+        ],
+        [
+          "Puis-je raccourcir ma quarantaine (7 jours) si je passe un examen PCR après mon arrivée à LA ?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Oui</span>"
+        ]
+      ]
+    },
+    "note": "*Les étudiants entièrement vaccinés doivent soumettre une preuve.<br />**Tous les élèves doivent porter des masques dans les cours."
+  }

@@ -1,0 +1,45 @@
+{
+    "pageTitle": "Changement de statut | Mentor Language Institute",
+    "pageDescription": "Merci beaucoup de votre interêt d'inscription à MLI. Cette page est pourles personnes actuellement aux USA sans visa F-1 (étudiant) et qui souhaitent changer pour un visa étudiant. ",
+    "title": "Changement de statut",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "Merci beaucoup de votre interêt d'inscription à MLI.<br /> Cette page est pourles personnes actuellement aux USA sans visa F-1 (étudiant) et qui souhaitent changer pour un visa étudiant. ",
+      "Si vous souahiter vous inscrire, veuillez procéder:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-fr.png",
+        "link": "/fr/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Etapes d'inscriptions",
+      "description": [
+        "Les étapes exactes d'inscription dépendent du pays d'origine, de la nationalité, des cours, du visa à obtenir, etc. Notre équipe sera heureuse de vous aider dans toutes les étapes en fonction de votre situation unique."
+      ]
+    },
+    "needHelp": {
+      "title": "Besoin d'aide? Demandez-nous!",
+      "description": [
+        "Les règles de Visa et étapes d'inscriptions en fonction de votre actuel statut.<br />Si vous avez besoin de clarifications avant de vous inscrire, n'hésitez pas à nous contacter.<br />Nous avons du personnel multilingue à votre dispostion, en 8 langues différentes."
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-fr.jpg",
+      "link": "/fr/contact",
+      "title": "Contactez-nous",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

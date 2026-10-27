@@ -1,0 +1,59 @@
+{
+    "pageTitle": "アメリカ国内からの申込 | Mentor Language Institute",
+    "pageDescription": "⁻現在アメリカ国内に滞在している  ⁻語学学校など、他の教育機関に通学している ⁻学生ビザおよびI-20を保持している",
+    "title": "アメリカ国内からの申込",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "section" :[
+      {
+        "subtitle" : "現在アメリカに滞在し、MLIに転校したい方",
+        "description" : [
+          "⁻現在アメリカ国内に滞在している <br />⁻語学学校など、他の教育機関に通学している<br />⁻学生ビザおよびI-20を保持している"
+        ]
+      }
+    ],
+    "category": [
+      {
+        "title": "手続き手順",
+        "image": "/images/how-to-apply/transfer-students/application-steps-en.jpg",
+        "subtitle" : ["MLIへの転校をお考えの方は、こちらの手順で手続きを進めて頂きます。"],
+        "listType": "decimal",
+        "lists": [
+          "お申し込み",
+          "必要書類の提出",
+          "新入生オリエンテーションへの出席",
+          "I-20の受領"
+        ],
+        "description": [
+          "理想は授業をスタートする1～2か月前まで、 <b>遅くとも2週間前までにはお申し込み下さい。</b>転校手続きは現在のステータスによってとても複雑になるケースがあります。お申込み後、まずはスタッフまで手順を確認して頂くことをお勧めします。<br />以下、フォームボタンよりお申込みください。"
+        ]
+      },
+      {
+        "title": "キャンセル規定",
+        "description": [
+          "お申し込み時に発生する入学金$150はお手続き開始後はいかなる理由があっても <br />返金できませんのであらかじめご了承ください。ただし、<br />滞在先が満室のため受け入れができない、など当校が事由の場合は、その限りではありません。"
+        ]
+      },
+      {
+        "title": "お申し込み後の手続きの進め方について",
+        "image": "/images/how-to-apply/transfer-students/application-form-jp.jpg",
+        "description": [
+          "お申し込み後はiMLIと言う当校独自の申し込みシステムにより手続きを進めて参ります。 <br />手続き方法はiMLIに記載され、ひとつひとつ順を追って進めていく事が可能です。"
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "お申し込みはこちらから",
+      "description": [
+        "米国ビザに関する情報の入力、手続きに関する質問のやりとりも",
+        "以下、フォームボタンよりお申込みください。"
+      ],
+      "btn_label": "オンライン申込フォームへ",
+      "admission": {
+        "link": "/jp/admission",
+        "content": [
+          "※お申込みの際はクレジットカードをご用意ください。"
+        ]
+      }
+    },
+    "hasBrochure": true
+  }

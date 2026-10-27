@@ -1,0 +1,54 @@
+{
+    "pageTitle": "Etudiants étrangers | Mentor Language Institute",
+    "pageDescription": "Etudiants étrangers sont les étudiants qui vivent actuellement en dehors des Etats-Unis et qui vont postuler pour un visa étudiant ",
+    "title": "Etudiants étrangers",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "subtitle": [
+      "Etudiants étrangers sont les étudiants qui vivent actuellement en dehors des Etats-Unis et qui vont postuler pour un visa étudiant ",
+      "Ou",
+      "Ont  ceux qui ont déjà un VISA ETUDIANT et vont réentrer aux Etats-Unis depuis un autre pays."
+    ],
+    "category": [
+      {
+        "title": "Etapes d'inscription",
+        "image": "/images/how-to-apply/overseas-student/application-steps-fr.png",
+        "listType": "decimal",
+        "lists": [
+          "S'inscrire à MLI (remplir le formulaire d'inscription en ligne)",
+          "Soumettre les pièces justificatives pour un I-20",
+          "Recevoir son I-20",
+          "Postuler pour un Visa étudiant et avoir un entretien à l'Ambassade des Etats-Unis",
+          "Recevoir son visa étudiant",
+          "Partir pour les USA"
+        ],
+        "description": [
+          "Les étudiants doivent s'inscrire à MLI au moins 2 mois avant la date de début souhaitée de leur programme. Nous vous guiderons à travers les étapes d'inscription  après avoir soumis votre formulaire d'inscription en ligne à MLI."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Politique d'annulation",
+        "description": [
+          "Les frais d'inscriptions de $150 seront facturés au moment de l'inscription. Les frais d'inscriptions sont non-remboursables même si votre visa est refusé ou si votre inscription est annulée."
+        ]
+      },
+      {
+        "title": "Après avoir soumis votre formulaire d'inscription",
+        "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+        "description": [
+          "Après que les étudiants auront soumis leur formulaire d'inscription en ligne, MLI traitera votre demande  et vous enverra le lien de iMLI (La page de demande d'inscription en ligne pour chaque étudiant).<br />Les étudiants peuvent suivre le statut de leur inscription sur iMLI."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Demande d'inscription en ligne",
+      "description": [
+        "Remplir le formulaire d'inscription en ligne.<br />Contactez-nous via e-mail avec toutes vos questions.",
+        "S'inscrire à MLI via le damande d'inscription en ligne ci-dessous."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/overseas-student/apply-now-fr.png",
+        "link": "/fr/admission"
+      }
+    }
+  }

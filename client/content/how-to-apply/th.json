@@ -1,0 +1,31 @@
+{
+    "pageTitle": "คุณต้องการสมัครวีซ่าประเภทใด | Mentor Language Institute",
+    "pageDescription": "กรุณาเลือกข้อมูลวีซ่าของคุณจากตัวเลือกด้านล่าง",
+    "title": "คุณต้องการสมัครวีซ่าประเภทใด",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "กรุณาเลือกข้อมูลวีซ่าของคุณจากตัวเลือกด้านล่าง:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-th.png",
+                    "link": "/th/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-th.png",
+                    "link": "/th/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Any questions?",
+            "description": [
+                "โดยปกติคุณจะต้องมีวีซ่านักเรียน เพื่อการเรียนระยะยาวในประเทศสหรัฐอเมริกา.<br />หากคุณไม่ทราบว่าคุณต้องการวีซ่าหรือไม่โปรดติดต่อเรา",
+                "เรามีให้บริการถึง 8 ภาษา."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-th.jpg",
+                "link": "/th/contact"
+            }
+        }
+}

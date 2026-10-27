@@ -1,0 +1,20 @@
+{
+  "pageTitle": "学生ビザ保持しているかの確認 | Mentor Language Institute",
+  "pageDescription": "すでに学生ビザをお持ちですか？",
+  "title": "学生ビザ保持しているかの確認",
+  "image": "/images/visaholder/visa.jpg",
+  "category": {
+    "title": "すでに学生ビザをお持ちですか？",
+    "subtitle": "YES:米国に留学経験があってすでにビザをお持ちの方<br /><b>NO:日本から新規のお申込みでMLIへの入学を希望される方</b>",
+    "content": [
+      "<a class='btn btn-primary text-center' href='/jp/havevisa'>YES</a>",
+      "<span class='text-center'>or</span>",
+      "<a class='btn btn-primary text-center' href='/jp/how-to-apply/visa_overseas'>NO</a>",
+      "<span class='text-center'>or</span>",
+      "<a class='btn btn-primary text-center' href='/jp/contact'>分からない</a>"
+    ],
+    "other_info": [
+      "注意：学生ビザは以前通われている学校のプログラムを修了してから5ヶ月を過ぎると失効します。よって、日本に帰国してから5か月以上経過している方はNOをご選択ください。"
+    ]
+  }
+}

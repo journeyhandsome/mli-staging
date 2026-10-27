@@ -1,0 +1,92 @@
+{
+  "pageTitle": "Le premier jour à MLI | Mentor Language Institute",
+  "pageDescription": "A MLI, nous organisons une séance d'orientation pour les nouveaux étudiants au début de chaque module (toutes les 4 semaines).",
+  "title": "Le premier jour à MLI",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "Bienvenue à Mentor Language Institute!",
+      "description": [
+        "A MLI, nous organisons une séance d'orientation pour les nouveaux étudiants au début de chaque module (toutes les 4 semaines).",
+        "L'orientation vous fournira des informations importantes et nécessaires à propos de nos programmes, des règlements d'immigration, des règles de l'école mais aussi pour vous aider à atteindre tous vos objectifs scolaires."
+      ],
+      "dates": [
+        "＜Les dates de début de chaque terme＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "l'orientation commencent à 1:00 pm."
+      ],
+      "groups": [
+        {
+          "title": "Orientation et test de niveau",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "Documents d'inscription"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "Orientation académique"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "Test de niveau"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "Règlements de l'école et d'immigration"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "Service de transfert au collège"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "Activités et logement"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "Test d'élocution et placement en classe"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "Achat des livres"
+            }
+          ]
+        },
+        {
+          "title": "Qu'est ce que vous avez besoin d'apporter avec vous le premier jour?",
+          "lists": [
+            "Passeport (Si vous êtes titulaire d'un visa étudiant)",
+            "I-20 (Si vous êtes titulaire d'un visa étudiant)",
+            "Stylo et papier",
+            "Moyen de paiement pour l'achat des livres et de s'acquitter des frais de scolarité"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Détails",
+      "groups": [
+        {
+          "title": "Horaire d'orientation",
+          "description": [
+            "Vous commencerez par remplir les documents nécessaires pour l'inscription.<br />Ensuite, le directeur académique ou le coordinateur de programme fera une présentation sur nos différents programmes, règlement de classe, et comment réussir ses études pour passer d'un niveau à un autre et d'un programme à un autre."
+          ]
+        },
+        {
+          "title": "Test de niveau et interview",
+          "description": [
+            "Après l'orientation, vous passerez le «test de niveau en anglais» qui comprend environ 80 questions, avec une partie de comréhension à l'audition et une partie qui couvre la grammaire, le vocabulaire et la compréhension à la lecture. C'est un test de 60 minutes qui aide à déterminer votre niveau d'anglais.<br />Après le test, vous aurez un test d'expression orale rapide (plus comme une interview) avec l'un de nos instructeurs (soit le Program Coordinator, l'Academic Directeur ou un enseignant de MLI). Ce test est destiné à déterminer le niveau d'anglais adequat et/ou le programme le plus approprié en fonction de vos compétences et de vos objectifs."
+          ]
+        },
+        {
+          "title": "Achat de manuels scolaires",
+          "description": [
+            "Après le test de niveau et l'interview, les élèves achètent leurs livres auprès du personnel de la réception qui est disponible pour répondre aux questions ou préoccupations supplémentaires des étudiants."
+          ]
+        }
+      ]
+    }
+  ]
+}

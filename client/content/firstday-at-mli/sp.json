@@ -1,0 +1,92 @@
+{
+  "pageTitle": "Primer día en MLI | Mentor Language Institute",
+  "pageDescription": "En MLI, tenemos una sesión de orientación para nuevos estudiantes al comienzo de cada semestre (cada 4 semanas).",
+  "title": "Primer día en MLI",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "¡Bienvenido a Mentor Language Institute!",
+      "description": [
+        "En MLI, tenemos una sesión de orientación para nuevos estudiantes al comienzo de cada semestre (cada 4 semanas).",
+        "Esta orientación le proporcionará información importante y necesaria para aumentar su comprensión de nuestros programas, las normas de inmigración y las reglas de la escuela, y le ayudará a cumplir todos sus objetivos académicos. <br />Cuando llegue a la escuela, será recibido por nuestro personal de la Oficina de Admisiones, nuestros profesores, la recepción y el personal administrativo."
+      ],
+      "dates": [
+        "＜Fecha de inicio de cada trimestre＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "La orientación comienza a la 1 pm."
+      ],
+      "groups": [
+        {
+          "title": "Orientación y examen de nivel",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "Documentación de inscripción"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "Orientación Académica"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "Prueba de nivel"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "Políticas del Instituto, Reglas de Inmigración"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "Servicio de transferencia de la universidad"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "Actividades y alojamiento"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "Examen oral y elección de nivel"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "Compra de libros de texto"
+            }
+          ]
+        },
+        {
+          "title": "Qué traer en su primer día",
+          "lists": [
+            "Pasaporte (si es titular de una visa de estudiante)",
+            "I-20 (si es titular de una visa de estudiante)",
+            "Lápiz y papel",
+            "Dinero para la compra de los libros de texto y el pago de la matrícula"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Detalles",
+      "groups": [
+        {
+          "title": "Horario de la orientación",
+          "description": [
+            "Primero, completará la documentación necesaria para la inscripción.<br />A continuación, el Director Académico o el Coordinador de Programa dará una presentación sobre nuestros diferentes programas, reglas de clase, y cómo tener éxito en sus estudios para pasar de un nivel a otro, y de un programa a otro."
+          ]
+        },
+        {
+          "title": "Examen de nivel y entrevista",
+          "description": [
+            "Después de la orientación, tomará el \"Examen de nivel de Inglés\", que consiste en aproximadamente 80 preguntas. El exámen contiene preguntas de comprensión y escritura que cubren gramática, vocabulario y comprensión lectora. Es un examen de 60 minutos que le ayudará a determinar su nivel de inglés. <br />Después del examen, tendras una prueba de conversación rápida (más como una entrevista) con uno de nuestros instructores (ya sea la PC, el AD o un profesor de MLI).<br />Esta prueba es para ayudarlo a finalizar su elección del nivel y/o programa más apropiado según sus habilidades y objetivos."
+          ]
+        },
+        {
+          "title": "Compra de los libros de texto",
+          "description": [
+            "Después del examen de nivel y la entrevista, deberá comprar los libros de texto al personal de la recepción.<br /> El personal de recepción está disponible para responder cualquier pregunta o inquietud adicional que puedan tener los estudiantes."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLI ช่วยให้ทุกคนปลอดภัยในระหว่างการแพร่ระบาด | Mentor Language Institute",
+    "pageDescription": "ปัจจุบัน MLI มีชั้นเรียนสนทนาด้วยตนเอง (ระดับกลางและขั้นสูง) และโปรแกรมออนไลน์ ได้แก่ ; ESL, TOEFL®︎, IELTS ™️, ภาษาอังกฤษธุรกิจบวกTOEIC®︎และภาษาอังกฤษเพื่อชีวิต",
+    "title": "MLI ช่วยให้ทุกคนปลอดภัยในระหว่างการแพร่ระบาด",
+    "subtitle": [
+      "ปัจจุบัน MLI มีชั้นเรียนสนทนาด้วยตนเอง (ระดับกลางและขั้นสูง) และโปรแกรมออนไลน์ ได้แก่ ; ESL, TOEFL®︎, IELTS ™️, ภาษาอังกฤษธุรกิจบวกTOEIC®︎และภาษาอังกฤษเพื่อชีวิต",
+      "MLI กำลังรับนักศึกษาทั้งในต่างประเทศและโอนย้าย"
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "ต่อไปนี้เป็นมาตรการด้านความปลอดภัย 6 ประการที่ MLI กำหนดสำหรับนักเรียนที่เข้าชั้นเรียนด้วยตนเอง",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLI จะกำหนดให้ทุกคนในมหาวิทยาลัยต้องฉีดวัคซีนเพื่อให้ทุกคนปลอดภัย หากคุณไม่เต็มใจหรือไม่สามารถรับวัคซีนได้ คุณสามารถทำการทดสอบ PCR และแจ้งผลการทดสอบให้ MLI ทุกวันจันทร์"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "ใบรับรองการฉีดวัคซีนโควิด19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  นักเรียนต้องได้รับการทดสอบ COVID-19 ไม่เกิน 3 วันก่อนการเดินทางทางอากาศเข้าสู่สหรัฐอเมริกา (US) และให้ผลการทดสอบเชิงลบ MLI เป็นภาษาอังกฤษ นักเรียนต้องส่งสำเนาผลการเรียนทางอีเมล MLI ก่อนออกเดินทางและนำผลการทดสอบ PCR ต้นฉบับมาที่โรงเรียน",
+            "หากนักเรียนไม่สามารถให้ผลการทดสอบ PCR ของ MLI ได้เขา / เธอจะต้องกักกันเป็นเวลา 10 วันหลังจากเดินทางมาถึงสหรัฐอเมริกาตราบเท่าที่ไม่มีอาการ COVID-19 นักเรียนจะได้รับอนุญาตให้เริ่มโปรแกรมด้วยตนเองหลังจากนั้น การกักกัน 10 วัน"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "ตัวอย่างผลลบ COVID19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  เมื่อเข้าโรงเรียนทุกคนต้องล้างมือให้สะอาดโดยใช้น้ำยาฆ่าเชื้อที่ทางเข้าและตรวจสอบอุณหภูมิ อุณหภูมิต้องต่ำกว่า 99.5F (37.5 ℃)"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  ทุกคนต้องสวมหน้ากากอนามัยตลอดเวลาขณะอยู่ที่โรงเรียน รักษาความห่างเหินทางสังคม ระยะห่างระหว่างโต๊ะนักเรียน 6 ฟุต"
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  ก่อนและหลังเรียนแต่ละชั้นห้องเรียนพื้นที่ส่วนกลางและพื้นผิวที่สัมผัสบ่อยๆจะได้รับการทำความสะอาดและฆ่าเชื้อตามแนวทางของ <a href='https://www.cdc.gov/coronavirus/2019-ncov/community/clean-disinfect/index.html' target='_blank'>CDC</a>"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  มีการติดตั้งการป้องกันพลาสติกที่บริเวณแผนกต้อนรับ"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

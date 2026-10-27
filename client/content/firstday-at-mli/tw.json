@@ -1,0 +1,92 @@
+{
+  "pageTitle": "MLI的第一天 | Mentor Language Institute",
+  "pageDescription": "在MLI，新生在每期(每四周)的一開始有新生訓練。",
+  "title": "MLI的第一天",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "歡迎來到Mentor Language Institute!",
+      "description": [
+        "在MLI，新生在每期(每四周)的一開始有新生訓練。",
+        "新生訓練會提供您重要的資訊，增加您對課程的了解、移民政策及校規。我們入學辦事處、老師、櫃檯人員、行政人員及經理歡迎您。"
+      ],
+      "dates": [
+        "＜每期開始時間＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "新生培訓下午一點開始。"
+      ],
+      "groups": [
+        {
+          "title": "新生培訓以及入學測驗",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "註冊單填寫"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "學校介紹"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "入學測驗"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "學校政策、移民法規"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "轉學生服務"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "活動&住宿"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "口說測驗及安排課程"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "購買教科書"
+            }
+          ]
+        },
+        {
+          "title": "第一天要帶些什麼?",
+          "lists": [
+            "護照（如果您是學生簽證持有人）",
+            "I-20（如果您是學生簽證持有人）",
+            "筆和筆記本",
+            "教科書費和學費餘額支付"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "細項",
+      "groups": [
+        {
+          "title": "培訓時間表",
+          "description": [
+            "您將會填寫必要的註冊表格。<br />接下來，校長會給予一個關於不同課程、課程規則及如何成功增進英語能力至更進階程度課程的介紹簡報。"
+          ]
+        },
+        {
+          "title": "入學測驗及面試",
+          "description": [
+            "入學培訓之後，您將會接受入學英語測驗，大約80個題目，包含聽力及寫作，涉及文法、單字及閱讀。此60分鐘的測驗可以幫助我們估測您的英語程度。測驗結束後，您將會和我們的教師(PC, AD 或是MLI教師)進行一個短時間的口說測驗(類似面試)。此測驗可幫助判定依照您的程度和目標最適合的英語程度課程。"
+          ]
+        },
+        {
+          "title": "購買教科書",
+          "description": [
+            "入學測驗及面試結束後，學生可以至櫃檯購買教科書。櫃檯人員將協助學生其它任何有疑問的地方。"
+          ]
+        }
+      ]
+    }
+  ]
+}

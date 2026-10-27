@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Pago | Mentor Language Institute",
+    "pageDescription": "Pago",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">Puede realizar su pago de forma segura con tarjeta de crédito rellenando el formulario de esta página y enviándolo. Mentor Language Institute no almacena la información de su tarjeta de crédito. Este proceso de pago se facilita a través del pago en línea de Stripe.<br />Rellene la siguiente información</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Fecha",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Campus",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Nombre del estudiante",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Apellidos del estudiante",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Nombre de la agencia (si procede)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Valor a pagar",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*Se añadirá el 4% del valor pagado de tarifa del trámite.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Valor cargado en su tarjeta de crédito"
+        }
+    ]
+    },
+  "btn_label": "Continuar con la página de pago"
+}

@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLI tiene tutti al sicuro durante la pandemia | Mentor Language Institute",
+    "pageDescription": "MLI attualmente offre lezioni di conversazione di persona (intermedio e avanzato) e programmi online tra cui; ESL, TOEFL®︎, IELTS ™ ️, Business English plus TOEIC®︎ e Life Skills English.",
+    "title": "MLI tiene tutti al sicuro durante la pandemia",
+    "subtitle": [
+      "MLI attualmente offre lezioni di conversazione di persona (intermedio e avanzato) e programmi online tra cui; ESL, TOEFL®︎, IELTS ™ ️, Business English plus TOEIC®︎ e Life Skills English.",
+      "MLI sta attualmente accettando sia studenti stranieri che trasferiti."
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "Ecco <b>6 misure di sicurezza</b> che MLI richiede agli studenti che frequentano lezioni di persona.",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLI renderà le vaccinazioni un requisito per tutti nel campus, al fine di mantenere tutti al sicuro. Se non vuoi o non puoi vaccinarti, puoi fare un test PCR e consegnare i risultati del test a MLI ogni lunedì."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "Certificato di vaccinazione COVID-19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  Gli studenti devono sottoporsi al test per COVID-19 non più di 3 giorni prima del viaggio in aereo negli Stati Uniti (US) e fornire risultati del test MLI negativi in ​​inglese. Gli studenti devono inviare via e-mail a MLI una copia dei risultati prima della partenza e portare a scuola i risultati del test PCR originale.",
+            "Se lo studente non riesce a fornire a MLI i risultati del test PCR, deve mettere in quarantena per 10 giorni dopo l'arrivo negli Stati Uniti. la quarantena di 10 giorni."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "Risultato negativo del campione COVID19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  Quando si entra a scuola, tutti devono disinfettare le mani utilizzando il disinfettante all'ingresso e far controllare la temperatura. La temperatura deve essere inferiore a 99,5 ° F (37,5 ° C)."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  Tutti sono tenuti a indossare una maschera per il viso in ogni momento mentre sono a scuola. Viene mantenuto l'allontanamento sociale; 6 piedi di distanza tra i banchi degli studenti."
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  Prima e dopo ogni lezione, le aule, le aree comuni e le superfici toccate di frequente vengono pulite e disinfettate secondo le linee guida <a href='https://www.cdc.gov/coronavirus/2019-ncov/community/clean-disinfect/index.html' target='_blank'>CDC</a>"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  La protezione in plastica è stata installata nell'area della reception."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

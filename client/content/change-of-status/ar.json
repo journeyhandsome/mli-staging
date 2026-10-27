@@ -1,0 +1,45 @@
+{
+    "pageTitle": "تغيير حالة الفيزا | Mentor Language Institute",
+    "pageDescription": "نشكر لك إهتمامك بالإلتحاق بمعهد مينتور",
+    "title": "تغيير حالة الفيزا",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "نشكر لك إهتمامك بالإلتحاق بمعهد مينتور<br />هذه الصفحة للمتواجدين حاليا في الولايات المتحدة لكن لايحملون فيزا الطالب F1 ويرغبون بتحويل فيزتهم إلى فيزا طالب",
+      "إذا كنت ترغب التقدم تتبع الخطوات التالية"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-ar.png",
+        "link": "/ar/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "خطوات الأبلكيشن",
+      "description": [
+        "خطوات الأبلكيشن تعتد على العديد من المعايير منها: موطن الشخص, جنسيته, الدورة المتقدم لها, نوع الفيزا المطلوبة .. الخ. موظفينا سيسعدون بخدمتك و إرشادك بالخطوات الملائمة بناء على حالتك"
+      ]
+    },
+    "needHelp": {
+      "title": "تحتاج المساعدة؟ إسألنا",
+      "description": [
+        "قوانين الفيزا و خطوات الأبلكيشن مختلفة بناء على حالتك الحالية<br />إن احتجت المزيد من التوضيح قبل البدء بالتقديم, لاتتردد بالتواصل معنا. لدينا موظفين يتحدثون ثمانية لغات بطلاقة"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-ar.png",
+      "link": "/ar/contact",
+      "title": "اتصل بنا",
+      "lists": [
+        {
+          "campus": "مقر ويستوود",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "مقر هوليوود",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

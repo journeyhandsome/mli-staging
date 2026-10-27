@@ -1,0 +1,99 @@
+{
+  "pageTitle": "프로그램 | Mentor Language Institute",
+  "pageDescription": "MLI는 8가지 프로그램을 제공합니다. ESL 프로그램, Vacation ESL 프로그램, TOEFL 프로그램, IELTS 프로그램, 중급 회화 프로그램, 고급 회화 프로그램, 비즈니스 플러스 TOEIC 프로그램, GRE® / GMAT® 프로그램",
+  "title": "프로그램",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "MLI는 7가지 프로그램을 제공합니다.",
+    "lists": [
+      "ESL 프로그램",
+      "Vacation ESL 프로그램",
+      "TOEFL® Test Preparation /TOEFL® and University Preparation 프로그램",
+      "IELTS 프로그램",
+      "중급 회화 프로그램",
+      "고급 회화 프로그램",
+      "비즈니스 플러스 TOEIC 프로그램"
+    ]
+  },
+  "subtitle": [
+    "모든 프로그램은 영어로 진행됩니다. 많은 학생들이 일반 ESL 프로그램에서 시작해 실력이 향상됨에 따라 TOEFL®, 와 같은 프로그램을 수강하게 됩니다. ",
+    "*선택과목은 모든 학생이 등록할 수 있습니다.<br />**일부 프로그램은 처음 레벨시험에서 일정한 점수 이상의 획득이 요구됩니다."
+  ],
+  "services_esl": [
+    {
+      "title": "ESL 프로그램(일반 영어)",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "이 프로그램은 영어로 의사소통을 하는 것에 중점을 둡니다. 쓰기, 듣기, 말하기 그리고 읽기 4 가지 스킬을 강화하는데 도움이됩니다.",
+      "description": [
+        "MLI에서 가장 인기 있는 프로그램 입니다. 8단계 레벨로 나누어져 있습니다. 당신의 영어 실력에 맞는 반에서 더욱 실력 향상을 할 수 있습니다."
+      ],
+      "youtube": "https://www.youtube.com/embed/Aq_MfkF3x0g"
+    }
+  ],
+  "services_toefl": [
+    {
+      "title": "TOEFL® Test Preparation /TOEFL® and University Preparation 프로그램",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/kr/2026년-new-toefl-ibt꼭-알아야-할-모든-변경사항/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "TOEFL® iBT는 영어가 모국어가 아닌 사람들의 영어 실력을 평가하는 시험입니다. TOEFL® 점수는 미국의 여러 대학 뿐 만 아니라 정부 기관, 민간 기업, 자격 취득 기관 및 장학 기관에서도 요구될 때가 많습니다.",
+      "description": [
+        "MLI의 TOEFL® 프로그램은 인터넷 기반 테스트 (iBT)에서 높은 점수를 얻기 위해 시험전략에 중점을 두고  4 가지 기술 (쓰기, 듣기, 말하기, 읽기)을 향상시킵니다."
+      ],
+      "youtube": "https://www.youtube.com/embed/KYPYbU-D3M0"
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "IELTS™ 프로그램",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "IELTS ™는 영국과 호주에서 개발 된 시험으로 학생들의 영어 실력을 평가합니다. 최근 미국의 많은 대학에서는 TOEFL® 점수 또는 IELTS ™ 점수를 요구하고 있습니다.",
+      "description": [
+        "이 프로그램은 듣기, 말하기, 읽기 및 쓰기의 4 가지 파트로 구성됩니다. 이 수업에서는 각 섹션에서 높은 점수를 얻기위한 기술 및 전략을 배우게 됩니다.",
+        "IELTS ™는 TOEFL®에 비해 상대적으로 쉽습니다. TOEFL® 시험이 어려운 학생들을 위한 완벽한 프로그램입니다."
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "회화 프로그램",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "이 프로그램은 일상 생활 대화/회화에 초점을 맞추고 학생들이 유창하게 영어를 말할 수 있도록 돕습니다.",
+      "description": [
+        "우리 프로그램은 매력적인 활동과 대화형 학습을 통해 영어 회화 능력을 향상시키는 데 초점을 맞추고 있습니다! 우리의 회화 수업에서 학생들은 다양한 어휘, 구절 및 관용구를 탐구하며 대화를 생동감 있게 만들 수 있을 것입니다. CMAR 수업에서 발음을 연습하세요. 재미있는 토론, 롤플레이 및 그룹 활동을 통해 스스로 표현하고 의미 있는 대화에 참여하는 데 있어서 자신감을 갖게 될 것입니다. 경험이 풍부한 강사들이 지원적 학습 환경을 제공하며 언어 탐구의 여정에서 당신을 안내해 드립니다."
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "비즈니스 영어 +TOEIC® 프로그램",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "국제 비즈니스 환경에서 영어는 세계의 공통 언어입니다. 이 프로그램의 목적은 영어로 하는 비즈니스 의사소통을 향상시키는 것입니다.",
+      "description": [
+        "파워 포인트를 사용한 프리젠테이션, 전화 연습, 협상 및 미팅 뿐만 아니라 비즈니스 어휘, 듣기, 작문 및 토론 기술에 중점을 두어 여러 상황극을 통해 공부를 합니다. 그렇기 때문에 영어 실력이 종합적으로 향상되는 것을 기대할 수 있습니다."
+      ],
+      "youtube": "https://www.youtube.com/embed/2htjAgPz984",
+      "other_info": {
+        "description": [
+          "TOEIC® 시험은 비즈니스 영어 실력을 나타내는 지표이며 전 세계 여러 회사 및 조직 단체에서 여러분의 영어 실력을 확인하기 위해 사용됩니다. 표준 비즈니스 프로그램 이외에도 TOEIC® 프로그램은 필수 어휘를 다루고 시험에서 높은 점수 결과를 얻는 방법과 전략을 모색함으로써 TOEIC® - 듣기 및 읽기 시험에 성공할 수 있도록 학생과 함께 대비합니다.",
+          "이 프로그램은 어휘, 독해, 듣기 및 문법 등의 영어 실력을 향상 시키는데 도움이 될 것입니다. 정답을 찾는 전략을 학습함으로 높은 점수를 얻을 수 있습니다."
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "개인 수업",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "개인 수업은 일 대 일 또는 소그룹에서 각 학생의 목표에 맞게 맞춤 설정됩니다.",
+      "description": [
+        "개인 수업은 가장 융통성 있는 언어학습의 옵션입니다. 고도로 숙련된 강사는 각 학생의 특정 영어 목표를 달성 할 수 있도록 개인 맞춤화 된 수업을 개발하고 제공합니다. 일반 영어 기술, 회화, 유창함, 억양 조절하기, 비즈니스 영어, TOEFL, TOEIC, GRE 등 무엇이든 공부할 수 있습니다. 학생의 원하는 속도에 따라 개인 수업을 위한 스케줄을 조율할 수 있습니다. 예를 들어, 집중적으로 학습을 하고 싶다면 매일 3 시간 씩 개인 수업을 신청할 수 있습니다. 또는 보다 편안한 스케쥴을 원할 경우 주 1회 1시간씩 개인 수업을 신청할 수 있습니다. 합리적인 가격으로 학생에게 완전 맞춤식인 수업을 제공드리고 그에 따른 효과적인 실력 향상을 얻을 수 있습니다!",
+        "일반 개인 레슨 비용: <br />$80/1 시간 <br />$912/12 시간 <br />$1,632/24 시간 <br />$2,688/48 시간",
+        "학생이 특정 교사를 요청하는 경우: <br /> $92/1 시간 <br /> $1,044/12 시간 <br /> $1,896/24 시간 <br /> $3,120/48 시간",
+        "* 2 명의 학생이 개인 수업을 함께 등록하여 함께 수강할 경우 두 번째 학생은 50 % 할인이 적용됩니다."
+      ]
+    }
+  ]
+}

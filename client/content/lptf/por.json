@@ -1,0 +1,451 @@
+{
+    "special_price_img": "/assets/images/lptf-new/por/subtitle.png",
+    "title": "/assets/images/lptf-new/por/title.png",
+    "sched_text": [
+            "MAXIMIZE",
+        "<br>",
+            "SEU TEMPO"
+    ],
+    "sched_per_week": [
+            "Junte-se às nossas  <br> aulas de inglês <br> flexíveis e <br> personalizáveis,<br> com horários a <br><span> PARTIR DE APENAS <br> 2 DIAS POR <br> SEMANA!</span>"
+    ],
+    "click_for_change_of_status": "Clique para alterar o status",
+    "affordable_price": [
+            "Preço acessível.",
+        "<br>",
+            "A partir de:"
+    ],
+    "price": [
+            "$",
+        "<span class=\"mv__large\">",
+            "358",
+        "</span><span class=\"mv__small\">",
+            " / 4 semanas",
+        "</span>"
+    ],
+    "text_2": "*Incluindo férias completas",
+    "apply_online": [
+        "<span style=\"font-size: 2.1rem; white-space: nowrap;\">CONTATO</span>"
+    ],
+
+
+
+    "intro_text": [
+            "A Mentor Language Institute foi fundada em 2002 e está localizado em duas excelentes áreas:",
+        "<br><span class=\"intro__strong\">",
+            "Westwood",
+        "</span>",
+            " e ",
+        "<span class=\"intro__strong\">",
+            "Hollywood",
+        "</span>",
+            ". Ajudamos estudantes de todo o mundo a desenvolver seu inglês."
+    ],
+    "transfer": [""],
+    "free_trial": [
+            "<span>AGENDE UMA VISITA <br>  GRATUITA A ESCOLA </span>"
+    ],
+
+
+
+    "reason": "3 RAZÕES PARA ESCOLHER A MLI:",
+    "reason_1": "Razão nº 1: <br> Valores Acessíveis",
+    "reason_img": "/assets/images/lptf-new/por/reason_table.png",
+    "reason_text_1": [
+        "<p class=\"reason__heading--blue\">",
+            "Pague menos pelas suas aulas de inglês",
+        "</p><p class=\"reasonIntro__text\">",
+            "A MLI é conhecida por ter um ensino de qualidade com ótimo custo benefício. Os valores das mensalidades são geralmente mais econômicos do que outras escolas de idiomas, especialmente durante este período de inflação.",
+        "</p>"
+    ],
+    "reason_text_2": [
+            "PREÇO ESPECIAL PARA",
+        "<br><span class=\"reasonIntro__green\">",
+            "ESTUDANTES TRANSFERIDOS",
+        "</span><br><span class=\"reasonIntro__medium_fr\">",
+            "A partir de:",
+        "</span><span class=\"reasonIntro__price\">",
+            "$358",
+        "<span class=\"por_reasonIntro__small\">",
+            " / 4 semanas",
+        "</span></span>"
+    ],
+    "reason_text_3": "*Incluído férias completas",
+    "prices": [
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 138px;\"></p><p class=\"reasonPrice__head first_header\">",
+                "mensalidade",
+            "<br>",
+                "(manhã)",
+            "</p><p class=\"reasonPrice__head second_header\" style=\"width: 450px;\">",
+                "mensalidade",
+            "<br>",
+                "(tarde e noite)",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__empty\"  style=\"width: 138px;\">",
+                "",
+            "<p class=\"reasonPrice__empty\"  style=\"width: 138px;\">",
+                "",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "12 semanas",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,988",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,868",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,703*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,577*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "24 semanas",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,424",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,208",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 3,092*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 2,864*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "48 semanas",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 10,032",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 9,648",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,718*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,306*",
+            "</p>"
+        ]
+    ],
+    "price_notes": [
+        "<p class=\"reasonPrice__note\">",
+            "*Somente para preço <br> promocional local",
+        "</p><p class=\"reasonPrice__text\">",
+            "Taxa única de processamento do pedido: US$ 150",
+        "<br><br class=\"pc\">",
+            "**Taxa de processamento <br>não reembolsável",
+        "</p>"
+    ],
+    "compare_text_1": "Compare com outras escolas na mesma região",
+    "compare_text_2": "Nossos valores são muito competitivos, com preços justos para todos",
+    "compare_img": "/assets/images/lptf-new/Tuition Comp Chart 2024.png",
+    "private_lessons": "/assets/images/lptf-new/por/private_lessons.jpg",
+    "private_lessons_sp": "/assets/images/lptf-new/por/private_lessons_sp.jpg",
+    "download_brochure": "Baixe aqui nossa brochura",
+    "reason_2": "Razão nº 2: <br> Horários de aula flexíveis",
+    "reason_2_text_1": [
+        "<span class=\"reason__heading--orange\">",
+            "Escolha o cronograma <br> que se encaixe melhor <br> no seu dia-a-dia"
+    ],
+    "reason_2_text_2": [
+        "A MLI oferece horários flexíveis para se adequar ao <br>seu estilo de vida. Com o nosso novo programa de <br>conversação de classe customizável, sua flexibilidade <br>se expande bastante."
+    ],
+    "reason_2_row_1": [ 
+        "<p class=\"reasonFlex__head\">",
+            "Programa matinal",
+        "</p>",
+        "<div class=\"reasonFlex__textBox\">",
+        "<p class=\"reasonFlex__list\">",
+            "• Programa ESL (4 níveis)",
+        "<br>",
+            "• Programa de preparação <br> de testes TOEFL",
+        "</p>",
+        "<p class=\"reasonFlex__detail\">",
+            "9:00 às 13:15",
+        "<br><span class=\"reasonFlex__small\">",
+            "Oferecido de segunda a quinta-feira",
+        "</span></p>",
+        "</div>"
+    ],
+    "reason_2_row_2": [
+        "<p class=\"reasonFlex__head\">",
+            "Programa vespertino e noturno",
+        "</p><div class=\"reasonFlex__textBox\"><p class=\"reasonFlex__list\">",
+            "• Programa de conversação (4 níveis)",
+        "</p><p class=\"reasonFlex__detail\">",
+            "Tarde: 13:45 às 18:00",
+        "<br><span class=\"reasonFlex__small\">",
+            "Oferecido de segunda a quinta-feira",
+        "</span></p><p class=\"reasonFlex__detail\">",
+            "Noite: 18:30 às 22:45",
+        "<br><span class=\"reasonFlex__small\">",
+            "Oferecido apenas às segundas e quartas-feiras",
+        "</span></p></div>"
+    ],
+    "reason_2_notes": [
+        "<span class=\"reasonText__line\">",
+            "Você pode escolher o programa de 2, 3 ou 4 dias por semana!",
+        "</span><br>",
+            "Nosso novo ",
+        "<span class=\"reasonText__strong\">",
+            "Programa de Conversação Personalizável ",
+        "</span>",
+            "(turma à tarde e à noite) oferece flexibilidade ao seu horário de aulas e estilo de vida."
+    ],
+    "reason_2_lead": "Você precisa atender a classe A a D em uma semana ao invés de A, B, C, D",
+    "reason_schedule_row_1": [
+        "<p class=\"reasonSchedule__head\">",
+            "Segunda",
+        "</p><p class=\"reasonSchedule__head\">",
+            "Terça",
+        "</p><p class=\"reasonSchedule__head\">",
+            "Quarta",
+        "</p><p class=\"reasonSchedule__head\">",
+            "Quinta",
+        "</p>"
+    ],
+    "reason_schedule_row_2": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "9:00 AM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "1:15 PM",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p>"
+    ],
+    "reason_schedule_row_3": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "1:45 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "6:00 PM",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "A",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "C",
+        "</p><p class=\"reasonSchedule__text--purple\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_schedule_row_4": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "6:30 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "10:45 PM",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--purple mr\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_computation": "Exemplo: Programa de Conversação => Segunda-feira A e B + Quarta-feira C e D (2 dias/semana)",
+    "ask_question": "FAÇA UMA PERGUNTA",
+    "reason_3": [
+            "Razão nº 3:",
+        "<br>",
+            "Ótimas localizações em Los Angeles"
+    ],
+    "reason_heading":[
+        "<span class=\"reason__heading--purple\">",
+            "Não tem um carro?",
+        "</span><br>",
+            "Sem problemas!"
+    ],
+    "reason_location_text": [
+            "Ambos os campus da MLI estão localizado nas duas principais áreas de Los Angeles, especificamente no centro de Westwood e Hollywood. Fácil acesso ao transporte público, para que você não precise de um carro para chegar até aqui."
+    ],
+    "westwood_text": [
+            "O campus de Westwood está localizado à apenas 10 minutos de Beverly Hills. Um famoso ponto conhecido pelas áreas de compras e moda de renome mundial, como Rodeo Drive e Beverly Drive. Beverly Hills é uma das cidades mais luxuosas de Los Angeles."
+    ],
+    "hollywood_text": [
+            "O campus de Hollywood fica a uma curta distância do famoso teatro chinês e calçada da fama. Hollywood é sempre emocionante, cercado por teatros, restaurante da moda, lojas de designers e clubes."
+    ],
+    "easy_transfer": "PROCESSO DE TRANSFERÊNCIA FÁCIL",
+    "transfer_text": "Tornamos o processo de transferência simples e sem estresse",
+    "transfer_text_2": [
+            "Temos uma equipe multilíngue, muito amigável e disposta a apoiá -los nos aspectos mais importantes da sua inscrição, incluindo: documentações, <br> informações sobre o programa de estudos, informações sobre acomodação e informações de transportes e serviços."
+    ],
+    "step_1": [
+        "<p class=\"process__head\">",
+            "PASSO 1",
+        "</p><p class=\"process__desc--01\">",
+            "Colete os",
+        "<br>",
+            "documentos",
+        "<br>",
+            "para transferência",
+        "</p><p class=\"process__btn\">",
+            ">> LEIA MAIS",
+        "</p>"
+    ],
+    "step_2": [
+        "<p class=\"process__head\">",
+            "PASSO 2",
+        "</p><p class=\"process__desc--02\">",
+            "Preencha nossa",
+        "<br>",
+            "inscrição on-line",
+        "<br>",
+            "e pague US $ 150:",
+        "<br>",
+            "Pagamento da taxa",
+        "<br>",
+            "de processamento",
+        "<br>",
+            "(não reembolsável).",
+        "</p><p class=\"process__btn\">",
+            ">> LEIA MAIS",
+        "</p>"
+    ],
+    "step_3": [
+        "<p class=\"process__head\">",
+            "PASSO 3",
+        "</p><p class=\"process__desc--03\">",
+            "A orientação para",
+        "<br>",
+            "novos alunos",
+        "<br>",
+            "começará às 13h",
+        "<br>",
+            "de segunda-feira.",
+        "<br>",
+            "(se segunda-feira",
+        "<br>",
+            "for feriado, a",
+        "<br>",
+            "orientação ocorrerá <br> na terça-feira.)",
+        "</p><p class=\"process__btn\">",
+            ">> LEIA MAIS",
+        "</p>"
+    ],
+    "read_1": [
+        "<p class=\"stepBox__head\">",
+            "Passo 1",
+        "</p><p class=\"stepBox__text\">",
+            "Solicitamos que providencie a preparação dos documentos enumerados a seguir e os apresente na MLI.",
+        "</p><p class=\"stepBox__text\">",
+            "a) Formulário de transferência assinado",
+        "<br>",
+        "<a class=\"stepBox__link--01\" href=\"/documents/2022/TF form - Westwood - 2022.pdf\">",
+            "Download Westwood Transfer Form",
+        "</a><br>",
+        "<a class=\"stepBox__link--02\" href=\"/documents/2022/TF form - Hollywood - 2022.pdf\">",
+            "Download Hollywood Transfer Form",
+        "</a><br>",
+            "b) Passaporte.<br>c) Visto",
+        "<br>",
+            "d) I-94",
+        "<br>",
+            "e) Extrato bancário com um saldo mínimo de $7,800 emitido dentro de um período de no máximo 3 meses.",
+        "</p>"
+    ],
+    "read_2": [
+        "<p class=\"stepBox__head\">",
+            "Passo 2",
+        "</p><p class=\"stepBox__text\">",
+            "Você pode preencher sua inscrição online e pagar a taxa de processamento de $150 pelo link abaixo.",
+        "<br><a href=\"../admission\">https://mliesl.edu/admission</a></p>",
+        "<p class=\"stepBox__text\">",
+            "Emitiremos a carta de aceitação assim que tudo estiver definido.",
+        "<br>",
+            "Você poderá fornecer a carta de aceitação à sua escola atual para liberar seu SEVIS ID para nós.",
+        "</p>"
+    ],
+    "read_3": [
+        "<p class=\"stepBox__head\">",
+            "Passo 3",
+        "</p><p class=\"stepBox__text\">",
+            "Você pode consultar nosso calendário escolar para verificar suas datas de início pelo link abaixo.",
+        "<br><a href=\"../school-calendar\">https://mliesl.edu/school-calendar/</a></p>"
+    ],
+    "apply_now": "INSCREVER AGORA",
+    "change_of_status": "/assets/images/lptf-new/por/change_of_status.jpg",
+    "change_of_status_sp": "/assets/images/lptf-new/por/change_of_status_sp.jpg",
+    "with_our_school_lawyer": "/assets/images/lptf-new/por/with_our_school_lawyer.jpg",
+    "with_our_school_lawyer_sp": "/assets/images/lptf-new/por/with_our_school_lawyer_sp.jpg",
+    "step_for_change_of_status": ["<span>Veja aqui as 6 etapaspara <br>mudar de status</span>"],
+    "pop_up_steps": "/assets/images/lptf-new/por/pop_up_steps.jpg",
+    "pop_up_steps_sp": "/assets/images/lptf-new/por/pop_up_steps_sp.jpg",
+    "not_sure_text": [
+        "<p class=\"schedule__text\">",
+            "AINDA NÃO TEM CERTEZA?",
+        "</p><p class=\"schedule__text\">",
+            "EXPLORE NOSSO CAMPUS",
+        "<br>",
+            "RESERVE SUA VISITA GRATUITA<br>AGORA MESMO!",
+        "</p>"
+    ],
+    "free_trial_text": [
+            "AGENDE UMA AULA <br> TESTE GRATUITA"
+    ],
+
+    "contact": "CONTATO / FAÇA PERGUNTAS ",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone Number",
+    "receive": "I do not want to receive a call from MLI",
+    "campus_ref": "Campus Preference",
+    "approx": "Approximately how soon do you plan on starting your program in the U.S.? ",
+    "media": "How did you hear about MLI?",
+    "msg": "Your Message",
+    "send": "Send"
+
+}

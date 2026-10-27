@@ -1,0 +1,50 @@
+{
+    "pageTitle": "转学生 | Mentor Language Institute",
+    "pageDescription": "目前就读于在美国的学校，想要转学的学生 ",
+    "title": "转学生",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "section" :[
+      {
+      "description" : ["目前就读于在美国的学校，想要转学的学生"]
+      }
+    ],
+    "category": [
+      {
+        "image": "/images/how-to-apply/transfer-students/application-steps-ch.png",
+        "listType": "decimal",
+        "lists": [
+          "向 MLI申请(填写在线表格)",
+          "提交有效文件",
+          "参加新生迎新会",
+          "接收新的I-20"
+        ],
+        "description": [
+          "学生必须在上课日期的一至两个月前向MLI申请。提交在线申请表格后，最好能够跟MLI学生咨询师确认转学状态，因为依据每个人的情况有时候过程可能会较复杂。"
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "取消细则",
+        "description": [
+          "注册费$150需申请时付款，无论签证被拒绝或是注册被取消都不可退还。"
+        ]
+      },
+      {
+        "title": "申请后",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "学生提交在线申请表后，MLI会审核申请表并将申请表网址传给iMLI。学生可以透过iMLI追踪申请状况。"
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "在线申請",
+      "description": [
+        "请填写在线申请表格。如有任何疑问请通过邮箱联系我们。"
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/transfer-students/apply-now-ch.png",
+        "link": "/ch/admission"
+      }
+    }
+  }

@@ -1,0 +1,30 @@
+import english from './english';
+import japanese from './japanese';
+import arabic from './arabic';
+import korean from './korean';
+import russian from './russian';
+import france from './france';
+import spanish from './spanish';
+import thailand from './thailand';
+import portugues from './portugues';
+import chinese from './chinese';
+import italian from './italian';
+import turkey from './turkey';
+import deutsch from './deutsch';
+import taiwanese from './taiwanese';
+
+export const jp = japanese;
+export const ar = arabic;
+export const kr = korean;
+export const ru = russian;
+export const fr = france;
+export const sp = spanish;
+export const th = thailand;
+export const por = portugues;
+export const ch = chinese;
+export const it = italian;
+export const tr = turkey;
+export const de = deutsch;
+export const tw = taiwanese;
+
+export default english;

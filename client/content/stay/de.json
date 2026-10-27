@@ -1,0 +1,175 @@
+{
+    "pageTitle": "Unterkünfte | Mentor Language Institute",
+    "pageDescription": "MLI arbeitet mit der US-amerikanischen Support Services Inc. zusammen, um MLI-Studenten eine Unterkunft zu bieten.",
+    "title": "Unterkünfte",
+    "subtitle": [
+      "MLI arbeitet mit der US-amerikanischen Support Services Inc. zusammen, um MLI-Studenten eine Unterkunft zu bieten. <br /> Weitere Informationen finden Sie unter <a href=\"www.usssinc.net\" target=\"_blank\">www.usssinc.net</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "Studenten können wählen zwischen Gastfamilien oder Studentenwohnheimen.",
+    "types": [
+      {
+        "title": "Studentenwohnheim",
+        "description": [
+          "Wir bieten 40 Zimmer in unseren Studentenwohnheimen an. Dort hat man sehr viele Gelegenheiten sich mit anderen internationalen Studenten auszutauschen. Wir empfehlen dir in ein Sudentenwohnheim zu gehen, wenn du ein begrenztes Budget hast."
+        ],
+        "lists": [
+          "<b>Zimmer</b> : Privatzimmer (Einzelzimmer), Zweierzimmer (2 Personen) und Viererzimmer (4 Personen)",
+          "<b>Verpflegung</b> : Keine Mahlzeiten inbegriffen (eine voll ausgestattete Küche ist vorhanden)",
+          "<b>Privatsphäre</b> : Es gibt etwas mehr Privatsphäre als in Gastfamilien. Es gibt einige Regeln im Studentenwohnheim.",
+          "<b>Anbindung</b> : ungefähr 20 Minuten zu Fuss oder mit dem Bus."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Studentenwohnheimpreise",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Platzierungsgebühr* : $200<br /> Wenn Sie jünger als 18 Jahre alt sind, liegt die Miete etwa 10 % über dem Preis für eine Person, die älter als 18 Jahre ist.",
+              "thead": [
+                "",
+                "Privatzimmer",
+                "Zweierzimmer",
+                "Viererzimmer"
+              ],
+              "tbody": [
+                [
+                  "<b> Kaution**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 Woche",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 Wochen",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 Wochen",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 Wochen",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 Wochen",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 Wochen",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*Die Platzierungsgebühr ist eine Einmalzahlung. Sie wird nicht zurückerstattet.<br />**Die Kaution wird nach dem Auszug der Studenten zurückerstattet."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Gastfamilien",
+        "description": [
+          "Studenten, die sich für eine Gastfamilie entscheiden, suchen nach einer sicheren, offenen und komfortablen Atmosphäre, in der sie ihre Englischkenntnisse trainieren können. Es ist ausserdem eine gute Gelegenheit, um über amerikanische Bräuche, Traditionen und Familienwerte zu lernen."
+        ],
+        "lists": [
+          "<b>Zimmer</b> : Privatzimmer (Einzelzimmer)",
+          "<b>Verpflegung</b> : 2 Mahlzeiten pro Tag (Frühstück und Abendessen)",
+          "<b>Privatsphäre</b> : Abhängig von der Gastfamilie gibt es ein paar Hausregeln.",
+          "<b>Anbindung</b> : 30- 45 Minuten mit dem Bus"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Gastfamilienpreise",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Platzierungsgebühr* : $300<br /> Wenn Sie jünger als 18 Jahre alt sind, liegt die Miete etwa 10 % über dem Preis für eine Person, die älter als 18 Jahre ist.",
+              "thead": [
+                "",
+                "Privatzimmer",
+                "Zweierzimmer***"
+              ],
+              "tbody": [
+                [
+                  "<b>Kaution**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 Woche",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 Wochen",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 Wochen",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 Wochen",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 Wochen",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 Wochen",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*Die Platzierungsgebühr ist eine Einmalzahlung. Sie wird nicht zurückerstattet.<br />**Die Kaution wird nach dem Auszug der Studenten zurückerstattet.<br />***Wenn du dich für ein geteiltes Zimmer in einer Gastfamilie bewirbst, musst du dich mit einer zweiten Person anmelden."
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "Kommentare unserer Mitarbeiter",
+      "description": [
+        "Es ist nicht einfach eine Unterkunft zu finden, wenn man in den USA ankommt, <br />vor allem für internationale Studenten, da sie über keine Social Security Number (SSN, Sozialverischerungsnummer) und keine credit history (Belege für Kreditwürdigkeit in den USA) verfügen. <br />Meistens erfordert das Mieten einer Wohnung eine SSN und eine credit history. <br />Deswegen empfehlen wir dir in einer unserer Unterkünfte zu bleiben, zumindest für die ersten paar Monate.",
+        "※Deine Unterkunft wird von U.S. Support Service Inc. oder anderen Partnern zur Verfügung gestellt."
+      ]
+    }
+  }

@@ -1,0 +1,42 @@
+{
+    "pageTitle": "資料のダウンロードありがとうございます | Mentor Language Institute",
+    "pageDescription": "この度は資料請求、誠にありがとうございます。  ※同様の内容をメールでもお送りさせて頂いております。",
+    "title": "資料のダウンロードありがとうございます",
+    "subtitle": [
+      "この度は資料請求、誠にありがとうございます。 <br /> ※同様の内容をメールでもお送りさせて頂いております。",
+      "資料はこちらよりダウンロード下さい。"
+    ],
+    "brochures": [
+      {
+        "title": "学校概要パンフレット（日本語）",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/[Japanese]MLI School Brochure.pdf"
+      },
+      {
+        "title": "寮・ホームステイについての資料（英語）",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Price & Enrollment Package (英語)",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "MLI アクティビティ・パンフレット",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>お問合せはアドミッションスタッフが対応致します。</span><br />学生ビザ、滞在先の空き状況、その他ご質問ございましたら、お気軽にお問合せ下さい！",
+      "複雑な留学手続きについて電話でご案内させて頂くことも可能です。",
+      "「電話による説明を希望しない」にチェックを入れなかった場合は、1~2日以内に電話でご連絡させて頂きます。",
+      "<b>【ウエストウッドキャンパス】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />電話番号: ＋1（310）887-0777<br />メールアドレス: info@mliesl.edu<br />営業時間: 月曜日~木曜日 8:30 - 20:30, 金曜日 8:30 - 18:00",
+      "<b>【ハリウッドキャンパス】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />電話番号: ＋1（323）870-7102<br />メールアドレス: hollywood@mliesl.edu<br />営業時間: 月曜日~金曜日 8:30 - 17:00"
+    ]
+  }

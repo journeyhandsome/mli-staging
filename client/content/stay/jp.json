@@ -1,0 +1,175 @@
+{
+    "pageTitle": "滞在環境 | Mentor Language Institute",
+    "pageDescription": "MLIは学生用ハウンジングサービスをU.S.サポートサービス社を通して提供しています。",
+    "title": "滞在環境",
+    "subtitle": [
+      "MLIは学生用ハウンジングサービスをU.S.サポートサービス社を通して提供しています。詳細はこちらのリンクよりご確認ください。 <a href=\"www.usssinc.net\" target=\"_blank\">www.usssinc.net</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "留学生は自分のスタイルに合わせてホームステイか学生寮から選べます。",
+    "types": [
+      {
+        "title": "学生寮",
+        "description": [
+          "留学生同士、交流する機会が増えます。自由な環境、学校で出来た友達と様々な場所を巡りたい方は学生寮がお勧めです。"
+        ],
+        "lists": [
+          "<b>部屋</b> : 1人部屋～4人部屋から選択",
+          "<b>食事</b> : 自分で手配",
+          "<b>プライバシー</b> : ホームステイと比較して自由（寮則はあります）",
+          "<b>通学</b> : 徒歩またはバスで平均20分程度"
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "学生寮の料金",
+            "maxCol": 4,
+            "table": {
+              "title": "入居費: $200<br />18歳未満の生徒様は、家賃が通常料金の約10%上乗せとなります。",
+              "thead": [
+                "",
+                "個室",
+                "\tシェアルーム（2人）",
+                "シェアルーム（4人）"
+              ],
+              "tbody": [
+                [
+                  "<b>保証金**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 週間",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 週間",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 週間",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 週間",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 週間",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 週間",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "ホームステイ",
+        "description": [
+          "ホームステイは活きた英語に触れられる、アメリカ人の生活を知るもっとも良 い手段です。一緒に食卓を囲み、様々な会話を交わす事、おのおのの家庭にあ るルールを知ることは忘れられない体験になるでしょう。"
+        ],
+        "lists": [
+          "<b>部屋</b> : 1人部屋。",
+          "<b>食事</b> : 1日2回、朝晩の食事が提供",
+          "<b>プライバシー</b> : 家庭によって異なるが、多くはハウスルールがある。",
+          "<b>通学</b> : 基本バスで30-45分程度"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "ホームステイの料金",
+            "table": {
+              "title": "入居費：$300<br />18歳未満の生徒様は、家賃が通常料金の約10%上乗せとなります。",
+              "maxCol": 2,
+              "thead": [
+                "",
+                "一人部屋",
+                "シェア"
+              ],
+              "tbody": [
+                [
+                  "<b>保証金**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 週間",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 週間",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 週間",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 週間",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 週間",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 週間",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "japanese": {
+      "title": "長期留学生へスタッフからのアドバイス",
+      "description": [
+        "渡米して間もない留学生が、到着していきなり滞在先探しをするのはお勧めできません。アメリカは最低でも1年間の長期契約が求められますし、ソーシャルセキュリティー（納税者番号）のない学生さんが自分でアパートを借りるのは簡単ではありません。",
+        "借りる場所や契約などの失敗を避けるためにも、まずはMLIの滞在先に入り情報を集める。その後、アパートやシェアメイトを自分の目で見て探すのがお勧めです。"
+      ]
+    },
+    "comments": {
+      "title": "<i class='bi bi-arrow-right'></i> どちらのタイプが自分に合うかの相談、空き状況の確認は日本事務局まで",
+      "description": [
+        "※滞在先の提供はU.S. Support Service Inc、または他ホームステイ斡旋会社が提供する場合があります。"
+      ]
+    }
+  }

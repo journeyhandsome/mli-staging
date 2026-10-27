@@ -1,0 +1,56 @@
+{
+    "pageTitle": "학교를 옮기는 학생 | Mentor Language Institute",
+    "pageDescription": "현재 미국에서 공부를 하고 있고, MLI로 학교를 옮기고 싶어 하는 학생",
+    "title": "학교를 옮기는 학생",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "section" :[
+      {
+      "subtitle" : "현재 미국에서 공부를 하고 있고, MLI로 학교를 옮기고 싶어 하는 학생",
+      "description" : ["- #NAME? <br />- 직업학교나 다른 교육 기관에서 공부를 하고 있는 학생 <br />- 학생비자와 I-20를 가지고 있는 학생"]
+      }
+    ],
+    "category": [
+      {
+        "title": "등록 방법",
+        "image": "/images/how-to-apply/transfer-students/application-steps-kr.jpg",
+        "subtitle" : ["학교를 옮기고 싶어하는 날짜에서 1개월 또는 2개월 전:"],
+        "listType": "decimal",
+        "lists": [
+          "MLI에 등록",
+          "서류 제출",
+          "오리엔테이션 참석",
+          "새 I-20 받기"
+        ],
+        "description": [
+          "학생은 학교를 옮기고 싶어하는 날짜로부터 1개월 또는 2개월전에 등록을 해야 합니다. 등록하고 나서 프론트 데스크 직원한테 반드시 상담을 받으세요. 왜냐하면 학생의 신분 상태에 따라 편입 과정이 약간씩 다르기 때문입니다. "
+        ]
+      },
+      {
+        "title": "환불 규정",
+        "description": [
+          "등록비 $150은 등록할때 지불 하셔야 합니다. 등록비는 등록이 거절되거나, 취소 되더라도 환불이 안됩니다. <br />숙소가 부족해서 취소될 경우에는 예외입니다."
+        ]
+      },
+      {
+        "title": "등록후 단계",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "학생은 지원 후에, iMLI시스템을 통해서 등록이 처리 될 것입니다. <br />학생은 iMLI에 열거되어 있는 순서를 따르면 됩니다."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "온라인 지원",
+      "description": [
+        "당신의 비자에 대한 정보를 입력하세요.<br />모든 문의를 iMLI를 통해서 하세요.",
+        "아래에 있는 온라인 지원서를 통해서 신청하세요."
+      ],
+      "btn_label": "온라인 지원서",
+      "admission": {
+        "link": "/kr/admission",
+        "content": [
+          "* 신용카드를 준비하세요."
+        ]
+      }
+    }
+  }

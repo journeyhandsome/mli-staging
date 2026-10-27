@@ -1,0 +1,139 @@
+{
+  "pageTitle": "Classes MLI e professores | Mentor Language Institute",
+  "pageDescription": "Nos cursos gerais de inglês, os alunos adquirem habilidades práticas utilizando materiais do mundo real, como postagens do Twitter,  TED talks e clipes de filmes.",
+  "title": "Classes MLI e professores",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "As aulas se concentram em Habilidades Práticas",
+      "description": [
+        "Nos cursos gerais de inglês, os alunos adquirem habilidades práticas utilizando materiais do mundo real, como postagens do Twitter,  TED talks e clipes de filmes. Usando esses materiais, os alunos adquirem sistematicamente padrões de gramática, escrita, leitura, vocabulário, escuta e fala.",
+        "Além disso, TOEFL® e outros cursos de preparação para exames fornecem estratégias para resolver problemas com seus próprios métodos."
+      ]
+    },
+    {
+      "title": "Professores da MLI",
+      "description": [
+        "1.200 alunos se formam na MLI todos os anos, dos quais falam da qualidade de nossos educadores. Nós nos esforçamos constantemente para melhorar as habilidades dos instrutores através de observações, avaliações e oficinas de desenvolvimento profissional."
+      ],
+      "checklist": [
+        {
+          "title": "Requisitos de contratação (lista de verificação para contratação de professores)",
+          "lists": [
+            "Pós-graduação de quatro anos",
+            "3 anos de experiência como instrutor de inglês",
+            "Qualificação de ensino como TESOL",
+            "Conhecimento de testes de exame como TOEFL® / GMAT®",
+            "Habilidade forte em comunicação",
+            "Paixão e compromisso pelo ensino"
+          ]
+        },
+        {
+          "title": "Método de seleção",
+          "lists": [
+            "Currículo e diploma",
+            "Teste de gramática em Inglês",
+            "Entrevista",
+            "Lição de Modelo"
+          ],
+          "note": "A taxa de contratação é inferior a 20%."
+        }
+      ]
+    },
+    {
+      "title": "Sistema de treinamento e avaliação",
+      "description": [
+        "Na MLI, verificamos os seguintes três itens, a cada 12 semanas, para manter a qualidade do professor."
+      ],
+      "listType": "decimal",
+      "lists": [
+        "Estudantes avaliam livros didáticos e instrutores. Os instrutores com uma taxa de satisfação de 85% ou menos são submetidos a treinamento de desenvolvimento profissional.",
+        "Observação de aula e comentários fornecidos pela equipe acadêmica sênior",
+        "Oficinas de desenvolvimento profissional e treinamento para melhorar a instrução"
+      ],
+      "note": "Gestão e instrutores se esforçam para melhorar a qualidade da educação todos os dias!"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pageTitle": "Calendrier scolaire | Mentor Language Institute",
+  "pageDescription": "La date de début du programme varie selon les étudiants F1 ou non F1.",
+  "title": "Calendrier scolaire",
+  "calendar": [
+    {
+      "year": "2026",
+      "image": "/images/courses/school-calendar/2026.PNG"
+    },
+    {
+      "year": "2027",
+      "image": "/images/courses/school-calendar/2027.png"
+    }
+  ],
+  "notes": [
+    "<font color=\"#FECC13\">Jaune</font>: date de début du programme (module)<br /><font color=\"”#008000”\">Vert</font>： pas d'école (vacances)"
+  ],
+  "schoolCalendar": {
+    "title": "Calendrier scolaire (dates de début du programme)",
+    "description": [
+      "<span class=\"ymarker\">La date de début du programme varie selon les étudiants F1 ou non F1.</span>"
+    ],
+    "lists": [
+      {
+        "key": "Étudiants non-F1 qui n'obtiennent pas de visa étudiant.",
+        "value": [
+          "Ils peuvent commencer leur programme tous les lundis. <br> Si le lundi est un jour férié, la date de début du programme sera le mardi pour cette semaine."
+        ]
+      },
+      {
+        "key": "Les étudiants F1 qui obtiennent un visa d’étudiant (F).",
+        "value": [
+          "Peut commencer certains lundis. (surligné en jaune dans le calendrier).",
+          "<2026> <br />1/20, 2/17, 3/16, 4/13, 5/11, 6/8, 7/6, 8/3, 8/31, 9/28, 10/26, 11/23, 12/21",
+          "<2027><br /> 1/25, 2/22, 3/22, 4/19, 5/17, 6/14, 7/12, 8/9, 9/7, 10/4, 11/1, 11/29",
+          "<2028> <br /> 1/3"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions fréquemment posées sur les dates d'arrivée aux États-Unis",
+    "lists": [
+      {
+        "key": "<b>Q: Combien de jours avant la date de début du programme un étudiant peut-il entrer aux États-Unis? </b>",
+        "value": [
+          "R: MLI n’exige pas de nos étudiants qu’ils se rendent aux États-Unis un nombre spécifique de jours à l’avance. Cependant, nos étudiants entrent généralement aux États-Unis un ou deux jours avant la date de début de leur programme."
+        ],
+        "note": "Remarque: les étudiants internationaux sont autorisés à entrer aux États-Unis 30 jours avant la date de début de leur programme."
+      },
+      {
+        "key": "<b>Q: Est-il possible d'emménager dans l'hébergement avant les dates de début du programme? </b>",
+        "value": [
+          "A: oui Nous pouvons organiser votre hébergement avec une date d'emménagement quelconque.<br />S'il y a d'autres questions, n'hésitez pas à nous consulter."
+        ]
+      }
+    ]
+  }
+}

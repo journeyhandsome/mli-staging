@@ -1,0 +1,30 @@
+{
+    "pageTitle": "您計畫申請什麼簽證? | Mentor Language Institute",
+    "pageDescription": "請從下方選擇您的簽證",
+    "title": "您計畫申請什麼簽證?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "請從下方選擇您的簽證:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-tw.png",
+                    "link": "/tw/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-tw.png",
+                    "link": "/tw/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "有其它的問題嗎?",
+            "description": [
+                "基本上，您需要一個學生簽證才能以長期學生身分待在美國。如果您不知道您是否需要簽證，請聯絡我們。我們有八國語言的客服。"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-tw.png",
+                "link": "/tw/contact"
+            }
+        }
+}

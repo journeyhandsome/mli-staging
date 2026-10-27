@@ -1,0 +1,31 @@
+{
+    "pageTitle": "Welches Visum planst du zu beantragen? | Mentor Language Institute",
+    "pageDescription": "Bitte wähle dein Visum aus den unteren Optionen aus",
+    "title": "Welches Visum planst du zu beantragen?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "Bitte wähle dein Visum aus den unteren Optionen aus:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-de.png",
+                    "link": "/de/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-de.png",
+                    "link": "/de/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Fragen?",
+            "description": [
+                "Im Normalfall benötigst du ein Studentenvisum um als Langzeitstudent in den USA zu bleiben. <br />Wenn du nicht weisst, ob du ein Visum brauchst oder nicht, kontaktiere uns bitte.",
+                "Wir haben Mitarbeiter in 8 verschiedenen Sprachen."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-de.png",
+                "link": "/de/contact"
+            }
+        }
+}

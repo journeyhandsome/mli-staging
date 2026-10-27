@@ -1,0 +1,32 @@
+{
+    "pageTitle": "На какой вид визы вы планируете подать заявку? | Mentor Language Institute",
+    "pageDescription": "Выберите один из вариантов ниже",
+    "title": "На какой вид визы вы планируете подать заявку?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "Выберите один из вариантов ниже:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-ru.png",
+                    "link": "/ru/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-ru.png",
+                    "link": "/ru/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Есть вопросы?",
+            "description": [
+                "Как правило, вам понадобится студенческая виза для пребывания в Соединенных Штатах в качестве долгосрочного студента.",
+                "Если вы не знаете, нужна ли вам виза или нет, свяжитесь с нами.",
+                "Наши сотрудники говорят на 8 разных языках."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-ru.jpg",
+                "link": "/ru/contact"
+            }
+        }
+}

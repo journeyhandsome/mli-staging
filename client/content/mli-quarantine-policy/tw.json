@@ -1,0 +1,53 @@
+{
+    "pageTitle": "檢疫政策 | Mentor Language Institute",
+    "pageDescription": "MLI 主要在 Westwood 校區恢復面對面的課程。",
+    "title": "檢疫政策",
+    "subtitle": [
+      "MLI 主要在 Westwood 校區恢復面對面的課程。 <br /> 所有 ESL 課程將從 7/06/21 開始在 Westwood 校區面對面恢復。 其他課程可用。 <br /> 以下是 MLI 基於洛杉磯縣要求的最新隔離政策。",
+      "雖然會話課程在好萊塢校區提供，但所有其他好萊塢課程將保持線上教學，直至另行通知。"
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "完全接種疫苗的學生",
+        "unvaccinated": "未接種疫苗的學生"
+      },
+      "table_header": [
+        "海外學生",
+        "來自國內（在美國）",
+        "海內外"
+      ],
+      "table_content": [
+        [
+          "我可以在抵達洛杉磯後立即參加面授課程嗎？",
+          "<span class='hutoaka'>是</span>",
+          "<span class='hutoaka'>是</span>",
+          "<span class='font-weight-bold'>否</span>"
+        ],
+        [
+          "如果我在抵達洛杉磯 3-5 天后進行 PCR 測試，我可以參加面授課程嗎？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>否</span>"
+        ],
+        [
+          "抵達洛杉磯後，我是否需要隔離 10 天才能參加面對面的課程？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>是</span>"
+        ],
+        [
+          "MLI 要求未接種疫苗的學生必須每週進行 PCR 測試並在每週一之前提交陰性結果，才能參加面對面的項目。",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>是</span>"
+        ],
+        [
+          "如果我在抵達洛杉磯後參加 PCR 測試，我可以縮短隔離時間（7 天）嗎？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>是</span>"
+        ]
+      ]
+    },
+    "note": "*完全接種疫苗的學生必須提交證明。<br />**所有學生上課必須戴口罩。"
+  }

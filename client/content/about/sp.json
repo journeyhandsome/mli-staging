@@ -1,0 +1,43 @@
+{
+  "pageTitle": "¿Quiénes somos? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute fue fundado en 2002 y está localizado en dos áreas populares: Westwood y Hollywood.",
+  "section1": {
+    "title": "¿Quiénes somos?",
+    "description": [
+      "Mentor Language Institute fue fundado en 2002 y está localizado en dos áreas populares: Westwood y Hollywood. <br />Ayudamos a estudiantes de todo el mundo a mejorar su Inglés."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Pagá menos por clases de calidad",
+    "description": [
+      "Valoramos dos cosas: <b>\"Calidad de educación\"</b>  y  <b>\"precio\".<b>",
+      "El inglés es el idioma global y una herramienta necesaria para la comunicación con personas de todo el mundo. Nuestra esperanza es que los estudiantes internacionales adquieran conocimientos en inglés para tener éxito en el mundo. Por esta razón, nos enfocamos en la calidad de las clases y el bajo precio."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "Hasta el año 2020, más de 17,000 estudiantes han elegido y se han graduado de MLI.",
+    "description": [
+      "Ofrecemos ESL (Programa de Inglés General con 6 áreas de habilidades: Gramática/Escritura, Lectura/Vocabulario y Comprensión Auditiva/Habla), TOEFL®, IELTS ™ (para estudiantes que desean transferirse a la universidad) e TOEIC®.",
+      "Muchos estudiantes también han ido a estudiar a universidades o colleges en los EE.UU. como UCLA, USC y Santa Monica College."
+    ],
+    "lists": [
+      {
+        "link": "/sp/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "5 Razones por las que la gente elige MLI"
+      },
+      {
+        "link": "/sp/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Información de la compañía"
+      },
+      {
+        "link": "/sp/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Foto/Galería de video"
+      }
+    ]
+  }
+}

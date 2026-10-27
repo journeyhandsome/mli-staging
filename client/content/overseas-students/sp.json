@@ -1,0 +1,54 @@
+{
+    "pageTitle": "Estudiantes del extranjero | Mentor Language Institute",
+    "pageDescription": "Los estudiantes del extranjero son aquellos que actualmente viven fuera de EE. UU. Y solicitarán una VISA DE ESTUDIANTE.",
+    "title": "Estudiantes del extranjero",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "subtitle": [
+      "Los estudiantes del extranjero son aquellos que actualmente viven fuera de EE. UU. Y solicitarán una VISA DE ESTUDIANTE.",
+      "Ó",
+      "Ya tiene una VISA DE ESTUDIANTE y volverá a ingresar a los EE. UU. Desde otro país."
+    ],
+    "category": [
+      {
+        "title": "Pasos de aplicación",
+        "image": "/images/how-to-apply/overseas-student/application-steps-sp.png",
+        "listType": "decimal",
+        "lists": [
+          "Aplicar a MLI (completar la solicitud en línea)",
+          "Presentar documentos requeridos para un I-20",
+          "Recibe tu I-20",
+          "Solicite una visa de estudiante y tenga una entrevista de visa en la Embajada de los Estados Unidos",
+          "Recibe tu visa de estudiante",
+          "Viajar a los EE. UU."
+        ],
+        "description": [
+          "Los estudiantes deben aplicar a MLI por lo menos 2 meses antes de la fecha de inicio del programa deseado. Le guiaremos a través de los pasos de la aplicación después de enviar su solicitud en línea para MLI."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Política de cancelación",
+        "description": [
+          "La tarifa de inscripción de $150 se cobrará en el momento de la solicitud. La tarifa de inscripción no es reembolsable independientemente de si se rechaza una solicitud de visa o si se cancela la inscripción."
+        ]
+      },
+      {
+        "title": "Después de enviar su solicitud",
+        "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+        "description": [
+          "Después de que los estudiantes envíen la solicitud en línea, MLI procesará la solicitud y enviará un enlace para iMLI (la página de la aplicación en línea de cada estudiante).<br />Los estudiantes pueden seguir el proceso de solicitud continua indicado en iMLI."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Aplicar online",
+      "description": [
+        "Complete la solicitud en línea.<br />Póngase en contacto con nosotros por correo electrónico si tiene alguna pregunta.",
+        "Aplique a MLI a través de la aplicación en línea a continuación."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/overseas-student/apply-now-sp.png",
+        "link": "/sp/admission"
+      }
+    }
+  }

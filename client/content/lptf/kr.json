@@ -1,0 +1,427 @@
+{
+    "title": "/assets/images/lptf-new/kr/title.png",
+    "sched_text": [
+        "시간을 최대로",
+        "<br>",
+        "활용하세요"
+    ],
+    "sched_per_week": [
+            "우리의 유연하고 <br> 맞춤형 영어 수업에 ",
+        "<br>참여하세요!<br>주 2회만 수강할 <br>수도 있습니다!"
+    ],
+    "click_for_change_of_status": "클릭해보세요 신분 변경",
+    "affordable_price": [
+            "최저가"
+    ],
+    "price": [
+        "<span class=\"mv__large\">",
+            "$358 / ",
+        "</span><span class=\"mv__small\">",
+            "4주",
+        "</span>"
+    ],
+    "text_2": "* 전체 방학 기간 포함",
+    "apply_online": ["상담하기"],
+
+
+
+    "intro_text": [
+            "MentorLanguageInstitute는 2002년에 설립되었으며 인기있는 두 지역에 위치하고 있습니다: <br> 웨스트우드 &할리우드. 저희는 전 세계 각지의 학생들의 영어 실력 향상을 돕습니다."
+    ],
+    "transfer": [""],
+    "free_trial": [
+            "무료 학교 투어를 예약하세요"
+    ],
+
+
+
+    "reason": "MLI를 선택해야하는 3가지 이유:",
+    "reason_1": "이유 #1 <br> 저렴한 수업료",
+    "reason_img": "/assets/images/lptf-new/kr/reason_table.png",
+    "reason_text_1": [
+        "<p class=\"reason__heading--blue\">",
+            "저렴한 비용으로 듣는 영어 수업",
+        "</p><p class=\"reasonIntro__text\">",
+            "MLI는 우수한 프로그램과 낮은 수업료로 잘 알려져 있습니다. 저희 수업료는 다른 어학원에 비해 경제적 인 면에서 훨씬 뛰어나며, 특히 요즘처럼 물가가 높 은 시기의 경우는 더 그렇습니다. ",
+        "</p>"
+    ],
+    "reason_text_2": [
+            "특별 가격",
+        "<br><span class=\"reasonIntro__green\">",
+            "편입생을 위한 특별 가격",
+        "</span><br><span class=\"reasonIntro__medium\">",
+            "최저가",
+        "</span><span class=\"reasonIntro__price\">",
+            "$358",
+        "<span class=\"reasonIntro__small\">",
+            " / 4 주",
+        "</span></span>"
+    ],
+    "reason_text_3": "* 전체 방학 기간 포",
+    "prices": [
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 58px;\"></p><p class=\"reasonPrice__head first_header\">",
+                "등록금",
+            "<br>",
+                "(아침)",
+            "</p><p class=\"reasonPrice__head second_header ko_header\"  style=\"width: 450px;\">",
+                "등록금",
+            "<br>",
+                "(오후와 저녁)",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 58px;\">",
+                "",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "12주",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,988",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,868",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,703*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,577*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "24주",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,424",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,208",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 3,092*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 2,864*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "48주",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 10,032",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 9,648",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,718*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,306*",
+            "</p>"
+        ]
+    ],
+    "price_notes": [
+        "<p class=\"reasonPrice__note\">",
+            "지역 내에서만 할인",
+        "<br class=\"pc\">",
+            "가격 적용 가능",
+        "</p><p class=\"reasonPrice__text\">",
+            "입학 신청 비용: $150",
+        "<br class=\"pc\">",
+            "1회 입학 전형 수수료",
+        "<br class=\"pc\">",
+            "** 환불 불가",
+        "</p>"
+    ],
+    "compare_text_1": "타학원들과 비교해보세요!",
+    "compare_text_2": "저희 수업료는 모두에게 공정하게 책정된 가격으로 경쟁력이 매우 뛰어납니다.",
+    "compare_img": "/assets/images/lptf-new/Tuition Comp Chart 2024.png",
+    "private_lessons": "/assets/images/lptf-new/kr/private_lessons.jpg",
+    "private_lessons_sp": "/assets/images/lptf-new/kr/private_lessons_sp.jpg",
+    "download_brochure": "홍보 책자 다운로드",
+    "reason_2": "이유 #2 <br> 유연한 수업 일정",
+    "reason_2_text_1": [
+        "<span class=\"reason__heading--orange\">",
+            "자신에게 꼭맞는",
+        "</span><br>",
+            "시간표를 선택하세요!"
+    ],
+    "reason_2_text_2": [
+        "MLI는 전반적으로 학생 라이프 스타일에 맞춰 융통성 있는 편리한 수강 시간을 제공합니다. 또한, 새로운 맞춤형 실용회화 프로그램으로 더욱더 유연하게 시간을 계획할 수 있습니다."
+    ],
+    "reason_2_row_1": [ 
+        "<p class=\"reasonFlex__head\">",
+            "오전 프로그램",
+        "</p>",
+        "<div class=\"reasonFlex__textBox\">",
+        "<p class=\"reasonFlex__list\">",
+            "• ESL 프로그램 (4가지 레벨)",
+        "<br>",
+            "• TOEFL테스트 준비 프로그램",
+        "</p>",
+        "<p class=\"reasonFlex__detail\">",
+            "오전 9시 - 오후 1시 15분",
+        "<br><span class=\"reasonFlex__small\">",
+            "월요일 - 목요일 제공",
+        "</span></p>",
+        "</div>"
+    ],
+    "reason_2_row_2": [
+        "<p class=\"reasonFlex__head\">",
+            "오후,저녁 프로그램",
+        "</p><div class=\"reasonFlex__textBox\"><p class=\"reasonFlex__list\">",
+            "• 실용 회화 프로그램 (4가지 레벨)",
+        "</p><p class=\"reasonFlex__detail\">",
+            "오후:1시 45분 - 6시",
+        "<br><span class=\"reasonFlex__small\">",
+            "월요일 - 목요일 제공",
+        "</span></p><p class=\"reasonFlex__detail\">",
+            "저녁:6시 30분 - 10시 45분",
+        "<br><span class=\"reasonFlex__small\">",
+            "월요일, 수요일만 제공",
+        "</span></p></div>"
+    ],
+    "reason_2_notes": [
+        "<span class=\"reasonText__line\">",
+            "수 2일, 3일, 4일 단위로 프로그램 신청 가능!",
+        "</span><br>",
+            "오후와 저녁에 제공되는 새로운 맞춤형 실용 회화 프로그램은 더욱 개개인의 스케줄과 라이프 스타일에 강력한 유연성을 세공합니더."
+    ],
+    "reason_2_lead": "A,B,C,D 순으로 일주일 안에 A - D프로그램을 수강해야합니다.",
+    "reason_schedule_row_1": [
+        "<p class=\"reasonSchedule__head\">",
+            "월요일",
+        "</p><p class=\"reasonSchedule__head\">",
+            "화요일",
+        "</p><p class=\"reasonSchedule__head\">",
+            "수요일",
+        "</p><p class=\"reasonSchedule__head\">",
+            "목요일",
+        "</p>"
+    ],
+    "reason_schedule_row_2": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "9:00 AM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "1:15 PM",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p>"
+    ],
+    "reason_schedule_row_3": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "1:45 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "6:00 PM",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "A",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "C",
+        "</p><p class=\"reasonSchedule__text--purple\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_schedule_row_4": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "6:30 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "10:45 PM",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--purple mr\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_computation": "예시: 실용 회화 프로그램 =>월요일 A&B+수요일 C&D(주 2일)",
+    "ask_question": "질문하기",
+    "reason_3": [
+            "이유 #3",
+        "<br>",
+            "로스앤젤레스의 훌륭한 위치"
+    ],
+    "reason_heading":[
+        "<span class=\"reason__heading--purple\">",
+            "차량이 없어 걱정<br>이신가요?",
+        "</span><br>",
+            "걱정하지 마 세요."
+    ],
+    "reason_location_text": [
+            "MLI캠퍼스는 로스앤젤레스의 매우 인기있는 지역 중심부인 웨스트우드와 할리우드에 위치하 고 있어, 차량이 없이도 쉽고 편리한 대중 교통을 이용할 수 있습니다."
+    ],
+    "westwood_text": [
+            "웨스트우드 캠퍼스는 세계적으로 유명한 RodeoDrive 와 BeverlyDrive 같은 쇼핑과 패션 지역으로 유명한 비버리 힐즈로부터 차로 10분 거리에 위치하고 있습니다. 비버리 힐즈는 로스앤젤레스에서 가장 호화로운 도시 중 하나입니다."
+    ],
+    "hollywood_text": [
+            "할리우드 캠퍼스는 유명한 ChineseTheater 와 Walkof Fame 에서 도보 가능한 거리 내에 위치하고 있습니다. 할리우드는 항상 흥미롭고 다채로운 곳으로, 인기 있는 극장, 세련된 레스토랑, 디자이너 숍과 클럽들이 모여있습니다."
+    ],
+    "easy_transfer": "쉬운 편입 절차 과정",
+    "transfer_text": "편입 과정이 매끄럽고 원활합니다.",
+    "transfer_text_2": [
+            "다국어가 가능한 저희 스텝들은 모두 친절하며, 언제든지 최선을 다해 등록 절차를 도와드릴 준비가 되어 있습니다: 등록에 필요한 서류 절차, 수업 정보, 기숙사 정보, 교통 정보 및 그 외 서비스 등"
+    ],
+    "step_1": [
+        "<p class=\"process__head\">",
+            "1단계",
+        "</p><p class=\"process__desc--01\">",
+            "편입을 위한 필요",
+        "<br>",
+            "서류 수집",
+        "</p><p class=\"process__btn\">",
+            ">>더 알아보기",
+        "</p>"
+    ],
+    "step_2": [
+        "<p class=\"process__head\">",
+            "2단계",
+        "</p><p class=\"process__desc--02\">",
+            "온라인 신청서 제출",
+        "<br>",
+            "및 입학 신청 비용",
+        "<br>",
+            "$150지불:",
+        "<br>",
+            "입학 전형 수수료",
+        "<br>",
+            "(환불 불가)지불.",
+        "</p><p class=\"process__btn\">",
+            ">>더 알아보기",
+        "</p>"
+    ],
+    "step_3": [
+        "<p class=\"process__head\">",
+            "3단계",
+        "</p><p class=\"process__desc--03\">",
+            "신입생 오리엔테이션",
+        "<br>",
+            "은 월요일 오후 1시에",
+        "<br>",
+            "시작됩니다.",
+        "<br>",
+            "(월요일이 휴일인",
+        "<br>",
+            "경우,화요일에 진행)",
+        "</p><p class=\"process__btn\">",
+            ">>더 알아보기",
+        "</p>"
+    ],
+    "read_1": [
+        "<p class=\"stepBox__head\">",
+            "1단계",
+        "</p><p class=\"stepBox__text\">",
+            "아래에 목록된 문서들을 준비하고 MLI로 가져가 주세요.",
+        "</p><p class=\"stepBox__text\">",
+            "a) 서명된 이전 양식",
+        "<br>",
+        "<a class=\"stepBox__link--01\" href=\"/documents/2022/TF form - Westwood - 2022.pdf\">",
+            "Download Westwood Transfer Form",
+        "</a><br>",
+        "<a class=\"stepBox__link--02\" href=\"/documents/2022/TF form - Hollywood - 2022.pdf\">",
+            "Download Hollywood Transfer Form",
+        "</a><br>",
+            "b) 여권<br>c) 비자",
+        "<br>",
+            "d) I-94",
+        "<br>",
+            "e) 최소 잔액이 $7,800인 3개월 이내 발행된 은행 명세서",
+        "</p>"
+    ],
+    "read_2": [
+        "<p class=\"stepBox__head\">",
+            "2단계",
+        "</p><p class=\"stepBox__text\">",
+            "아래 링크에서 온라인 신청서를 작성하고 처리 수수료인 $150을 지불할 수 있습니다. ",
+        "<br><a href=\"../admission\">https://mliesl.edu/admission</a></p>",
+        "<p class=\"stepBox__text\">",
+            "모든 준비가 완료되면 수락 허가서를 발급해 드리겠습니다.",
+        "<br>",
+            "SEVIS ID를 우리에게 전달하기 위해 수락 허가서를 현재 학교에 제출해 주세요.",
+        "</p>"
+    ],
+    "read_3": [
+        "<p class=\"stepBox__head\">",
+            "3단계",
+        "</p><p class=\"stepBox__text\">",
+            "시작 일자를 확인하려면 아래 링크에서 학사 일정을 확인하실 수 있습니다.",
+        "<br><a href=\"../school-calendar\">https://mliesl.edu/school-calendar/</a></p>"
+    ],
+    "apply_now": "지금 신청하기",
+    "change_of_status": "/assets/images/lptf-new/kr/change_of_status.jpg",
+    "with_our_school_lawyer": "/assets/images/lptf-new/kr/with_our_school_lawyer.jpg",
+    "step_for_change_of_status": ["<span>신분 변경 6단계는 <br>여기에서 확인하세요</span>"],
+    "pop_up_steps": "/assets/images/lptf-new/kr/pop_up_steps.jpg",
+    "not_sure_text": [
+        "<p class=\"schedule__text\">",
+            "아직도 고민이신가요?",
+        "</p><p class=\"schedule__text\">",
+            "우리 캠퍼스를 탐험하세요",
+        "<br>",
+            "지금 무료 학교 투어를 예약하세요!",
+        "</p>"
+    ],
+    "free_trial_text": [
+            "무료 체험 수강 신청하기"
+    ],
+
+    "contact": "상담하기",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone Number",
+    "receive": "I do not want to receive a call from MLI",
+    "campus_ref": "Campus Preference",
+    "approx": "Approximately how soon do you plan on starting your program in the U.S.? ",
+    "media": "How did you hear about MLI?",
+    "msg": "Your Message",
+    "send": "Send"
+
+}

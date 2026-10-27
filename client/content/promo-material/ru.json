@@ -1,0 +1,225 @@
+{
+  "pageTitle": "Скачать брошюру: Акция 2022 г. | Mentor Language Institute",
+  "pageDescription": "Пожалуйста, не стесняйтесь обращаться к нам, если у вас есть дополнительные вопросы.",
+  "title": "Скачать брошюру: Акция 2022 г.",
+    "category": {
+      "content" :[
+        "Пожалуйста, не стесняйтесь обращаться к нам, если у вас есть дополнительные вопросы.",
+        "<b>&#10003;</b> Доступные языки",
+        "Английский / корейский / японский / испанский / португальский / французский / русский / китайский / турецкий / арабский / тайский",
+        "<b>В: Могу ли я подать заявку в вашу школу если у меня низкий уровень английского?</b> <br />Да, в MLI есть много международных сотрудников, которые говорят на других языках. 12 доступных языков и студенты из более чем 30 стран. Пожалуйста, свяжитесь с нами на вашем языке.",
+        "<b>В: Есть ли у Вас специалист по студенческой визе?</b> <br />Да, у нас есть специалисты по студенческой визе. Пожалуйста, не стесняйтесь задавать любые вопросы."
+        ]
+    },
+    "subtitle": "Скачать Брошюру и Задать Вопросы",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "Ваше имя",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "Ваш имейл",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "Ваш номер телефона",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "Я не хочу получать звонки от MLI"
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "Страна",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "Chile",
+            "label": "Chile"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "Кампус",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "Голливуд"
+          },
+          {
+            "value": "Westwood",
+            "label": "Вествуд"
+          },
+          {
+            "value": "Both",
+            "label": "И тот и другой"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "Примерно как скоро вы планируете начать обучение в США?",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "через 1 месяц"
+          },
+          {
+            "value": "three months",
+            "label": "через 3 месяца"
+          },
+          {
+            "value": "six months",
+            "label": "через 6 месяцев"
+          },
+          {
+            "value": "one year or more",
+            "label": "через 1 год"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "Как Вы узнали об MLI?",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "Агент"
+          },
+          {
+            "value": "Friend",
+            "label": "Друг"
+          },
+          {
+            "value": "Internet",
+            "label": "Интернет"
+          },
+          {
+            "value": "Other",
+            "label": "Другое"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Ваш Вопрос"
+      }
+    ],
+    "btn_label": "Отправить"
+  }

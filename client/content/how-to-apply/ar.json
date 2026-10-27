@@ -1,0 +1,31 @@
+{
+    "pageTitle": "ماهو نوع الفيزا التي تخطط للتقدم بها؟ | Mentor Language Institute",
+    "pageDescription": "يرجى اختيار حالة التأشيرة من الخيارات أدناه:",
+    "title": "ماهو نوع الفيزا التي تخطط للتقدم بها؟",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "يرجى اختيار حالة التأشيرة من الخيارات أدناه:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-ar.png",
+                    "link": "/ar/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-ar.png",
+                    "link": "/ar/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "هل لديك أي سؤال؟",
+            "description": [
+                "بالطبع سوف تحتاج إلى فيزا طالب في حال رغبة الدراسة لمدة أطول في الولايات المتحدة<br />إذا كنت لاتعلم حالتك إن كنت تحتاج إلى فيزا طالب أم لا أرجو التواصل معنا",
+                "لدينا موظفين يتحدثون ثمان لغات مختلفة نرحب بمساعدتك"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-ar.png",
+                "link": "/ar/contact"
+            }
+        }
+}

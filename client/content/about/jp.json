@@ -1,0 +1,43 @@
+{
+  "pageTitle": "MLIとは | Mentor Language Institute",
+  "pageDescription": "当校は2002年に設立された、英語教育の専門機関です。MLIはロサンゼルスの人気エリアであるウェストウッド、ハリウッドにキャンパスを構え、世界中の留学生の英語力向上をサポートしています。",
+  "section1": {
+    "title": "MLIとは",
+    "description": [
+      "当校は2002年に設立された、英語教育の専門機関です。MLIはロサンゼルスの人気エリアであるウェストウッド、ハリウッドにキャンパスを構え、世界中の留学生の英語力向上をサポートしています。"
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "質の高い授業をどこよりも安く",
+    "description": [
+      "アメリカには数多くの語学学校があります。数ある学校の中で当校が大切にしているもの。  それは<b>「教育の質」</b>と<b>「価格」</b>です。",
+      "英語はコミュニケーションのツール。1人でも多くの留学生がこのツールを身につけ、世界で 活躍してもらうこと。これが私たちの願いです。 <br/>だからこそ当校は生徒がいち早く学べる環境を整えること、そして一人でも受講しやすい価格 にこだわっています。"
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "2020年現在、17,000名以上の卒業生を輩出",
+    "description": [
+      "当校はESLをはじめ、TOEFL®、IELTS®やと言ったアメリカ大学進学に必要な試験対策コース、TOEIC＠のようなビジネスに必要な英語力を高めるプログラムを提供しています。",
+      "卒業生は英語力を高め、自国でのビジネスや、進学・就職などに活用される方はもちろん、UCLAをはじめ、USCやサンタモニカカレッジなどアメリカ大学に進学する留学生を多数輩出した実績があります。"
+    ],
+    "lists": [
+      {
+        "link": "/jp/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "選ばれる5つの理由へ"
+      },
+      {
+        "link": "/jp/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "会社概要へ"
+      },
+      {
+        "link": "/jp/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "写真・動画ギャラリーへ"
+      }
+    ]
+  }
+}

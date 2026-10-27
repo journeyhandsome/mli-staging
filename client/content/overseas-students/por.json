@@ -1,0 +1,54 @@
+{
+    "pageTitle": "Alunos Estrangeiros | Mentor Language Institute",
+    "pageDescription": "Os estudantes estrangeiros são aqueles que atualmente moram fora dos EUA e precisam do visto de estudante.",
+    "title": "Alunos Estrangeiros",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "subtitle": [
+      "Os estudantes estrangeiros são aqueles que atualmente moram fora dos EUA e precisam do visto de estudante.",
+      "Ou",
+      "Já tem um visto de estudante e pretende voltar a entrar nos EUA por outro país."
+    ],
+    "category": [
+      {
+        "title": "Etapas da Aplicação",
+        "image": "/images/how-to-apply/overseas-student/application-steps-por.png",
+        "listType": "decimal",
+        "lists": [
+          "Aplicar para MLI (preencher o requerimento on-line)",
+          "Envie-nos os documentos exigidos para obter o I-20",
+          "Receba seu I-20",
+          "Inscreva-se para o visto de estudante e vá para a entrevista no consulado Americano.",
+          "Receba seu Visto de Estudante",
+          "Viaje para os EUA"
+        ],
+        "description": [
+          "Estudantes devem se inscrever com pelos menos 2 meses de antecedência do começo de suas aulas. Nós vamos te guiar através do passo a passo de toda sua inscrição uma vez que você preencher nossa aplicação online."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Política de Cancelamento",
+        "description": [
+          "A taxa de matrícula de $150 será cobrada somente uma única vez no momento da aplicação.  A taxa de matrícula não é reembolsável independentemente se o visto for negado ou cancelado."
+        ]
+      },
+      {
+        "title": "Depois de enviar sua aplicação",
+        "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+        "description": [
+          "Depois de nos enviar sua aplicação on-line, nós vamos processá-la e então mandaremos o link do iMLI para você. (Página on-line das aplicações de cada estudante.)<br />Estudantes podem acompanhar o andamento de sua matrícula no iMLI."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Inscrição Online",
+      "description": [
+        "Preencha o formulário online.<br />Contate-nos via e-mail para quaisquer dúvidas.",
+        "Aplique para a MLI através de nossa aplicação online."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/overseas-student/apply-now-por.png",
+        "link": "/por/admission"
+      }
+    }
+  }

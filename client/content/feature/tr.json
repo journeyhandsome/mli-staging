@@ -1,0 +1,103 @@
+{
+  "pageTitle": "5 Nedende insanlarin MLI'ı seçme nedeni | Mentor Language Institute",
+  "pageDescription": "Açılışımızdan bu yana 17.000'den fazla öğrencinin İngilizce becerilerini geliştirmelerine yardımcı olduk.",
+  "section1": {
+    "title": "5 Nedende insanlarin MLI'ı seçme nedeni",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "Mentor Dil Enstitüsü'nün 5 Özelliği",
+    "description": [
+      "Açılışımızdan bu yana 17.000'den fazla öğrencinin İngilizce becerilerini geliştirmelerine yardımcı olduk. Öğrenciler Los Angeles'ta çok fazla İngilizce okulu olmasına rağmen neden MLI'yı seçiyorlar? MLI öğrencilerinin anketini aldık ve cevapları aşağıda."
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "Anket dönemi : Ocak-Haziran 2017 döneminde 342 öğrenci"
+  },
+  "section3": [
+    {
+      "title": "No.1: Uygun Fiyat",
+      "subtitle": "Harika fiyat! Haftalık $209’dan başlar. Öğleden sonra dersleri, sabah derslerine göre %40 indirimlidir!",
+      "description": [
+        "Öğrencilerin MLI'yı seçmelerinin 1 numaralı sebebi ekonomik olmasıdır.",
+        "Okulumuz'da ne kadar uzun süre katılırsanız fiyat o kadar ucuz olur. 1 ay (4 hafta) için başvuruda bulunursanız, öğrenim ücreti 1,220 $ / haftalık= 305 $ 'dır. Bu zaten LA'da makul bir fiyat. Ancak, 48 hafta boyunca başvuruda bulunursanız, harç 10,032 $ / haftalık = 209 ABD Dolarıdır. Lütfen oranlarımızı diğer okullarla karşılaştırın."
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Öğrenim ücreti hakkında detaylar",
+          "link": "/tr/price"
+        }
+      ]
+    },
+    {
+      "title": "No.2: Harika Konum",
+      "subtitle": "Westwood & Hollywood : popular areas in Los Angeles",
+      "description": [
+        "Los Angeles, <b>Westwood</b> ve <b>Hollywood</b>'un büyük ve popüler bölgelerinde bulunuyoruz. Öğrenciler Santa Monica ve LA şehir merkezi gibi ünlü yerlere kolayca ulaşabilirler."
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "Westwood Kampüsü"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "Hollywood Kampüsü"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Westwood Kampüsü hakkında detaylar",
+          "link": "/tr/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Hollywood Kampüsü hakkında detaylar",
+          "link": "/tr/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "No.3: College Hazırlık Kurslarının Çeşitliliği",
+      "subtitle": "Birçok öğrenci MLI'da okuduktan sonra UCLA ve Santa Monica Koleji'ne geçmektedir.",
+      "description": [
+        "<b>TOEFL®, IELTS™</b> gibi popüler test hazırlama programlarını sunuyoruz. Birçok öğrenci, sınav hazırlık programımızı tamamladıktan sonra <b>UCLA, USC</b> ve <b>Santa Monica College</b>'a transfer olmaktadır."
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "College'a gitme hakkında detaylar",
+          "link": "/tr/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "No.4: Esnek Sınıf Takvimi",
+      "subtitle": "Sabah, öğleden sonra ve akşam sınıfları sunuyoruz.",
+      "description": [
+        "MLI, 3 farklı sınıf programı sunar. Öğrenciler sabah, öğleden sonra ve akşam dersleri arasından seçim yapabilir."
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※Bu Westwood Kampüsü için olan bir ders programı. Hollywood Kampüsü programına ait programı görmek isterseniz, lütfen bizimle iletişime geçin."
+    },
+    {
+      "title": "No.5: Yurtlar",
+      "subtitle": "İş Ortağımız: ABD Destek Hizmetleri A.Ş., yurt içinde tüm dünyadan öğrencilerle iletişim kurma fırsatı sunmaktadır.",
+      "description": [
+        "Ortağımız: ABD Destek Servisi A.Ş., aile yanında konaklama programları ve yurtlar düzenlemektedir. Her kampüsün yakınında bulunan yurtlarımızda 40'dan fazla oda bulunmaktadır. Birçok öğrenci, Amerika'da ilk defalarsa, bir yurtta kalır."
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Konaklama hakkında detaylar",
+          "link": "/tr/stay"
+        }
+      ]
+    }
+  ]
+}

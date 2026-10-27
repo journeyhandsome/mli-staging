@@ -1,0 +1,227 @@
+{
+  "pageTitle": "Prices | Mentor Language Institute",
+  "pageDescription": "If you provide your own accommodation, you do not need to pay the ②Accommodation fee. *Please use the price calculator to get a quote.",
+  "title": "Prices",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/price-auto\">Price Calculator</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Tuition ＋ ②Accommodation Fee ＋ ③Other fees",
+    "subtitle": [
+      "If you provide your own accommodation, you do not need to pay the ②Accommodation fee.<br>*Please use <a href=\"/price-auto/\">the price calculator</a> to get a quote."
+    ],
+    "lists": [
+      {
+        "title": "①Tuition",
+        "subtitle": [
+          "The price will change depending on your course and the duration of your stay.<br />The longer you study at MLI, the bigger the discount."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "link": [
+          "<b>Q&A</b>",
+          "<b>Q:</b> Can I change your course after school starts? <br /><b>A:</b> Yes, you can!",
+          "<br />"
+        ],
+        "category": [
+          {   
+            "title": "Optional Service",     
+            "table": {
+              "tableMaxCol": 4,
+              "title_optional": "Change of Status(If you have B1/B2 or J1 visa and are currently in the U.S.) or Reinstatement",
+              "tbody": [
+                [
+                  "<b>Fee descriptions</b>",
+                  "<b>Type of Applicants</b>",
+                  "<b>Fees</b>",
+                  "<b>Number of Applicants</b>"
+                ],
+                [
+                  "$1,885 Service Fee including Filling Fee ($370) and Mailing Fee <br> *Upon approval, $600 will be applied as a tuition credit for the student (non-cash value).",
+                  "F1 student visa",
+                  "$1,885",
+                  "1"
+                ],
+                [
+                  "$365 Service Fee for each dependent",
+                  "F2 dependant visa",
+                  "$365",
+                  ""
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "②Accommodation Fee",
+        "subtitle": [
+          "We provide homestay and domitory options for students. Homestay is recommended for people who would like to experience American culture. Dormitories are recommended for people who would like to make a lot of friends."
+        ],
+        "category": [
+          {
+            "title": "Homestay Prices",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> If younger than 18 years old, the rent will be approximately 10% higher than the price for a person older than 18 years old.",
+              "thead": [
+                "",
+                "Private",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Dormitory Prices",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> If younger than 18 years old, the rent will be approximately 10% higher than the price for a person older than 18 years old.",
+              "thead": [
+                "",
+                "Private",
+                "Shared",
+                "Quad"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "description": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>",
+              "※Your accommodation will be provided by U.S. Support Service Inc. or other agents.",
+              "<a href=\"/stay/\"><i class='bi bi-arrow-right'></i>  More information about Accommodations</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Initial Fees",
+        "subtitle": [
+          "In addition to the fees above, there are other initial fees."
+        ],
+        "lists": [
+          "Initial Processing Fee* ： $150",
+          "I-20 Mailing Fee** : $120",
+          "SEVIS fee** ： $350 (Paid directly to SEVP)",
+          "Textbook ： $150-240"
+        ],
+        "description": [
+          "*Non-refundable<br />**If Student Visa applied"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Examples",
+    "subtitle": [
+      "Examples of payments : 1 month (4 weeks) and 1 year (48 weeks)"
+    ],
+    "lists": [
+      {
+        "title": "1 month (4 weeks)",
+        "items": [
+          "Initial(Processing) Fee : $150",
+          "Tuition : $1,220",
+          "Housing (Dormitory : Quad Rent + Placement Fee + Airport Pickup - one way):  $1,560",
+          "<span class='total'>Total : $2,930</span>"
+        ]
+      },
+      {
+        "title": "1 year (48 weeks)",
+        "items": [
+          "Initial(Processing) fee : $150",
+          "Tuition : $10,032",
+          "Housing (Dormitory : Quad Rent + Placement Fee + Airport Pickup - one way):  $12,360",
+          "<span class='total'>Total : $22,542</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "If you have any questions about fees, please feel free to contact us."
+  ]
+}

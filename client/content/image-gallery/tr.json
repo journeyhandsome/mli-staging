@@ -1,0 +1,28 @@
+{
+  "pageTitle": "Fotoğraf / Video Galerisi | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute, Los Angeles, Hollywood ve Westwood'un merkezinde iki kampüse sahiptir.",
+  "title": "Fotoğraf / Video Galerisi",
+  "image": "/images/what-is-mli/image-gallery/gallery.jpg",
+  "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+  "subtitle": [
+    "Mentor Language Institute, Los Angeles, Hollywood ve Westwood'un merkezinde iki kampüse sahiptir.<br />Lütfen aşağıdaki kampüslerin fotoğraflarını ve videolarını keşfetmekten çekinmeyin."
+  ],
+  "schools": [
+    {
+      "key": "hollywood-campus",
+      "value": "Hollywood - Kampüs"
+    },
+    {
+      "key": "hollywood-class",
+      "value": "Hollywood - Sınıfı"
+    },
+    {
+      "key": "westwood-campus",
+      "value": "Westwood - Kampüs"
+    },
+    {
+      "key": "westwood-class",
+      "value": "Westwood - Sınıfı"
+    }
+  ]
+}

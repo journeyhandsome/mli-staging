@@ -1,0 +1,175 @@
+{
+    "pageTitle": "숙박 | Mentor Language Institute",
+    "pageDescription": "MLI는 본교 학생들에게 숙소를 제공하는 U.S.Support Services Inc.와 함께 합니다",
+    "title": "숙박",
+    "subtitle": [
+      "MLI는 본교 학생들에게 숙소를 제공하는 U.S.Support Services Inc.와 함께 합니다 <br />자세한 내용은  <a href=\"www.usssinc.net\" target=\"_blank\">www.usssinc.net</a>  을 방문하십시오."
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "학생들은 홈스테이 또는 기숙사 중에서 선택할 수 있습니다.",
+    "types": [
+      {
+        "title": "기숙사",
+        "description": [
+          "기숙사에는 40여개의 방이 있습니다. 다른 나라에서 온 학생들과 대화 할 수 있는 기회를 많이 가질 수 있습니다. 예산이 한정적이면, 기숙사를 추천합니다."
+        ],
+        "lists": [
+          "방 형태 : Prtivate (1인실), Shared (2인실) or Quad (4인실)",
+          "식사 : 식사는 제공 안됩니다. [모든 주방기구가 갖춰진 부엌이 있습니다.]",
+          "프라이버시: 홈스테이보다는 기숙사가 좀 더 프라이버시가 높습니다. 하지만 기숙사에도 몇몇 지켜야 하는 규칙들이 있습니다.",
+          "학교 통학 : 걸어서 또는 버스로 약 20분 걸립니다."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "기숙사 가격",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "배치수수료* : $200<br /> 18세 미만인 경우 임대료는 18세 이상인 사람의 가격보다 약 10% 더 높습니다.",
+              "thead": [
+                "",
+                "Private(1인실)",
+                "Shared(2인실)",
+                "Quad(4인실)"
+              ],
+              "tbody": [
+                [
+                  "<b>보증금**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 주",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 주",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 주",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 주",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 주",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 주",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*배치 수수료는 한번만 지불 하시면 되나 환불은 안됩니다.<br />**보증금은 학생들이 퇴거후에 환불 됩니다."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "홈스테이",
+        "description": [
+          "홈스테이 패밀리를 선택한 학생들은 보통 안전하고 환영 받는 분위기를 선호하고, 편안한 분위기에서 영어 공부를 하고 싶어하는 학생들입니다. 또한 미국 문화, 전통, 가족의 가치를 배울 수 있는 기회 가질 수 있습니다."
+        ],
+        "lists": [
+          "방 형태 : Private (1인실)",
+          "식사 : 하루에 두끼 식사 제공(아침, 저녁)",
+          "프라이버시 : 호스트 패밀리는 집마다 지켜야 할 규칙이 다릅니다.",
+          "통학: 버스로 평균 30 - 45 분 걸립니다."
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "홈스테이 가격",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "배치 수수료* : $300<br /> 18세 미만인 경우 임대료는 18세 이상인 사람의 가격보다 약 10% 더 높습니다.",
+              "thead": [
+                "",
+                "Private(1인실)",
+                "Shared(2인실)***"
+              ],
+              "tbody": [
+                [
+                  "<b>보증금**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 주",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 주",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 주",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 주",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 주",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 주",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*배치 수수료는 한번만 지불 하시면 되나 환불은 안됩니다.<br />**보증금은 학생들이 퇴거후에 환불 됩니다.<br />***만약 Shared(2인실)을 신청 했을 경우에는,  <span class=\"rmarker\">반드시 다른 학생과 같이 방을 사용해야 합니다.</span>"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "우리 직원들의 인사말",
+      "description": [
+        "미국에 처음 도착했을때 지낼 장소를 찾기는 쉽지 않습니다. 특히, 신용 등급, Credit History 과 Social 사회 보장 번호, Security Number(SSN)이 없는 유학생들은 더욱 어렵습니다. 집을 렌트하기 위해서는 대부분의 학생들이 SSN 또는 신용 등급을 제출해야 합니다. <br />따라서, 첫 몇 달 동안은 우리가 제공하는 숙박 시설에서 지내는 것을 추천합니다.",
+        "※ 숙소는 U.S. Support Service Inc. 또는 다른 에이전트로부터 제공됩니다."
+      ]
+    }
+  }

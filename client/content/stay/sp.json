@@ -1,0 +1,175 @@
+{
+    "pageTitle": "Alojamiento | Mentor Language Institute",
+    "pageDescription": "MLI trabaja con U.S. Support Services Inc. la cual provee alojamiento a los estudiantes de MLI.",
+    "title": "Alojamiento",
+    "subtitle": [
+      "MLI trabaja con U.S. Support Services Inc. la cual provee alojamiento a los estudiantes de MLI."
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "Los estudiantes pueden elegir alojamiento en casa de familias anfitrionas o en dormitorios.",
+    "types": [
+      {
+        "title": "Dormitorio",
+        "description": [
+          "Hay 40 habitaciones en el dormitorio. Habrá muchas oportunidades para comunicarse con otros estudiantes internacionales. <br /> Te recomendamos que te alojes en un dormitorio si tenes un presupuesto ajustado."
+        ],
+        "lists": [
+          "Habitación: privada (individual), compartida (2 personas) o cuádruple (4 personas)",
+          "Comida: Sin comidas [hay disponible una cocina completamente equipada]",
+          "Privacidad: hay más privacidad en los dormitorios que en una casa de familia, sin embargo, hay algunas reglas de dormitorio.",
+          "Conmutar a la escuela: aproximadamente 20 minutos a pie o en autobús."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Precios dormitorio",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Cuota de acomodación* : $200<br /> Si es menor de 18 años, el alquiler será aproximadamente un 10% superior al precio de una persona mayor de 18 años",
+              "thead": [
+                "",
+                "Privado (Individual)",
+                "Compartido (2 semanas)",
+                "Quádruple (4 personas)"
+              ],
+              "tbody": [
+                [
+                  "<b>Depósito**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semana",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 semanas",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 semanas",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 semanas",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 semanas",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 semanas",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*La cuota de acomodación se paga por única vez. No es reembolsable.<br />**El depósito de seguridad sera reembolsado despues de que los alumnos se hayan ido de su acomodación."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Homestay",
+        "description": [
+          "Los estudiantes que eligen vivir con una familia anfitriona están buscando un lugar seguro, acogedor,y una atmósfera cómoda en la que pueden practicar sus habilidades de inglés. También es una oportunidad para aprender sobre las costumbres, tradiciones y valores familiares estadounidenses."
+        ],
+        "lists": [
+          "Habitación: privada (individual)",
+          "Comida: 2 comidas al día (desayuno y cena)",
+          "Privacidad: hay algunas reglas de la casa que dependen de la familia anfitriona.",
+          "Conmutar: 30-45 minutos promedio en autobús"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Precios Homestay",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Cuota de acomodación* : $300<br /> Si es menor de 18 años, el alquiler será aproximadamente un 10% superior al precio de una persona mayor de 18 años",
+              "thead": [
+                "",
+                "Privado (Individual)",
+                "Compartido***"
+              ],
+              "tbody": [
+                [
+                  "<b>Depósito**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semana",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 semanas",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 semanas",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 semanas",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 semanas",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 semanas",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*La cuota de acomodación se paga por única vez. No es reembolsable.<br />**El depósito de seguridad sera reembolsado despues de que los alumnos se hayan ido de su acomodación.<br />***Si solicitas Homestay (cuarto compartido) , debes aplicar con otra persona."
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "Comentarios de nuestro personal",
+      "description": [
+        "No es fácil encontrar un lugar donde alojarse cuando llegas por primera vez a los EE. UU. especialmente para estudiantes internacionales que no tienen un Número de Seguridad Social (SSN) e historial de crédito.<br />La mayoría de los lugares requieren un SSN y un historial de crédito para alquilar un lugar.<br />Por lo tanto, te recomendamos que te quedes en nuestro alojamiento al menos los primeros meses.",
+        "※ Su alojamiento será provisto por U.S. Support Service Inc. u otros agentes."
+      ]
+    }
+  }

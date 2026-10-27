@@ -1,0 +1,54 @@
+{
+    "pageTitle": "Yurt Dışı Öğrenciler | Mentor Language Institute",
+    "pageDescription": "Yurt Dışı öğrenciler yani şu anda ABD dışında yaşayanlar ÖĞRENCİ VİZESİ için başvuruda bulunacaklardır.",
+    "title": "Yurt Dışı Öğrenciler",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "subtitle": [
+      "Yurt Dışı öğrenciler yani şu anda ABD dışında yaşayanlar ÖĞRENCİ VİZESİ için başvuruda bulunacaklardır.",
+      "VEYA",
+      "Halihazırda bir ÖĞRENCİ VİZESİ var ve başka bir ülkeden ABD'ye yeniden girecek."
+    ],
+    "category": [
+      {
+        "title": "Uygulama adımları",
+        "image": "/images/how-to-apply/overseas-student/application-steps-tr.png",
+        "listType": "decimal",
+        "lists": [
+          "MLI'a Başvurun (Çevrimiçi başvuruyu doldurun)",
+          "I-20 için destekleyici belgeleri gönderin",
+          "I-20'nizi alın ",
+          "Bir öğrenci vizesi için başvurun ve ABD Büyükelçiliği'nde vize görüşmesi yapın.",
+          "Öğrenci Vizenizi Alın",
+          "ABD'ye yolculuk için ülkenizden ayrilin."
+        ],
+        "description": [
+          "Öğrenciler istenilen program başlama tarihinden en az 2 ay önce MLI'ya başvurmalıdırlar. MLI için çevrimiçi başvurunuzu gönderdikten sonra uygulama adımları boyunca size rehberlik edeceğiz."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "İptal politikası",
+        "description": [
+          "Başvuru sırasında 150$ dolarlık kayıt ücreti tahsil edilecektir. Vize başvurusu reddedilirse veya kayıt iptal edilirse, kayıt ücreti iade edilmez."
+        ]
+      },
+      {
+        "title": "Başvurunuzu gönderdikten sonra",
+        "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+        "description": [
+          "Öğrenciler çevrimiçi başvuruları sunduktan sonra, MLI başvurunuzu işleme alır ve size iMLI (Her bir Öğrenci'nin çevrimiçi başvuru sayfası) bağlantısını gönderir.<br />Öğrenciler, iMLI'de belirtilen devam eden başvuru sürecini takip edebilirler."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Onine Başvurun",
+      "description": [
+        "Online uygulamayı doldurun.<br />Sorularınız için e-posta ile bize ulaşın.",
+        "Aşağıdaki çevrimiçi uygulama aracılığıyla MLI'ya başvurun."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/overseas-student/apply-now-tr.png",
+        "link": "/tr/admission"
+      }
+    }
+  }

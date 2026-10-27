@@ -1,0 +1,40 @@
+{
+    "pageTitle": "Come iscriversi | Mentor Language Institute",
+    "pageDescription": "Tutto ciò che devi sapere circa l'iscrizione a Mentor Language Institute",
+    "title": "Come iscriversi",
+    "image": "/images/how-to-apply/how-to-apply/mentors-mli.jpg",
+    "category":  [
+        {
+            "title": "Tutto ciò che devi sapere circa l'iscrizione a Mentor Language Institute",
+            "content": [
+                {
+                    "subtitle": "Studente all'estero",
+                    "description": [
+                    "Studenti che si trovano attualmente al di fuori degli Stati Uniti e intendono fare domanda per un visto studenti tramite MLI <br /><a href='/it/how-to-apply/overseas' target='_blank'>Maggiori Informazioni</a>"
+                    ]
+                },
+                {
+                    "subtitle": "Studente che chiede il trasferimento",
+                    "description": [
+                    "Studente che si trova negli Stati Uniti e vuole richiedere il trasferimento dalla scuola in cui è attualmente iscritto a MLI <br /><a href='/it/how-to-apply/student-visa-f1/transfer-students' target='_blank'>Maggiori Informazioni</a>"
+                    ]
+                },
+                {
+                    "subtitle": "Cambio di status",
+                    "description": [
+                    "Uno studente che intende cambiare lo status del suo visto studente F1 <br /><a href='/it/how-to-apply/student-visa-f1/change-of-status' target='_blank'>Maggiori Informazioni</a>"
+                    ]
+                },
+                {
+                    "subtitle": "Visti non F1",
+                    "description": [
+                    "Uno studente in possesso di un Visto U.S. diverso da un un Visto F1<br /><a href='/it/how-to-apply/nonf1' target='_blank'>Maggiori Informazioni</a>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "content": [
+        "MLI offre servizi di assistenza <span style=\"color: #ff0000; font-weight: bold;\">in 8 lingue diverse</span>! <br /> Per qualsiasi informazione,contattaci tramite la sezione di richiesta informazioni."
+    ]
+}

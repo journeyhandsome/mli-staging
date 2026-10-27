@@ -1,0 +1,234 @@
+{
+  "pageTitle": "料金・授業料について | Mentor Language Institute",
+  "pageDescription": "Mentor Language Instituteはロサンゼルスでも費用の安い語学学校のひとつです。このページでは当校に留学した場合の費用について説明します。",
+  "title": "料金・授業料について",
+  "image": "/images/prices/price/price-jp.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/jp/price-auto\">留学費用の自動計算</a>"
+          ]
+        }
+      ]
+    },
+  "japanese": {
+    "desc": [
+      "Mentor Language Instituteはロサンゼルスでも費用の安い語学学校のひとつです。このページでは当校に留学した場合の費用について説明します。",
+      "MLIにお支払い頂く費用は、以下3つ料金の合計額（①+②+③）となります。"
+    ],
+    "note": [
+      "①授業料金",
+      "②滞在費（自己手配の場合は不要）",
+      "③その他費用（入学金やビザ費など）"
+    ],
+    "other_desc1": [
+      "以下でそれぞれの費用について説明させて頂きますが、<span class=\"hutoaka\">こちらから実際にいくらの費用がかかるのかが自動で計算出来ます↓</span>"
+    ],
+    "image": "/images/prices/price/calculator-jp.jpg",
+    "other_desc2": [
+      "お分かりにならない場合はお気軽にスタッフまでお問合せください。(日本事務局：<a href=\"tel:03-6692-6731\">03-6692-6731</a>）"
+    ]
+  },
+  "steps": {
+    "title": "①Tuition ＋ ②Accommodation Fee ＋ ③Other fees",
+    "subtitle": [
+      "If you provide your own accommodation, you do not need to pay the ②Accommodation fee.<br>*Please use <a href=\"/en/price-auto/\">the price calculator</a> to get a quote."
+    ],
+    "lists": [
+      {
+        "title": "①授業料金",
+        "subtitle": [
+          "当校の授業料金は通常の朝コースでひと月708ドル~1000ドル。<br /><span class=\"ymarker\">ロサンゼルスの語学学校では安い学校のひとつです。</span>",
+          "料金はコースや1日に受講する授業の量、通学する期間によって異なります。",
+          "<span class=\"hutoaka\">※</span> 受講期間や1日の授業時間により割引が適応されます。"
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg"
+      },
+      {
+        "title": "②滞在費用",
+        "subtitle": [
+          "滞在の手配が必要な方はホームステイもしくは学生寮からお選びいただきます。",
+          "滞在費は期間による割引はありませんが、<span class=\"ymarker\">空き状況により延長が出来ない場合がありますので、余裕をもった予約をお勧めします。</span>"
+        ],
+        "category": [
+          {
+            "title": "ホームステイの場合の料金",
+            "subtitle": [
+              "アメリカの文化やネイティブの英語に触れていたい方はホームステイがお勧めです。",
+              "<span class=\"hutoaka\">※</span>ホームステイ料金には朝・晩、1日2食の食事が料金に含まれます。"
+            ],
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>期間</b>",
+                  "<b>一人部屋</b>",
+                  "<b>シェア</b>"
+                ],
+                [
+                  "1 週間",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 週間",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 週間",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 週間",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 週間",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 週間",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },              
+            "additional_note": [
+              "<b>18歳未満の生徒様は、家賃が通常料金の約10%上乗せとなります。</b>"
+            ],
+            "notes": [
+              "<b><入居時にかかる費用></b><br />⁻ ホームステイ手配費用：$300<br />⁻ セキュリティデポジット：$300",
+              "<p><br /></p>",
+              "<span class='hutoaka'>※</span>滞在中に問題がなかった場合、セキュリティデポジットは全額返金されます。"
+            ],
+            "description": [
+              "料金表は12週間までの記載ですが、それ以上の滞在も可能です。長期間の金額を知りたい方は自動お見積りをご利用ください。"
+            ]
+          },
+          {
+            "title": "学生寮の場合の料金",
+            "subtitle": [
+              "他国の学生との交流を大切にしたい方は寮をお勧めしています。",
+              "学生寮は30分圏内にバスや電車を通じて通学出来る場所にあり、キッチンが完備されているため、ご自身で料理を準備して頂きます。"
+            ],
+            "table": {
+              "tableMaxCol": 4,
+              "tbody": [
+                [
+                  "<b>期間</b>",
+                  "<b>一人部屋</b>",
+                  "<b>二人部屋\t</b>",
+                  "<b>四人部屋</b>"
+                ],
+                [
+                  "1 週間",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 週間",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 週間",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 週間",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 週間",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 週間",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },              
+            "additional_note": [
+              "<b>18歳未満の生徒様は、家賃が通常料金の約10%上乗せとなります。</b>"
+            ],
+            "notes": [
+              "<b><入居時にかかる費用></b><br />⁻ 寮手配費用: $200<br />⁻ セキュリティデポジット：$300",
+              "<p><br /></p>",
+              "<span class='hutoaka'>※</span>滞在中に問題がなかった場合、セキュリティデポジットは全額返金されます。"
+            ],
+            "description": [
+              "注：滞在先の手配はグループ会社U.S. Support Services Inc.,により運営されています。"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③その他の諸費用",
+        "subtitle": [
+          "上記以外には以下の費用がかかります。"
+        ],
+        "lists": [
+          "入学金：150ドル",
+          "テキスト代：約200ドル/各レベル",
+          "I-20送料：120ドル<span class=\"hutoaka\">※</span>",
+          "SEVIS費：350ドル<span class=\"hutoaka\">※</span>"
+        ],
+        "description": [
+          "<span class=\"hutoaka\">※</span>ビザが必要な方のみ"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "留学費用に関するFAQ",
+    "questions": [
+      "<span class=\"huto\">Q:見積をもらうことは出来ますか？</span><br />A:はい、<a href='https://mliesl.edu/jp/price-auto/'>こちらから </a> 自動お見積りが可能です。",
+      "<span class=\"huto\">Q:通学してからコースを変更することは出来ますか？</span><br />A:はい、可能です。",
+      "<span class=\"huto\">Q:支払いはどんな方法がありますか？</span><br />A:入学金はクレジットカードのみ。残金はカード、送金、米国小切手での支払いが可能です。"
+    ]
+  },
+  "examples": {
+    "title": "留学費用の例",
+    "subtitle": [
+      "以下、4週間の場合と48週間の場合の授業料金例です。"
+    ],
+    "lists": [
+      {
+        "title": "1ヵ月（4週間）の短期留学)",
+        "items": [
+          "入学金：150ドル",
+          "授業料金：1,220ドル",
+          "滞在費：1,560（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span style=\"color: #ff0000\"><b>合計：2,930ドル</b></span>"
+        ]
+      },
+      {
+        "title": "1年（48週間）の長期留学)",
+        "items": [
+          "入学金：150ドル",
+          "授業料金：$10,032ドル",
+          "滞在費： $12,360（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span style=\"color: #ff0000\"><b>合計：22,542ドル</b></span>"
+        ]
+      }
+    ]
+  },
+  "japanese_others": {
+    "image": "/images/prices/price/calculator-jp.jpg"
+  }
+}

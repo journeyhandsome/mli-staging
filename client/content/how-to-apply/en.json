@@ -1,0 +1,31 @@
+{
+    "pageTitle": "Which type of visa are you planning to apply for? | Mentor Language Institute",
+    "pageDescription": "Please choose your visa situation from the options below:",
+    "title": "Which type of visa are you planning to apply for?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "Please choose your visa situation from the options below:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn.png",
+                    "link": "/en/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn.png",
+                    "link": "/en/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Any questions?",
+            "description": [
+                "Normally, you will need a student visa to stay as a long-term student in the United States.<br />If you don't know if you need a visa or not, please contact us.",
+                "We have speakers available in 8 different languages."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-en.png",
+                "link": "/en/contact"
+            }
+        }
+}

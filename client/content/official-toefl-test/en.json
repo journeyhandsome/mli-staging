@@ -1,0 +1,101 @@
+{
+    "pageTitle": "Changes to the Format and Questions on the TOEFL iBT from 7/26/2023 | Mentor Language Institute",
+    "pageDescription": "Changes to the Format and Questions on the TOEFL iBT from 7/26/2023",
+    "title": "Changes to the Format and Questions on the TOEFL iBT from 7/26/2023",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "Hello, everyone. Today, we will be introducing changes to the format and questions on the TOEFL iBT, which is one of the English proficiency tests required for international students for admission to universities and colleges. We hope this brief explanation will benefit you in your preparation for the test.",
+      "We, <a href=\"https://mliesl.edu/\" style=\"color: #3D4C5C;\"><u>Mentor Language Institute</u></a> (MLI), are an English school accredited by ACCET and accepting international students approved by SEVP in the U.S. MLI has been teaching students how to prepare for English proficiency exams for many years, and our team of teachers in our Test Preparation Program teach students how to succeed on such exams and keep them updated on changes to exams whenever they occur. ",
+      "Starting from 7/26/2023, the TOEFL iBT will have a new test format and some other changes. These changes are good for test takers, because the test will be much shorter and much less of a burden."
+    ],
+    "services":
+        {
+            "title": "Changes to the TOEFL iBT Format",
+            "subtitle": "The changes are listed below:",
+            "lists": [
+                "<span class=\"circle\">1 </span>The test will have instructions that are simpler and more direct. (This is a minor change.)",
+                "<span class=\"circle\">2 </span>The test UI “User Interface” will be easier to use and understand. (This is a minor change.)",
+                "<span class=\"circle\">3 </span>The reading section will have 2 passages with 10 questions each.<br />(Right now, it is possible to have 3 or 4 passages with 30 to 40 questions. On the new version of the test, there will be 33% to 50% fewer questions, and the time on this section will be reduced from <span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"><b> 54 – 72 minutes to 35 minutes </b></span>.)",
+                "<span class=\"circle\">4 </span>The writing section will also change. The “Independent Writing” question (Writing 2) will be replaced with a new exercise that is called the “Academic Discussion” question. This is the most significant change to the test.",
+                "<span class=\"circle\">5 </span>The reading section and the listening section will not have unscored questions. <br />(There will no longer be experimental, “dummy” questions.)"
+            ]
+        },
+    "format":
+        {
+            "title": "New TOEFL iBT test format from 7/26/2023",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>Test Section</b>",
+                  "<b># of Questions</b>",
+                  "<b>Estimated Time</b>"
+                ],
+                [
+                  "Reading",
+                  "20 questions",
+                  "35 minutes"
+                ],
+                [
+                  "Listening",
+                  "28 questions",
+                  "36 minutes"
+                ],
+                [
+                  "Speaking",
+                  "4 tasks",
+                  "16 minutes"
+                ],
+                [
+                  "Writing",
+                  "2 tasks",
+                  "29 minutes"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">Total Time</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">– – – – –</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">Under 2 hours</span>"
+                ]
+              ]
+            },
+            "description": [
+                "The new writing task is called the “Academic Discussion” task. The exercise starts with a reading passage. It is an online discussion between a professor and two students. The professor introduces a topic to the students and gives them a question that is related to the topic. After this, the two students respond to the question.",
+                "You must also write a post responding to the professor’s question. In your response, <b> you should express and support your opinion and make a contribution to the discussion.</b> <br /> <span style=\"background:linear-gradient(transparent 60%, #98fb98 60%);\"> An “effective response” should be more than 100 words, and you have 10 minutes to write. </span>"
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "Here is a sample exercise of the new writing question and two sample essays at advanced and intermediate levels of English:",
+            "listTitle": "New TOEFL iBT Writing Sample Question",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "Sample Response 1 (Advanced level): Possible Score [5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "Score Rationale and Explanation ",
+                  "subdescription":[
+                        "This is an advanced response and would probably get a score of 5 based on the scoring rubric for Writing 1. The writer contributes well to the discussion with complex ideas that are well explained with details and examples. The writer chooses the idea of air pollution and goes on to provide an example of how air pollution is produced, explain how air pollution damages the atmosphere, and mention some of the consequences of this kind of damage. The order of statements in the response is logical and coherent. Also, the writer brings up another relevant consequence, effects on human health, and explains how air pollution can affect a person with a health condition. The writer not only uses a variety of grammar and sentence structures, but also provides a strong range of terminology in relation to the topic and a high number of synonyms within the response. ",
+                        "There are very few mistakes; the word “contaminants” is spelled incorrectly but that is an acceptable error due to the specific nature of the word. Also, the writer makes a grammar mistake with the phrase “problem with air pollution”, which should be “problem of air pollution”. There is another grammar mistake with the noun “problem” in the last sentence. This word should be plural. However, both of these grammar mistakes are possible with a writer who is at a high level of English placed under timed conditions. Because of this, these mistakes do not lead to a decrease in the score."
+                    ]
+            },
+            "sample2":
+            {
+              "title": "Sample Response 2 (Intermediate level): Possible Score [3.0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "Score Rationale and Explanation ",
+              "subdescription":[
+                "This is an intermediate response and would probably get a score of 3 based on the scoring rubric for Writing 1. The writer contributes to the discussion but some of the ideas are incomplete or do not have enough details. For example, the writer mentions factories as a source of pollution. However, after this, the writer moves on to information about LA and cars, which is an unrelated point. Also, the writer suggests the use of electric cars but does not explain how these kinds of cars help reduce the amount of pollution. The writer does not have a high variety of grammar and sentence structures but there is a reasonable amount of vocabulary variety. The writer also uses terminology in relation to the topic, such as “global warming” in the response.",
+                "There are various mistakes in the response. These errors lead to a decrease in score and are probably not related to timed conditions. For example, the phrase “a lot of pollution come from” uses the wrong verb tense and should be “a lot of pollution comes from”. Also, the phrase “smoke goes to the air” should use a different preposition: “smoke goes into the air.” Also, the verb “can not” should be a single word, and the modal verb “need” should be followed with the infinitive verb “to stop” instead of “stop”. The writer also used the incorrect prefix for the adjective “predictable”. However, the writer has a strong command of punctuation and uses commas and periods in the appropriate way."
+              ]
+            },
+            "description": "All in all, these changes to the TOEFL iBT should benefit you by making the test shorter and less of a burden. We hope that this information helps you, and we wish you the best of luck on your preparations and studies!"
+            
+        }
+    
+  }

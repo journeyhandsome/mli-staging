@@ -1,0 +1,193 @@
+@media screen and (max-width: 834px) {
+    body {
+        margin: unset !important;
+    }
+    .sidebar {
+        display: none;
+    }
+    .list-of-links {
+        display: none;
+    }
+    .title_col_1_img1 {
+        width: 70% !important;
+    }
+    .title_col_1_img2 {
+        width: 90% !important;
+    }
+    .title_col_1 {
+        grid-column: 1/-1  !important;
+        margin-top: 30px;
+    }
+    .title_middle {
+        grid-row: 8 !important;
+        grid-template-columns: 1fr 15fr 1fr !important;
+    }
+    .m_text {
+        font-size: 1rem !important;
+        -webkit-filter: drop-shadow(0 0 2px rgb(255, 255, 255));
+        filter: drop-shadow(0 0 2px rgb(255, 255, 255));
+        color: #0c2761 !important;
+    }
+    .title_middle_col_1 {
+        margin-top: unset !important;
+    }
+    .m_subText {
+        font-size: 0.7rem !important;
+        font-weight: 550px !important;
+    }
+    .title_middele_right {
+        grid-row: 9 !important;
+        grid-template-columns: 5fr 5fr 1fr !important;
+        margin-top: 10px !important;
+    }
+    .mv__priceWrap {
+        height: 90px !important;
+    }
+    .mv__priceText {
+        font-size: 1.1rem !important;
+    }
+    .mv_price_col_1 {
+        margin-left: 30px !important;
+        grid-template-rows: 45px 10px !important;
+    }
+    .mv__price {
+        font-size: 1.1rem !important;
+    }
+    .mv__large {
+        font-size: 1.8rem !important;
+    }
+    .mv__small {
+        font-size: 0.9rem !important;
+    }
+    .mv__week {
+        font-size: 0.9rem !important;
+    }
+    .mv_price_col_1_1{
+        grid-template-columns: 10px 50px 20px 100px;
+    }
+    .mv__btn {
+        display: none !important;
+    }
+    .intro_img {
+        grid-column: 1/-1 !important;
+        height: 36px !important;
+    }
+    .mv__btn_2 {
+        display: grid;
+        grid-column: 2;
+    }
+    /* .mv__btn {
+        grid-row: 16 !important;
+        grid-template-columns: unset !important;
+    } */
+    .bt2_col1 {
+        grid-column: 1 !important;
+        grid-row: 1;
+        justify-self: center;
+        content: url(/assets/images/lptf-new/mv_btn.png);
+    }
+    .bt2_col2 {
+        grid-column: 1 !important;
+        grid-row: 1;
+        justify-self: center;
+        margin-left: 0 !important;
+        margin-top: 25px;
+        font-weight: 700;
+    }
+    .bt2_col2 a {
+        font-size: 24px;
+    }
+    .intro_inner_col1 {
+        grid-column: 1/-1 !important;
+    }
+    .intro_inner_bg {
+        height: 130px !important;
+    }
+    .intro_inner_logo1 {
+        background: url('/assets/images/lptf-new/intro_img.png') no-repeat bottom left/cover !important;
+        width: 125px !important;
+        height: 160px !important;
+    }
+    .intro_inner {
+        grid-template-columns: 1fr 4fr !important;
+    }
+    .intro_inner_logo2 {
+        grid-column: 2 !important;
+    }
+    .intro_inner_logo {
+        grid-column: 1 !important;
+    }
+    .intro__text {
+        font-size: unset !important;
+        margin: 20px;
+    }
+    .intro__textWrap {
+        margin-left: unset !important;
+    }
+    .intro__catch img {
+        width: 215px !important;
+    }
+    .intro__lead {
+        font-size: 0.9rem !important;
+    }
+    .trial {
+        grid-template-columns: 1fr 14fr 1fr !important;
+    }
+    .trial_col1 {
+        height: 60px !important;
+    }
+    .trial_col1_link {
+        font-size: 1rem !important;
+    }
+    .reasons_col1 {
+        font-size: 1.2rem !important;
+        line-height: 50px !important;
+    }
+    .reason_1_col1_img {
+        height: 50% !important;
+    }
+    .reason_1_col1_img_txt {
+        font-size: 1.2rem !important;
+        margin: 10px !important;
+    }
+    .reasonIntro {
+        grid-template-columns: unset !important;
+    }
+    .reason_1 {
+        height: 60px !important;
+    }
+    .reason_txt {
+        display: none !important;
+    }
+    .reason_price_col1 {
+        overflow-x: scroll !important;
+    }
+    .reason_price_col2 {
+        grid-template-columns: 1fr 1fr 1fr !important;
+    }
+    .gray,.orange {
+        width: 100px !important;
+    }
+    .reason_price_col2 > div {
+        font-size: 1rem !important;
+    }
+    .cp {
+        display: block !important;
+        margin-left: 40px;
+        margin-top: 20px;
+        font-size: 0.9rem !important;
+    }
+    .reason_price_col1_img {
+        height: 70% !important;
+    }
+    .compare_col2 {
+        overflow-x: scroll;
+        justify-self: unset !important;
+    }
+    .reasonCompare__title {
+        font-size: 1.3rem !important;
+    }
+    .reasonCompare__text  {
+        font-size: 0.7rem !important;
+    }
+}

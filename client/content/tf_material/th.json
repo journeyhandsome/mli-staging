@@ -1,0 +1,52 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "กรุณาดาวน์โหลดแผ่นพับโดยใช้ลิงค์ด้านล่าง",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "กรุณาดาวน์โหลดแผ่นพับโดยใช้ลิงค์ด้านล่าง:"
+    ],
+    "brochures": [
+      {
+        "title": "Tuition Chart Westwood",
+        "image": "/images/tf_material/Fee Chart WW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - WW Tuition.pdf"
+      },
+      {
+        "title": "Tuition Chart Hollywood",
+        "image": "/images/tf_material/Fee Chart HW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - HW Tuition.pdf"
+      },
+      {
+        "title": "Program Schedule at Westwood Campus",
+        "image": "/images/tf_material/Westwood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI_WW_Class_Schedule.pdf"
+      },
+      {
+        "title": "Program Schedule at Hollywood Campus",
+        "image": "/images/tf_material/Hollywood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI-HW_Class_Schedulepdf.pdf"
+      },
+      {
+        "title": "แผ่นพับเกี่ยวกับโรงเรียน",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI School Brochure[EN]_OCT17.pdf"
+      },
+      {
+        "title": "แผ่นพับเกี่ยวกับที่พัก",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/_Digital_ 2025 USSS Brochure- Only Housing updated 10.20.2024.pdf"
+      }
+    ],
+    "other_info": [
+      "หากท่านมีคำถาม เช่น ปัญหาเรื่องวีซ่านักเรียน ความพร้อมในการอยู่อาศัยหรือปัญหาอื่นๆ โปรดติดต่อเราได้ตลอดเวลา",
+      "<b>【【 สาขา Westwood 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />โทร: 310-887-0777 <br />E-mail: info@mliesl.edu <br />เวลาทำการ:จันทร์ - พฤหัสฯ: 8:30 – 20:30, ศุกร์: 8:30 – 18:00",
+      "<b>【 สาขา Hollywood 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />โทร: 323-870-7102<br />E-mail: hollywood@mliesl.edu <br />เวลาทำการ: จันทร์ - ศุกร์: 8:30 – 17:00",
+      "เราหวังเป็นอย่างยิ่งว่าจะได้ต้อนรับคุณสู่ MLI Los Angeles"
+    ]
+  }

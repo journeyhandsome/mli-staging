@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLIは、パンデミック期間、皆様の安全を確保します。 | Mentor Language Institute",
+    "pageDescription": "MLIでは現在、Conversationクラス(中級、上級)を対面で提供しております。その他のESL, TOEFL®︎, IELTS™️, Business English plus TOEIC®︎ and Life Skills Englishはオンラインで提供しております。",
+    "title": "MLIは、パンデミック期間、皆様の安全を確保します。",
+    "subtitle": [
+      "MLIでは現在、Conversationクラス(中級、上級)を対面で提供しております。その他のESL, TOEFL®︎, IELTS™️, Business English plus TOEIC®︎ and Life Skills Englishはオンラインで提供しております。",
+      "MLIでは現在、海外からの生徒様と、現地での転校生どちらも受け入れております。"
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "こちらが安全を維つ為に、対面授業に参加するにあたり、必要な6つの条件です。",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLIでは全ての人の安全を守るため、キャンパス内のすべての人に新型コロナウイルス ワクチン接種を義務付けています。ワクチン接種を望まない または受けらない場合は、毎週月曜日までにPCR検査を受検し、陰性の検査結果をMLIに提出すると授業に参加することができます。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "COVID-19予防接種証明書"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  学生は、渡米3日前までにCOVID-19のPCR検査を受け、MLI陰性検査結果(英文)を提供する必要があります。学生は出発前に結果のコピーをMLIにメールで送信し、PCRテスト結果原本を学校に持参する必要があります。",
+            "MLIにPCR検査結果を提供出来ない場合、アメリカに到着してから10日間自己隔離する必要があります。その後、COVID-19の症状がない限り、学生は対面授業に参加出来ます。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "COVID-19 検査陰性結果の例"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  学校に入る時は、全員が入り口の消毒剤を使って手を消毒し、体温をチェックする必要があります。体温は99.5F（37.5℃）未満でなければなりません。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  学校では常にフェイスマスクを着用する必要があります。ソーシャルディスタンスを維持し、学生の机の間は6 feet (約2m)の距離を保ちます。"
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  各クラスの前後に、教室、共用エリア、頻繁に触れる表面は、CDCガイドラインに従って清掃および消毒されます。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  フロントデスクにプラスチックの仕切りを設置。"
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

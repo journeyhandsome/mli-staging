@@ -1,0 +1,101 @@
+{
+    "pageTitle": "Modifications du format et des questions sur le TOEFL iBT à partir du 26/07/2023 | Mentor Language Institute",
+    "pageDescription": "Modifications du format et des questions sur le TOEFL iBT à partir du 26/07/2023",
+    "title": "Modifications du format et des questions sur le TOEFL iBT à partir du 26/07/2023",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "Bonjour à tous. Aujourd’hui, nous allons introduire des changements dans le format et les questions du TOEFL iBT, qui est l’un des tests de compétence en anglais requis pour les étudiants internationaux pour l’admission dans les universités et les collèges. Nous espérons que cette brève explication vous sera utile dans votre préparation au test.",
+      "Nous, <a href=\"https://mliesl.edu/fr/\" style=\"color: #3D4C5C;\"><u>Mentor Language Institute</u></a> (MLI), sommes une école d’anglais accréditée par ACCET et acceptant des étudiants internationaux approuvés par SEVP aux États-Unis. MLI enseigne aux étudiants comment se préparer aux examens de compétence en anglais depuis de nombreuses années, et notre équipe d’enseignants de notre programme de préparation au Test enseigne aux étudiants comment réussir ces examens et les tient informés des changements apportés aux examens chaque fois qu’ils se produisent.",
+      "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">À partir du 26/07/2023, le TOEFL iBT aura un nouveau format de test et quelques autres changements. Ces changements sont bons pour les candidats, car le test sera beaucoup plus court et beaucoup moins lourd.</span>"
+    ],
+    "services":
+        {
+            "title": "Changements apportés au format du TOEFL iBT à partir du 26/07/2023",
+            "subtitle": "Les changements sont listés ci-dessous:",
+            "lists": [
+                "<span class=\"circle\">1 </span>Le test aura des instructions plus simples et plus directes. (Il s’agit d’un changement mineur.)",
+                "<span class=\"circle\">2 </span>L’interface utilisateur de test « Interface utilisateur » sera plus facile à utiliser et à comprendre. (Il s’agit d’un changement mineur.)",
+                "<span class=\"circle\">3 </span>La section de lecture aura 2 passages avec 10 questions chacun.  <br />(Actuellement, il est possible d’avoir 3 ou 4 passages avec 30 à 40 questions. Sur la nouvelle version du test, il y aura 33% à 50% de questions en moins, et le temps sur cette section sera réduit de 54 – 72 minutes à 35 minutes.) ",
+                "<span class=\"circle\">4 </span>La section d’écriture changera également. La question « Rédaction indépendante » (Rédaction 2) sera remplacée par un nouvel exercice appelé la question « Discussion académique ». C’est le changement le plus important apporté au test.",
+                "La section de lecture et la section d’écoute n’auront pas de questions non notées. <br /> (Il n’y aura plus de questions expérimentales « fictives ».)"
+            ]
+        },
+    "format":
+        {
+            "title": "Format du TOEFL iBT à partir du 26/07/2023",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>Test Section</b>",
+                  "<b># de questions</b>",
+                  "<b>Temps estimé</b>"
+                ],
+                [
+                  "Lecture",
+                  "20 questions",
+                  "35 minutes"
+                ],
+                [
+                  "Ecouter",
+                  "28 questions",
+                  "36 minutes"
+                ],
+                [
+                  "Parler",
+                  "4 tâches",
+                  "16 minutes"
+                ],
+                [
+                  "Ecrit",
+                  "2 tâches",
+                  "29 minutes"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">Temps total</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">– – – – –</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">Moins de 2 heures</span>"
+                ]
+              ]
+            },
+            "description": [
+                "La nouvelle tâche d’écriture s’appelle la tâche « Discussion académique ». L’exercice commence par un passage de lecture. Il s’agit d’une discussion en ligne entre un professeur et deux étudiants. Le professeur présente un sujet aux étudiants et leur pose une question en rapport avec le sujet. Après cela, les deux étudiants répondent à la question.",
+                "Vous devez également rédiger un post répondant à la question du professeur. Dans votre réponse, vous devez exprimer et soutenir votre opinion et apporter une contribution à la discussion. <span style=\"background:linear-gradient(transparent 60%, #98fb98 60%);\"> Une « réponse efficace » doit comporter plus de 100 mots et vous disposez de 10 minutes pour la rédiger. </span>"
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "Voici un exemple d’exercice de la nouvelle question d’écriture et deux exemples d’essais aux niveaux avancé et intermédiaire d’anglais :",
+            "listTitle": "New TOEFL iBT Writing Sample Question",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "Sample Response 1 (Advanced level): Possible Score [5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "Justification et Explication des Notes 1 :",
+                  "subdescription":[
+                        "Il s’agit d’une réponse avancée et obtiendrait probablement une note de 5 sur la base de la rubrique de notation pour l’écriture 1. L’auteur contribue à la discussion avec des idées complexes qui sont bien expliquées avec des détails et des exemples. L’auteur choisit l’idée de pollution de l’air et poursuit en donnant un exemple de la façon dont la pollution de l’air est produite, explique comment la pollution de l’air endommage l’atmosphère et mentionne certaines des conséquences de ce type de dommage. L’ordre des énoncés dans la réponse est logique et cohérent. En outre, l’auteur évoque une autre conséquence pertinente, les effets sur la santé humaine, et explique comment la pollution de l’air peut affecter une personne ayant un problème de santé. L’auteur utilise non seulement une variété de structures de grammaire et de phrases, mais fournit également une large gamme de termes en relation avec le sujet et un nombre élevé de synonymes dans la réponse.",
+                        "Il y a très peu d’erreurs ; le mot « contaminants » est mal orthographié, mais il s’agit d’une erreur acceptable en raison de la nature spécifique du mot. En outre, l’auteur fait une erreur de grammaire avec l’expression “a lot of pollution come from”, qui devrait être “a lot of pollution comes from”. Il y a une autre erreur de grammaire avec le nom « problème » dans la dernière phrase. Ce mot doit être au pluriel. Cependant, ces deux erreurs de grammaire sont possibles avec un écrivain qui est à un haut niveau d’anglais placé dans des conditions chronométrées. Pour cette raison, ces erreurs ne conduisent pas à une diminution du score."
+                    ]
+            },
+            "sample2":
+            {
+              "title": "Sample Response 2 (Intermediate level): Possible Score [3.0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "Justification et Explication des Notes 2 :",
+              "subdescription":[
+                "Il s’agit d’une réponse intermédiaire et obtiendrait probablement une note de 3 sur la base de la rubrique de notation pour l’écriture 1. L’auteur contribue à la discussion mais certaines des idées sont incomplètes ou n’ont pas suffisamment de détails. Par exemple, l’auteur mentionne les usines comme source de pollution. Cependant, après cela, l’écrivain passe aux informations sur LA et les voitures, ce qui n’est pas lié. En outre, l’auteur suggère l’utilisation de voitures électriques mais n’explique pas comment ces types de voitures contribuent à réduire la quantité de pollution. L’écrivain n’a pas une grande variété de structures de grammaire et de phrases, mais il y a une quantité raisonnable de variété de vocabulaire. L’auteur utilise également une terminologie en rapport avec le sujet, comme « le réchauffement climatique » dans la réponse.",
+                "Il y a diverses erreurs dans la réponse. Ces erreurs entraînent une diminution du score et ne sont probablement pas liées aux conditions chronométrées. Par exemple, l’expression « beaucoup de pollution vient de » utilise le mauvais temps verbal et devrait être « beaucoup de pollution vient de ». De plus, l’expression « la fumée va dans l’air » <br /> <em>devrait utiliser une préposition différente : »la fumée va dans l’air. » De plus, le verbe « ne peut pas » doit être un seul mot, et le verbe modal « besoin » doit être suivi du verbe infinitif « arrêter » au lieu de « arrêter ». L’auteur a également utilisé le préfixe incorrect pour l’adjectif « prévisible ». Cependant, l’écrivain maîtrise parfaitement la ponctuation et utilise les virgules et les points de manière appropriée.</em>"
+              ]
+            },
+            "description": ["Dans l’ensemble, ces modifications apportées au TOEFL iBT devraient vous être bénéfiques en rendant le test plus court et moins contraignant. Nous espérons que ces informations vous seront utiles et nous vous souhaitons bonne chance pour vos préparations et vos études !"]
+            
+        }
+    
+  }

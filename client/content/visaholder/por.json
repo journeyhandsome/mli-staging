@@ -1,0 +1,19 @@
+{
+  "pageTitle": "Confirmation if you have a student VISA | Mentor Language Institute",
+  "pageDescription": "Do you already have a student VISA in the U.S.?",
+    "title": "Confirmation if you have a student VISA",
+    "category": {
+      "title": "Do you already have a student VISA in the U.S.?",
+      "subtitle": "YES: I have studied abroad before in the US and have a student VISA.<br /><b>NO: This is my first time to study in the US and apply for MLI </b>",
+      "content": [
+        "<a class='btn btn-primary text-center' href='#'>YES</a>",
+        "<span class='text-center'>or</span>",
+        "<a class='btn btn-primary text-center' href='#'>NO</a>",
+        "<span class='text-center'>or</span>",
+        "<a class='btn btn-primary text-center' href='/por/contact'>I don't know</a>"
+      ],
+      "other_info": [
+        "※If it has been 5 months since the last time you attended a school program, your VISA is expired. <br /> Choose NO if it has been more than 5 months since you returned to your country."
+      ]
+    }
+  }

@@ -1,0 +1,85 @@
+{
+  "pageTitle": "MLI keeps everybody safe during the pandemic | Mentor Language Institute",
+  "pageDescription": "MLI currently offers in-person Conversation classes (Intermediate & Advanced) and online programs including; ESL, TOEFL®︎, IELTS™️, Business English plus TOEIC®︎ and Life Skills English.",
+  "title": "MLI keeps everybody safe during the pandemic",
+  "subtitle": [
+    "MLI currently offers in-person Conversation classes (Intermediate & Advanced) and online programs including; ESL, TOEFL®︎, IELTS™️, Business English plus TOEIC®︎ and Life Skills English.",
+    "MLI is currently accepting both overseas and transfer students."
+  ],
+  "image": "/images/covid19/safety-measure/safety-measure.png",
+  "steps": {
+    "title": "Here are <b>6 safety measures</b> MLI requires of students who attend in-person classes.",
+    "lists": [
+      {
+        "step": "/images/covid19/safety-measure/step-1.png",
+        "description": [
+          "MLI will make vaccinations a requirement for everyone on campus, in order to keep everybody safe. If you are unwilling or unable to get vaccinated, you must take a PCR test and give the test results to MLI front desk staff every Monday."
+        ],
+        "gallery": [
+          {
+            "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+            "note": "COVID-19 Vaccination Certificate"
+          }
+        ]
+      },
+      {
+        "step": "/images/covid19/safety-measure/step-2.png",
+        "description": [
+          "Students need to get tested for COVID-19 no more than 3 days before travel by air into the United States (US) and provide MLI negative test results in English. Students must email MLI a copy of the results before departure and bring the original PCR test results to school.",
+          "If the student fails to provide MLI with PCR test results, he/she must quarantine for 10 days after arrival to the U.S. As long as there are no COVID-19 symptoms, the student is allowed to start his/her program in-person after the 10-day quarantine."
+        ],
+        "gallery": [
+          {
+            "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+            "note": "Sample COVID19 Negative Result"
+          }
+        ]
+      },
+      {
+        "step": "/images/covid19/safety-measure/step-3.png",
+        "description": [
+          "When entering school, everyone must sanitize their hands using the disinfect at entrance and get their temperature checked. Temperature must be under 99.5F (37.5℃)."
+        ],
+        "gallery": [
+          {
+            "image": "/images/covid19/safety-measure/scanning.png"
+          }
+        ]
+      },
+      {
+        "step": "/images/covid19/safety-measure/step-4.png",
+        "description": [
+          "Everyone is required to wear a face mask at all times while at school. Social distancing is maintained; 6-feet distance between students' desks."
+        ],
+        "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+        "gallery": [
+          {
+            "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+          }
+        ]
+      },
+      {
+        "step": "/images/covid19/safety-measure/step-5.png",
+        "description": [
+          "Before and after each class, classrooms, common areas and frequently touched surfaces are cleaned and disinfected according to <a href='https://www.cdc.gov/coronavirus/2019-ncov/community/clean-disinfect/index.html' target='_blank'>CDC</a> guidelines."
+        ],
+        "gallery": [
+          {
+            "image": "/images/covid19/safety-measure/cleaning.png"
+          }
+        ]
+      },
+      {
+        "step": "/images/covid19/safety-measure/step-6.png",
+        "description": [
+          "Plastic protection has been installed at the front desk area."
+        ],
+        "gallery": [
+          {
+            "image": "/images/covid19/safety-measure/front-desk.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

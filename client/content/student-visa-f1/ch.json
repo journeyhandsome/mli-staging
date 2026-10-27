@@ -1,0 +1,37 @@
+{
+    "pageTitle": "學生簽證-1 | Mentor Language Institute",
+    "pageDescription": "請從以下列表中選擇您的情況。 如果您不確定自己的情況，請點擊“閱讀更多”了解更多詳情。",
+    "title": "學生簽證-1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "請從以下列表中選擇您的情況。 <br /> 如果您不確定自己的情況，請點擊“閱讀更多”了解更多詳情。"
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_ch.png",
+                    "link": "/ch/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_ch.png",
+                    "link": "/ch/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_ch.png",
+                    "link": "/ch/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "任何問題?",
+            "description": [
+                "一般來說，您需要簽證才能在美國長期學習。<br />如果您不知道您是否需要簽證，請聯絡我們。",
+                "我們有八種不同語言的工作人員。"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-ch.jpg",
+                "link": "/ch/contact"
+            }
+        }
+}

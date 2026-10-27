@@ -1,0 +1,38 @@
+{
+    "pageTitle": "Студенческая виза F1 | Mentor Language Institute",
+    "pageDescription": "Выберите один из вариантов ниже. Если вы не уверены какой вариант выбрать нажмите ЧИТАТЬ БОЛЬШЕ для дополнительной информации.",
+    "title": "Студенческая виза F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "Выберите один из вариантов ниже. <br /> Если вы не уверены какой вариант выбрать нажмите ЧИТАТЬ БОЛЬШЕ для дополнительной информации."
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_ru.png",
+                    "link": "/ru/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_ru.png",
+                    "link": "/ru/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_ru.png",
+                    "link": "/ru/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Есть вопросы?",
+            "description": [
+                "Как правило, вам понадобится студенческая виза для пребывания в Соединенных Штатах в качестве долгосрочного студента.",
+                "Если вы не знаете, нужна ли вам виза или нет, свяжитесь с нами.",
+                "Наши сотрудники говорят на 8 разных языках."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-ru.jpg",
+                "link": "/ru/contact"
+            }
+        }
+}

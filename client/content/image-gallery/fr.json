@@ -1,0 +1,28 @@
+{
+  "pageTitle": "Galerie photo/vidéo | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute a deux campus situés dans le centre de Los Angeles, Hollywood et Westwood.",
+  "title": "Galerie photo/vidéo",
+  "image": "/images/what-is-mli/image-gallery/gallery.jpg",
+  "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+  "subtitle": [
+    "Mentor Language Institute a deux campus situés dans le centre de Los Angeles, Hollywood et Westwood.<br />N'hésitez pas à explorer les photos et vidéos de chaque campus ci-dessous."
+  ],
+  "schools": [
+    {
+      "key": "hollywood-campus",
+      "value": "Hollywood - Campus"
+    },
+    {
+      "key": "hollywood-class",
+      "value": "Hollywood - Class"
+    },
+    {
+      "key": "westwood-campus",
+      "value": "Westwood - Campus"
+    },
+    {
+      "key": "westwood-class",
+      "value": "Westwood - Class"
+    }
+  ]
+}

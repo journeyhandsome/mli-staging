@@ -1,0 +1,35 @@
+{
+    "pageTitle": "الطلاب حاملون فيزا الطالب F1 | Mentor Language Institute",
+    "pageDescription": "الرجاء اختيار وضعك الأكاديمي من القائمة أدناه.",
+    "title": "الطلاب حاملون فيزا الطالب F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "الرجاء اختيار وضعك الأكاديمي من القائمة أدناه. <br /> إذا لم تكن متأكدًا من وضعك الأكاديمي ، فانقر على اقرأ المزيد لمزيد من التفاصيل."
+    ],
+    "category":[
+        {
+            "btn_visa":  {
+                "image": "/images/how-to-apply/student-visa-f1/overseas_btn_ar.png",
+                "link": "/ar/how-to-apply/student-visa-f1/overseas-students"
+            },
+            "btn_transfer":  {
+                "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_ar.png",
+                "link": "/ar/how-to-apply/student-visa-f1/transfer-students"
+            },
+            "btn_status":  {
+                "image": "/images/how-to-apply/student-visa-f1/change_status_btn_ar.png",
+                "link": "/ar/how-to-apply/student-visa-f1/change-of-status"
+            }
+        }],
+    "content": 
+        {
+            "subtitle": "هل لديك أي سؤال؟",
+            "description": [
+                "بالطبع سوف تحتاج إلى فيزا طالب في حال رغبة الدراسة لمدة أطول في الولايات المتحدة <br />إذا كنت لاتعلم حالتك إن كنت تحتاج إلى فيزا طالب أم لا أرجو التواصل معنا <br />لدينا موظفين يتحدثون ثمان لغات مختلفة نرحب بمساعدتك"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-ar.png",
+                "link": "/ar/contact"
+            }
+        }
+}

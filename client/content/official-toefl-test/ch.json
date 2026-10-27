@@ -1,0 +1,113 @@
+{
+    "pageTitle": "TOEFL iBT考试题型和问题设计更改说明（2023年7月26日起） | Mentor Language Institute",
+    "pageDescription": "TOEFL iBT考试题型和问题设计更改说明（2023年7月26日起）",
+    "title": "TOEFL iBT考试题型和问题设计更改说明（2023年7月26日起）",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "大家好，",
+      "本次我们将介绍最近由ETS发布的TOEFL iBT（其中一个入读英语系大学或短期大学必须的英语能力测试）试题格式和问题的改变。由于这里有许多对TOEFL iBT考试有准备的考生，因此这些信息将对你们很有帮助，请务必参考。",
+      "我们是 <a href=\"https://mliesl.edu/ch/\" style=\"color: #0000ff;\"><u>Mentor Language Institute</u></a> (MLI), 是一所经ACCET认证的语言学校，也是经SEVP（美国移民局）批准接受留学生的英语专业学院。多年来，MLI一直提供英语能力考试（TOEFL、IELTS、TOEIC、GRE、GMAT等）的成绩提升和应试课程。此外，我们的测试准备课程讲师团队，一直致力于传授最新的信息和为学生提供在最短时间内达成目标分数的策略。",
+      "从2023年7月26日开始，TOEFL iBT将引入新的考试形式和问题变化。这些变化将缩短考试时间，因此对考生来说减轻了相当大的负担。",
+      "以下是改变内容："
+    ],
+    "services":
+        {
+            "title": "以下是改变内容：",
+            "lists": [
+                "<span class=\"circle\">1 </span>考试指示将更简单易懂，使受试者更容易理解如何回答。这是一个小的变化。",
+                "<span class=\"circle\">2 </span> 阅读部分将分为2个段落，每个段落10个问题（总共20个问题）。现在，阅读部分通常包括3到4个段落，总共30到40个问题。但在新的测试形式中，问题数量将减少33%至50%，阅读部分的时间将从54-72分钟缩短到35分钟。",
+                "<span class=\"circle\">3 </span> 写作部分也将进行更改。”独立写作”问题（写作2）将被一个名为”学术讨论”的新问题所取代。这是本次变更中最重要的变化。",
+                "<span class=\"circle\">4 </span> 阅读部分和听力部分将不再包含未计分的假问题。"
+            ]
+        },
+    "format":
+        {
+            "title": "7/26/23后的新TOEFL iBT考试格式",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>測試部分</b>",
+                  "<b>題数</b>",
+                  "<b>試験時間（概算）</b>"
+                ],
+                [
+                  "閱讀",
+                  "20題",
+                  "35分"
+                ],
+                [
+                  "聽力",
+                  "28題",
+                  "36分"
+                ],
+                [
+                  "口說",
+                  "4題",
+                  "16分"
+                ],
+                [
+                  "寫作",
+                  "2題",
+                  "29分"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">總測試時間</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">– – – – –</span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\">2時間以内</span>"
+                ]
+              ]
+            },
+            "description": [
+                "新的写作问题称为“学术讨论”。",
+                "这个写作问题从阅读开始。情景是在大学课堂上，教授向班上的学生介绍主题并提出问题。然后，两个学生对该问题进行回答。",
+                "<span style=\"background-color: #00ff00;\"> 您（考生）也需要用文章（写作）回答这个问题。你的回答（写作）必须包含支持你观点的内容，并做出贡献以促进班内讨论。你会有10分钟的时间来回答，答案必须使用100个以上的单词。</span>"
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "以下是示例问题，我们将使用高级和中级答案样本进行解释！",
+            "listTitle": "新 TOFLE iBT 写作样题",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "範例回答1（高級程度）：得分[5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "回答說明",
+                  "subdescription":[
+                        "这篇文章是一篇相当高水平的写作，根据写作评分规则，可能会获得5分的成绩。回答者提供了复杂的想法，并巧妙地通过详细的解释和实例，成功地对讨论做出贡献。回答者选择了空气污染这个想法，提供了产生空气污染的示例，说明了空气污染对空气的损害，并列出了一些损害的结果。文章的描述顺序是逻辑和一致的。此外，回答者还触及了另一个相关结果，即空气污染对人体健康的影响，并解释了空气污染如何影响健康状况。回答者不仅在语法和句子结构方面具有多样性，还提供了与主题相关的术语和许多同义词。",
+                        "文章中错误非常少，唯一的缺陷是单词“contaminants”的拼写错误，但这是特定单词属性内容容许的错误。另外，“problem with air pollution”这个短语中存在语法错误，正确的是“problem of air pollution”。最后一句中的名词“problem”存在语法错误，必须是复数形式。然而，这些语法错误在限制时间内高水平英语水平也是可能出现的错误。因此，这些错误不会影响得分。"
+                    ]
+            },
+            "sample2":
+            {
+              "title": "样本回答2（中级水平）：分数[3.0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "回答說明",
+              "subdescription":[
+                "这个写作范例是一个中级水平的回答，可能会根据TOEFL写作评分标准获得3分。回答者对讨论有所贡献，但一些想法可能不完整或缺乏足够的细节，可能导致评分下降。例如，作者提到工厂是污染源，但随后提到了洛杉矶和汽车相关的信息，并没有关联性。此外，回答者建议使用电动车，但没有说明这种车如何减少污染量。回答者在语法和句子结构方面缺乏多样性，词汇多样性有些程度。回答者还在回答中使用了与主题相关的术语，如“全球变暖”。回答中存在各种错误。这些错误可能会降低评分，并且可能是由于英语能力不足，而与时间限制无关。例如，“a lot of pollution come from”这样的短语使用了错误的动词时态，“a lot of pollution comes from”才是正确的。此外，“smoke goes to the air”这句话需要使用不同的介词，“smoke goes into the air”才是正确的。此外，在有关信息提供的句子中，助动词“need”后面需要跟随不定式“to stop”，而不是“stop”。回答者在使用“可预测的”形容词的前缀时犯了错误，但在标点符号方面有正确的知识，并在适当的地方使用了逗号和句号。"
+              ]
+            },
+            "description": [
+                "总的来说，我们认为TOEFL iBT考试问题格式的改变对考生是一个加分项。",
+
+                "考试时间大幅缩短，考生可以在考试期间保持高度集中！这意味着错误也会减少！",
+                
+                "如果您打算在7/26或之后参加这次考试，请好好准备，做好对策和练习，期望在考试中获得比现行TOEFL iBT更高的分数。",
+                
+                "同时，取得目标分数所需的时间也会更短！",
+                
+                "今天的解说就到此为止。",
+                
+               " 祝您TOEFL学习和考试好运！"
+            ]
+            
+        }
+    
+  }

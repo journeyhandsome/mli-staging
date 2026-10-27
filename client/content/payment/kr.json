@@ -1,0 +1,68 @@
+{
+    "pageTitle": "결제 | Mentor Language Institute",
+    "pageDescription": "결제",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">이 페이지의 양식을 작성하여 제출하면 신용카드로 안전하게 결제할 수 있습니다. 멘토어학원은 신용카드 정보를 저장하지 않습니다. 이 결제 절차는 Stripe의 온라인 결제를 통해 이루어집니다.<br />아래 정보를 입력해 주세요.</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "날짜",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "캠퍼스",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "학생의 이름",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "학생의 성/가족 이름",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "대행사 이름(해당되는 경우)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "금액",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*결제 금액에 CR 처리 수수료의 4%가 추가됩니다.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "신용카드로 청구된 금액"
+        }
+    ]
+    },
+  "btn_label": "결제 페이지로 계속 진행"
+}

@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLI, salgın sırasında herkesi güvende tutar | Mentor Language Institute",
+    "pageDescription": "MLI şu anda yüz yüze Konuşma sınıfları (Orta ve İleri) ve aşağıdakileri içeren online programlar sunmaktadır; ESL, TOEFL®︎, IELTS ™ ️, İş İngilizcesi artı TOEIC®︎ ve Life Skills English.",
+    "title": "MLI, salgın sırasında herkesi güvende tutar",
+    "subtitle": [
+      "MLI şu anda yüz yüze Konuşma sınıfları (Orta ve İleri) ve aşağıdakileri içeren online programlar sunmaktadır; ESL, TOEFL®︎, IELTS ™ ️, İş İngilizcesi artı TOEIC®︎ ve Life Skills English.",
+      "MLI şu anda hem yurtdışından hem de transfer öğrencileri kabul ediyor."
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "İşte MLI'nin yüz yüze derslere katılan öğrenciler için gerektirdiği <b>6 güvenlik</b> önlemi",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLI, herkesi güvende tutmak için aşıları kampüsteki herkes için bir gereklilik haline getirecektir. Eğer isteksizseniz veya aşı olamıyorsanız, her Pazartesi bir PCR testi yapabilir ve test sonuçlarını MLI'ye verebilirsiniz."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "COVID-19 Aşı Sertifikası"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  Öğrencilerin Amerika Birleşik Devletleri'ne (ABD) hava yoluyla seyahat etmeden en fazla 3 gün önce COVID-19 testi yaptırmaları ve MLI negatif test sonuçlarını İngilizce olarak vermeleri gerekir. Öğrenciler, ayrılmadan önce sonuçların bir kopyasını MLI'ye e-posta ile göndermeli ve orijinal PCR test sonuçlarını okula getirmelidir.",
+            "Öğrenci PCR test sonuçlarını MLI'ye veremezse, ABD'ye geldikten sonra 10 gün kendini karantinaya almalıdır COVID-19 semptomları olmadığı sürece, 10 günlük karantina sonrasinda öğrencinin programına şahsen başlamasına izin verilir."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "Örnek COVID 19 Negatif Test Sonuçu"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  Okula girerken, herkes girişteki dezenfekte kullanarak ellerini dezenfekte etmeli ve sıcaklıklarını kontrol ettirmelidir. Sıcaklık 99,5F (37,5 ℃) altında olmalıdır."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  Okulda herkesin her zaman yüz maskesi takması gerekir. Sosyal mesafe korunur; Öğrencilerin sıraları arasında 6 feet mesafe ayirilir."
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  Her dersten önce ve sonra, derslikler, ortak alanlar ve sık dokunulan yüzeyler <a href='https://www.cdc.gov/coronavirus/2019-ncov/community/clean-disinfect/index.html' target='_blank'>CDC</a> kurallarına göre temizlenir ve dezenfekte edilir."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  Ön masa danisma alanına plastik koruma takılmıştır."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

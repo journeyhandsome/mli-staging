@@ -1,0 +1,107 @@
+{
+    "pageTitle": "學生見證 | Mentor Language Institute",
+    "pageDescription": "Comments about MLI from students.",
+    "title": "學生見證",
+    "selectBy": {
+      "title": "按選擇:",
+      "selections": [
+        {
+          "title": "Nationality",
+          "key": "nationality",
+          "lists": [
+            {
+              "title": "All Nationalities",
+              "value": ""
+            },
+            {
+              "image": "/flags/sa.png",
+              "title": "Arabic",
+              "link": "ar"
+            },
+            {
+              "image": "/flags/kr.png",
+              "title": "Korean",
+              "link": "kr"
+            },
+            {
+              "image": "/flags/ru.png",
+              "title": "Russian",
+              "link": "ru"
+            },
+            {
+              "image": "/flags/fr.png",
+              "title": "France",
+              "link": "fr"
+            },
+            {
+              "image": "/flags/es.png",
+              "title": "Spanish",
+              "link": "sp"
+            },
+            {
+              "image": "/flags/th.png",
+              "title": "Thai",
+              "link": "th"
+            },
+            {
+              "image": "/flags/jp.png",
+              "title": "Japanese",
+              "link": "jp"
+            },
+            {
+              "image": "/flags/br.png",
+              "title": "Brazilian",
+              "link": "por"
+            },
+            {
+              "image": "/flags/cn.png",
+              "title": "Chinese",
+              "link": "ch"
+            },
+            {
+              "image": "/flags/it.png",
+              "title": "Italian",
+              "link": "it"
+            },
+            {
+              "image": "/flags/tr.png",
+              "title": "Turkish",
+              "link": "tr"
+            },
+            {
+              "image": "/flags/de.png",
+              "title": "German",
+              "link": "de"
+            },
+            {
+              "image": "/flags/other.png",
+              "title": "Other Nationalities",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "title": "All Campus",
+          "key": "campus",
+          "lists": [
+            {
+              "title": "All Campus",
+              "value": ""
+            },
+            {
+              "title": "Westwood",
+              "image": "/campus/westwood.png"
+            },
+            {
+              "title": "Hollywood",
+              "image": "/campus/hollywood.png"
+            }
+          ]
+        }
+      ]
+    },
+    "comments": {
+      "title": " Comments about MLI from students."
+    },
+    "readmoreBtn": "閱讀更多"
+  }

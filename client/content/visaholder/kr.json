@@ -1,0 +1,19 @@
+{
+  "pageTitle": "학생 비자가 있을 경우 확인해야 할 것 | Mentor Language Institute",
+  "pageDescription": "당시은 이미 미국에서 발행된 학생 비자가 있습니까?",
+    "title": "학생 비자가 있을 경우 확인해야 할 것",
+    "category": {
+      "title": "당시은 이미 미국에서 발행된 학생 비자가 있습니까?",
+      "subtitle": "네: 나는 과거에 미국에서 공부한 적이 있고 학생 비자도 있습니다.<br /><b>아니오: 이번이 MLI에 등록해서 처음으로 미국에서 공부하는 것입니다.</b>",
+      "content": [
+        "<a class='btn btn-primary text-center' href='/kr/havevisa'>YES</a>",
+        "<span class='text-center'>or</span>",
+        "<a class='btn btn-primary text-center' href='/kr/how-to-apply/visa_overseas'>NO</a>",
+        "<span class='text-center'>or</span>",
+        "<a class='btn btn-primary text-center' href='/kr/contact'>I don't know</a>"
+      ],
+      "other_info": [
+        "※만약 학교에서 마지막으로 공부한 뒤 5개월이 지났으면, 당신의 비자는 만료 되었습니다. 당신의 나라로 돌아간 <br /> 뒤 5개월 이상 지났으면, NO를 선택하세요."
+      ]
+    }
+  }

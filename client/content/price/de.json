@@ -1,0 +1,200 @@
+{
+  "pageTitle": "Preise | Mentor Language Institute",
+  "pageDescription": "Wenn du dir selbst eine Unterkunft suchst, musst du keine ②Unterkunftskosten bei uns zahlen.",
+  "title": "Preise",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/de/price-auto\">Preiskalkulator</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Studiengebühr ＋ ②Unterkunftskosten ＋ ③Andere Gebühren",
+    "subtitle": [
+      "Wenn du dir selbst eine Unterkunft suchst, musst du keine ②Unterkunftskosten bei uns zahlen.<br><a href=\"/de/price-auto/\">*Bitte verwende den Preiskalkulator um ein Angebot zu erhalten.</a>"
+    ],
+    "lists": [
+      {
+        "title": "①Studiengebühr",
+        "subtitle": [
+          "Der Preis variiert anhand deines gewählten Kurses und der Länge deines Aufenthalts.<br /> Je länger du am MLI studierst, desto grösser ist dein Rabatt."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "description": [
+          "<b>F&A</b>",
+          "<b>F1: Kann ich die Gebühren mit Kreditkarte bezahlen? </b><br /><b>A1:</b> Ja, Sie können Ihre Gebühren mit Kreditkarte bezahlen. Es wird jedoch eine Servicegebühr von 4 % hinzugefügt.",
+          "<b>F2: Welche Zahlungsmethoden kann ich verwenden, um MLI zu bezahlen?</b> <br /><b>A2:</b> Wir akzeptieren folgende Zahlungsmethoden: <br> • Banküberweisung <br> • Internationale Überweisung <br> • Bargeld <br> • Persönlicher Scheck <br> • Kreditkarte <br> • Debitkarte <br> • Zelle",
+          "Wenn Sie die 4% Servicegebühr für Kredit-/Debitkartenzahlungen vermeiden möchten, können Sie eine der folgenden Alternativen wählen: <br><b>Banküberweisung, internationale Überweisung (es fällt eine Bankgebühr von 35 USD an), Barzahlung, persönlicher Scheck oder Zelle.</b>",
+          "<b>F3: Kann ich die Studiengebühren nach Beginn meines Programms zahlen? </b><br /><b>A3:</b> Nein. Die vollständige Zahlung muss vor oder am ersten Programmtag erfolgen."
+        ]
+      },
+      {
+        "title": "②Unterkunftskosten",
+        "subtitle": [
+          "Wir bieten Gastfamilien- und Studentenheimoptionen an. Gastfamilien sind empfehlenswert für Leute, welche die amerikanische Kultur erleben möchten. Studentenwohnheime werden für Leute empfohlen, die viele Freunde machen möchten."
+        ],
+        "category": [
+          {
+            "title": "Gastfamilienpreise",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Platzierungsgebühr* : $300<br /> Wenn Sie jünger als 18 Jahre alt sind, liegt die Miete etwa 10 % über dem Preis für eine Person, die älter als 18 Jahre ist.",
+              "thead": [
+                "",
+                "Privatzimmer",
+                "Zweierzimmer***"
+              ],
+              "tbody": [
+                [
+                  "<b>Kaution**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 Woche",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 Wochen",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 Wochen",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 Wochen",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 Wochen",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 Wochen",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Studentenwohnheimpreise",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Platzierungsgebühr* : $200<br /> Wenn Sie jünger als 18 Jahre alt sind, liegt die Miete etwa 10 % über dem Preis für eine Person, die älter als 18 Jahre ist.",
+              "thead": [
+                "",
+                "Privatzimmer",
+                "Zweierzimmer",
+                "Viererzimmer"
+              ],
+              "tbody": [
+                [
+                  "<b> Kaution**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 Woche",
+                  "$570",
+                  "$430",
+                  "$315"
+                ],
+                [
+                  "2 Wochen",
+                  "$1,140",
+                  "$860",
+                  "$630"
+                ],
+                [
+                  "3 Wochen",
+                  "$1,710",
+                  "$1,290",
+                  "$945"
+                ],
+                [
+                  "4 Wochen",
+                  "$2,280",
+                  "$1,720",
+                  "$1,260"
+                ],
+                [
+                  "8 Wochen",
+                  "$4,320",
+                  "$3,080",
+                  "$2,320"
+                ],
+                [
+                  "12 Wochen",
+                  "$6,480",
+                  "$4,620",
+                  "$3,480"
+                ]
+              ]
+            },
+            "description": [
+              "*Die Platzierungsgebühr ist eine Einmalzahlung. Sie wird nicht zurückerstattet.<br />**Die Kaution wird nach dem Auszug der Studenten zurückerstattet.<br />***Wenn du dich für ein geteiltes Zimmer in einer Gastfamilie bewirbst, musst du dich mit einer zweiten Person anmelden.",
+              "※Deine Unterkunft wird von U.S. Support Service Inc. oder anderen Partnern zu Verfügung gestellt.",
+              "<a href=\"/de/stay/\"><i class='bi bi-arrow-right'></i>   Mehr Informationen über Unterkünfte</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Erstgebühren",
+        "subtitle": [
+          "Zusätzlich zu den oben genannten Gebühren, fallen weitere Erstgebühren an."
+        ],
+        "lists": [
+          "Bearbeitungsgebühr* ： $150",
+          "I-20 Postversand** : $120",
+          "SEVIS Gebühr** ： $350 (wird direkt an SEVP gezahlt)",
+          "Lehrbücher ： $150-240"
+        ],
+        "description": [
+          "*Nicht rückerstattbar<br />**Nur bei Beantragung eines Studentenvisums"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Beispiele",
+    "subtitle": [
+      "Kostenbeispiele: 1 Monat (4 Wochen) und 1 Jahr (48 Wochen)"
+    ],
+    "lists": [
+      {
+        "title": "1 Monat (4 Wochen)",
+        "items": [
+          "Erstgebühren : $150",
+          "Studiengebühr : $1,220",
+          "Unterkunft : $1,630（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Total : $3,000</span>"
+        ]
+      },
+      {
+        "title": "1 Jahr (48 Wochen)",
+        "items": [
+          "Erstgebühren : $150",
+          "Studiengebühr : $10,032",
+          "Unterkunft : $13,810（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway）",
+          "<span class='total'>Total : $23,992</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Solltest du Fragen zu den Gebühren haben, kannst du uns gerne kontaktieren."
+  ]
+}

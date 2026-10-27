@@ -1,0 +1,68 @@
+{
+    "pageTitle": "付款方式 | Mentor Language Institute",
+    "pageDescription": "付款方式",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">您可以通过填写本页上的表格并提交，安全地使用信用卡付款。Mentor Language Institute 不会保存您的信用卡信息。此支付过程通过 Stripe 在线支付完成。<br />请填写以下信息</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "日期",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "校园",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "学生姓名",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "学生姓氏/家庭名",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "机构名称（如适用）"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "金额",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*除付款金额外，还需支付 4% 的 CR 手续费。</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "从您的信用卡中扣除的金额"
+        }
+    ]
+    },
+  "btn_label": "继续到结账页面"
+}

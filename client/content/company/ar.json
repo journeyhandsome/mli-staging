@@ -1,0 +1,133 @@
+{
+  "pageTitle": "معلومات الشركة | Mentor Language Institute",
+  "pageDescription": "American College Education Inc. [DBA : Mentor Language Institute (MLI)]",
+  "section1": {
+    "title": "معلومات الشركة",
+    "image": "/images/what-is-mli/company/company-office.jpg"
+  },
+  "section2": {
+    "title": "معلومات الشركة",
+    "entries": [
+      {
+        "key": "اسم الشركة",
+        "list": [
+          "American College Education Inc.",
+          "[DBA : Mentor Language Institute (MLI)]"
+        ]
+      },
+      {
+        "key": "الرئيس التنفيذى",
+        "list": [
+          "SEAN NOZAKI"
+        ]
+      },
+      {
+        "key": "موقعك",
+        "list": [
+          "<b>【 WESTWOOD CAMPUS 】</b>",
+          "10880 Wilshire Blvd., Suite 122",
+          "Los Angeles, CA, 90024",
+          "TEL: ＋1（310）887-0777",
+          "<br />",
+          "<b>【 HOLLYWOOD CAMPUS 】</b>",
+          "7080 Hollywood Blvd., Suite 314",
+          "Los Angeles, CA, 90028",
+          "TEL: ＋1（323）870-7102"
+        ]
+      },
+      {
+        "key": "تاريخ الانشاء",
+        "list": [
+          "2002"
+        ]
+      },
+      {
+        "key": "صندوق رأس المال",
+        "list": [
+          "$1,400,000 (USD)"
+        ]
+      },
+      {
+        "key": "وصف البزنس",
+        "list": [
+          "إدارة معهد منتور للغة",
+          "إيفاد الإنجليزية يعلم",
+          "تطوير المناهج الدراسية",
+          "تعليم اللغة الإنجليزية و تطوير التطبيق"
+        ]
+      },
+      {
+        "key": "العاملين",
+        "list": [
+          "50 عامل (دوام كامل، دوام جزئي)"
+        ]
+      },
+      {
+        "key": "الشهادات والجمعيات",
+        "list": [
+          "ACCET",
+          "（The Accrediting Council for Continuing Education & Training）",
+          "BPPE",
+          "（Bureau for Private Postsecondary Education）",
+          "SEVP",
+          "（Student and Exchange Visitor Program）"
+        ]
+      }
+    ]
+  },
+  "section3": {
+    "title": "تحميل",
+    "entries": [
+      {
+        "image": "/images/what-is-mli/company/2026-agreement.PNG",
+        "text": "2026 Application and Enrollment Agreement",
+        "link": "/documents/2026/2026 MLI Application and Enrollment Agreement 1.6.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/2026-pre-enrollment.PNG",
+        "text": "2026 Pre-Enrollment Agreement Form",
+        "link": "/documents/2026/pre-enrollment application 2026 MLI  6-3-25 Fillable.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/2018-SPFS.jpg",
+        "text": "2024 School Performance Fact Sheet",
+        "link": "/documents/2024 SPFS- 2022.2023_F.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/mli-annual-2024.PNG",
+        "text": "2024 MLI Annual Report",
+        "link": "/documents/2024/2024BPPEAnnualReport.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/2026 MLI Students Catalog.PNG",
+        "text": "2026 Student Catalog",
+        "link": "/documents/2026 MLI Student Catalog revised 2.13.26.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/2023-survival-guide.PNG",
+        "text": "Survival Guide",
+        "link": "/documents/MLI Survival Guide.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/transfer-form-westwood.png",
+        "text": "Transfer Form - Westwood",
+        "link": "/documents/2022/TF form - Westwood - 2022.pdf"
+      },
+      {
+        "image": "/images/what-is-mli/company/transfer-form-hollywood.png",
+        "text": "Transfer Form- Hollywood",
+        "link": "/documents/2022/TF form - Hollywood - 2022.pdf"
+      }
+    ]
+  },
+  "section4": {
+    "title": "خدمات أخرى",
+    "links": [
+      {
+        "icon": "/images/icons/boxed-arrow.svg",
+        "link": "https://www.internationalstudentinsurance.com/schools/mentor-language-institute.php",
+        "text": "تأمين الطالب الدولي"
+      }
+    ]
+  }
+}

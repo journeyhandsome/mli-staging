@@ -1,0 +1,133 @@
+{
+  "pageTitle": "Westwood Campus | Mentor Language Institute",
+  "pageDescription": "Westwood is a vibrant, unique neighborhood located on the west side of Los Angeles. ",
+  "title": "Westwood Campus",
+  "image": "/images/location/westwood/westwood-campus.jpg",
+  "yt_link": "https://www.youtube.com/embed/AAwPjIlzUDI",
+  "subtitle": [
+    "Westwood is a vibrant, unique neighborhood located on the west side of Los Angeles.",
+    "Westwood is famous for being the home of UCLA. The Westwood campus is located on Wilshire Blvd and Westwood Blvd. It is only 1 minute from the main bus line on Wilshire Blvd and Westwood Blvd.",
+    "It is a very fun and popular area for students and also office workers since there are many shops, restaurants and safe places to hang out."
+  ],
+  "landmark": [
+    {
+      "image": "/images/location/westwood/santa-monica.jpg",
+      "title": "20 minutes to Santa Monica by bus"
+    },
+    {
+      "image": "/images/location/westwood/beverly-hills.jpg",
+      "title": "10 minutes to Beverly Hills by bus"
+    },
+    {
+      "image": "/images/location/westwood/los-angeles-skyline.jpg",
+      "title": "60 minutes to Downtown LA by bus"
+    }
+  ],
+  "gallery": {
+    "title": "Photo Gallery of Westwood Campus",
+    "photos": [
+      {
+        "image": "/images/location/westwood/10880-building.jpg",
+        "title": "It is on the first floor of the building.",
+        "subtitle": "You don't need to take an elevator to go to class."
+      },
+      {
+        "image": "/images/location/westwood/front-desk.jpg",
+        "title": "Front Desk"
+      },
+      {
+        "image": "/images/location/westwood/classroom.jpg",
+        "title": "Classrooms"
+      },
+      {
+        "image": "/images/location/westwood/computer-room.jpg",
+        "title": "Computer Room"
+      },
+      {
+        "image": "/images/location/westwood/student-lounge.jpg",
+        "title": "Student Lounge"
+      },
+      {
+        "image": "/images/location/westwood/free-space.jpg",
+        "title": "Free Space"
+      }
+    ]
+  },
+  "location": {
+    "title": "Location",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4289041796537!2d-118.44512238478478!3d34.05851788060419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb7e2b42fadf%3A0xad96227841e11efb!2s10880+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90024!5e0!3m2!1sen!2sus!4v1513884279258"
+  },
+  "video": [
+    {
+      "title": "1. How to get to MLI Westwood Campus by Bus",
+      "youtube": "https://www.youtube.com/embed/V2zydV7aWvA"
+    },
+    {
+      "title": "2. How to get to MLI Westwood Campus by Car",
+      "youtube": "https://www.youtube.com/embed/5FXkkyV3DZg"
+    }
+  ],
+  "environment": {
+    "title": "Environment",
+    "photos": [
+      {
+        "image": "/images/location/westwood/ucla.jpg",
+        "title": "Walking distance from UCLA"
+      },
+      {
+        "image": "/images/location/westwood/hammer-museum.jpg",
+        "title": "The Hammer Museum, the most famous museums in LA, is right next to our campus."
+      },
+      {
+        "image": "/images/location/westwood/westwood-library.jpg",
+        "title": "There is a library behind campus where you can study."
+      },
+      {
+        "image": "/images/location/westwood/chevron-restaurant.jpg",
+        "title": "There are many affordable restaurants."
+      }
+    ]
+  },
+  "accommodation": {
+    "title": "Accomodations",
+    "description": [
+      "We provide homestay or dormitory options for your accommodation."
+    ],
+    "types": [
+      {
+        "desc": [
+          "＜Dormitory＞<br />There are 40 rooms in the student dormitory, and you can get to school by foot or bus."
+        ],
+        "yt_link": "https://www.youtube.com/embed/V_eNdjw6Z1c"
+      },
+      {
+        "desc": [
+          "＜Homestay＞"
+        ],
+        "yt_link2": "https://www.youtube.com/embed/K4DT7WEI7MY",
+        "other_desc": [
+          "Homestay is the best way to learn about American culture and increase your opportunities to speak English.",
+          "<a href=\"/en/stay/\"><i class='bi bi-arrow-right'></i> More details about Accommodations</a>"
+        ]
+      }
+    ]
+  },
+  "courses": {
+    "title": "Courses",
+    "lists": [
+      "ESL Program",
+      "TOEFL®",
+      "IELTS™",
+      "Conversation Program",
+      "TOEIC®"
+    ]
+  },
+  "message": {
+    "title": "Message from Westwood Campus",
+    "image": "/images/location/westwood/westwood-director.jpg",
+    "position": "Message from Campus Director",
+    "description": [
+      "The Westwood campus is located in a great area near UCLA. There are various places to visit such as movies, shopping, and museums. Our TOEFL® course is very popular as many Westwood students pursue University studies. Also, our tuition is surprisingly reasonable. Many people transfer to MLI from other schools!"
+    ]
+  }
+}

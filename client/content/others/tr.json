@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Diğerleri | Mentor Language Institute",
+    "pageDescription": "MLI'ya başvurduğunuz ilgi için teşekkür ederiz. Bu sayfa, öğrenci vizesi dışında veya ESTA Ülkeleri veya Turist Vize Ülkeleri'nden başka vize statüsüne sahip olanlar içindir.",
+    "title": "Diğerleri",
+    "image": "/images/how-to-apply/apply-others/apply-others.jpg",
+    "subtitle": [
+      "MLI'ya başvurduğunuz ilgi için teşekkür ederiz.<br />Bu sayfa, öğrenci vizesi dışında veya ESTA Ülkeleri veya Turist Vize Ülkeleri'nden başka vize statüsüne sahip olanlar içindir.",
+      "Bir öğrenci (F-1) vizesi almadan MLI'ya başvurmayı planlıyorsanız, lütfen bu sayfadan kayıt işlemine devam edin."
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/common/apply-now-tr.png",
+        "link": "/tr/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Uygulama adımları",
+      "description": [
+        "Uygulama adımları Başvuru adımlarınız ülkenize, uyruğunuza, kurslara ve vize işlemlerine vb. Göre farklıdır. Bizim çevrimiçi başvurunuzu gönderdikten sonra personelimiz kesin adımlar konusunda size rehberlik edecektir."
+      ]
+    },
+    "needHelp": {
+      "title": "Yardıma mı ihtiyacınız var? Bize sorun!",
+      "description": [
+        "- MLI'da vize almadan ders alabilir miyim?<br />- Öğrenci vizesi (F-1) dışında başka bir vize ile kayıt olmak mümkün mü?<br />- Öğrenci vizesi olmadan ABD'de ne kadar kalabilirim?<br />- Öğrenci vizesi almak için MLI'da haftada kaç saat ders almalıyım?",
+        "Bu soruların cevapları ABD Büyükelçiliği veya ABD Vatandaşlık ve Göçmenlik Hizmetleri (USCIS) web sitesinde açıklanmıştır.",
+        "Başvurunuzu göndermeden önce açıklama ihtiyaci duyarsanız, lütfen web sitesi üzerinden bizimle iletişime geçmekten çekinmeyin. 8 dilde size tavsiyede bulunabiliriz!"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/common/contact-us-tr.png",
+      "link": "/tr/contact",
+      "title": "Bizimle iletişime geçin",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD KAMPÜSÜ＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD KAMPÜSÜ＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

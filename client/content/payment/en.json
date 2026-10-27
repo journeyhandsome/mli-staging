@@ -1,0 +1,68 @@
+{
+    "pageTitle": "Payment | Mentor Language Institute",
+    "pageDescription": "Payment",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">You can make your payment securely with a credit card by filling out the form on this page and submitting it. Mentor Language Institute does not store your credit card information. This payment process is facilitated through Stripe's online payment.<br />Please fill out the information below</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "Date",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "Campus",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "Student's First Name",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "Student's Last/Family Name",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "Agency Name (if applicable)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "Amount",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*4% of the CR processing fee will be added on top of your payment amount.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "Amount charged to your credit card"
+        }
+    ]
+    },
+  "btn_label": "Continue to Checkout page"
+}

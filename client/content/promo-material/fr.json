@@ -1,0 +1,225 @@
+{
+  "pageTitle": "Télécharger la brochure : Promotion 2022 | Mentor Language Institute",
+  "pageDescription": "N'hésitez pas à nous contacter si vous avez d'autres questions.",
+  "title": "Télécharger la brochure : Promotion 2022",
+    "category": {
+      "content" :[
+        "N'hésitez pas à nous contacter si vous avez d'autres questions.",
+        "<b>&#10003;</b> Langues disponible",
+        "Anglais/ Coréen /Japonais / Espagnol / Portugais / Français / Russe / Chinois / Turc / Arabe / Thai",
+        "<b>Q: Est-ce que je peux m'inscrire à votre école même si mon Anglais n'est pas vraiment bon?</b> <br />Oui, beaucoup de membres du personnel à MLI sont internationaux qui parlent d'autres langues. Nous avons 12 languages disponible et nous avons des étudiants de plus de 30 pays. N'hésitez pas à nous contacter dans votre langue.",
+        "<b>Q: Avez-vous un spécialiste en visa étudiant?</b> <br />Oui, nous avons des spécialistes en visa étudiant. N'hésitez pas à nous poser des questions."
+        ]
+    },
+    "subtitle": "Télécharger la brochure et Questions",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "Votre nom",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "Votre Email",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "Numéro de téléphone",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "Je ne souhaite pas recevoir d'appel"
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "Pays",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "Chile",
+            "label": "Chile"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "Campus Preference",
+        "selection": [
+          {
+            "value": "Westwood",
+            "label": "Westwood"
+          },
+          {
+            "value": "Hollywood",
+            "label": "Hollywood"
+          },
+          {
+            "value": "Both",
+            "label": "Les deux"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "Dans combien de temps environ comptez-vous démarrer votre programme aux États-Unis?",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1 mois"
+          },
+          {
+            "value": "three months",
+            "label": "3 mois"
+          },
+          {
+            "value": "six months",
+            "label": "6 mois"
+          },
+          {
+            "value": "one year or more",
+            "label": "1 an et plus"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "Comment connaissez-vous MLI?",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "Un agent"
+          },
+          {
+            "value": "Friend",
+            "label": "Amis"
+          },
+          {
+            "value": "Internet",
+            "label": "Internet"
+          },
+          {
+            "value": "Other",
+            "label": "Autres"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Question"
+      }
+    ],
+    "btn_label": "Envoyer"
+  }

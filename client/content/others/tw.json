@@ -1,0 +1,47 @@
+{
+    "pageTitle": "其它 | Mentor Language Institute",
+    "pageDescription": "感謝您對加入MLI感到興趣。此頁面是針對已經有除了學生簽證以外簽證，或是持有ESTA及觀光簽證的人。",
+    "title": "其它",
+    "image": "/images/how-to-apply/apply-others/apply-others.jpg",
+    "subtitle": [
+      "感謝您對加入MLI感到興趣。此頁面是針對已經有除了學生簽證以外簽證，或是持有ESTA及觀光簽證的人。",
+      "若是您不使用F-1學生簽證申請MLI，請由這個頁面註冊。"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/common/apply-now-tw.png",
+        "link": "/tw/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "申請步驟",
+      "description": [
+        "您的的申請步驟根據您的國家、國籍、課程、簽證需求而不同。我們的人員將根據您的個別情況指示您正確的步驟"
+      ]
+    },
+    "needHelp": {
+      "title": "需要幫助嗎? 請聯繫我們!",
+      "description": [
+        "- 我沒有取得簽證可以參加MLI的課程嗎?<br />- 使用其它的簽證，非學生簽證(F-1)可以註冊嗎?<br />- 我沒有學生簽證可以待在美國多久?<br />- 我每周需要上幾個小時的課才有資格取得學生簽證?",
+        "在美國大使館的網站或是美國居民移民服務中心(USCIS)都可以得到這些問題的答案。",
+        "若是您在申請之前需要詳細說明，歡迎聯繫我們。我們有八個語言的服務。"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/common/contact-us-tw.png",
+      "link": "/tw/contact",
+      "title": "聯繫我們",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD 院區＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "電話:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD 院區＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "電話:310 870 5643"
+        }
+      ]
+    }
+  }

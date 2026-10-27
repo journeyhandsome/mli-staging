@@ -1,0 +1,225 @@
+{
+  "pageTitle": "ดาวน์โหลดโบรชัวร์: โปรโมชั่น 2022 | Mentor Language Institute",
+  "pageDescription": "โปรดติดต่อเราหากคุณมีคำถามเพิ่มเติม",
+  "title": "ดาวน์โหลดโบรชัวร์: โปรโมชั่น 2022",
+    "category": {
+      "content" :[
+        "โปรดติดต่อเราหากคุณมีคำถามเพิ่มเติม",
+        "<b>&#10003;</b> เลือกภาษา",
+        "อังกฤษ / เกาหลี / ญี่ปุ่น / สเปน / โปรตุเกส / ฝรั่งเศส / รัสเซีย / จีน / ตุรกี / อารบิค / ไทย",
+        "<b>ถาม : ฉันสามารถสมัครเรียนกับคุณได้ไหม แม้ภาษาอังกฤษของฉันจะไม่ค่อยดี?</b> <br />ได้ค่ะ MLI มีเจ้าหน้าที่ชาวต่างชาติจำนวนมากที่พูดภาษาอื่นๆ ซึ่งตอนนี้เรามีถึง 12 ภาษาและมีนักเรียนจากกว่า 30 ประเทศ โปรดติดต่อเราในภาษาของคุณ",
+        "<b>ถาม : คุณมีผู้เชี่ยวชาญเกี่ยวกับวีซ่านักเรียนหรือไม่?</b> <br />มีค่ะ เรามีผู้เชี่ยวชาญด้านวีซ่านักเรียน คุณสามารถสอบถามเพิ่มเติมได้ตลอดเวลา"
+        ]
+    },
+    "subtitle": "ดาวน์โหลดแผ่นพับ & คำถาม",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "ชื่อ ",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "Email",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "เบอร์โทรศัพท์ ",
+        "highlight": true,
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "ฉันไม่ต้องการรับสายจาก MLI"
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "ประเทศ",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "Chile",
+            "label": "Chile"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "สาขา",
+        "selection": [
+          {
+            "value": "Westwood",
+            "label": "Westwood"
+          },
+          {
+            "value": "Hollywood",
+            "label": "Hollywood"
+          },
+          {
+            "value": "Both",
+            "label": "ทั้งสองสาขา"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "คุณวางแผนที่จะเริ่มต้นโปรแกรมในสหรัฐอเมริกาโดยประมาณนานเท่าใด",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1 เดือน"
+          },
+          {
+            "value": "three months",
+            "label": "3 เดือน"
+          },
+          {
+            "value": "six months",
+            "label": "6 เดือน"
+          },
+          {
+            "value": "one year or more",
+            "label": "1 ปีขึ้นไป"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "คุุณรู้จัก MLI ได้อย่างไร?",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "ตัวแทนบริษัท"
+          },
+          {
+            "value": "Friend",
+            "label": "เพื่อน"
+          },
+          {
+            "value": "Internet",
+            "label": "อินเทอร์เน็ต"
+          },
+          {
+            "value": "Other",
+            "label": "อื่นๆ"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "คำถามเพิ่มเติม"
+      }
+    ],
+    "btn_label": "ส่ง"
+  }

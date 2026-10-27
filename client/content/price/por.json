@@ -1,0 +1,229 @@
+{
+  "pageTitle": "Preços | Mentor Language Institute",
+  "pageDescription": "Se você já tem onde se hospedar então você não precisa pagar a ②taxa de acomodação.",
+  "title": "Preços",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/por/price-auto\">Calculadora de preços</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Mensalidade + ②Taxa de acomodação + ③Outras taxas",
+    "subtitle": [
+      "Se você já tem onde se hospedar então você não precisa pagar a ②taxa de acomodação.<br> *Por favor, use  <a href=\"/por/price-auto/\">a calculadora de preço</a> para obter uma cotação."
+    ],
+    "lists": [
+      {
+        "title": "①Mensalidade",
+        "subtitle": [
+          "O preço vai mudar dependendo do seu curso e da duração da sua estadia.<br /> Quanto mais você estudar na MLI, maior será o desconto."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "link": [
+          "<b>P&R</b>",
+          "<b>P1: Posso pagar as taxas com cartão de crédito? </b><br /><b>R1:</b> Sim, você pode pagar com cartão de crédito. No entanto, será acrescentada uma taxa de serviço de 4%.",
+          "<b>P2: Quais métodos de pagamento posso usar para pagar a MLI?</b> <br /><b>R2:</b> Aceitamos os seguintes métodos de pagamento: <br> • Transferência bancária <br> • Transferência internacional <br> • Dinheiro <br> • Cheque pessoal <br> • Cartão de crédito <br> • Cartão de débito <br> • Zelle",
+          "Se você deseja evitar a taxa de serviço de 4% para pagamentos com cartão de crédito/débito, pode escolher uma destas alternativas: <br><b>Transferência bancária, transferência internacional (taxa bancária de US$ 35), pagamento em dinheiro, cheque pessoal ou Zelle.</b>",
+          "<b>P3: Posso pagar a mensalidade depois de iniciar o programa? </b><br /><b>R3:</b> Não. O pagamento total deve ser feito antes ou no primeiro dia do programa."
+        ],
+        "category": [
+          {   
+            "title": "Opção de serviço",     
+            "table": {
+              "tableMaxCol": 4,
+              "title_optional": "Mudança de status (se você tiver o visto B1/B2 e estiver atualmente nos EUA) ou ou reintegração de Status (caso o seu visto seja F1 ou J1)",
+              "tbody": [
+                [
+                  "<b>Descrições de taxas</b>",
+                  "<b>Tipo de Aplicantes</b>",
+                  "<b>Taxas</b>",
+                  "<b>Número de aplicantes</b>"
+                ],
+                [
+                  "Taxa de serviço de US$ 1.885, incluindo taxa de preenchimento (US$ 370) e taxa de correspondência <br> *Após a aprovação, US$ 600 serão aplicados como crédito de mensalidade para o aluno (valor não monetário).",
+                  "visto de estudante F1",
+                  "1,885$",
+                  "1"
+                ],
+                [
+                  "Taxa de serviço de $ 365 para cada dependente",
+                  "Visto de dependente F2",
+                  "365$",
+                  ""
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "②Taxa de Acomodação",
+        "subtitle": [
+          "Nós fornecemos opções de homestay e dormitórios para estudantes. Homestay é recomendado para pessoas que gostariam de experimentar a cultura americana. Dormitórios são recomendados para pessoas que gostariam de fazer muitos amigos."
+        ],
+        "category": [
+          {
+            "title": "Preços de homestay",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> Se menor de 18 anos, o aluguel será aproximadamente 10% a mais do que o preço para uma pessoa com mais de 18 anos.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Preços de dormitórios",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Se menor de 18 anos, o aluguel será aproximadamente 10% a mais do que o preço para uma pessoa com mais de 18 anos.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$570",
+                  "$430",
+                  "$315"
+                ],
+                [
+                  "2 weeks",
+                  "$1,140",
+                  "$860",
+                  "$630"
+                ],
+                [
+                  "3 weeks",
+                  "$1,710",
+                  "$1,290",
+                  "$945"
+                ],
+                [
+                  "4 weeks",
+                  "$2,280",
+                  "$1,720",
+                  "$1,260"
+                ],
+                [
+                  "8 weeks",
+                  "$4,320",
+                  "$3,080",
+                  "$2,320"
+                ],
+                [
+                  "12 weeks",
+                  "$6,480",
+                  "$4,620",
+                  "$3,480"
+                ]
+              ]
+            },
+            "description": [
+              "*Placement fee é um pagamento único. Não é reembolsável.<br />**Security deposit será reembolsado depois que os estudantes deixar a acomodação.<br />***Se você solicitar um quarto compartilhado no homestay,  <span class=\"rmarker\">você deve se inscrever com outra pessoa.</span>",
+              "※A sua acomodação será fornecida pela U.S. Support Service Inc. ou outros agentes.",
+              "<a href=\"/por/stay/\"><i class='bi bi-arrow-right'></i>  Mais informações sobre acomodações</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Taxas iniciais",
+        "subtitle": [
+          "Além das taxas acima, existem outras taxas iniciais."
+        ],
+        "lists": [
+          "Taxa inicial de processamento: $150",
+          "I-20 Taxa de correspondência **; $120",
+          "Taxa SEVIS **: $ 350 (pago diretamente para SEVP)",
+          "Material Didático: $150-240"
+        ],
+        "description": [
+          "*Não reembolsável<br />**Se o visto de estudante for aplicado"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Exemplos",
+    "subtitle": [
+      "Aqui estão exemplos de pagamentos: 4 semanas e 48 semanas"
+    ],
+    "lists": [
+      {
+        "title": "1 mês (4 semanas)",
+        "items": [
+          "Taxa Inicial: $150",
+          "Matrícula: $1,220",
+          "Habitação: $1,630（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span style=\"color: #ff0000; font-weight: bold; \">Total : $3,000</span>"
+        ]
+      },
+      {
+        "title": "1 ano (48 semanas)",
+        "items": [
+          "Taxa inicial: $150",
+          "Tuition : $10,032",
+          "Habitação: $13,810（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span style=\"color: #ff0000; font-weight: bold; \">Total : $23,992</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Você pode calcular o preço de seus estudos de inglês respondendo as perguntas abaixo."
+  ]
+}

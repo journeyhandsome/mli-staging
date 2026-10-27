@@ -1,0 +1,108 @@
+{
+  "pageTitle": "MLIが選ばれる5つの理由 | Mentor Language Institute",
+  "pageDescription": "当校は設立以来、17,000人を超える卒業生の英語力向上をサポートしてきました。ロサンゼルスには数多く語学学校がある中で、なぜ当校が選ばれるのか？ここでは実際入学した学生にアンケートを取りました。",
+  "section1": {
+    "title": "MLIが選ばれる5つの理由",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "Mentor Language Instituteの特長、5つの魅力",
+    "description": [
+      "当校は設立以来、17,000人を超える卒業生の英語力向上をサポートしてきました。ロサンゼルスには数多く語学学校がある中で、なぜ当校が選ばれるのか？ここでは実際入学した学生にアンケートを取りました。",
+      "そのランキングとともに、当校の特徴について説明していきます。"
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "調査期間：2016年1月～6月まで、有効回答数342件"
+  },
+  "section3": [
+    {
+      "title": "1位：授業料金が安いから",
+      "subtitle": "お得な価格！週 $209 から。午後クラスは午前クラスの価格より40％割引です！",
+      "description": [
+        "MLIを選んだ理由の1位は<span class=\"ymarker\">授業料金・費用の安さでした。</span>品質の高さはもちろんですが、価格で選んでいる生徒が多いようです。",
+        "なお、料金は長期間申し込めば申し込むほど割引が適応されます。1ヵ月の短期留学は1,220ドル。すでにお値打ち価格ですが、1年間（48週）申し込むと10,032ドルに。<b>1週間あたりにすると授業料は209ドルとなります。</b>ぜひ他校とも比較してみてください。"
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "料金についての詳細はこちら",
+          "link": "/jp/price"
+        }
+      ]
+    },
+    {
+      "title": "2位：ロケーションが良いから",
+      "subtitle": "ロサンゼルスの人気エリア、ウェストウッド、ハリウッド！",
+      "description": [
+        "MLIの校舎はロサンゼルスの人気エリア、ウェストウッドとハリウッドにあります。",
+        "ロサンゼルスは立地によって車が不可欠。その点、当校はサンタモニカやダウンタウンなどの主要都市まで<b>バスや電車の移動が便利なロケーションとなっています。</b>"
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "ウエストウッド校"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "ハリウッド校"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "ウェストウッド校の詳細",
+          "link": "/jp/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "ハリウッド校の詳細",
+          "link": "/jp/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "3位：米国大学への進学に強いから",
+      "subtitle": "UCLAやサンタモニカカレッジへの進学実績多数",
+      "description": [
+        "MLIではTOEFL®、IELTS™やなどアメリカの大学に進学に必要なスコアアップのための講座が人気です。UCLAやUSCなどの名門大学をはじめサンタモニカカレッジなど、<b>多数のカレッジへの進学実績があります。</b>"
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "大学進学についての詳細",
+          "link": "/jp/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "4位：クラスの時間帯が魅力的",
+      "subtitle": "午前・午後・夜のクラスから選べる",
+      "description": [
+        "MLIは３つの時間帯を海外からの留学生向けに用意しています。朝、昼、夜から<b>自分の生活スタイルに合う時間帯を選択</b>して頂けます。"
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※上記はウェストウッド校の時間割となります。ハリウッド校の時間割詳細がお知りになりたい方は別途お問合せください。"
+    },
+    {
+      "title": "5位：学生寮が便利で、良さそう",
+      "subtitle": "寮でも他の国の人と仲良くなれる機会を",
+      "description": [
+        "MLIはホームステイだけでなく、ロサンゼルスエリアに40部屋以上の部屋を準備。いずれも<b>学校から徒歩、またはバスで通学するのに便利な立地</b>にあります。短期留学の方はもちろん、長く留学される方も、留学生活の第一歩として寮を活用される方が多数いらっしゃいます。"
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "滞在先について",
+          "link": "/jp/stay"
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "text": "より詳細を知りたい方は今すぐ資料のダウンロードを"
+  }
+}

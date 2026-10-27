@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "請使用以下鏈接下載該手冊",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "請使用以下鏈接下載該手冊："
+    ],
+    "brochures": [
+      {
+        "title": "MLI手冊課程",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "住房手冊",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 年价格和注册套餐",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "MLI 活动手册",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "如果您有任何問題，例如學生簽證問題，住房情況或其他問題，請隨時與我們聯繫。",
+      "<b>【 西木校區 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />電話：310-887-0777 <br />電子郵件：info@mliesl.edu <br />辦公時間：週一至週四：8：30 - 20:30週五：8：30 - 18:00",
+      "<b>【【 好萊塢校區 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />電話：323-870-7102 <br />電子郵件：hollywood@mliesl.edu<br />辦公時間：週一至週五：8：30 - 17:00",
+      "我們期待在洛杉磯歡迎你到MLI！"
+    ]
+  }

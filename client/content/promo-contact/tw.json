@@ -1,0 +1,208 @@
+{
+    "pageTitle": "2022年促銷聯繫方式 | Mentor Language Institute",
+    "pageDescription": "您的名字",
+    "title": "2022年促銷聯繫方式",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "您的名字",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "您的信箱",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "國籍",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "電話號碼",
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "我不希望接到MLI的電話。"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "學院偏好",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "Hollywood"
+          },
+          {
+            "value": "Westwood",
+            "label": "Westwood"
+          },
+          {
+            "value": "Both",
+            "label": "皆可"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "您打算多久後在美國學習您的課程？",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1個月"
+          },
+          {
+            "value": "three months",
+            "label": "3個月"
+          },
+          {
+            "value": "six months",
+            "label": "6個月"
+          },
+          {
+            "value": "one year or more",
+            "label": "1年或更長時間"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "您從何得知MLI的?",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "仲介"
+          },
+          {
+            "value": "Friend",
+            "label": "朋友"
+          },
+          {
+            "value": "Internet",
+            "label": "網路"
+          },
+          {
+            "value": "Other",
+            "label": "其它"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "留言"
+      }
+    ],
+    "btn_label": "送出"
+  }

@@ -1,0 +1,53 @@
+{
+    "pageTitle": "MLI 対面授業参加条件（ワクチン摂取者、非接種者） | Mentor Language Institute",
+    "pageDescription": "MLIは、現在コロナウィルス感染症対策及びワクチン摂取が進んだことから対面授業に戻すためにウエストウッドキャンパスから対面授業の再開を行なっております。",
+    "title": "MLI 対面授業参加条件（ワクチン摂取者、非接種者）",
+    "subtitle": [
+      "MLIは、現在コロナウィルス感染症対策及びワクチン摂取が進んだことから対面授業に戻すためにウエストウッドキャンパスから対面授業の再開を行なっております。 <b>7/06/21</b> からはウエストウッドキャンパスにて全てのESLプログラムが対面に戻ると共に他のプログラムも対面授業を再開いたします。",
+      "ハリウッドキャンパスでは現在カンバセーションプログラムのみ対面授業を行なっており、他のプログラムは引き続きオンラインでの授業を行う予定です。（9月末まで予定）"
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "ワクチン摂取済の学生",
+        "unvaccinated": "ワクチン摂取をしていない生徒"
+      },
+      "table_header": [
+        "海外から到着の生徒",
+        "アメリカ内から到着の生徒",
+        "　アメリカ国内・国外から　到着の生徒"
+      ],
+      "table_content": [
+        [
+          "LA到着後すぐに対面授業へ参加が可能ですか？",
+          "<span class='hutoaka'>Yes</span>",
+          "<span class='hutoaka'>Yes</span>",
+          "<span class='font-weight-bold'>No</span>"
+        ],
+        [
+          "アメリカ到着3-5日後PCR検査を受検後、陰性の場合、対面授業に参加が可能ですか？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>No</span>"
+        ],
+        [
+          "LA到着後、対面授業参加前に10日間の自己隔離が必要ですが？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Yes</span>"
+        ],
+        [
+          "毎週月曜日の授業参加前までにPCR検査を受検し、陰性結果証明書を学校に提出しなればならない。",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Yes</span>"
+        ],
+        [
+          "LA到着後、PCR検査を受検し陰性証明があれば対面授業参加前の自己隔離期間を7日間に短縮可能ですか？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Yes</span>"
+        ]
+      ]
+    },
+    "note": "*ワクチン摂取生徒は証明書の提出が必要になります。<br />**全ての生徒(ワクチン摂取に関係なく)は学校内でのマスク着用が義務付けられています。"
+  }

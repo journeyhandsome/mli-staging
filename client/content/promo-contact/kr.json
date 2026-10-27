@@ -1,0 +1,208 @@
+{
+  "pageTitle": "2022 프로모션 문의 | Mentor Language Institute",
+  "pageDescription": "성함(이름)",
+  "title": "2022 프로모션 문의",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "성함(이름)",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "메일주소",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "국적",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "전화번호",
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "저는 MLI로부터 연락을 받기를 원하지 않습니다"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "희망하는 캠퍼스",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "할리우드"
+          },
+          {
+            "value": "Westwood",
+            "label": "웨스트우드"
+          },
+          {
+            "value": "Both",
+            "label": "모두"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "대략 언제부터 미국에서 어학연수를 시작할 계획이신가요? ",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1 개월 내"
+          },
+          {
+            "value": "three months",
+            "label": "3 개월 내"
+          },
+          {
+            "value": "six months",
+            "label": "6 개월 내"
+          },
+          {
+            "value": "one year or more",
+            "label": "1년 또는 그 이상"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "MLI를 알게된 계기 ",
+        "selection": [
+          {
+            "value": "An agent",
+            "label": "유학원"
+          },
+          {
+            "value": "Friend",
+            "label": "친구"
+          },
+          {
+            "value": "Internet",
+            "label": "인터넷"
+          },
+          {
+            "value": "Other",
+            "label": "그 외"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": " 메시지"
+      }
+    ],
+    "btn_label": "전송"
+  }

@@ -1,0 +1,139 @@
+{
+  "pageTitle": "ชั้นเรียนและผู้สอนของ MLI | Mentor Language Institute",
+  "pageDescription": "ในหลักสูตรภาษาอังกฤษทั่วไป ผู้เรียนจะได้เรียนรู้ทักษะจากชีวิตประจำวัน เช่น ข้อความจาก Twitter, การพูดของ TED และภาพยนตร์",
+  "title": "ชั้นเรียนและผู้สอนของ MLI",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "ชั้นเรียนที่เน้นทักษะการปฏิบัติ",
+      "description": [
+        "ในหลักสูตรภาษาอังกฤษทั่วไป ผู้เรียนจะได้เรียนรู้ทักษะจากชีวิตประจำวัน เช่น ข้อความจาก Twitter, การพูดของ TED และภาพยนตร์ <br /> การใช้เครื่องมือต่างๆ ช่วยส่งเสริมทักษะด้านต่างๆ เช่นไวยากรณ์ การเขียน การอ่าน คำศัพท์ การฟัง และการพูด",
+        "นอกจากนี้หลักสูตรเตรียมสอบ TOEFL®และหลักสูตรเตรียมสอบอื่น ๆ ยังสามารถช่วยผู้เรียนแก้ปัญหาต่างๆได้อีกด้วย"
+      ]
+    },
+    {
+      "title": "ผู้สอน",
+      "description": [
+        "นักเรียนกว่า 1,200 คนจบการศึกษาจาก MLI ในแต่ละปี ซึ่งพูดถึงคุณภาพการศึกษาของเรา เรามุ่งมั่นอย่างต่อเนื่องเพื่อพัฒนาทักษะของผู้สอน ผ่านการสังเกตการประเมินผลและการฝึกอบรมการพัฒนาวิชาชีพ"
+      ],
+      "checklist": [
+        {
+          "title": "ข้อกำหนดในการรับสมัคร (สำหรับผู้สอน)",
+          "lists": [
+            "บัณฑิตวิทยาลัย 4 ปี",
+            "มีประสบการณ์อย่างน้อย 3 ปีในฐานะผู้สอน",
+            "คุณสมบัติการสอน เช่น TESOL",
+            "การทดสอบ เช่น TOEFL®, GMAT®",
+            "มีทักษะในการสื่อสารที่ดี",
+            "มีความมุ่งมั่นในการสอน"
+          ]
+        },
+        {
+          "title": "วิธีการเลือก",
+          "lists": [
+            "ประวัติและประกาศนียบัตร",
+            "ผลการทดสอบทักษะทางไวยากรณ์",
+            "การสัมภาษณ์",
+            "การทดลองสอน"
+          ],
+          "note": "อัตราการจ้างงานต่ำกว่า 20%"
+        }
+      ]
+    },
+    {
+      "title": "การฝึกอบรมและประเมินผล",
+      "description": [
+        "MLI จะประเมินคุณผู้สอนทุก 12 สัปดาห์ จาก 3 ข้อต่อไปนี้"
+      ],
+      "listType": "decimal",
+      "lists": [
+        "ผู้เรียนประเมินผู้สอน โดยผลการประเมินต้องไม่ต่ำกว่า 85%",
+        "การสังเกตและข้อเสนอแนะการสอนจากทีมนักวิชาการ",
+        "การฝึกอบรม การพัฒนาวิชาชีพและฝึกอบรมเพื่อปรับปรุงการสอน"
+      ],
+      "note": "ผู้บริหารและผู้สอนมุ่งมั่นพัฒนาคุณภาพการศึกษาในทุกๆวัน"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

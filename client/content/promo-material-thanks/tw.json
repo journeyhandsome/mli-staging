@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Promo - 感謝您下載手冊 | Mentor Language Institute",
+    "pageDescription": "感謝您下載我們的學校介紹手冊及資訊。請由下列網址下載。",
+    "title": "Promo - 感謝您下載手冊",
+    "subtitle": [
+      "感謝您下載我們的學校介紹手冊及資訊。請由下列網址下載。"
+    ],
+    "brochures": [
+      {
+        "title": "2022迎新促銷",
+        "image": "/images/material/1643410492-WELCOME_Promotion_CHINESE_TRAD_JAN21.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> 下載",
+        "link": "/assets/images/material/1643410492-WELCOME_Promotion_CHINESE_TRAD_JAN21.jpg"
+      },
+      {
+        "title": "MLI手冊及課程表",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> 下載",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": " 住房手冊",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> 下載",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 年價格和註冊套餐",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> 下載",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "MLI 活動手冊",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> 下載",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>招生人員將通過電子郵件向您發送有關您的詢問的信息。</span><br />如果您對學生簽證、住房供應或其他任何問題有任何疑問，請隨時與我們聯繫。",
+      "美國留學流程非常複雜，我們可以通過電話指導您辦理。",
+      "如果您沒有勾選“請勿通過電話聯繫我”，我們將在一兩天內給您打電話。",
+      "<b>【韋斯特伍德校區】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />TEL: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />辦公時間：週一至週四 8:30 – 20:30，週五 8:30 – 18:00",
+      "<b>【好萊塢校園】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />辦公時間：週一至週五 8:30 – 17:00"
+    ]
+  }

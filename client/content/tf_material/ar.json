@@ -1,0 +1,55 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "يرجى تحميل الكتيب باستخدام الروابط أدناه",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "يرجى تحميل الكتيب باستخدام الروابط أدناه:"
+    ],
+    "brochures": [
+      {
+        "title": "Tuition Chart Westwood",
+        "image": "/images/tf_material/Fee Chart WW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - WW Tuition.pdf"
+      },
+      {
+        "title": "Tuition Chart Hollywood",
+        "image": "/images/tf_material/Fee Chart HW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - HW Tuition.pdf"
+      },
+      {
+        "title": "Program Schedule at Westwood Campus",
+        "image": "/images/tf_material/Westwood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI_WW_Class_Schedule.pdf"
+      },
+      {
+        "title": "Program Schedule at Hollywood Campus",
+        "image": "/images/tf_material/Hollywood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI-HW_Class_Schedulepdf.pdf"
+      },
+      {
+        "title": " كتيب المعهد",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI School Brochure[EN]_OCT17.pdf"
+      },
+      {
+        "title": " كتيب الإسكان",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/_Digital_ 2025 USSS Brochure- Only Housing updated 10.20.2024.pdf"
+      }
+    ],
+    "other_info": [
+      "إذا كان لديك أي أسئلة مثل قضية تأشيرة طالب، وتوافر السكن أو غيرها من القضايا، لا تتردد في الاتصال بنا في أي وقت.",
+      "ويستوود الحرم الجامعي: هاتف: 310-887-0777 البريد الإلكتروني: info@mliesl.edu",
+      "هوليوود الحرم الجامعي: هاتف: 323-870-7102 البريد الإلكتروني: hollywood@mliesl.edu",
+      "ساعة المكتب:",
+      "معهد ويستوود : من الاثنين إلى الخميس: 8:30 - 20:30 الجمعة: 8:30 - 18:00",
+      "معهد هوليوود : من الاثنين إلى الجمعة: 8:30 حتي 17:00",
+      "نحن نتطلع إلى الترحيب بكم في معهدنا في لوس انجليس!"
+    ]
+  }

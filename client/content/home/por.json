@@ -1,0 +1,108 @@
+{
+  "pageTitle": "Intercâmbio com melhor custo-benefício em Los Angeles | Mentor Language Institute",
+  "pageDescription": "Intercâmbio com melhor custo-benefício em Los Angeles | Mentor Language Institute",
+  "peopleChooseMli": {
+    "title": "3 razões pelas quais as pessoas escolhem MLI",
+    "subtitle": "(Mentor Language Institute)",
+    "lists": [
+      {
+        "image": "/images/home/por/people-choose-mli-1.jpg",
+        "title": "Hollywood & Westwood",
+        "description": "Estamos localizados em excelentes áreas populares de Los Angeles. Os estudantes não precisam apenas estudar inglês, mas também podem curtir Los Angeles.",
+        "read_more" : ["<a href=\"/por/feature/\">» CONSULTE MAIS INFORMAÇÃO</a>"]
+      },
+      {
+        "image": "/images/home/por/people-choose-mli-2.jpg",
+        "title": "Aulas de manhã, de tarde e de noite",
+        "description": "Nós oferecemos aulas de manhã, tarde ou noite para pessoas que precisam de horários flexíveis.",
+        "read_more" : ["<a href=\"/por/feature/\">» CONSULTE MAIS INFORMAÇÃO</a>"]
+      },
+      {
+        "image": "/images/home/por/people-choose-mli-3.jpg",
+        "title": "$201/1 semana",
+        "description": "Boa localização e preço razoável! Compare nossos preços com outras escolas. Se você quiser informações de matrícula, clique em Contate-nos abaixo.",
+        "read_more" : ["<a href=\"/por/feature/\">» CONSULTE MAIS INFORMAÇÃO</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/por/mli-highly-rated.jpg",
+  "courses": {
+    "title": "Cursos",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Programa ESL",
+        "subtitle": [
+          "Este programa é composto em ouvir/falar, ler/vocabulário e aulas de gramática/escrita. O programa ESL é ideal para estudantes que desejam melhorar suas habilidades gerais de inglês."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "Programa TOEFL®",
+        "subtitle": [
+          "O programa TOEFL® da MLI é um exame intensivo das habilidades e estratégias necessárias para alcançar uma pontuação bem-sucedida nas quatro seções do Teste baseado na Internet (iBT)."
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Programa ESL de Férias",
+        "subtitle": [
+          "Este programa é composto por aulas de escuta/conversação, leitura/vocabulário e gramática/escrita. <br>Oferecemos o programa Vacation ESL para estudantes que desejam estudar inglês por um curto período."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "IELTS™ Program",
+        "subtitle": [
+          "IELTS ™ é um teste, desenvolvido no Reino Unido e Austrália, para avaliar a proficiência do inglês dos alunos. Recentemente, muitas universidades americanas exigem uma pontuação no TOEFL® ou uma pontuação no IELTS ™.",
+          "O programa consiste em quatro partes: ouvir, falar, ler e escrever. Nesta classe, você aprenderá as habilidades / estratégias para obter altos escores em cada seção.",
+          "IELTS ™ é dito ser relativamente mais fácil que o TOEFL®. É um programa perfeito para estudantes que acham o TOEFL® difícil."
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "Programa de Conversação",
+        "subtitle": [
+          "Nosso programa concentra-se na aprimoração das habilidades de conversação em inglês, por meio de atividades envolventes e aprendizado interativo! Nas nossas aulas de conversação, os alunos exploram uma ampla variedade de vocabulário, expressões e idiomas que trazem vida às suas conversas. Aperfeiçoe sua pronúncia em nossa classe CMAR. Através de discussões estimulantes, simulações de situações e atividades em grupo, você ganhará confiança para se expressar e participar de conversas significativas. Nossos instrutores experientes proporcionam um ambiente de aprendizado de suporte, guiando você em uma jornada de descoberta da língua com maestria."
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "Negócios ＋ TOEIC®",
+        "subtitle": [
+          "O teste TOEIC® é um indicador da proficiência em inglês em negócios e é usado por várias empresas e organizações em todo o mundo. Além do curso de negócios padrão, o curso TOEIC® prepara os alunos para o sucesso no TOEIC® - Exame de leitura e audição, introduzindo vocabulário essencial e explorando estratégias para alcançar uma alta pontuação no teste.",
+          "Este curso será útil para melhorar suas habilidades de inglês, como vocabulário, leitura, escuta e gramática. Ao aprender as estratégias para encontrar respostas corretas, você poderá obter uma pontuação elevada."
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/por/free_trial_banner_por.png",
+  "link": "/por/freetrial",
+  "partnerSchools": {
+    "title": "MLI's Partner Universities / Colleges",
+    "subtitle": "\"MLI students can enroll at partner universities or colleges after completing certain MLI programs.\""
+  },
+  "locationCampus": {
+    "title": "Localização / Campus",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "Campus de Westwood",
+        "subtitle": "Westwood é um bairro vibrante e único localizado no lado oeste de Los Angeles. Westwood é famoso por ser a casa da UCLA. É uma área muito divertida e popular para os alunos, uma vez que há muitos estudantes universitários e muitas lojas, restaurantes e lugares seguros para sair.",
+        "read_more" : ["<a href=\"/por/westwood/\">» CONSULTE MAIS INFORMAÇÃO</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "Campus de Hollywood",
+        "subtitle": "O campus de Hollywood está ao lado do famoso Teatro chinês. Existem salas de cinema famosas, bons restaurantes, lojas e boates na área de Hollywood e esta área é sempre um lugar muito animado.",
+        "read_more" : ["<a href=\"/por/hollywood/\">» CONSULTE MAIS INFORMAÇÃO</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Depoimentos de alunos",
+    "seemoreBtn": "Ver mais",
+    "TestimonialLink": "/por/testimonials",
+    "readmoreBtn" : "Leia mais"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "Veuillez télécharger la brochure en utilisant les liens ci-dessous",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "Veuillez télécharger la brochure en utilisant les liens ci-dessous"
+    ],
+    "brochures": [
+      {
+        "title": "Brochure de l'école",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "Brochure des logements",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Prix et forfait d'inscription",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "Brochure des activités de MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "Si vous avez des questions concernant le visa étudiant,<br />la disponibilité des logements, ou autres problèmes, <br />n'hésitez pas à nous contacter à tout moment.",
+      "<b>【 Westwood Campus 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />TEL: ＋1（310）887-0777 <br />E-mail: info@mliesl.edu <br />Horaires de bureau: Lundi au Jeudi 8h30-20:30, Vendredi 8:30-18:00",
+      "<b>【 Hollywood Campus 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102 <br />E-mail: hollywood@mliesl.edu <br />Horaires de bureau: Lundi au vendredi: 8:30-17:00",
+      "Nous sommes impatients de vous accueillir à MLI <br />Los Angeles"
+    ]
+  }

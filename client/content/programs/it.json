@@ -1,0 +1,99 @@
+{
+  "pageTitle": "Programma | Mentor Language Institute",
+  "pageDescription": "Abbiamo 8 programmi presso MLI: Programma ESL (inlgese generale), Vacation ESL (per turisti), TOEFL® Preparation Program, Programma di preparazione TOEFL®, Programma di preparazione IELTS™, Programma di conversazione intermedia, Programma di conversazione avanzata, Programma di Business piu' TOEIC®",
+  "title": "Programma",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "Abbiamo 7 programmi presso MLI",
+    "lists": [
+      "Programma ESL (inlgese generale)",
+      "Vacation ESL (per turisti)",
+      "Programma di TOEFL® Test Preparation / TOEFL® and University Preparation",
+      "Programma IELTS™ ",
+      "Programma di conversazione intermedia",
+      "Programma di conversazione avanzata",
+      "Programma di Business piu' TOEIC® "
+    ]
+  },
+  "subtitle": [
+    "Tutti i corsi sono tenuti in inglese. Molti studenti iniziano con il programma ESL generale, quindi, dopo essersi abituati all'inglese, passano a corsi piu' specifici, come TOEFL®.",
+    "* Questo elettivo è disponibile per tutti gli studenti.<br />** Alcune classi richiedono un punteggio minimo di test di ingresso per partecipare."
+  ],
+  "services_esl": [
+    {
+      "title": "Programma ESL (inglese generale)",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "Questo programma si concentra su come comunicare in inglese. È utile per rafforzare le tue 4 abilità (scrivere, ascoltare, parlare e leggere).",
+      "description": [
+        "Questo è il programma più popolare di MLI. È diviso in 8 livelli. Puoi migliorare le tue abilità frequentando la classe che corrisponde al tuo livello."
+      ],
+      "youtube": "https://www.youtube.com/embed/Aq_MfkF3x0g"
+    }
+  ],
+  "services_toefl": [
+    {
+      "title": "Programma di TOEFL® Test Preparation / TOEFL® and University Preparation",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/it/il-nuovo-toefl-ibt-2026tutti-i-cambiamenti-che-devi-conoscere/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "TOEFL® iBT è un test per valutare la padronanza dell'inglese delle persone non madrelingua. Un punteggio TOEFL® è richiesto da molte università negli Stati Uniti, ma anche da agenzie governative, imprese private, organizzazioni e istituti che erogano borse di studio.",
+      "description": [
+        "Il programma MLI di preparazione al TOEFL® si concentra sulle strategie di test e sul miglioramento di tutte e 4 le abilità (scrittura, ascolto, conversazione e lettura) per ottenere un punteggio elevato nel test iBT."
+      ],
+      "youtube": "https://www.youtube.com/embed/KYPYbU-D3M0"
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "Programma IELTS™",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "IELTS ™ è un test sviluppatp nel Regno Unito e in Australia, per valutare la conoscenza della lingua inglese degli studenti. Recentemente, molte università americane richiedono un punteggio TOEFL® o un punteggio IELTS ™.",
+      "description": [
+        "Il programma e' composto di quattro parti: ascolto, conversazione, lettura e scrittura. In questa classe, imparerai le abilità / strategie per raggiungere punteggi più alti in ogni sezione.",
+        "IELTS  e' considerato relativamente più facile del TOEFL®. È un programma perfetto per gli studenti che incontrano difficolta' nel superare il TOEFL®."
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "Programma di conversazione",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "Questo programma si concentra sulla conversazione quotidiana e mira ad aiutare gli studenti a parlare correntemente l'inglese.",
+      "description": [
+        "Il nostro programma si concentra sul potenziamento delle tue competenze conversazionali in inglese attraverso attività coinvolgenti e apprendimento interattivo! Nelle nostre lezioni di conversazione, gli studenti esploreranno un'ampia gamma di vocabolario, frasi ed espressioni idiomatiche che renderanno le tue conversazioni vivaci. Esercita la tua pronuncia nella nostra classe CMAR. Attraverso discussioni divertenti, giochi di ruolo e attività di gruppo, acquisirai fiducia nell'esprimerti e nel partecipare a conversazioni significative. I nostri istruttori esperti offrono un ambiente di apprendimento di supporto, guidandoti in un viaggio alla scoperta della lingua."
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "Programma di Business piu' TOEIC®",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "Nella scena degli affari internazionali, l'inglese è la lingua universale. Lo scopo di questo programma è migliorare le capacità di comunicazione commerciale in inglese.",
+      "description": [
+        "Le tue abilità di inglese miglioreranno in modo completo con simulazioni pratiche come presentazioni powerpoint, pratica telefonica, negoziazioni e riunioni, ma anche concentrandosi sul vocabolario aziendale, sull'ascolto, sulla scrittura e sulle capacità di discussione."
+      ],
+      "youtube": "https://www.youtube.com/embed/2htjAgPz984",
+      "other_info": {
+        "description": [
+          "Il test TOEIC® è un indicatore della padronanza della lingua inglese nel mondo degli affari ed è utilizzato da varie aziende e organizzazioni in tutto il mondo. Oltre al programma Business standard, il programma TOEIC® prepara gli studenti a superare il TOEIC® - Esame di ascolto e lettura, introducendo il vocabolario essenziale ed esplorando le strategie per raggiungere un punteggio elevato nel test.",
+          "Questo programma sarà utile per migliorare le tue abilità di inglese, come il vocabolario, la lettura, l'ascolto e la grammatica. Imparando le strategie per individuare le risposte corrette, sarai in grado di ottenere un punteggio elevato."
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "Lezioni Private",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "Le lezioni private sono personalizzate per soddisfare i TUOI obiettivi sia nelle lezioni provate che in piccoli gruppi.",
+      "description": [
+        "Le lezioni private sono la nostra opzione di apprendimento della lingua  più flessibile. Istruttori altamente qualificati sviluppano lezioni personalizzate progettate per aiutarti a raggiungere i tuoi obiettivi specifici in inglese. Puoi studiare qualsiasi cosa, dalle competenze di inglese generale, conversazione, riduzione dell'accento, inglese commerciale, TOEFL, TOEIC, GRE e altro. È possibile pianificare lezioni private in base alla disponibilità e alla cadenza desiderata. Ad esempio, se vuoi studiare intensamente, puoi richiedere una lezione privata ogni giorno per 3 ore o se stai cercando un ritmo più rilassato puoi richiedere una lezione privata solo una volta a settimana per 1 ora. Ottieni flessibilità, istruzioni personalizzate e un ritmo che funziona per te, tutto a un prezzo accessibile!",
+        "Costo della lezione privata regolare: <br />$80/1 ora <br />$912/12 ore <br />$1,632/24 ore <br />$2,688/48 ore",
+        "Se uno studente richiede un insegnante specifico:  <br /> $92/1 ora <br /> $1,044/12 ore <br /> $1,896/24 ore <br /> $3,120/48 ore",
+        "* Se 2 studenti condividono una lezione privata, il secondo studente è scontato del 50%."
+      ]
+    }
+  ]
+}

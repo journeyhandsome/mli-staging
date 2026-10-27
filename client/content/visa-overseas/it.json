@@ -1,0 +1,52 @@
+{
+    "pageTitle": "Applying for Long-term Study Abroad | Mentor Language Institute",
+    "pageDescription": "Who is elgible to apply for a student visa?",
+    "title": "Applying for Long-term Study Abroad",
+    "image": "/images/visa-overseas/visa.jpg",
+    "category": [
+      {
+        "title": "Who is elgible to apply for a student visa?",
+        "list_content": [
+          "A person living outside the United States",
+          "A person planning to stay in America for over 90 days",
+          "A person attending a language school(Educational institution) in the U.S."
+        ]
+      },
+      {
+        "title": "Application Steps",
+        "image": "/images/visa-overseas/steps-en.jpg",
+        "ordered_content": [
+          "Apply to MLI",
+          "Submit The Documents",
+          "Receive your I-20",
+          "Visa application / Interview",
+          "Receive your Visa",
+          "Leave for the U.S."
+        ],
+        "content": [
+          "It usually takes about <span class='ymarker'>3 months</span>in order to obtain a student visa and study abroad. It is reommended to leave as much time as possible to complete the application process. Please apply <span class='hutoaka'>at least three months in advance.</span>If applying less than 3 months prior to departure, please inform our staff."
+        ]
+      },
+      {
+        "title": "About the steps after application",
+        "image": "/images/visa-overseas/mli-short-en.jpg",
+        "content": [
+          "After students have applied, the iMLI system processes the application. <br />Students can follow the process which is listed on the iMLI."
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "content": [
+          "Fill out the information about your visa status<br />Contact us via iMLI for all inquiries",
+          "Apply from below."
+        ]
+      }
+    ],
+    "btn_label": "Online Application Form",
+    "admission": {
+      "link": "/it/admission",
+      "content": [
+        "*Please have your credit card in hand."
+      ]
+    }
+  }

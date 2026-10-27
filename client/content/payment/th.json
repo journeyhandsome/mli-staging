@@ -1,0 +1,68 @@
+{
+    "pageTitle": "การชำระเงิน | Mentor Language Institute",
+    "pageDescription": "การชำระเงิน",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">คุณสามารถชำระเงินได้อย่างปลอดภัยด้วยบัตรเครดิตโดยกรอกแบบฟอร์มในหน้านี้และส่งแบบฟอร์ม Mentor Language Institute จะไม่จัดเก็บข้อมูลบัตรเครดิตของคุณ กระบวนการชำระเงินนี้อำนวยความสะดวกผ่านการชำระเงินออนไลน์ของ Stripe<br />กรุณากรอกข้อมูลด้านล่าง</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "วันที่",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "วิทยาเขต",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "ชื่อนักเรียน",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "นามสกุล/นามสกุลของนักเรียน",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "ชื่อหน่วยงาน (ถ้ามี)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "จำนวน",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*4% ของค่าธรรมเนียมการดำเนินการ CR จะถูกบวกเพิ่มเติมจากจำนวนเงินที่คุณชำระ</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "จำนวนเงินที่เรียกเก็บจากบัตรเครดิตของคุณ"
+        }
+    ]
+    },
+  "btn_label": "ดำเนินการต่อไปยังหน้าชำระเงิน"
+}

@@ -1,0 +1,33 @@
+{
+    "pageTitle": "Visti non F1 | Mentor Language Institute",
+    "pageDescription": "Uno studente in possesso di un Visto U.S. diverso da un un Visto F1(visto studenti).",
+    "title": "Visti non F1",
+    "image": "/images/how-to-apply/nonf1/image-nonf1.jpg",
+    "category": {
+      "title": "Uno studente in possesso di un Visto U.S. diverso da un un Visto F1(visto studenti).",
+      "description": [
+        {
+          "subtitle": "1° passo: crea il tuo account \"My MLI\"",
+          "lists": [
+            "Completa il campo Registrazione con tutte le informazioni richieste.",
+            "Dopo aver creato il tuo account, puoi accedere con il tuo indirizzo email e la password."
+          ]
+        },
+        {
+          "subtitle": "2° passo: Inserisci i tuoi dati nel modulo di iscrizioni",
+          "lists": [
+            "Log in, clicca su \"Iscrizione online\"",
+            "Scegli \"Tipo di studente\"→Non-F1",
+            "Inserisci tutte le informazioni richieste e i dettagli del programma scelto",
+            "Clicca \"salva e procedi\""
+          ]
+        },
+        {
+          "subtitle": "3° passo: procedi al pagamento",
+          "lists": [
+            "Scegli il pagamento iniziale richiesto e il metodo di pagamento (puoi pagare tramite PayPal o carta di credito)"
+          ]
+        }
+    ]
+    }
+  }

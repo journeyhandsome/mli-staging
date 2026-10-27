@@ -1,0 +1,103 @@
+{
+  "pageTitle": "사람들이 MLI를 선택하는 5가지 이유 | Mentor Language Institute",
+  "pageDescription": "우리는 학교가 개교한 이래로 약 17,000명 이상의 학생들이 영어 실력을 향상 시킬 수 있도록 도움을 드리고 있습니다.",
+  "section1": {
+    "title": "사람들이 MLI를 선택하는 5가지 이유",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "Mentor Language Institute의 5가지 특징",
+    "description": [
+      "우리는 학교가 개교한 이래로 약 17,000명 이상의 학생들이 영어 실력을 향상 시킬 수 있도록 도움을 드리고 있습니다. 왜 학생들이 엘에이에 있는 많은 영어 학원 중 MLI를 선택했을까요? MLI 학생들을 대상으로 설문 조사를 했고 결과는 아래와 같습니다."
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "설문 조사 기간: 2017년 1월부터 6월까지, 342명의 학생"
+  },
+  "section3": [
+    {
+      "title": "NO.1: 합리적인 가격",
+      "subtitle": "특가! 주당 $209부터. 오후 수업은 오전 수업보다 40% 할인됩니다!",
+      "description": [
+        "학생들이 MLI를 선택한 첫번째 이유는 적당한 가격입니다.",
+        "더 많은 기간을 등록할수록, 학비는 저렴해집니다. 만약 1개월 등록 시 학비는 $1,220 또는 주  <b>$305 입니다</b>. (이 또한 굉장히 합리적인 가격입니다.) 다만, 1년(48주) 등록 시 학비는 $10,032 또는 주 <span style=\"color: #ff0000; font-weight: bold;\">$209 입니다</span>. 다른 학교와 비교해 보세요!"
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "학비에 관한 더 많은 정보",
+          "link": "/kr/price"
+        }
+      ]
+    },
+    {
+      "title": "NO.2: 좋은 위치",
+      "subtitle": "웨스트우드 & 헐리우드: 로스엔젤레스에서 인기 있는 지역입니다.",
+      "description": [
+        "우리 캠퍼스들은 로스엔젤레스의 인기 있는 지역인 웨스트우드와 헐리우드에 위치해 있습니다. 학생들은 인기 있는 지역인 산타모니카나 다운타운 엘에이 등을 기차로 쉽게 갈 수 있습니다."
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "Westwood Campus"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "Hollywood Campus"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "웨스트우드 캠퍼스에 관한 더 많은 정보",
+          "link": "/kr/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "헐리우드 캠퍼스에 관한 더 많은 정보",
+          "link": "/kr/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "NO.3: 다양한 대학 진학 준비반",
+      "subtitle": "많은 학생들이 MLI에서 공부를 한 후 UCLA나 Santa Monica College로 진학합니다.",
+      "description": [
+        "우리는 대학 입학에 대부분 필요한 시험인 TOEFL, IELTS, 준비반을 제공합니다. 많은 학생들은 MLI에서 공부한 후에 UCLA, USC, Santa Monica college로 진학합니다."
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "대학 진학에 대한 더 많은 정보",
+          "link": "/kr/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "No.4: 유연한 수업 스케줄",
+      "subtitle": "우리는 오전, 오후, 저녁 반을 제공합니다.",
+      "description": [
+        "<b>MLI는 3개의 스케줄이 있습니다. 학생들은 오전,오후,저녁반 중 선택할 수 있습니다.</b>"
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※이것은 웨스트우드 캠퍼스 스케줄입니다. 헐리우드 캠퍼스 스케줄이 궁금하시다면 문의하세요."
+    },
+    {
+      "title": "No.5: 기숙사",
+      "subtitle": "학생들은 전세계에서 오는 학생들과 대화를 나누는 기회를 가질 수 있습니다.",
+      "description": [
+        "우리는 홈스테이 프로그램 뿐만 아니라 기숙사도 운영하고 있습니다. 우리는 로스엔젤레스 지역에 40개 이상의 방을 운영하고 있으며 기숙사는 각 캠퍼스 근처에 위치해 있습니다. 미국에 처음 오는 많은 학생들이 기숙사에 머뭅니다."
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "숙소에 대한 더 많은 정보",
+          "link": "/kr/stay"
+        }
+      ]
+    }
+  ]
+}

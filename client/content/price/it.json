@@ -1,0 +1,200 @@
+{
+  "pageTitle": "Prezzi | Mentor Language Institute",
+  "pageDescription": "Il costo dell'alloggio è escluso nel caso in cui lo studente decida di provvedervi personalmente.",
+  "title": "Prezzi",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/it/price-auto\">Calcolo del prezzo</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Tassa scolastica+②Costo dell'alloggio+③Altri costi",
+    "subtitle": [
+      "Il costo dell'alloggio è escluso nel caso in cui lo studente decida di provvedervi personalmente.<br>*Please use <a href=\"/it/price-auto/\">the price calculator</a> to get a quote."
+    ],
+    "lists": [
+      {
+        "title": "①Tassa scolastica",
+        "subtitle": [
+          "Il costo della tassa scolastica varia in base al programma scelto e alla durata.<br /> Più a lungo decidi di studiare ad MLI, minore sarà il costo da sostenere."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "description": [
+          "<b>D&R</b>",
+          "<b>D1: Posso pagare le tasse con carta di credito?</b><br /><b>R1:</b> Sì, puoi pagare con carta di credito. Tuttavia verrà aggiunta una commissione del 4%.",
+          "<b>D2: Quali metodi di pagamento posso usare per pagare MLI?</b> <br /><b>R2:</b> Accettiamo i seguenti metodi di pagamento: <br> • Bonifico bancario <br> • Bonifico internazionale <br> • Contanti <br> • Assegno personale <br> • Carta di credito <br> • Carta di debito <br> • Zelle",
+          "Se desideri evitare il costo di servizio del 4% per i pagamenti con carta di credito/debito, puoi scegliere una delle seguenti alternative: <br><b>Bonifico bancario, bonifico internazionale (si applica una commissione bancaria di 35 $), contanti, assegno personale o Zelle.</b>",
+          "<b>D3: Posso pagare la retta dopo l’inizio del programma? </b><br /><b>R3:</b> No. Il pagamento totale deve essere effettuato prima o il primo giorno del programma."
+        ]
+      },
+      {
+        "title": "②Costo dell'alloggio",
+        "subtitle": [
+          "MLI fornisce due opzioni agli studenti: Programma Homestay e Dormitorio. Il Programma Homestay è consigliato per le persone che desiderano avere un'esperienza diretta nella cultura americana. I Dormitori, invece, sono consigliati per gli studenti che vogliono fare nuove conoscenze e condividere esperienze con persone provenienti da diverse parti del mondo."
+        ],
+        "category": [
+          {
+            "title": "Homestay Prices",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> Se il giovane ha meno di 18 anni, l'affitto sarà superiore di circa il 10% rispetto al prezzo per una persona di età superiore ai 18 anni.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Prezzi dei Dormitori",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Se il giovane ha meno di 18 anni, l'affitto sarà superiore di circa il 10% rispetto al prezzo per una persona di età superiore ai 18 anni.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$570",
+                  "$430",
+                  "$315"
+                ],
+                [
+                  "2 weeks",
+                  "$1,140",
+                  "$860",
+                  "$630"
+                ],
+                [
+                  "3 weeks",
+                  "$1,710",
+                  "$1,290",
+                  "$945"
+                ],
+                [
+                  "4 weeks",
+                  "$2,280",
+                  "$1,720",
+                  "$1,260"
+                ],
+                [
+                  "8 weeks",
+                  "$4,320",
+                  "$3,080",
+                  "$2,320"
+                ],
+                [
+                  "12 weeks",
+                  "$6,480",
+                  "$4,620",
+                  "$3,480"
+                ]
+              ]
+            },
+            "description": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>",
+              "※Your accommodation will be provided by U.S. Support Service Inc. or other agents.",
+              "<a href=\"/it/stay/\"><i class='bi bi-arrow-right'></i>  More information about Accommodations</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Costi iniziali",
+        "subtitle": [
+          "In aggiunta ai costi sopra menzionati, ci sono ulteriori spese iniziali."
+        ],
+        "lists": [
+          "Tassa di registrazione* : $150",
+          "Tassa di spedizione dell' I-20 ** : $120",
+          "Tassa SEVIS: $350 (pagata direttamente al SEVP) **",
+          "Libri di testo: $150-240 ： $150-240"
+        ],
+        "description": [
+          "*non rimborsabile<br />** Per le persone con Visto studenti"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Esempi",
+    "subtitle": [
+      "Esempi: 4 settimane e 48 settimane"
+    ],
+    "lists": [
+      {
+        "title": "1 mese(4 settimane)",
+        "items": [
+          "Tassa di registrazione: $150",
+          "Tassa di iscrizione: $1,220",
+          "Alloggio: $1,630（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Totale : $3,000</span>"
+        ]
+      },
+      {
+        "title": "1 Anno (48 settimane)",
+        "items": [
+          "Tassa di registrazione: $150",
+          "Tassa di iscrizione : $10,032",
+          "Alloggio: $13,810（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Totale : $23,992</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Per eventuali domande sui prezzi, contattaci."
+  ]
+}

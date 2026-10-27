@@ -1,0 +1,37 @@
+{
+    "pageTitle": "Studentenvisum F1 | Mentor Language Institute",
+    "pageDescription": "Bitte wähle deine Situation aus den untenstehenden Optionen aus.",
+    "title": "Studentenvisum F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "Bitte wähle deine Situation aus den untenstehenden Optionen aus. <br />Wenn du dir über deine Situation nicht sicher bist, klicke MEHR LESEN um weitere Details zu erfahren."
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_de.png",
+                    "link": "/de/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_de.png",
+                    "link": "/de/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_de.png",
+                    "link": "/de/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Fragen?",
+            "description": [
+                "Im Normalfall benötigst du ein Studentenvisum um als Langzeitstudent in den USA zu bleiben.<br />Wenn du nicht weisst, ob du ein Visum brauchst oder nicht, kontaktiere uns bitte.",
+                "Wir haben Mitarbeiter in 8 verschiedenen Sprachen."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-de.png",
+                "link": "/de/contact"
+            }
+        }
+}

@@ -1,0 +1,107 @@
+{
+  "pageTitle": "로스 엔젤레스의 우수하고 합리적인 영어학습 | 멘토 어학원",
+  "pageDescription": "로스 엔젤레스의 우수하고 합리적인 영어학습 | 멘토 어학원",
+  "peopleChooseMli": {
+    "title": "학생들이 MLI(Mentor Language Institute)를 선택하는 3가지 이유",
+    "lists": [
+      {
+        "image": "/images/home/kr/people-choose-mli-1.jpg",
+        "title": "헐리우드 & 웨스트우드",
+        "description": "우리는 로스엔젤레스에서도 인기 있는 장소에 위치해 있기 때문에 학생들은 공부하면서 로스엔젤레스의 삶을 즐길 수 있습니다.",
+        "read_more" : ["<a href=\"/kr/feature/\">» 나머지 보기</a>"]
+      },
+      {
+        "image": "/images/home/kr/people-choose-mli-2.jpg",
+        "title": "오전, 오후, 저녁반",
+        "description": "유연한 스케줄이 필요한 학생들을 위한 수업",
+        "read_more" : ["<a href=\"/kr/feature/\">» 나머지 보기</a>"]
+      },
+      {
+        "image": "/images/home/kr/people-choose-mli-3.jpg",
+        "title": "$201/주 ~",
+        "description": "좋은 위치 그리고 합리적인 가격! 다른 학교와 가격을 비교해 보세요. 학비에 대해서 더 많은 정보를 원하시면 아래에 있는 \"문의하기\"를 클릭하세요.",
+        "read_more" : ["<a href=\"/kr/feature/\">» 나머지 보기</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/kr/mli-highly-rated.jpg",
+  "courses": {
+    "title": "코스",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "ESL 프로그램",
+        "subtitle": [
+          "이 프로그램은 듣기/말하기, 읽기/어휘, 문법/쓰기로 구성되어 있습니다. ESL 프로그램은 영어 기술을 향상 시키기 위한 학생들에게 적합합니다."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "토플 프로그램",
+        "subtitle": [
+          "MLI의 토플 프로그램은 컴퓨터 기반 테스트(IBT)의 네가지 파트에서 성공적인 점수를 얻는데 필요한 전략과 기술등을 집중적으로 가르칩니다."
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Vacation ESL 프로그램",
+        "subtitle": [
+          "이 프로그램은 듣기/말하기, 읽기/어휘, 문법/쓰기 수업으로 구성되어 있습니다. <br>단기 영어 공부를 원하는 학생들을 위해 방학 ESL 프로그램을 제공합니다."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "IELTS™",
+        "subtitle": [
+          "영국과 호주에서 만들어진 IELTS는 학생들의 영어 능력을 평가하기 위한 시험입니다. 최근에 미국의 많은 대학들이 토플 점수 또는 IELTS 점수 중 한개를 요구합니다.",
+          "이 프로그램은 네가지 파트로 구성되어 있습니다: 듣기,말하기, 독해, 쓰기. 이 경우에, 당신은 각 파트에서 높은 점수를 받을 수 있는 전략과 방법을 배울 것 입니다.",
+          "IELTS는 비교적 토플보다 쉽다고 알려져 있습니다. 이 프로그램은 토플이 어려운 학생들에게 적합합니다."
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "회화 프로그램",
+        "subtitle": [
+          "우리 프로그램은 매력적인 활동과 대화형 학습을 통해 영어 회화 능력을 향상시키는 데 초점을 맞추고 있습니다! 우리의 회화 수업에서 학생들은 다양한 어휘, 구절 및 관용구를 탐구하며 대화를 생동감 있게 만들 수 있을 것입니다. CMAR 수업에서 발음을 연습하세요. 재미있는 토론, 롤플레이 및 그룹 활동을 통해 스스로 표현하고 의미 있는 대화에 참여하는 데 있어서 자신감을 갖게 될 것입니다. 경험이 풍부한 강사들이 지원적인 학습 환경을 제공하며 언어 탐구의 여정으로 당신을 안내해 드립니다."
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "비지니스 + 토익®",
+        "subtitle": [
+          "토익 시험은 비지니스 영어 실력을 나타내는 지표이며 전세계 여러 회사 및 기관에서 사용합니다. 기본 비지니스 영어 수업외에 토익 수업은 학생들이 토익 시험에서 좋은 점수를 받을 수 있도록 도와 줍니다 - 필수 어휘, 시험에서 높은 점수를 받기 위한 전략 분석에 의한 듣기, 읽기 시험",
+          "이 프로그램은 어휘, 독해, 듣기, 문법 같은 영어 실력을 향상 시키는데 도움이 될 것 입니다. 정답을 찾는 방법을 배우면서, 당신은 높은 점수를 받을 수 있을 겁니다."
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/en/free_trial_banner-En.png",
+  "link": "/kr/freetrial",
+  "partnerSchools": {
+    "title": "MLI와 체결되어 있는 대학교/컬리지",
+    "subtitle": "\"MLI 학생은 본 학교에서의 프로그램 중 특정 레벨을 마치게 되면 본교와 체결되어진 대학교 또는 컬리지에 등록할 수 있습니다. \""
+  },
+  "locationCampus": {
+    "title": "위치/캠퍼스",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "웨스트우드 캠퍼스",
+        "subtitle": "Westwood는 로스 앤젤레스의 서쪽에 위치한 활기차고 독특한 지역이고 UCLA가 있는 걸로 유명합니다. 많은 대학생들과 상점, 레스토랑이 있고 안전하며 재미 있는것이 많아서 매우 인기있는 지역입니다.",
+        "read_more" : ["<a href=\"/kr/westwood/\">» 나머지 보기</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "헐리우드 캠퍼스",
+        "subtitle": "헐리우드 캠퍼스는 유명한 차이니즈 극장(Chinese Theater)바로 옆에 있습니다. 헐리우드 지역에는 유명한 극장, 레스트랑, 상점, 클럽등이 많이 있으며",
+        "read_more" : ["<a href=\"/kr/hollywood/\">» 나머지 보기</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "학생들의 후기",
+    "seemoreBtn": "더 보기",
+    "TestimonialLink": "/kr/testimonials",
+    "readmoreBtn" : "더 읽기"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "請使用以下鏈接下載該手冊",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "請使用以下鏈接下載該手冊："
+    ],
+    "brochures": [
+      {
+        "title": "Tuition Chart Westwood",
+        "image": "/images/tf_material/Fee Chart WW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - WW Tuition.pdf"
+      },
+      {
+        "title": "Tuition Chart Hollywood",
+        "image": "/images/tf_material/Fee Chart HW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - HW Tuition.pdf"
+      },
+      {
+        "title": "Program Schedule at Westwood Campus",
+        "image": "/images/tf_material/Westwood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI_WW_Class_Schedule.pdf"
+      },
+      {
+        "title": "Program Schedule at Hollywood Campus",
+        "image": "/images/tf_material/Hollywood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI-HW_Class_Schedulepdf.pdf"
+      },
+      {
+        "title": "MLI手冊課程",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI School Brochure[EN]_OCT17.pdf"
+      },
+      {
+        "title": "住房手冊",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/_Digital_ 2025 USSS Brochure- Only Housing updated 10.20.2024.pdf"
+      }
+    ],
+    "other_info": [
+      "如果您有任何問題，例如學生簽證問題，住房情況或其他問題，請隨時與我們聯繫。",
+      "<b>【 西木校區 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />電話：310-887-0777 <br />電子郵件：info@mliesl.edu <br />辦公時間：週一至週四：8：30 - 20:30週五：8：30 - 18:00",
+      "<b>【【 好萊塢校區 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />電話：323-870-7102 <br />電子郵件：hollywood@mliesl.edu<br />辦公時間：週一至週五：8：30 - 17:00",
+      "我們期待在洛杉磯歡迎你到MLI！"
+    ]
+  }

@@ -1,0 +1,45 @@
+{
+    "pageTitle": "Cambio de estado | Mentor Language Institute",
+    "pageDescription": "Muchas gracias por su interés en inscribirse en MLI. Esta página es para aquellos que actualmente están en los EE. UU. Sin una VISA F1 (estudiante) y desea cambiar al estado F1.",
+    "title": "Cambio de estado",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "Muchas gracias por su interés en inscribirse en MLI.<br /> Esta página es para aquellos que actualmente están en los EE. UU. Sin una VISA F1 (estudiante) y desea cambiar al estado F1.",
+      "Si desea presentar una solicitud, proceda:"
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-sp.png",
+        "link": "/sp/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Pasos de aplicación",
+      "description": [
+        "Los pasos exactos de la aplicación dependen del país de una persona, nacionalidad, curso, visa para obtener, etc. Nuestro personal estará encantado de guiarlo en los pasos apropiados en función de su situación particular."
+      ]
+    },
+    "needHelp": {
+      "title": "¿Necesitas ayuda? ¡Preguntanos!",
+      "description": [
+        "Las reglas de Visa y los pasos de la aplicación son diferentes en función de su estado actual.<br />Si necesita una aclaración antes de aplicar, no dude en contactarnos.<br />¡Tenemos personal con fluidez en 8 idiomas!"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-sp.jpg",
+      "link": "/sp/contact",
+      "title": "Contáctenos",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

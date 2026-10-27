@@ -1,0 +1,101 @@
+{
+    "pageTitle": "Cambios en el formato y preguntas del TOEFL iBT a partir del 26/07/2023 | Mentor Language Institute",
+    "pageDescription": "Cambios en el formato y preguntas del TOEFL iBT a partir del 26/07/2023",
+    "title": "Cambios en el formato y preguntas del TOEFL iBT a partir del 26/07/2023",
+    "image": "/images/courses/course/toefl.jpg",
+    "subtitle": [
+      "Hola a todos. Hoy presentaremos cambios en el formato y preguntas del TOEFL iBT, que es uno de los exámenes de habilidades en inglés requerido para estudiantes internacionales que deseen ingresar a universidades y colegios. Esperamos que esta breve explicación les sea útil en su preparación para el examen.",
+      "Nosotros, <a href=\"https://mliesl.edu/sp/\" style=\"color: #3D4C5C;\"><u>Mentor Language Institute</u></a> (MLI), somos una escuela de inglés acreditada por ACCET y aceptamos estudiantes internacionales aprobados por SEVP en los EE. UU. Durante muchos años, MLI ha enseñado a los estudiantes cómo prepararse para los exámenes de habilidades en inglés, y nuestro equipo de profesores en nuestro Programa de Preparación para Exámenes enseña a los estudiantes cómo tener éxito en tales exámenes y los mantiene actualizados sobre los cambios en los exámenes siempre que ocurren. ",
+      "A partir del 26 de julio de 2023, el TOEFL iBT tendrá un nuevo formato de examen y algunos otros cambios. Estos cambios son beneficiosos para los examinados, ya que el examen será mucho más corto y mucho menos pesado."
+    ],
+    "services":
+        {
+            "title": "Cambios en el formato del TOEFL iBT a partir del 26 de julio de 2023",
+            "subtitle": "Los cambios se enumeran a continuación:",
+            "lists": [
+                "<span class=\"circle\">1 </span> Las instrucciones del examen serán más simples y directas. (Este es un cambio menor).",
+                "<span class=\"circle\">2 </span> La interfaz de usuario (UI) del examen será más fácil de usar y comprender. (Este es un cambio menor).",
+                "<span class=\"circle\">3 </span> La sección de leer tendrá 2 pasajes con 10 preguntas cada uno. <br /> (Actualmente, es posible tener 3 o 4 pasajes con 30 a 40 preguntas. En la nueva versión del examen, habrá un 33% a 50% menos de preguntas, y el tiempo en esta sección se reducirá de <span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"> 54 – 72 minutos a 35 minutos)</span>.)",
+                "<span class=\"circle\">4 </span>La sección de escribir también cambiará. La pregunta «Escritura independiente» (Escritura 2) será reemplazada por un nuevo ejercicio llamado «Discusión académica». Este es el cambio más significativo en el examen.",
+                "<span class=\"circle\">5 </span> Las secciones de leer y de escuchar no tendrán preguntas no puntuadas.<br /> (No habrá más preguntas experimentales o de «falsos»)."
+            ]
+        },
+    "format":
+        {
+            "title": "Formato del TOEFL iBT a partir del 26/07/2023.",  
+            "table": {
+              "tableMaxCol": 3,
+              "tbody": [
+                [
+                  "<b>Sección del examen</b>",
+                  "<b># de preguntas</b>",
+                  "<b>Tiempo estimado</b>"
+                ],
+                [
+                  "Leer",
+                  "20 preguntas",
+                  "35 minutos"
+                ],
+                [
+                  "Escuchar",
+                  "28 preguntas",
+                  "36 minutos"
+                ],
+                [
+                  "Hablar",
+                  "4 tareas",
+                  "16 minutos"
+                ],
+                [
+                  "Escribir",
+                  "2 tareas",
+                  "29 minutos"
+                ],
+                [
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"><b>Tiempo total</b></span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"><b>– – – – –</b></span>",
+                  "<span style=\"background:linear-gradient(transparent 60%, #ffff66 60%);\"><b>Menos de 2 horas</b></span>"
+                ]
+              ]
+            },
+            "description": [
+                "La nueva tarea de escribir se llama «<b>Tarea de discusión académica</b>«. El ejercicio comienza con un pasaje de lectura. Se trata de una discusión en línea entre un profesor y dos estudiantes. El profesor introduce un tema a los estudiantes y les hace una pregunta relacionada con el tema. Después de esto, los dos estudiantes responden a la",
+                "También debes escribir una publicación respondiendo a la pregunta del profesor. <b>En tu respuesta, debes expresar y apoyar tu opinión y contribuir a la discusión.</b> Una «respuesta efectiva» debe tener más de 100 palabras, y tienes 10 minutos para escribir."
+            ],
+            "image": "/images/courses/course/sample.jpg"
+
+        },
+    "sample":
+        {
+            "subtitle": "Aquí tienes un ejemplo del nuevo tema de escribir y dos ensayos de muestra de niveles avanzado e intermedio de inglés:",
+            "listTitle": "Nueva pregunta de ejemplo de escritura del TOEFL iBT",
+            "list":[
+                "<b><i>Professor Clark:</i></b> Today, we’ll be discussing environmental issues, which are of utmost importance to our society. There is no doubt the world is currently facing some serious environmental problems, and governments have a vital role to play in addressing them. So, what do you think is an environmental issue governments must address? Why?",
+                "<b><i>Sandra:</i></b> One of the biggest issues, I think, is the problem of plastic waste. Plastic is one of the most commonly used materials in our daily lives, but it has a huge impact on the environment. It takes hundreds of years for plastic to decompose, and a lot of it ends up in our oceans, harming marine life and ecosystems. ",
+                "<b><i>Tim:</i></b> I believe a severe environmental problem is deforestation. We are cutting down too many trees, and forests all over the world are disappearing really quickly. With fewer trees, animals are losing their habitats. I’m pretty sure this has led to some species becoming extinct. How can animals stay alive if they have nowhere to live?"
+            ],
+            "sample1":
+              {
+                  "title": "Respuesta de ejemplo 1 (nivel avanzado): Posible puntuación [5.0]",
+                  "description" : "I think air pollution from sources such as vehicles is a significant environmental issue. For instance, when a vehicle burns gasoline, it releases contaminents into the air. These chemicals damage the atmosphere, which contributes to global warming. As a result, in polar areas, glaciers are melting, and the oceans keep rising. In addition, when the air is polluted, it impacts people with conditions like asthma. Their lungs are vulnerable, and polluted air makes it a struggle for them to breathe. I know some governments have taken steps to solve the problem with air pollution. However, I believe most governments have not done enough and need to act more now. If not, these kinds of problem will just become worse and people will continue to suffer.",
+                  "subtitle": "Explicación y justificación de la puntuación 1",
+                  "subdescription":[
+                        "Esta es una respuesta avanzada y probablemente obtendría una puntuación de 5 según la rúbrica de calificación para el ejercicio de Escribir 1. El escritor contribuye bien a la discusión con ideas complejas que están bien explicadas con detalles y ejemplos. También elige la idea de la contaminación del aire y continúa proporcionando un ejemplo de cómo se produce la contaminación del aire, explica cómo la contaminación del aire daña la atmósfera y menciona algunas de las consecuencias de este tipo de daño. El orden de las afirmaciones en la respuesta es lógico y coherente. Además, el escritor menciona otra consecuencia relevante, los efectos sobre la salud humana, y explica cómo la contaminación del aire puede afectar a una persona con una condición de salud. No solo utiliza una variedad de estructuras gramaticales y de oraciones, sino que también proporciona una fuerte gama de terminología en relación con el tema y un alto número de sinónimos dentro de la respuesta.",
+                        "Hay muy pocos errores; la palabra «contaminants» está escrita incorrectamente pero es un error aceptable debido a la naturaleza específica de la palabra. Además, el escritor comete un error gramatical con la frase «problem with air pollution», que debería ser «problem of air pollution». Hay otro error gramatical con el sustantivo «problem» en la última oración. Esta palabra debería estar en plural. Sin embargo, ambos errores gramaticales son posibles con un escritor que tiene un alto nivel de inglés y está bajo condiciones de tiempo. Debido a esto, estos errores no llevan a una disminución en la puntuación."
+                    ]
+            },
+            "sample2":
+            {
+              "title": "Respuesta de ejemplo 2 (nivel intermedio): Posible puntuación [3.0]",
+              "description": "Pollution in the air is a problem, and governments should try to solve it. A lot of pollution come from factories. Smoke goes to the air and makes the air dirty. I live in Los Angeles, and the air is not clean. This is because there are too many cars. Maybe it is a good idea for governments to make electric cars cheaper. I want to buy a electric car, but I can not afford one. Also, when there is too much pollution in the air, it causes global warming. Governments need stop this problem because the weather is changing too much. The weather is inpredictable. Some areas are getting too much rain now. Other areas are too hot and do not get enough rain.",
+              "subtitle": "Explicación y justificación de la puntuación 2",
+              "subdescription":[
+                "Esta es una respuesta intermedia y probablemente obtendría una puntuación de 3 según la rúbrica de calificación para el ejercicio de Escribir 1. El escritor contribuye a la discusión, pero algunas de las ideas están incompletas o no tienen suficientes detalles. Por ejemplo, menciona las fábricas como fuente de contaminación. Sin embargo, después de esto, el escritor pasa a la información sobre Los Ángeles y los automóviles, que es un punto no relacionado. Además, sugiere el uso de automóviles eléctricos pero no explica cómo este tipo de automóviles ayuda a reducir la cantidad de contaminación. El escritor no tiene una alta variedad de estructuras gramaticales y de oraciones, pero hay una cantidad razonable de variedad de vocabulario. El escritor también utiliza terminología en relación con el tema, como «global warming» en la respuesta. ",
+                "Hay varios errores en la respuesta. Estos errores llevan a una disminución en la puntuación y probablemente no están relacionados con las condiciones de tiempo. Por ejemplo, la frase «a lot of pollution come from» usa el tiempo verbal equivocado y debería ser «a lot of pollution comes from». Además, la frase «smoke goes to the air» debería usar una preposición diferente: «smoke goes into the air». También, el verbo «can not» debería ser una sola palabra, y el verbo modal «need» debería ir seguido del verbo en infinitivo «to stop» en lugar de «stop». El escritor también usó el prefijo incorrecto para el adjetivo «predictable». Sin embargo, tiene un fuerte dominio de la puntuación y usa comas y puntos de manera apropiada."
+              ]
+            },
+            "description": ["En resumen, estos cambios en el TOEFL iBT deberían beneficiarle al hacer que el examen sea más corto y menos pesado. Esperamos que esta información te sea útil y te deseamos la mejor de las suertes en tus preparativos y estudios."]
+            
+        }
+    
+  }

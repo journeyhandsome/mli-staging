@@ -1,0 +1,92 @@
+{
+  "pageTitle": "MLI的第一天 | Mentor Language Institute",
+  "pageDescription": "在MLI，新生在每期（每四周）的一开始会有新生迎新会。",
+  "title": "MLI的第一天",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "欢迎来到Mentor Language Institute！",
+      "description": [
+        "在MLI，新生在每期（每四周）的一开始会有新生迎新会。",
+        "新生迎新会提供您一些重要的资讯，比如说关于课程的详细内容，移民政策及校规等。"
+      ],
+      "dates": [
+        "＜每期开始时间＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "迎新会会在1点开始。"
+      ],
+      "groups": [
+        {
+          "title": "新生迎新会&入学测试",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "填写注册单"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "学校介绍"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "入学测试"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "学校政策，移民法规"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "转学服务"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "活动&住宿"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "口语测试&分班"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "购买教材"
+            }
+          ]
+        },
+        {
+          "title": "第一天需要带些什么？",
+          "lists": [
+            "护照（如果您是学生签证持有人）",
+            "I-20（如果您是学生签证持有人）",
+            "笔和纸",
+            "教科书费和学费余额支付"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "详细",
+      "groups": [
+        {
+          "title": "迎新会时间表",
+          "description": [
+            "学生需要填写注册表格的项目。接下来，教学主任会给学生介绍各种课程，课程规则以及升班方式等信息。"
+          ]
+        },
+        {
+          "title": "入学测验及面试",
+          "description": [
+            "新生迎接会结束后，您将会接受英语测试，大约80个题目，包含听力，语法，词汇与阅读。此测试会估测学生的英语程度。测试结束后，学生和我们的教师团队会进行一个一对一的口语测试。这些测试会综合的判断学生的英语能力。"
+          ]
+        },
+        {
+          "title": "购买教材",
+          "description": [
+            "英语测试与面试结束后，学生需要到柜台购买教材。柜台人员将协助学生或者其它任何有疑问的地方。"
+          ]
+        }
+      ]
+    }
+  ]
+}

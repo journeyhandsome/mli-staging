@@ -1,0 +1,128 @@
+{
+    "pageTitle": "Make your mark at MLI. | Mentor Language Institute",
+    "pageDescription": "We’re always on the lookout for enthusiastic, qualified ESL and Test Preparation instructors to add to our team.",
+    "header": "Make your mark at MLI.",
+    "image": "/images/what-is-mli/career/staff.PNG",
+    "subtitle": [
+      "Exciting Career Opportunities at MLI - Join Our Team Today!",
+      "<b>Are you a passionate and qualified ESL, Conversation English, or TOEFL instructor looking to make a positive impact on students' lives? Look no further than MLI!</b> <br />We are dedicated to education and empowering our students to achieve their academic, work, and personal goals. Our instructors create a motivating and engaging classroom environment that inspires students to be their best selves.",
+      "At MLI, we value our instructors and offer a supportive work environment with paid monthly meetings/workshops, an easy-to-follow curriculum, and dedicated Program Coordinator support. Plus, our Westwood and Hollywood campuses offer flexible morning, afternoon, and evening shifts to fit your schedule.",
+      "<b>Teacher Benefits:</b> <br /> As an MLI instructor, you'll enjoy a $100 monthly healthcare contribution for full-time instructors after 30 days, paid parking, 4-day work week with Monday to Thursday shifts, paid monthly teacher's meetings, and up to one week of paid vacation after one year of service. ",
+      "<b>Teacher Qualifications:</b> <br /> To qualify for our instructor positions, you'll need a minimum of a bachelor's degree and one year of ESL and/or test preparation teaching experience, be a native English speaker (USA preferred), and have basic computer skills (Google Docs, Google Sheets, Email, Zoom). We can only consider local, qualified candidates, and interviews are conducted exclusively in Southern California. Must be a US citizen or have permission to work in the US.",
+      "<b>How to Apply:</b> <br />Don't miss your chance to join our team and help us make a positive impact on the world. Fill out the form below and upload your resume and brief cover letter. Let us know your preferred campus, schedule availability, and preferred position with our company. While we appreciate all applicants' interest, only qualified candidates will be contacted for interviews.",
+      "We sincerely LOVE education and strive to make a positive difference in the lives of our students. Our instructors and staff create environments that truly motivate students to be their best. MLI’s students receive a rewarding experience during their studies, which propels them to succeed in their future academic, work and personal goals."
+    ],
+    "form": [
+      {
+        "type": "text",
+        "name": "fname",
+        "label": "First Name",
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "lname",
+        "label": "Last Name",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "Your Email",
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "Phone Number",
+        "isRequired": true
+      },
+      {
+        "type": "note2",
+        "description": "Desired Position (check multiple if applicable)",
+        "isRequired": true
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "ESL Class Teacher",
+      "label": "ESL Class Teacher",
+      "group": "positions"
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "Conversation Class Teacher",
+      "label": "Conversation Class Teacher",
+      "group": "positions"
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "TOEFL / Test Prep Class Teacher",
+      "label": "TOEFL / Test Prep Class Teacher",
+      "group": "positions"
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "Student Advisor",
+      "label": "Student Advisor",
+      "group": "positions"
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "Administrative Assistance",
+      "label": "Administrative Assistance",
+      "group": "positions"
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "Marketing / Sales representative",
+      "label": "Marketing / Sales representative",
+      "group": "positions"
+      },
+      {
+        "type": "note2",
+        "description": "Campus Preference",
+        "isRequired": true
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "Westwood",
+      "label": "Westwood",
+      "group": "campus"
+      },
+      {
+      "type": "groupOfCheckboxes",
+      "name": "Hollywood",
+      "label": "Hollywood",
+      "group": "campus"
+      },
+      {
+        "upload": true,
+        "upload_details": {
+          "key":"resume",
+          "description": "Upload Resume Click Here",
+          "style": "style_1"
+        },
+        "isRequired": true
+        
+      },
+      {
+          "upload": true,
+          "upload_details": {
+            "key":"coverLetter",
+            "description": "Upload Cover Letter Click Here",
+            "style": "style_1"
+          },
+          "isRequired": true
+          
+          
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Availability Schedule",
+        "isRequired": true
+      }
+    ],
+    "btn_label": "Send"
+    
+  }

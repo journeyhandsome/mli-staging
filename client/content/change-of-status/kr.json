@@ -1,0 +1,38 @@
+{
+    "pageTitle": "기타 | Mentor Language Institute",
+    "pageDescription": "F1 비자(학생 비자)가 아닌 다른 미국 비자를 가지고 있는 학생",
+    "title": "기타",
+    "image": "/images/how-to-apply/change-of-status/change-of-status-jp.jpg",
+    "visaFree": {
+      "title": "F1 비자(학생 비자)가 아닌 다른 미국 비자를 가지고 있는 학생",
+      "description": [
+        "미국 시민권자, 영주권 또는 F1이 아닌 다른 비자를 가지고 있는 학생",
+        "아래에있는 온라인 지원서를 통해서 신청하세요."
+      ],
+      "btn_label": "온라인 지원서",
+      "link": "/kr/admission"
+    },
+    "needHelp": {
+      "title": "질문이 있으세요? 도움이 필요하세요? 우리에게 물어보세요!",
+      "description": [
+        "- 시민권에 관한 질문 <br />- 주소 변경에 관한 질문 <br />- 현재 신분에 관한 질문 <br />- 등록 절차에 대한 질문 <br />",
+        "자세한 내용을 알고 싶으면 언제든지 문의하세요. <br />8개 국어로 언어를 지원합니다!"
+      ]
+    },
+    "contactUs": {
+      "title": "문의처",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    },
+    "hasBrochure": true
+  }

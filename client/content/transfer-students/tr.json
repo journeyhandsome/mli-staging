@@ -1,0 +1,49 @@
+{
+    "pageTitle": "Transfer Öğrencileri | Mentor Language Institute",
+    "pageDescription": "ABD'de başka bir okulda eğitim gören ve okullarını değiştirmek isteyen öğrenciler.",
+    "title": "Transfer Öğrencileri",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "subtitle": [
+      "ABD'de başka bir okulda eğitim gören ve okullarını değiştirmek isteyen öğrenciler."
+    ],
+    "category": [
+      {
+        "title": "Uygulama adımları",
+        "image": "/images/how-to-apply/transfer-students/application-steps-tr.png",
+        "listType": "decimal",
+        "lists": [
+          "MLI'ya uygulayın (Online başvuruyu doldurun)",
+          "Destekleyici belgeleri gönderin",
+          "Yeni öğrencilere Oryantasyon'a katilin",
+          "Yeni bir I-20 alın"
+        ],
+        "description": [
+          "Öğrenciler istedikleri program başlama tarihinden 1 veya 2 ay önce MLI'ya başvurmalıdırlar. Durumunuza bağlı olarak karmaşık olabileceğinden transfer işlemini teyit etmek için on-line başvuru yaptıktan sonra MLI'da bir öğrenci danışmanı ile konuşmak en iyisidir."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "İptal politikası",
+        "description": [
+          "Başvuru ücreti 150 $ 'dır, başvuru anında tahsil edilir. Vize başvurusu reddedilirse veya kayıt iptal edilirse, kayıt ücreti iade edilmez."
+        ]
+      },
+      {
+        "title": "Başvurunuzu gönderdikten sonra",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "Öğrenciler çevrimiçi başvuruları sunduktan sonra, MLI başvuruyu işleyecek ve iMLI (Her bir Öğrenci'nin Online başvuru sayfası) için bir link gönderecektir. Öğrenciler, iMLI'de belirtilen devam eden başvuru sürecini takip edebilirler."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Onine Başvurun",
+      "description": [
+        "Online formu doldurun.<br />Sorularınız için e-posta ile bize ulaşın."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/transfer-students/apply-now-tr.png",
+        "link": "/tr/admission"
+      }
+    }
+  }

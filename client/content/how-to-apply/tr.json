@@ -1,0 +1,31 @@
+{
+    "pageTitle": "Hangi vize türü için başvurmayı planlıyorsunuz? | Mentor Language Institute",
+    "pageDescription": "Lütfen aşağıdaki seçeneklerden vize durumunuzu seçin",
+    "title": "Hangi vize türü için başvurmayı planlıyorsunuz?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "Lütfen aşağıdaki seçeneklerden vize durumunuzu seçin:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-tr.png",
+                    "link": "/tr/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-tr.png",
+                    "link": "/tr/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Herhangi bir sorunuz varmı ?",
+            "description": [
+                "Normalde, Amerika Birleşik Devletleri'nde uzun süreli bir öğrenci olarak kalmak için öğrenci vizesine ihtiyacınız olacak.<br />Vize almanız gerekip gerekmediğini bilmiyorsanız, lütfen bizimle iletişime geçin.",
+                "8 farklı dilde konuşmacılarımız var."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-tr.png",
+                "link": "/tr/contact"
+            }
+        }
+}

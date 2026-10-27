@@ -1,0 +1,58 @@
+{
+    "pageTitle": "How to apply if you have a U.S. VISA | Mentor Language Institute",
+    "pageDescription": "Applicants from Outside of the U.S. who have a U.S. VISA",
+    "title": "How to apply if you have a U.S. VISA",
+    "image": "/images/havevisa/attraction.png",
+    "category": [
+      {
+        "title": "Applicants from Outside of the U.S. who have a U.S. VISA",
+        "content": [
+          "-Apply from Outside of the U.S<br />-Applicants who have stayed in the U.S. and have an F1 Visa<br />-Applicants who have studied in the U.S. within the past 5 months",
+          "※You need to get an F1 VISA again if it's been more than 5 months since you finished at a previous school."
+        ]
+      },
+      {
+        "title": "Application Steps",
+        "image": "/images/havevisa/mli-design-apply-short-kr.jpg",
+        "ordered_content": [
+          "Apply to MLI",
+          "Submit the documents",
+          "Receive your I-20",
+          "Leave for the U.S."
+        ],
+        "content": [
+          "If you have a valid U.S. visa , you don't have to get a new VISA. Bring your I-20 and vaild U.S. VISA and fly to the US.",
+          "Students are required to apply 1 or 2 months before desired starting date. It is best to speak with front desk staff after applying to confirm the application process as it can be complicated depending on your status."
+        ]
+      },
+      {
+        "title": "Cancellation Policy",
+        "content": [
+          "The enrollment fee of $150, will be charged at the time of application. The enrollment fee is non-refundable regardless if an application is rejected or enrollment is cancelled. Exceptions include insufficient housing."
+        ]
+      },
+      {
+        "title": "About the steps after application",
+        "image": "/images/havevisa/mli-short-en.jpg",
+        "content": [
+          "After students have applied, the iMLI system processes the application.<br />Students can follow the process which is listed on the iMLI."
+        ],
+        "types": [
+          {
+            "title": "Apply Online",
+            "content": [
+              "Fill out the information about your visa status <br />Contact us via iMLI for all inquiries",
+              "Apply from below."
+            ]
+          }
+        ]
+      }
+    ],
+    "btn_label": "Online application Form",
+    "admission": {
+      "link": "/it/admission",
+      "content": [
+        "*Please have your credit card in hand."
+      ]
+    }
+  }

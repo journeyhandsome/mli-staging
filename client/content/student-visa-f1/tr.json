@@ -1,0 +1,35 @@
+{
+    "title": "ÖĞRENCİ VİZESİ F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "Lütfen aşağıdaki listeden durumunuzu seçiniz. Durumunuzdan emin değilseniz, daha fazla bilgi için DAHA FAZLA OKU'ya tıklayın."
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_tr.png",
+                    "link": "/tr/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_tr.png",
+                    "link": "/tr/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_tr.png",
+                    "link": "/tr/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Herhangi bir sorunuz varmı ?",
+            "description": [
+                "Normalde, Amerika Birleşik Devletleri'nde uzun süreli bir öğrenci olarak kalmak için öğrenci vizesine ihtiyacınız olacak.<br />Vize almanız gerekip gerekmediğini bilmiyorsanız, lütfen bizimle iletişime geçin.",
+                "8 farklı dilde konuşmacılarımız var."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-tr.png",
+                "link": "/tr/contact"
+            }
+        }
+}

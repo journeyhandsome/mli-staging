@@ -1,0 +1,175 @@
+{
+    "pageTitle": "住宿 | Mentor Language Institute",
+    "pageDescription": "MLI與USSS合作，為MLI的學生提供住宿信息 ",
+    "title": "住宿",
+    "subtitle": [
+      "MLI與USSS合作，為MLI的學生提供住宿信息 <br />有關更多詳細信息，請訪問 <a href=\"www.usssinc.net/tw\" target=\"_blank\">www.usssinc.net/tw</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "學生可選擇寄宿家庭或是宿舍。",
+    "types": [
+      {
+        "title": "宿舍",
+        "description": [
+          "我們宿舍提供40個房間。有許多能和其他國際學生交流的機會。如果您有預算考量，我們建議您選擇宿舍。"
+        ],
+        "lists": [
+          "<b>房間</b> : 私人 (獨立)、合住 (2人) 及 合住 (4 people)",
+          "<b>供餐</b> : 不提供餐 (有完整廚房可使用)",
+          "<b>隱私</b> : 寄養家庭較多隱私空間。宿舍有一些規則。",
+          "<b>通勤</b> : 大約二十分鐘步行或是公車時間。"
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "宿舍費用",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "安置費用* : $200<br /> 如果未滿 18 歲，租金將比 18 歲以上的人高出約 10%。",
+              "thead": [
+                "",
+                "私人",
+                "合住",
+                "合住(四人)"
+              ],
+              "tbody": [
+                [
+                  "<b>保證金**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1週",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2週",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3週",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4週",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8週",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12週",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*安置費用需一次性繳交。不可退還。<br />**保證金將在學生搬出後退還。"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "寄宿家庭",
+        "description": [
+          "選擇寄宿家庭的學生在尋找一個能夠練習英語的, 且具有美国特色的傳統的家庭。"
+        ],
+        "lists": [
+          "<b>房間</b> : 私人 (獨立)",
+          "<b>供餐</b> : 每天兩餐(早餐及晚餐)",
+          "<b>隱私</b> : 每個家庭有不同的規則。",
+          "<b>通勤</b> : 公車30- 45分鐘"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "寄宿家庭費用",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "安置費用* : $300<br /> 如果未滿 18 歲，租金將比 18 歲以上的人高出約 10%。",
+              "thead": [
+                "",
+                "私人",
+                "合住***"
+              ],
+              "tbody": [
+                [
+                  "<b>保證金**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1週",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2週",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3週",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4週",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8週",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12週",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*安置費用需一次性繳交。不可退還。<br />**保證金將在學生搬出後退還。<br />***您如果申請寄宿家庭的合住房間，您需要和另一個人一起申請。"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "管理人員的提醒",
+      "description": [
+        "當您一開始到達美國的時候，不是很容易可以找到住的地方，特別是那些沒有社會安全號碼(SSN)也沒有信任歷史的國際學生。<br />大多數的地方需要SSN及信用歷史才能租房。<br />因此，我們建議首先至少幾個月的時間住在我們的宿舍。",
+        "※您的住宿將由 U.S. Support Service Inc.或是其它仲介提供。"
+      ]
+    }
+  }

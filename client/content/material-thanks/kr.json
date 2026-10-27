@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "다음의 링크를 클릭하셔서 브로셔를 다운받으세요.",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "다음의 링크를 클릭하셔서 브로셔를 다운받으세요."
+    ],
+    "brochures": [
+      {
+        "title": "학교 브로셔",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/DIGITAL_A4_Student_Manual_KOREAN_MAR24.pdf"
+      },
+      {
+        "title": "숙박 브로셔",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 가격 & 등록 패키지",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "MLI 액티비티 브로셔",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "비자나 숙박등에 관해서 질문이 있으시면 언제든지 물어보세요.",
+      "<b>【 웨스트우드 캠퍼스 】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />전화번호: +1 (310) 887-0777<br />이메일: info@mliesl.edu<br />영업 시간: 월요일 부터 목요일 8:30 – 20:30, 금요일 8:30 - 18:00",
+      "<b>【 헐리우드 캠퍼스 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />전화번호: +1(323) 870-7102<br />이메일: hollywood@mliesl.edu<br />영업 시간: 월요일 부터 금요일 8:30 – 17:00",
+      "학생 여러분들을 로스엔젤레스에 있는 MLI에서 보기를 희망합니다."
+    ]
+  }

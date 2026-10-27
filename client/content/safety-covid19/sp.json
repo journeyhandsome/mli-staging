@@ -1,0 +1,85 @@
+{
+    "pageTitle": "MLI mantiene a todos a salvo durante la pandemia | Mentor Language Institute",
+    "pageDescription": "MLI ofrece actualmente clases de conversación en persona (intermedio y avanzado) y programas en línea que incluyen; ESL, TOEFL®︎, IELTS ™ ️, inglés de negocios más TOEIC®︎ y Competencias para la vida",
+    "title": "MLI mantiene a todos a salvo durante la pandemia",
+    "subtitle": [
+      "MLI ofrece actualmente clases de conversación en persona (intermedio y avanzado) y programas en línea que incluyen; ESL, TOEFL®︎, IELTS ™ ️, inglés de negocios más TOEIC®︎ y Competencias para la vida",
+      "MLI actualmente acepta estudiantes extranjeros y de transferencia"
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "Aquí hay 6 medidas de seguridad que MLI requiere de los estudiantes que asisten a clases presenciales",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "  MLI hará que las vacunas sean un requisito para todos en el campus, con el fin de mantener a todos a salvo. Si no quiere o no puede vacunarse, puede realizar una prueba de PCR y entregar los resultados a MLI todos los lunes."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "Certificado de vacunación COVID-19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            "  Los estudiantes deben someterse a la prueba de COVID-19 no más de 3 días antes de viajar en avión a los Estados Unidos (EE. UU.) y proporcionar los resultados negativos de la prueba MLI en inglés. Los estudiantes deben enviar por correo electrónico a MLI una copia de los resultados antes de la salida y traer los resultados originales de la prueba de PCR a la escuela.",
+            "Si el estudiante no proporciona a MLI los resultados de la prueba de PCR, debe permanecer en cuarentena durante 10 días después de su llegada a los EE. UU. Siempre que no haya síntomas de COVID-19, el estudiante puede comenzar su programa en persona después de la cuarentena de 10 días."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "Ejemplo de resultado negativo de COVID19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            "  Al ingresar a la escuela, todos deben desinfectarse las manos con el desinfectante de la entrada y hacerse tomar la temperatura. La temperatura debe estar por debajo de 99,5 F (37,5 ℃)."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            "  Se requiere que todos usen una mascarilla en todo momento mientras estén en la escuela. Se mantiene el distanciamiento social; distancia de 6 pies entre los escritorios de los estudiantes."
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            "  Antes y después de cada clase, las aulas, las áreas comunes y las superficies que se tocan con frecuencia se limpian y desinfectan de acuerdo con las pautas de los CDC."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            "  Protección plástica instalada en recepción."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

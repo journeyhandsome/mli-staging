@@ -1,0 +1,59 @@
+{
+    "pageTitle": "Studente che chiede il trasferimento | Mentor Language Institute",
+    "pageDescription": "Studente che si trova negli Stati Uniti e vuole richiedere il trasferimento dalla scuola in cui è attualmente iscritto a MLI",
+    "title": "Studente che chiede il trasferimento",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "section" :[
+      {
+        "subtitle" : "Studente che si trova negli Stati Uniti e vuole richiedere il trasferimento dalla scuola in cui è attualmente iscritto a MLI",
+        "description" : 
+        [
+          "-studente che è già iscritto ad un corso di studio negli Stati Uniti <br />-studente che sta frequentando un istituto professionale o altri istituti scolastici <br />-studente con un visto F1 e un I-20"
+        ]
+      }
+    ],
+    "category": [
+      {
+        "title": "Procedimento di iscrizione",
+        "image": "/images/how-to-apply/transfer-students/application-steps-en.jpg",
+        "subtitle": ["uno o due mesi prima della data del trasferimento:"],
+        "listType": "decimal",
+        "lists": [
+          "Presentare domanda di iscrizione ad MLI",
+          "Inviare i documenti",
+          "Prendere parte alla sessione di orientamento",
+          "Ricevere il nuovo I-20"
+        ],
+        "description": [
+          "Gli studenti devono avviare la procedura di trasferimento tramite la presentazione della domanda di iscrizione uno o due mesi prima della data di trasferimento desiderata.  è consiglato recarsi alla reception per parlare con lo staff amministrativo dopo aver presentato domanda per confermare che il procedimento di trasferimento è stato avviato dal momento che questo può rivelarsi complicato sulla base del vostro status."
+        ]
+      },
+      {
+        "title": "Regole per l'annullamento dell'iscrizione",
+        "description": [
+          "la tassa iniziale di registrazione di $ 150 deve essere pagata al momento dell'iscrizione. Essa non è rimborsabile indipendentemente dal fatto che la domanda venga respinta o l'iscrizione annullata. L'unica eccezione è rappresentata dall'indisponibilità di alloggi."
+        ]
+      },
+      {
+        "title": "Procedura successiva alla presentazione della domanda",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "Successivamente all'iscrizione, il sistema iMLI elabora la domanda.Gli studenti possono seguire questo processo tramite iMLI."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Iscrizione online",
+      "description": [
+        "Inserisci le informazioni sul tuo status del Visto<br />Contattaci tramite iMLI per qualsiasi informazione",
+        "Iscriversi sotto"
+      ],
+      "btn_label": "Modulo di iscrizione online",
+      "admission": {
+        "link": "/it/admission",
+        "content": [
+          "*si prega di tenere la propria carta di credito a portata di mano."
+        ]
+      }
+    }
+  }

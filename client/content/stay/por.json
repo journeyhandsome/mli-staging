@@ -1,0 +1,176 @@
+{
+    "pageTitle": "Acomodações | Mentor Language Institute",
+    "pageDescription": "A MLI trabalha em parceria com a U.S. Support Services Inc., que fornece acomodação para os alunos da MLI.",
+    "title": "Acomodações",
+    "subtitle": [
+      "A MLI trabalha em parceria com a U.S. Support Services Inc., que fornece acomodação para os alunos da MLI.  <br />Para obter mais detalhes, visite  <a href=\"www.usssinc.net/por\" target=\"_blank\">www.usssinc.net/por</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "Os estudantes podem escolher homestay ou dormitório.",
+    "types": [
+      {
+        "title": "Dormitório",
+        "description": [
+          "Existem 40 quartos no dormitório. Haverão muitas oportunidades para se comunicar com outros estudantes internacionais. Recomendamos que você fique em um dos nossos dormitórios se estiver com orçamento limitado."
+        ],
+        "lists": [
+          "<b>Quarto</b>  : Privado (individual), Compartilhado (2 pessoas) ou Quádruplo (4 pessoas)",
+          "<b>Refeição</b>  : sem refeições [está disponível uma cozinha totalmente equipada]",
+          "<b>Privacidade</b>  : há mais privacidade nos dormitórios do que em uma casa de família, no entanto, existem algumas regras nos dormitórios.",
+          "<b>Caminho para a escola</b>  : cerca de 20 minutos a pé ou de ônibus."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Preços de dormitórios",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Se menor de 18 anos, o aluguel será aproximadamente 10% a mais do que o preço para uma pessoa com mais de 18 anos.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee é um único pagamento. Não é reembolsável.<br />**Security deposit (calção) será reembolsável depois que o aluno sair da acomodação."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Homestay",
+        "description": [
+          "Os alunos que escolhem morar com uma família de homestay estão à procura de um ambiente seguro, acolhedor, e atmosfera confortável onde eles podem praticar o inglês. É também uma oportunidade para aprender sobre os costumes, tradições e valores familiares americanos."
+        ],
+        "lists": [
+          "<b>Room</b> : Private (Individual)",
+          "<b>Meal</b> : 2 meals a day (Breakfast and Dinner)",
+          "<b>Privacy</b> : There are some house rules depending on the host family.",
+          "<b>Commute</b> : 30- 45 minutes by bus"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Preços de Homestay",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> Se menor de 18 anos, o aluguel será aproximadamente 10% a mais do que o preço para uma pessoa com mais de 18 anos.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee é um único pagamento. Não é reembolsável.<br />**Security deposit (calção), será reembolsável depois que o aluno sair da acomodação.<br />***Se você solicitar um homestay quarto compartilhado, <span class=\"rmarker\">você deve aplicar com outra pessoa</span>"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "Comentários da nossa equipe",
+      "description": [
+        "Não é fácil encontrar um lugar para ficar quando se chega pela primeira vez nos EUA, especialmente para estudantes internacionais que não têm um número de Seguro Social (SSN) e histórico de crédito.",
+        "A maioria dos lugares requerem um SSN e histórico de crédito para alugar um lugar. Portanto, recomendamos que você fique em nossas acomodações por pelo menos os primeiros dois meses.",
+        "※ Seu alojamento será fornecido pela U.S. Support Service Inc. ou outros agentes."
+      ]
+    }
+  }

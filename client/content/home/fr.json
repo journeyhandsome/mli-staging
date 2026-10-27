@@ -1,0 +1,108 @@
+{
+  "pageTitle": "Excellente école d'anglais accessible à Los Angeles | Mentor Language Institute",
+  "pageDescription": "Excellente école d'anglais accessible à Los Angeles | Mentor Language Institute",
+  "peopleChooseMli": {
+    "title": "3 raisons pour lesquelles les gens choisissent MLI",
+    "subtitle": "(Mentor Language Institute)",
+    "lists": [
+      {
+        "image": "/images/home/fr/people-choose-mli-1.jpg",
+        "title": "Hollywood & Westwood",
+        "description": "Nous sommes situés dans les quartiers populaires de Los Angeles. Les étudiants peuvent non seulement étudier l'anglais, mais aussi profiter de Los Angeles.",
+        "read_more" : ["<a href=\"/fr/feature/\">» Lisez plus</a>"]
+      },
+      {
+        "image": "/images/home/fr/people-choose-mli-2.jpg",
+        "title": "Cours du matin, après-midi et soir",
+        "description": "Nous offrons des cours du matin, de l'après-midi ou du soir pour les personnes qui ont besoin d'horaires flexibles.",
+        "read_more" : ["<a href=\"/fr/feature/\">» Lisez plus</a>"]
+      },
+      {
+        "image": "/images/home/fr/people-choose-mli-3.jpg",
+        "title": "$201/semaine ～",
+        "description": "Bon emplacement et prix raisonnable! S'il vous plaît comparer nos prix à d'autres écoles. Si vous voulez des informations sur les frais de scolarité, cliquez sur Contactez-nous ci-dessous.",
+        "read_more" : ["<a href=\"/fr/feature/\">» Lisez plus</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/fr/mli-highly-rated.jpg",
+  "courses": {
+    "title": "Cours",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "ESL",
+        "subtitle": [
+          "Ce programme est composé de compréhension à l'audition/expression orale, de lecture/vocabulaire et de grammaire/expression écrite. Le programme ESL est idéal pour les étudiants qui veulent améliorer leurs compétences en anglais général."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "TOEFL®",
+        "subtitle": [
+          "Le programme de TOEFL® de MLI est un examen intensif des compétences et des stratégies nécessaires pour obtenir un score idéale dans les quatre sections du test Internet-Based Test (iBT)."
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Programme ESL Vacances",
+        "subtitle": [
+          "Ce programme est composé de cours d'écoute/d'expression orale, de lecture/vocabulaire et de grammaire/écriture. <br>Nous proposons le programme Vacation ESL aux étudiants qui souhaitent étudier l'anglais à court terme."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "IELTS™",
+        "subtitle": [
+          "IELTS™ est un test, développé au Royaume-Uni et en Australie, pour évaluer la maîtrise de l'anglais des étudiants. Récemment, de nombreuses universités américaines exigent soit un score TOEFL®, soit un score IELTS™.",
+          "Le programme se compose de quatre parties: l'écriture, la compréhension à l'audition, l'expression orale et la compréhension à la lecture.Dans cette classe, vous apprendrez les compétences/stratégies pour atteindre un score élevé dans chaque section.",
+          "IELTS™ semble relativement plus facile que le TOEFL®. C'est un programme parfait pour les étudiants qui trouvent le TOEFL® difficile."
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "Programme de Conversation",
+        "subtitle": [
+          "Notre programme se concentre sur le renforcement de vos compétences conversationnelles en anglais grâce à des activités captivantes et un apprentissage interactif ! Dans nos classes de conversation, les étudiants exploreront un large éventail de vocabulaire, de phrases et d'expressions idiomatiques qui donneront vie à vos conversations. Pratiquez votre prononciation dans notre classe CMAR. Grâce à des discussions amusantes, des jeux de rôle et des activités de groupe, vous gagnerez en confiance pour vous exprimer et participer à des conversations significatives. Nos instructeurs expérimentés fournissent un environnement d'apprentissage favorable, vous guidant dans un voyage de découverte linguistique."
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "Business plus TOEIC® Program",
+        "subtitle": [
+          "Le test TOEIC® est un indicateur de la maîtrise de l'anglais des affaires et est utilisé par diverses entreprises et organisations à travers le monde. En plus du cours standard Business, le cours TOEIC® prépare les étudiants à réussir l'examen TOEIC®. Il se concentrent sur la compréhension à l'audition et la compréhension à la lecture en introduisant un vocabulaire essentiel et en explorant des stratégies pour obtenir un score élevé au test.",
+          "Ce cours vous aidera à améliorer vos compétences en anglais, telles que le vocabulaire, la compréhension à l'audition et la compréhension à la lecture et la grammaire. En apprenant les stratégies pour trouver les bonnes réponses, vous serez en mesure d'obtenir un score élevé."
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/fr/free_trial_banner_fr.png",
+  "link": "/fr/freetrial",
+  "partnerSchools": {
+    "title": "MLI's Partner Universities / Colleges",
+    "subtitle": "\"MLI students can enroll at partner universities or colleges after completing certain MLI programs.\""
+  },
+  "locationCampus": {
+    "title": "Adresse/Campus",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "Campus de Westwood",
+        "subtitle": "Westwood est un quartier vibrant et unique situé à l'ouest de Los Angeles. Westwood est célèbre à cause de UCLA. C'est un quartier très amusant et populaire pour les étudiants, car il y a beaucoup d'étudiants universitaires et de nombreux magasins, restaurants et endroits sûrs pour sortir.",
+        "read_more" : ["<a href=\"/fr/westwood/\">» Lisez plus</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "Campus de Hollywood",
+        "subtitle": "Le campus de Hollywood est juste à côté du célèbre Chinese Theater. Il ya des cinémas célèbres, de bons restaurants, des magasins et des clubs dans la région d'Hollywood et cette région est toujours un endroit très animé.",
+        "read_more" : ["<a href=\"/fr/hollywood/\">» Lisez plus</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Témoignages d'étudiants",
+    "seemoreBtn": "Voir plus",
+    "TestimonialLink": "/fr/testimonials",
+    "readmoreBtn" : "Lire la suite"
+  }
+}

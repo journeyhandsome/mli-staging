@@ -1,0 +1,16 @@
+{
+  "pageTitle": "日本からのお申込み | Mentor Language Institute",
+  "pageDescription": "米国に滞在する予定の期間はどれぐらいですか？",
+  "title": "日本からのお申込み",
+  "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+  "category": {
+    "title": "米国に滞在する予定の期間はどれぐらいですか？",
+    "subtitle": "現段階で予定されている滞在日数を以下よりご選択ください。",
+    "content": [
+      "<a class='btn btn-primary text-center' href='/jp/how-to-apply/short'>90日未満の滞在</a>",
+      "<span class='text-center'>or</span>",
+      "<a class='btn btn-primary text-center' href='/jp/visaholder'>90日以上滞在する</a>",
+      "<span class='text-center'>解説：90日以上米国に滞在する場合は何かしらのビザが必要です。通常、学校に通う場合は学生ビザとなります。</span>"
+    ]
+  }
+}

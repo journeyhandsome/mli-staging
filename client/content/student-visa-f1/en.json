@@ -1,0 +1,37 @@
+{
+    "pageTitle": "Student VISA F1 | Mentor Language Institute",
+    "pageDescription": "Please choose your situation from the list below.",
+    "title": "Student VISA F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "Please choose your situation from the list below. <br /> If you are not sure about your situation, click READ MORE for more details."
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn.png",
+                    "link": "/en/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn.png",
+                    "link": "/en/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn.png",
+                    "link": "/en/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Any questions?",
+            "description": [
+                "Normally, you will need a student visa to stay as a long-term student in the United States.<br />If you don't know if you need a visa or not, please contact us.",
+                "We have speakers available in 8 different languages."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-en.png",
+                "link": "/en/contact"
+            }
+        }
+}

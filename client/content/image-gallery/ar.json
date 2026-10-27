@@ -1,0 +1,28 @@
+{
+  "pageTitle": "معرض الصور / الفيديو | Mentor Language Institute",
+  "pageDescription": "معهد اللغة منتور له اثنين من الجامعات في وسط لوس انجليس، هوليوود وستوود.",
+  "title": "معرض الصور / الفيديو",
+  "image": "/images/what-is-mli/image-gallery/gallery.jpg",
+  "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+  "subtitle": [
+    "معهد اللغة منتور له اثنين من الجامعات في وسط لوس انجليس، هوليوود وستوود.<br />لا تتردد في استكشاف الصور ومقاطع الفيديو من كل احرم أدناه"
+  ],
+  "schools": [
+    {
+      "key": "hollywood-campus",
+      "value": "Hollywood - Campus"
+    },
+    {
+      "key": "hollywood-class",
+      "value": "Hollywood - Class"
+    },
+    {
+      "key": "westwood-campus",
+      "value": "Westwood - Campus"
+    },
+    {
+      "key": "westwood-class",
+      "value": "Westwood - Class"
+    }
+  ]
+}

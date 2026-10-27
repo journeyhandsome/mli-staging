@@ -1,0 +1,85 @@
+{
+    "pageTitle": "يحافظ معهد MLI على سلامة الجميع أثناء الجائحة | Mentor Language Institute",
+    "pageDescription": "تقدم MLI حاليًا فصول محادثة شخصية (متوسط ​​ومتقدم) وبرامج عبر الإنترنت بما في ذلك ؛ ESL و TOEFL® و IELTS ™ ️ واللغة الإنجليزية للأعمال بالإضافة إلى TOEIC® و Life Skills English.",
+    "title": "يحافظ معهد MLI على سلامة الجميع أثناء الجائحة",
+    "subtitle": [
+      "تقدم MLI حاليًا فصول محادثة شخصية (متوسط ​​ومتقدم) وبرامج عبر الإنترنت بما في ذلك ؛ ESL و TOEFL® و IELTS ™ ️ واللغة الإنجليزية للأعمال بالإضافة إلى TOEIC® و Life Skills English.",
+      "تقبل MLI حاليًا الطلاب الأجانب والمنتقلين."
+    ],
+    "image": "/images/covid19/safety-measure/safety-measure.png",
+    "steps": {
+      "title": "فيما يلي 6 إجراءات أمان تتطلبها MLI من الطلاب الذين يحضرون الفصول الدراسية شخصيًا.",
+      "lists": [
+        {
+          "step": "/images/covid19/safety-measure/step-1.png",
+          "description": [
+            "سوف تجعل MLI التطعيمات مطلبًا للجميع في الحرم الجامعي ، من أجل الحفاظ على سلامة الجميع. إذا كنت غير راغب أو غير قادر على الحصول على التطعيم ، يمكنك إجراء اختبار PCR وإعطاء نتائج الاختبار إلى MLI بحلول كل يوم اثنين."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/Vaccinationproof.png",
+              "note": "شهادة التطعيم COVID-19"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-2.png",
+          "description": [
+            " يحتاج الطلاب إلى الخضوع لاختبار COVID-19 لمدة لا تزيد عن 3 أيام قبل السفر جواً إلى الولايات المتحدة (الولايات المتحدة) وتقديم نتائج اختبار MLI السلبية باللغة الإنجليزية. يجب على الطلاب إرسال نسخة من النتائج إلى MLI عبر البريد الإلكتروني قبل المغادرة وإحضار نتائج اختبار PCR الأصلية إلى المدرسة.",
+            "إذا فشل الطالب في تزويد MLI بنتائج اختبار PCR ، فيجب عليه / عليها الحجر الصحي لمدة 10 أيام بعد وصوله إلى الولايات المتحدة طالما لا توجد أعراض COVID-19 ، يُسمح للطالب ببدء برنامجه شخصيًا بعد الحجر الصحي لمدة 10 أيام."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/sample-pcr-negative-proof.jpg",
+              "note": "عينة من نتيجة COVID19 السلبية"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-3.png",
+          "description": [
+            " عند دخول المدرسة ، يجب على الجميع تطهير أيديهم باستخدام المطهر عند المدخل وفحص درجة حرارتهم. يجب أن تكون درجة الحرارة أقل من 99.5 فهرنهايت (37.5 درجة مئوية)."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/scanning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-4.png",
+          "description": [
+            " يجب على الجميع ارتداء قناع الوجه في جميع الأوقات أثناء التواجد في المدرسة الحفاظ على التباعد الاجتماعي ؛ مسافة 6 أقدام بين مكاتب الطلاب."
+          ],
+          "icon": "/images/covid19/safety-measure/icon-mask-orange.png",
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/classroom-setup.jpg"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-5.png",
+          "description": [
+            " قبل وبعد كل فصل ، يتم تنظيف وتطهير الفصول الدراسية والمناطق العامة والأسطح التي يتم لمسها بشكل متكرر وفقًا لإرشادات مراكز مكافحة الأمراض والوقاية منها (CDC)."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/cleaning.png"
+            }
+          ]
+        },
+        {
+          "step": "/images/covid19/safety-measure/step-6.png",
+          "description": [
+            " تم تركيب حماية بلاستيكية في منطقة مكتب الاستقبال."
+          ],
+          "gallery": [
+            {
+              "image": "/images/covid19/safety-measure/front-desk.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  }

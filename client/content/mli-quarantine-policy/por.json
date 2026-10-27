@@ -1,0 +1,53 @@
+{
+    "pageTitle": "Política de Quarentena da MLI | Mentor Language Institute",
+    "pageDescription": "A MLI está retomando as aulas presenciais, especialmente no campus Westwood.",
+    "title": "Política de Quarentena da MLI",
+    "subtitle": [
+      "A MLI está retomando as aulas presenciais, especialmente no campus Westwood. Todas as aulas de ESL presenciais serão retomadas a partir de <b>7/06/21</b>.<br /> Também temos outros programas disponíveis. <br /> Aqui está a mais atualizada política de quarentena da MLI, com base nos requisitos do condado de Los Angeles.",
+      "Embora o programa de conversação seja oferecido no campus de Hollywood, todas as outras aulas de Hollywood permanecerão online até futura notificação."
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "Estudantes Vacinados",
+        "unvaccinated": "Unvaccinated Students"
+      },
+      "table_header": [
+        "Estudantes Internacionais (Fora dos EUA)",
+        "Estduantes Internacionais (Dentro dos EUA)",
+        "Overseas & Domestic"
+      ],
+      "table_content": [
+        [
+          "Posso participar de aulas presenciais imediatamente após a chegada em LA?",
+          "<span class='hutoaka'>Sim</span>",
+          "<span class='hutoaka'>Sim</span>",
+          "<span class='font-weight-bold'>Não</span>"
+        ],
+        [
+          "Can I join in-person classes if I get a PCR test 3-5 days after arrival in LA?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>Não</span>"
+        ],
+        [
+          "Preciso ficar em quarentena por 10 dias para poder participar de aulas presenciais após chegar em Los Angeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Sim</span>"
+        ],
+        [
+          "A MLI exige que os alunos não vacinados façam testes PCR todas as semanas e apresentem resultados negativos todas as segundas-feiras, para poderem participar dos programas presenciais.",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Sim</span>"
+        ],
+        [
+          "Posso encurtar minha quarentena (7 dias) se eu fizer um exame de PCR após minha chegada em Los Angeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Sim</span>"
+        ]
+      ]
+    },
+    "note": "* Alunos totalmente vacinados devem apresentar comprovante de vacinação.<br />** Todos os alunos devem usar máscaras nas aulas."
+  }

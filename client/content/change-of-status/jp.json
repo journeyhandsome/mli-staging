@@ -1,0 +1,41 @@
+{
+  "pageTitle": "その他 | Mentor Language Institute",
+  "pageDescription": "米国市民権、永住権、その他米国に合法滞在できるビザをお持ちの方は学生(F-1)ビザの取得は不要です。",
+  "title": "その他",
+  "image": "/images/how-to-apply/change-of-status/change-of-status-jp.jpg",
+  "visaFree": {
+    "title": "ビザの取得が必要ない方",
+    "description": [
+      "米国市民権、永住権、その他米国に合法滞在できるビザをお持ちの方は学生(F-1)ビザの取得は不要です。",
+      "こちらよりお申込み下さい。"
+    ],
+    "btn_label": "オンライン申込フォームへ",
+    "link": "/jp/admission"
+  },
+  "needHelp": {
+    "title": "手続きの仕方が分からない方、質問をされたい方",
+    "description": [
+      "国籍が異なる、住所が変わる、など自分の現ステータスや、手続きの方法が分からない方。",
+      "また、手続きの前に申込み方法について確認しておきたい方など、お気軽にご連絡ください。日本語はもちろんのこと8言語で皆様からのお問合せに対応させていただいております。"
+    ]
+  },
+  "contactUs": {
+    "title": "お電話、ご来訪の方",
+    "description": [
+      "＜日本事務局＞<br />〒163-0243　東京都新宿区西新宿 2-6-1　新宿住友ビル 43F（スクールアライアンス内）<br />電話：03-4570-0215<br />Fax：03-6369-3621<br />営業時間：月曜日 - 土曜日 10:00am - 7:00pm<br />"
+    ],
+    "lists": [
+      {
+        "campus": "＜WESTWOOD CAMPUS＞",
+        "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+        "telephone": "Tel:310⁻887⁻0777"
+      },
+      {
+        "campus": "＜HOLLYWOOD CAMPUS＞",
+        "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+        "telephone": "Tel:323⁻870⁻7102"
+      }
+    ]
+  },
+  "hasBrochure": true
+}

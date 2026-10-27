@@ -1,0 +1,28 @@
+{
+  "pageTitle": "照片/视频总览 | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute 在洛杉矶有两个校区  Hollywood & Westwood",
+  "title": "照片/视频总览",
+  "image": "/images/what-is-mli/image-gallery/gallery.jpg",
+  "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+  "subtitle": [
+    "Mentor Language Institute 在洛杉矶有两个校区 <br /> Hollywood & Westwood"
+  ],
+  "schools": [
+    {
+      "key": "hollywood-campus",
+      "value": "Hollywood - 校区"
+    },
+    {
+      "key": "hollywood-class",
+      "value": "Hollywood - 班级"
+    },
+    {
+      "key": "westwood-campus",
+      "value": "Westwood - 校区"
+    },
+    {
+      "key": "westwood-class",
+      "value": "Westwood - 班级"
+    }
+  ]
+}

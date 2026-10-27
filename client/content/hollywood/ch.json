@@ -1,0 +1,96 @@
+{
+  "pageTitle": "Hollywood校区 | Mentor Language Institute",
+  "pageDescription": "Hollywood校区以娱乐业重心为名。奥斯卡颁奖典礼，以及许多电影首映都是在Dolby剧院举办，距离我们校区只有两分钟路程。学生们将有机会可以看到电影明星在Dolby剧院前踏出他们豪华轿车的时候。 ",
+    "title": "Hollywood校区",
+    "image": "/images/location/hollywood/hollywood-campus.jpg",
+    "yt_link": "https://www.youtube.com/embed/ktR2QURhttE",
+    "subtitle": [
+      "<span class=\"hutoaka\">Hollywood校区以娱乐业重心为名。奥斯卡颁奖典礼，以及许多电影首映都是在Dolby剧院举办，距离我们校区只有两分钟路程。学生们将有机会可以看到电影明星在Dolby剧院前踏出他们豪华轿车的时候。</span> ",
+      "我们Hollywood的学生大多对于舞蹈、音乐、演艺、电影、瑜珈等方面的环境有兴趣。并且有名的Musician Institute就在我们校区的对面。",
+      "这里有许多舞蹈工作室像是:"
+    ],
+    "lists": [
+      "Musician Institute",
+      "Edge Performing Arts",
+      "Millennium Dance Complex",
+      "Debbie Raynolds",
+      "MovementLifestyle",
+      "Los Angeles Film School",
+      "NY Film Academy"
+    ],
+    "other_desc": [
+      "Hollywood校区对于常用公共交通的学生来说是一个非常便利的地方(the Hollywood 及 Highland 站距离校区只有两分钟路程)。<br/>",
+      " 如果学生喜欢小班制的班级或喜欢娱乐/电影/音乐圈的环境，欢迎来到我们MLI的Hollywood校区!"
+    ],
+    "albums": [
+      {
+        "title": "校区",
+        "photos": [
+          "/images/location/hollywood/campus-1-th.jpg",
+          "/images/location/hollywood/campus-2-th.jpg"
+        ]
+      },
+      {
+        "title": "教室",
+        "photos": [
+          "/images/location/hollywood/class-1.jpg",
+          "/images/location/hollywood/class-2.jpg"
+        ]
+      }
+    ],
+    "location": {
+      "title": "地点",
+      "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.7636753752786!2d-118.3467233847837!3d34.1011940805926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf239f1c4a45%3A0x6953aa45bd461a42!2sMentor%20Language%20Institute%20-%20Hollywood!5e0!3m2!1sen!2sph!4v1576725075448!5m2!1sen!2sph"
+    },
+    "video": [
+      {
+        "title": "1. 如何经好莱坞高地火车站前往MLI好莱坞校区",
+        "youtube": "https://www.youtube.com/embed/rP3AV1P3duU"
+      },
+      {
+        "title": "2. 如何驾车前往MLI Hollywood Campus",
+        "addspace": "<br/>",
+        "youtube": "https://www.youtube.com/embed/JO2iqyI9Dfc"
+      }
+    ],
+    "accommodation": {
+      "title": "住宿",
+      "description": [
+        "我们提供寄宿家庭或宿舍两个住宿选择",
+        "＜宿舍＞<br/>",
+        "我们的宿舍都位于离学校很近的方便地区。"
+      ],
+      "information": [
+        {
+          "yt_link": "https://www.youtube.com/embed/27o22DzbFp0",
+          "desc": [
+            "＜寄宿＞ <br/>",
+            " 寄宿家庭是增进学英语及学习美国文化的最佳机会。"
+          ]
+        },
+        {
+          "yt_link": "https://www.youtube.com/embed/K4DT7WEI7MY",
+          "desc": [
+            "<a href=\"/ch/stay/\"><i class='bi bi-arrow-right'></i>  更多关于住宿资讯</a>"
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "课程总览",
+      "lists": [
+        "ESL课程",
+        "TOEFL®(托福)",
+        "会话课程",
+        "TOEIC®（托业）"
+      ]
+    },
+    "message": {
+      "title": "来自Hollywood校区的话",
+      "image": "/images/location/hollywood/julie.jpg",
+      "position": "来自主任的话",
+      "description": [
+        "MLI 的Hollywood校区位于繁忙的Hollywood市中心，距离 the Hollywood/Highland车站只有两分钟路程。 The Dolby Theater, Chinese Theater, 以及 Walk of Fame就在我们校区的旁边，提供很多让生活更有趣的机会。"
+      ]
+    }
+  }

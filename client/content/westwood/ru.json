@@ -1,0 +1,132 @@
+{
+    "pageTitle": "Вествуд Кампус | Mentor Language Institute",
+    "pageDescription": "Вествуд - яркий, уникальный район, расположенный в западной части Лос-Анджелеса.",
+    "title": "Вествуд Кампус",
+    "image": "/images/location/westwood/westwood-campus.jpg",
+    "yt_link": "https://www.youtube.com/embed/0SCL2bvPM8o",
+    "subtitle": [
+      "Вествуд - яркий, уникальный район, расположенный в западной части Лос-Анджелеса.",
+      "Вествуд славится тем, что является домом UCLA. Кампус Вествуд расположен на бульваре Уилшир и бульваре Вествуд.\" Он находится всего в 1 минуте от главной автобусной линии на бульваре Уилшир и бульваре Вествуд. Это очень интересное и популярное место для студентов, а также работников оффиса, так как здесь множество магазинов, ресторанов и безопасных мест для тусовки."
+    ],
+    "landmark": [
+      {
+        "image": "/images/location/westwood/santa-monica.jpg",
+        "title": "20 минут до Санта-Моники на автобусе"
+      },
+      {
+        "image": "/images/location/westwood/beverly-hills.jpg",
+        "title": "10 минут до Беверли Хиллз на автобусе"
+      },
+      {
+        "image": "/images/location/westwood/los-angeles-skyline.jpg",
+        "title": "60 минут до центра Лос-Анджелеса на автобусе"
+      }
+    ],
+    "gallery": {
+      "title": "Фотогалерея кампуса в Вествуде",
+      "photos": [
+        {
+          "image": "/images/location/westwood/10880-building.jpg",
+          "title": "Это на первом этаже здания. Вам не нужно брать лифт, чтобы пойти в класс .",
+          "subtitle": ""
+        },
+        {
+          "image": "/images/location/westwood/front-desk.jpg",
+          "title": "Стойка регистрации"
+        },
+        {
+          "image": "/images/location/westwood/classroom.jpg",
+          "title": "Стеклянные классы"
+        },
+        {
+          "image": "/images/location/westwood/computer-room.jpg",
+          "title": "Компьютерная комната"
+        },
+        {
+          "image": "/images/location/westwood/student-lounge.jpg",
+          "title": "Лаундж для студентов"
+        },
+        {
+          "image": "/images/location/westwood/free-space.jpg",
+          "title": "Лаундж для занятий"
+        }
+      ]
+    },
+    "location": {
+      "title": "Месторасположение",
+      "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4289041796537!2d-118.44512238478478!3d34.05851788060419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb7e2b42fadf%3A0xad96227841e11efb!2s10880+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90024!5e0!3m2!1sen!2sus!4v1513884279258"
+    },
+    "video": [
+      {
+        "title": "1. Как доехать до MLI Westwood Campus на автобусе",
+        "youtube": "https://www.youtube.com/embed/V2zydV7aWvA"
+      },
+      {
+        "title": "2. Как добраться до кампуса MLI Westwood на машине",
+        "youtube": "https://www.youtube.com/embed/5FXkkyV3DZg"
+      }
+    ],
+    "environment": {
+      "title": "Окружающая среда",
+      "photos": [
+        {
+          "image": "/images/location/westwood/ucla.jpg",
+          "title": "В нескольких минутах ходьбы от UCLA"
+        },
+        {
+          "image": "/images/location/westwood/hammer-museum.jpg",
+          "title": "Музей Хаммера, один из самых известных музеев в Лос-Анджелесе, находится рядом с нашим кампусом."
+        },
+        {
+          "image": "/images/location/westwood/westwood-library.jpg",
+          "title": "Библиотека прямо за кампусом, где вы можете заниматься."
+        },
+        {
+          "image": "/images/location/westwood/chevron-restaurant.jpg",
+          "title": "Есть много доступных ресторанов."
+        }
+      ]
+    },
+    "accommodation": {
+      "title": "Размещение",
+      "description": [
+        "Мы предоставляем проживание в семье и общежитие."
+      ],
+      "types": [
+        {
+          "desc": [
+            "＜Общежитие＞<br />В студенческом общежитии 40 комнат, и вы можете добраться до школы пешком или на автобусе."
+          ],
+          "yt_link": "https://www.youtube.com/embed/V_eNdjw6Z1c"
+        },
+        {
+          "desc": [
+            "＜Проживание в семье＞"
+          ],
+          "yt_link2": "https://www.youtube.com/embed/K4DT7WEI7MY",
+          "other_desc": [
+            "Проживание в семье- лучший способ узнать американскую культуру и расширить свои возможности общаясь с носителями языка.",
+            "<a href=\"/ru/stay/\"><i class='bi bi-arrow-right'></i>  Подробнее о проживание</a>"
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "Курсы",
+      "lists": [
+        "ESL Программа",
+        "TOEFL®",
+        "IELTS™",
+        "Разговорная Программа",
+        "TOEIC®"
+      ]
+    },
+    "message": {
+      "title": "Сообщение от нашего програмного координатора",
+      "image": "/images/location/westwood/westwood-director.jpg",
+      "position": "Сообщение от нашего програмного координатора",
+      "description": [
+        "Кампус Вествуд расположен в большом районе вблизи UCLA. Есть различные места для посещения, такие как кино, магазины и музеи. Наш курс TOEFL® очень популярен, так как многие студенты Вествуд планируют поступление в университет. Кроме того, наши цены на обучение в полне разумные. Многие люди переводятся из других школ  в MLI ! Вы можете скачать брошюру и проверить детали."
+      ]
+    }
+  }

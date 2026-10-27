@@ -1,0 +1,222 @@
+{
+  "pageTitle": "MLI의 대학교 및 컬리지, pathway 전형 체결 학교 | Mentor Language Institute",
+  "pageDescription": "Mentor Language Insitute의 고급반을 수료한 학생은 대학의 인정어학시험과 입학 조건이 충족된다면 TOEFL 또는 IELTS 성적 없이도 학사 및 석사 학위 프로그램에 지원할 수 있습니다.",
+  "title": "MLI의 대학교 및 컬리지, pathway 전형 체결 학교",
+  "university": {
+    "title": "대학교 협약 내용",
+    "description": "Mentor Language Insitute의 고급반을 수료한 학생은 대학의 인정어학시험과 입학 조건이 충족된다면 TOEFL 또는 IELTS 성적 없이도 학사 및 석사 학위 프로그램에 지원할 수 있습니다. ",
+    "lists": [
+      {
+        "image": "/images/going-to-college/yum.png",
+        "link": "https://www.adelphi.edu/",
+        "title": "Adelphi University",
+        "address": "Long Island, New York",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "Adelphi University는 지식에 대한 열정, 문화적 가치의 이해 및 의문, 지속적으로 변화하는 세계에 있어 독립된 평생학습자, 공헌자를 양육하고 있습니다."
+      },
+      {
+        "image": "/images/going-to-college/international-accelerator.png",
+        "link": "https://www.american.edu/",
+        "title": "American University",
+        "address": "Washington, D.C.",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "American University는 폭넓고 다양한 전공과 부전공의 선택지를 제공하고 있습니다. 학생은 이중전공으로 학업을 진행하거나 전공과목을 융합하여 스스로 편성하거나, 전공, 부전공을 다른 학교에서 수강하는 것도 가능합니다. AU는 학생들에게 학문 분야의 경계를 넘는 기회를 제공합니다."
+      },
+      {
+        "image": "/images/going-to-college/auburn-university.png",
+        "link": "https://www.auburn.edu/",
+        "title": "Auburn University",
+        "address": "Auburn, Alabama",
+        "subtitle": "(Graduate Programs Available)",
+        "description": "Auburn University는 학생들이 오늘날의 세계 경제에 대비할 수 있도록 최선을 다하고 있습니다.  특히 국제 프로그램 사무실 사이트는 유학생 / 학자 이민 상담, 유학 옵션 등의 부과적 정보, 학술 단체 후원 정보 및 학부 및 대학원생을 위한 국제 입학 정보를 제공하고 있습니다."
+      },
+      {
+        "image": "/images/going-to-college/floria-international-university.png",
+        "link": "https://www.fiu.edu/",
+        "title": "Floria International University",
+        "address": "Miami, Florida",
+        "subtitle": "",
+        "description": "Florida International University는 업계 관계 및 인턴십 기회 등 글로벌 시장에서 경력을 쌓는 데 도움이 되는 다양한 커뮤니티 환경을 갖추고 있어 다양한 학생들을 환영하고 있습니다. FIU에서 학생들은 기업가의 도시에서 탁월한 교육을 받게 될 것 입니다."
+      },
+      {
+        "image": "/images/going-to-college/louisiana-state-university.png",
+        "link": "https://www.lsu.edu/",
+        "title": "Louisiana State University",
+        "address": "Baton Rougue, Louisiana",
+        "subtitle": "",
+        "description": "Louisiana State University에서의 학위 취득은 학생의 미래에 대한 투자입니다. LSU는 탁월한 교육과 기회를 제공하는 한편 합리적인 컬리지 경험을 제공합니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-kansas.png",
+        "link": "https://www.ku.edu/",
+        "title": "The University of Kansas",
+        "address": "Lawrence, Kansas",
+        "subtitle": "",
+        "description": "진보 된 장학금, 발명 및 발견의 세계, KU(The University of Kansas)는 많은 분야에서 글로벌 리더, 비즈니스 거인 및 비전을 생산하는 교육과 그들의 삶을 변화시킬 학부생 경험을 제공합니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-central-florida.png",
+        "link": "https://www.ucf.edu/",
+        "title": "University of Central Florida",
+        "address": "Orlando, Florida",
+        "subtitle": "",
+        "description": "학생들에게는 큰 꿈이 있습니다. 어쩌면 그들은 세계를 여행하거나, 자신의 사업을 운영하거나, 생명을 구하는 데 도움이되는 특허를 보유하기를 원할 것입니다. University of Central Florida가 학생들을 도울 것입니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-the-pacific.png",
+        "link": "https://www.pacific.edu/",
+        "title": "University of the Pacific",
+        "address": "Stockton, California",
+        "subtitle": "",
+        "description": "University of the Pacific은 샌프란시스코에서 1.5 시간 떨어진 아름다운 캠퍼스에 위치하고 있습니다. 교양 과목 외에 교육, 엔지니어링 및 비즈니스, 치과, 법률, 약학 및 건강 과학 분야와 관련된 대학원이 있습니다. 캘리포니아에서 처음으로 여성의 입학을 인정했습니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-south-carolina.png",
+        "link": "https://www.sc.edu/",
+        "title": "University of South Carolina",
+        "address": "Columbia, South Carolina",
+        "subtitle": "",
+        "description": "University of South Carolina는 학생들이 미래의 창조적 문제 해결자가 되기 위해 준비하는 곳입니다. 그 어느 누가 다음 세대를 보다 건강하고 생동감 있는 삶으로 인도할 것인가요."
+      },
+      {
+        "image": "/images/going-to-college/university-of-illinois.png",
+        "link": "https://www.uic.edu/",
+        "title": "University of Illinois at Chicago",
+        "address": "Chicago, Illinois",
+        "subtitle": "",
+        "description": "University of Illinois(UIC)는 다양성을 강조하고 인종적 및 문화적으로 풍부한 학습 환경을 학생들에게 제공함으로써 전 세계의 학생들에게 다양한 교육 기회를 제공합니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-utah.png",
+        "link": "https://www.utah.edu/",
+        "title": "The University of Utah",
+        "address": "Salt Lake City, Utah",
+        "subtitle": "",
+        "description": "The University of Utah는 학생과 교수진들의 연구에 기초하여 스타트업 기업을 창설하는 것에 있어 전국 최고입니다. 이것은 캠퍼스와 교실에서의 혁신적이고 근면한 사고를 나타냅니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-dayton.png",
+        "link": "https://www.udayton.edu/",
+        "title": "University of Dayton",
+        "address": "Dayton, Ohio",
+        "subtitle": "",
+        "description": "University of Dayton은 최고의 가톨릭 연구 대학이며 오하이오에서 가장 큰 사립 대학교입니다. 1850 년 마리아 학회 (Marianists)에 의해 설립된 이 대학은 지역 사회에서 학습하고 모든 것을 환영합니다. 또한, 타인에게 봉사하고 지적 호기심을 자극하며 지도력과 봉사를 학습으로 연결하는 헌신하는 리더를 양성하는 마리아주의 교육 철학을 특징으로합니다."
+      },
+      {
+        "image": "/images/going-to-college/umass-amherst.png",
+        "link": "https://www.umass.edu/",
+        "title": "UMass Amherst",
+        "address": "Amherst, Massachusetts",
+        "subtitle": "",
+        "description": "UMass Amherst은 미국의 주요 공공 연구 대학 중 하나입니다. Massachusetts, Amherst에 자리 잡은 캠퍼스는 전국 주요 공립 연구 대학교 중 하나로써 꾸준히 자리 잡고 있으며, 주요 도시 중심에 가까운 시골 환경에서 풍부한 문화 환경을 제공합니다."
+      },
+      {
+        "image": "/images/going-to-college/university-of-cincinnati.png",
+        "link": "https://www.uc.edu/",
+        "title": "University of Cincinnati",
+        "address": "Cincinnati, Ohio",
+        "subtitle": "",
+        "description": "University of Cincinnati는 미래의 성취자, 지도자 및 끊임 없이 지식을 갈구하는 사람들을 위한 중심지입니다. 미국 뉴스 및 월드 리포트에 따르면 국립 대학교에서 135 위를 차지하는 본교는 전 세계적으로 4 천만 명의 동창과 그의 학교 정신을 자랑합니다."
+      }
+    ]
+  },
+  "campus": {
+    "title": "컬리지 협약 내용",
+    "description": "MLI는 수 많은 LA 지역 대학과의 특별 협정(협약) 또는 상호 인정 프로그램 (MRP)을 제공하고 있습니다. 이러한 MRP 협약을 통해 학생들은 TOEFL® 점수없이 해당 컬리지 및 대학에 전학 할 수 있으며, 일부는 동시 등록도 가능함으로 MLI 학생은 MLI에 여전히 등록되어 있는 동안 파트 타임 학점을 취득 할 수 있습니다. 학생이 이에 해당하는 자격을 갖추려면 MLI의 중상급 프로그램을 완벽히 수료해야 합니다.",
+    "lists": [
+      {
+        "image": "/images/going-to-college/santa-monica-college.png",
+        "link": "https://www.smc.edu/",
+        "title": "Santa Monica College",
+        "address": "Santa Monica, California",
+        "subtitle": "",
+        "description": "Santa Monica College는 27 년 동안 다른 어느 컬리지보다도 많은 학생들을 캘리포니아에 있는 대학으로 (편입)배출했습니다. SMC는 또한 UCLA, USC 및 Loyola Marymount University, 그리고 Mississippi에 있는 Ivy League Columbia University에 가장 많은 학생이 편입하고 있습니다."
+      },
+      {
+        "image": "/images/going-to-college/glendale-community-college.png",
+        "link": "https://www.glendale.edu/",
+        "title": "Glendale Community College",
+        "address": "Glendale, California",
+        "subtitle": "",
+        "description": "Glendale Community College는 25,000 명 이상의 학생들이 다니는 역동적인 학교입니다. 본교 학생들은 Verdugo 캠퍼스에서 대학 학점을 받고 Garfield 캠퍼스에서 계속 교육을 받을 수 있으며, 커뮤니티 전체에서 실시되는 사회 봉사 수업과 Montrose에 위치한 전문 개발 센터 (PDC)에 등록되어 있습니다. 본교는 인종적으로 다양한 학생 단체로서 다수의 단일 그룹을 구성하지 않습니다."
+      },
+      {
+        "image": "/images/going-to-college/pasadena-city-college.png",
+        "link": "https://pasadena.edu/",
+        "title": "Pasadena City College",
+        "address": "Pasadena, California",
+        "subtitle": "",
+        "description": "Pasadena City College는 San Gabriel Valley에서 학생의 성공을 위해 혁신적이고 역동적인 학습 환경을 제공합니다. 매 학기마다 학위, 이전 프로그램 및 수료증을 포함한 학업 프로그램을 30,250 명 이상의 학생들에게 제공합니다. 신입생과 재학생 모두가 지역 학생이며 국제 및 온라인에서 연결되어 있습니다. 우리는 LGBT, 다문화, 베테랑, 그리고 그 밖의 모든 문화를 망라합니다."
+      },
+      {
+        "image": "/images/going-to-college/cypress-college.png",
+        "link": "https://www.cypresscollege.edu/",
+        "title": "Cypress College",
+        "address": "Cypress, California",
+        "subtitle": "",
+        "description": "Cypress College는 개별 학생을 위한 교육을 강조합니다. 교육 및 개별화 학습 연구소의 우수성은 학생들이 잠재력을 최대한 발휘할 수 있는 가능성을 높입니다. 또한, 교사 및 풀 타임 상담 직원은 학생들이 프로그램과 수업을 선택하는 데 도움이되는 교육 지원 및 광범위한 지도 정보를 제공합니다. 학사 학위를 수료하려는 학생의 경우 고등 학교에서 단과대 또는 대학으로 자연스럽게 전환(진학)할 수 있습니다."
+      },
+      {
+        "image": "/images/going-to-college/west-los-angeles-college.png",
+        "link": "http://www.wlac.edu/",
+        "title": "West Los Angeles College",
+        "address": "Culver City, California",
+        "subtitle": "",
+        "description": "West Los Angeles College는 공인 된 캘리포니아 커뮤니티 컬리지로서 대학 편입, 진로 교육 및 개인 또는 전문직을 위한 과정을 제공합니다. 본교는 Culver City, Marina Del Rey 및 Greater West Los Angeles를 내려다 보는 70 에이커의 공원과 같은 곳입니다. 맑은 날에는 캠퍼스의 가장 높은 지점에서 태평양을 볼 수 있습니다. 약 12,000 명의 일반 및 extension 재학생 수, 110명의 전임 교수진, 300 명 이상의 교수진 및 112 명의 기밀 직원이 남부 캘리포니아 고유의 교육 환경을 조성합니다."
+      },
+      {
+        "image": "/images/going-to-college/el-camino-college.png",
+        "link": "https://www.elcamino.edu/",
+        "title": "El Camino College",
+        "address": "Torrance, California",
+        "subtitle": "",
+        "description": "El Camino College가 수 많은 특출난 기회 및 환경을 제공하는 것을 알고계십니까. <ul><li>선도적인 남부 캘리포니아 이관기관</li><li>충분한 주차 공간 및 편리한 입지</li><li>뛰어난 지역 사회 교육 프로그램</li><li>80 개 이상의 명성 높은 직업 프로그램</li></ul>"
+      },
+      {
+        "image": "/images/going-to-college/pierce-college.png",
+        "link": "http://www.piercecollege.edu/",
+        "title": "Pierce College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Pierce college는 남부 캘리포니아의 2년제 공공 기관으로서 교육, 직업 훈련 및 평생 학습을위한 기회를 제공합니다. 본교는 친절하고 도움이되는 교수진 및 직원들과 학문적 우수성이 결합되어 있습니다. 이는 학생들에게 친숙한 교육 기관으로서 대학 및 직업 교육을 준비하는 이들에게 고품질의 도전적인 교육을 제공한다는 확고한 명성을 얻고 있습니다. 본교 학생들은 4 년제 대학보다 규모가 작고 수업료가 저렴합니다."
+      },
+      {
+        "image": "/images/going-to-college/latcc.png",
+        "link": "http://www.lattc.edu/",
+        "title": "LATCC - Traning. Transfer. Tradition. Trade Tech.",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "사명 선언문 : Los Angeles Trade Technical College는 학생들이 직업 기술 증명서, 준 학사 학위, 이직 및 취업을 할 수 있도록 학업, 경력 및 이전 성공을 위한 경로를 제공함으로 지역 사회를 발전시킵니다. 우리의 비전 : Los Angeles Trade Technical College는 학생들의 삶과 지역 사회를 변화시키기 위해 지역 및 국가에서 인정받는 최고의 커뮤니티 컬리지가 될 것입니다."
+      },
+      {
+        "image": "/images/going-to-college/los-angeles-harbor-college.png",
+        "link": "https://www.lahc.edu/",
+        "title": "Los Angeles Harbor College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "Los Angeles Harbor College는 이수 학위, 수료증, 경제, 인력 개발 및 기본 기술 교육을 통해 학생 성공을 촉진합니다. 우리의 교육 프로그램 및 지원 서비스는 캠퍼스 기관의 학습 성과를 통해 측정된 다양한 지역 사회의 요구를 충족시킵니다."
+      },
+      {
+        "image": "/images/going-to-college/new-york-film-academy.png",
+        "link": "https://www.nyfa.edu/",
+        "title": "New York Film Academy",
+        "address": "Battery Place, New York",
+        "subtitle": "",
+        "description": "지난 25 년 동안 뉴욕 영화 아카데미 (NYFA)는 세계 최고의 비주얼 및 공연 예술 학교 중 하나로 명성을 쌓아 왔습니다. 우리의 혁신적인 프로그램은 시각 예술 및 공연 예술에 대한 열정을 공유하고 광범위한 미디어를 통해 배우고 싶어하는 예술가를 위한 새로운 세대의 스토리 텔러를 위해 고안되었습니다. 실습, 쌍방향 학습에 대한 타의 추종을 불허하는 접근 방식을 통해 학생들은 첫 날부터 학습 과정에 완전히 몰입하게 됩니다. 수업은 수상 경력이 있는 업계 전문가들이 최신 시설과 장비를 갖춘 실제 환경에서 진행됩니다."
+      },
+      {
+        "image": "/images/going-to-college/lacc-city-college.png",
+        "link": "https:/www.lacitycollege.edu",
+        "title": "Los Angeles City College",
+        "address": "Los Angeles, California",
+        "subtitle": "",
+        "description": "LACC는 18,000 명 이상의 학생들에게 학위, 편입 프로그램 및 수료증을 포함한 100 개 이상의 직업 및 전문 프로그램을 제공하는 역동적이고 혁신적인 학습 환경을 제공합니다. 2019 년 LACC는 창립 90 주년을 맞이합니다.<br>LA College Promise에 따라 우리는 LAUSD 고등학교와 차터 스쿨을 졸업하는 모든 풀 타임 학생들에게 1 년 무료 등록을 제공합니다. 또한 The Herb Alpert Foundation의 선물 덕분에 음악 전공자 수업료 무료 출석, 개인 레슨 및 재정 지원을 제공합니다. 또한 우리 학생들은 다양한 재정 지원 옵션의 혜택을받습니다."
+      }
+    ]
+  },
+  "contactUs": {
+    "title": "더 많은 정보가 필요하신가요? 연락처",
+    "description": "전화, 이메일 또는 소셜미디어를 통해서 언제든 연락주세요",
+    "btnText": "연락처"
+  }
+}

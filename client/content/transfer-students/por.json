@@ -1,0 +1,53 @@
+{
+    "pageTitle": "Alunos de Transferência | Mentor Language Institute",
+    "pageDescription": "Alunos que atualmente estudam em outra escola nos EUA e desejam mudar de escola.",
+    "title": "Alunos de Transferência",
+    "image": "/images/how-to-apply/transfer-students/transfer-students.jpg",
+    "section" :[
+      {
+        "description" : [
+          "Alunos que atualmente estudam em outra escola nos EUA e desejam mudar de escola."
+        ]
+      }
+    ],
+    "category": [
+      {
+        "title": "Etapas da Aplicação",
+        "image": "/images/how-to-apply/transfer-students/application-steps-por.png",
+        "listType": "decimal",
+        "lists": [
+          "Aplicar para MLI (preencher o requerimento on-line)",
+          "Envie-nos os documentos exigidos para obter o I-20",
+          "Participar da orientação dos novos estudantes",
+          "Receber um novo I-20"
+        ],
+        "description": [
+          "Os estudantes devem se inscrever na MLI 1 ou 2 meses antes da data de início do programa desejado. É melhor conversar com um orientador de estudantes na MLI depois de enviar uma inscrição on-line para confirmar o processo de transferência, pois pode ser complicado dependendo da sua situação."
+        ],
+        "hasApplyNow": true
+      },
+      {
+        "title": "Política de Cancelamento",
+        "description": [
+          "A taxa de matrícula de $150 será cobrada somente uma única vez quando voce se matricular. A taxa de matrícula não é reembolsável independentemente se o visto for negado ou cancelado."
+        ]
+      },
+      {
+        "title": "Depois de enviar a sua aplicação",
+        "image": "/images/how-to-apply/transfer-students/application-form-en.jpg",
+        "description": [
+          "Depois de nos enviar a sua aplicação on-line, nós vamos processá-la e entao mandaremos o link do iMLI para você. (Página on-line das aplicacões de cada estudante). Estudantes podem acompanhar o andamento de sua matrícula no iMLI."
+        ]
+      }
+    ],
+    "applyOnline": {
+      "title": "Inscrição Online",
+      "description": [
+        "Preencha o formulário online.<br />Contate-nos via e-mail para quaisquer dúvidas."
+      ],
+      "imageLink": {
+        "image": "/images/how-to-apply/transfer-students/apply-now-por.png",
+        "link": "/por/admission"
+      }
+    }
+  }

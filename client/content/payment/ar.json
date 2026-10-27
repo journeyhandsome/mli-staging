@@ -1,0 +1,68 @@
+{
+    "pageTitle": "الدفع | Mentor Language Institute",
+    "pageDescription": "الدفع",
+    "subtitle": [
+      "<p style=\"margin-bottom: -15px; font-size: 18px; font-weight: bold; color: black;\">يمكنك إجراء الدفع بشكل آمن باستخدام بطاقة الائتمان عن طريق ملء النموذج الموجود في هذه الصفحة وإرساله. لا يقوم معهد مينتور للغات بتخزين معلومات بطاقتك الائتمانية. يتم تيسير عملية الدفع هذه من خلال الدفع عبر الإنترنت من خلال Stripe.<br />يرجى ملء البيانات أدناه</p>"
+    ],
+    "studentInfo": {
+      "form": [
+        {
+          "type": "datepicker",
+          "name": "date",
+          "label": "التاريخ",
+          "isRequired": true
+        },
+        {
+          "type": "select",
+          "name": "campus",
+          "label": "اي موقع",
+          "selection": [
+            {
+              "value": "Westwood Campus",
+              "label": "Westwood Campus"
+            },
+            {
+              "value": "Hollywood Campus",
+              "label": "Hollywood Campus"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "label": "الاسم الأول للطالب",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "lname",
+          "label": "اسم عائلة/اسم عائلة الطالب",
+          "isRequired": true
+        },
+        {
+          "type": "text",
+          "name": "agency",
+          "label": "اسم الوكالة (إن وجدت)"
+        },
+        {
+          "type": "amount",
+          "name": "amount",
+          "label": "المبلغ",
+          "isRequired": true
+        },
+        {
+          "type": "note",
+          "description": [
+            "<p style=\"margin-top: -15px; font-size: 15px; color:red;\">*سيتم إضافة 4٪ من رسوم معالجة السجل التجاري على مبلغ الدفع الخاص بك.</p>"
+          ]
+        },
+        {
+          "type": "percent",
+          "name": "percent",
+          "label": "المبلغ المخصوم من بطاقتك الائتمانية"
+        }
+    ]
+    },
+  "btn_label": "المتابعة إلى صفحة تسجيل الخروج"
+}

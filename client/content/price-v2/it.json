@@ -1,0 +1,196 @@
+{
+  "pageTitle": "Prezzi | Mentor Language Institute",
+  "pageDescription": "Il costo dell'alloggio è escluso nel caso in cui lo studente decida di provvedervi personalmente.",
+  "title": "Prezzi",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/it/price-auto\">Calcolo del prezzo</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Tassa scolastica+②Costo dell'alloggio+③Altri costi",
+    "subtitle": [
+      "Il costo dell'alloggio è escluso nel caso in cui lo studente decida di provvedervi personalmente.<br>*Please use <a href=\"/it/price-auto/\">the price calculator</a> to get a quote."
+    ],
+    "lists": [
+      {
+        "title": "①Tassa scolastica",
+        "subtitle": [
+          "Il costo della tassa scolastica varia in base al programma scelto e alla durata.<br /> Più a lungo decidi di studiare ad MLI, minore sarà il costo da sostenere."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "description": [
+          "<b>Q&A</b> <br /><b>Domanda:</b> è possibile cambiare corso dopo aver iniziato a seguire? <br /><b>Risposta:</b> certo!"
+        ]
+      },
+      {
+        "title": "②Costo dell'alloggio",
+        "subtitle": [
+          "MLI fornisce due opzioni agli studenti: Programma Homestay e Dormitorio. Il Programma Homestay è consigliato per le persone che desiderano avere un'esperienza diretta nella cultura americana. I Dormitori, invece, sono consigliati per gli studenti che vogliono fare nuove conoscenze e condividere esperienze con persone provenienti da diverse parti del mondo."
+        ],
+        "category": [
+          {
+            "title": "Homestay Prices",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> Se il giovane ha meno di 18 anni, l'affitto sarà superiore di circa il 10% rispetto al prezzo per una persona di età superiore ai 18 anni.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Prezzi dei Dormitori",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Se il giovane ha meno di 18 anni, l'affitto sarà superiore di circa il 10% rispetto al prezzo per una persona di età superiore ai 18 anni.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "description": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>",
+              "※Your accommodation will be provided by U.S. Support Service Inc. or other agents.",
+              "<a href=\"/it/stay/\"><i class='bi bi-arrow-right'></i>  More information about Accommodations</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Costi iniziali",
+        "subtitle": [
+          "In aggiunta ai costi sopra menzionati, ci sono ulteriori spese iniziali."
+        ],
+        "lists": [
+          "Tassa di registrazione* : $150",
+          "Tassa di spedizione dell' I-20 ** : $120",
+          "Tassa SEVIS: $350 (pagata direttamente al SEVP) **",
+          "Libri di testo: $150-240 ： $150-240"
+        ],
+        "description": [
+          "*non rimborsabile<br />** Per le persone con Visto studenti"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Esempi",
+    "subtitle": [
+      "Esempi: 4 settimane e 48 settimane"
+    ],
+    "lists": [
+      {
+        "title": "1 mese(4 settimane)",
+        "items": [
+          "Tassa di registrazione: $150",
+          "Tassa di iscrizione: $1,220",
+          "Alloggio: $1,560（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Totale : $2,930</span>"
+        ]
+      },
+      {
+        "title": "1 Anno (48 settimane)",
+        "items": [
+          "Tassa di registrazione: $150",
+          "Tassa di iscrizione : $10,032",
+          "Alloggio: $12,360（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Totale : $22,542</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Per eventuali domande sui prezzi, contattaci."
+  ]
+}

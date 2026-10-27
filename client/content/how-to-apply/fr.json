@@ -1,0 +1,32 @@
+{
+    "pageTitle": "Quel type de visa envisagez-vous de postuler? | Mentor Language Institute",
+    "pageDescription": "Veuillez choisir votre situation de visa parmi les options ci-dessous",
+    "title": "Quel type de visa envisagez-vous de postuler?",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "Veuillez choisir votre situation de visa parmi les options ci-dessous:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-fr.png",
+                    "link": "/fr/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-fr.png",
+                    "link": "/fr/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Autres questions?",
+            "description": [
+                "En règle général, vous avez besoin d'un visa étudiant pour rester à long terme aux Etats-Unis en tant qu'étudiant.",
+                "Si vous ne savez-pas si vous avez besoin d'un visa, contactez-nous",
+                "Nous avons du personnel multilingue à votre disposition, en 8 langues différentes"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-fr.jpg",
+                "link": "/fr/contact"
+            }
+        }
+}

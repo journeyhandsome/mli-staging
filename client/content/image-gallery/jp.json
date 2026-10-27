@@ -1,0 +1,28 @@
+{
+  "pageTitle": "写真・動画ギャラリー | Mentor Language Institute",
+  "pageDescription": "Mentor Language Instituteはロサンゼルスの中心地に2つのキャンパスを持ちます。",
+  "title": "写真・動画ギャラリー",
+  "image": "/images/what-is-mli/image-gallery/gallery.jpg",
+  "yt_link": "https://www.youtube.com/embed/R9QsXd0-Cw8",
+  "subtitle": [
+    "Mentor Language Instituteはロサンゼルスの中心地に2つのキャンパスを持ちます。<br />以下に校舎の写真を写真を公開しています。ぜひ雰囲気を感じてください。"
+  ],
+  "schools": [
+    {
+      "key": "hollywood-campus",
+      "value": "Hollywood - Campus"
+    },
+    {
+      "key": "hollywood-class",
+      "value": "Hollywood - Class"
+    },
+    {
+      "key": "westwood-campus",
+      "value": "Westwood - Campus"
+    },
+    {
+      "key": "westwood-class",
+      "value": "Westwood - Class"
+    }
+  ]
+}

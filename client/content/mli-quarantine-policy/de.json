@@ -1,0 +1,53 @@
+{
+    "pageTitle": "MLI Quarantänerichtlinie | Mentor Language Institute",
+    "pageDescription": "Das MLI nimmt den Präsenzunterricht hauptsächlich auf dem Westwood-Campus wieder auf.",
+    "title": "MLI Quarantänerichtlinie",
+    "subtitle": [
+      "Das MLI nimmt den Präsenzunterricht hauptsächlich auf dem Westwood-Campus wieder auf. <br /> Alle ESL-Kurse werden ab dem <b>July.6.21</b> persönlich wieder aufgenommen. <br /> Andere Programme verfügbar. <br /> Hier ist die aktuellste Quarantänerichtlinie von MLI basierend auf den Anforderungen des Landkreises LA.",
+      "Während das Konversationsprogramm auf dem Hollywood-Campus angeboten wird, bleiben alle anderen Hollywood-Kurse bis auf Weiteres online."
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "Vollständig geimpfte Schüler",
+        "unvaccinated": "Ungeimpfte Studenten"
+      },
+      "table_header": [
+        "Von Übersee",
+        "Aus dem Inland (in den USA)",
+        "Übersee & Inland"
+      ],
+      "table_content": [
+        [
+          "Kann ich direkt nach meiner Ankunft in LA an persönlichen Kursen teilnehmen?",
+          "<span class='hutoaka'>Ja</span>",
+          "<span class='hutoaka'>Ja</span>",
+          "<span class='font-weight-bold'>Nein</span>"
+        ],
+        [
+          "Kann ich an Präsenzkursen teilnehmen, wenn ich 3-5 Tage nach meiner Ankunft in LA einen PCR-Test erhalte?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>Nein</span>"
+        ],
+        [
+          "Muss ich 10 Tage unter Quarantäne gestellt werden, um nach meiner Ankunft in LA an persönlichen Kursen teilnehmen zu können?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Ja</span>"
+        ],
+        [
+          "MLI verlangt von nicht geimpften Studenten, dass sie jede Woche PCR-Tests machen und bis jeden Montag negative Ergebnisse einreichen müssen, um an Präsenzprogrammen teilnehmen zu können.",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Ja</span>"
+        ],
+        [
+          "Kann ich meine Quarantäne (7 Tage) verkürzen, wenn ich nach meiner Ankunft in LA eine PCR-Untersuchung ablege?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Ja</span>"
+        ]
+      ]
+    },
+    "note": "*Vollgeimpfte Studierende müssen einen Nachweis vorlegen<br />**Alle Schüler müssen im Unterricht Masken tragen."
+  }

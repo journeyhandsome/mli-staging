@@ -1,0 +1,47 @@
+{
+  "pageTitle": "Others | Mentor Language Institute",
+  "pageDescription": "Thank you for your interest in applying to MLI. This page is for those who already have any visa status other than a student visa, or who are from ESTA Countries or Tourist Visa Countries.",
+  "title": "Others",
+  "image": "/images/how-to-apply/apply-others/apply-others.jpg",
+  "subtitle": [
+    "Thank you for your interest in applying to MLI.<br />This page is for those who already have any visa status other than a student visa, or who are from ESTA Countries or Tourist Visa Countries.",
+    "If you plan to apply to MLI without obtaining a student (F-1) visa, please proceed with your enrollment from this page."
+  ],
+  "applyOnline": {
+    "imageLink": {
+      "image": "/images/common/apply-now-en.jpg",
+      "link": "/en/admission"
+    }
+  },
+  "applicationSteps": {
+    "title": "Application Steps",
+    "description": [
+      "Your application steps are different based on your country, nationality, courses and visas, etc. <b>Our staff will guide you on the exact steps once you submit your on-line application.</b>"
+    ]
+  },
+  "needHelp": {
+    "title": "Need help? Ask Us!",
+    "description": [
+      "- Can I study at MLI without obtaining a visa?<br />- Is it possible to enroll with a different visa other than a student visa(F-1)?<br />- How long can I stay in the U.S. without a student visa?<br />- How many hours per week should I study at MLI in order to obtain a student visa?",
+      "The answers to these questions are explained on the website for the U.S. Embassy or U.S. Citizenship and Immigration Services(USCIS).",
+      "If you want clarification before submitting your application, please confirm on the web-sites or <b>feel free to contact us. We can advise you in 8 languages!</b>"
+    ]
+  },
+  "contactUs": {
+    "image": "/images/common/contact-us-en.png",
+    "link": "/en/contact",
+    "title": "Contact Us",
+    "lists": [
+      {
+        "campus": "＜WESTWOOD CAMPUS＞",
+        "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+        "telephone": "Tel:310⁻887⁻0777"
+      },
+      {
+        "campus": "＜HOLLYWOOD CAMPUS＞",
+        "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+        "telephone": "Tel:323⁻870⁻7102"
+      }
+    ]
+  }
+}

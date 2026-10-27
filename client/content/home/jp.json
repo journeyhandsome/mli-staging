@@ -1,0 +1,108 @@
+{
+  "pageTitle": "ロサンゼルスにあるリーズナブルな語学学校",
+  "pageDescription": "ロサンゼルスにあるリーズナブルな語学学校",
+  "peopleChooseMli": {
+    "title": "MLI (メンター)が選ばれる理由、トップ３",
+    "lists": [
+      {
+        "image": "/images/home/jp/people-choose-mli-1.jpg",
+        "title": "ハリウッド & ウェストウッド",
+        "description": "ロサンゼルスの中心地、かつ人気のロケーションに位置しています。勉強ももちろん、ロサンゼルスの街を満喫しましょう。",
+        "read_more" : ["<a href=\"/jp/feature/\">» 詳細はこちら</a>"]
+      },
+      {
+        "image": "/images/home/jp/people-choose-mli-2.jpg",
+        "title": "午前・午後・夜のクラスも",
+        "description": "朝の弱い方は午後、昼間が忙しい方は夜間など生活スタイルに合わせて受講する時間帯を選択できます。",
+        "read_more" : ["<a href=\"/jp/feature/\">» 詳細はこちら</a>"]
+      },
+      {
+        "image": "/images/home/jp/people-choose-mli-3.jpg",
+        "title": "1週間201ドル～",
+        "description": "この立地でこの価格。ぜひ他校と比較してみてください。料金詳細が気になる方は、ぜひ資料請求からどうぞ。",
+        "read_more" : ["<a href=\"/jp/feature/\">» 詳細はこちら</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/jp/mli-highly-rated.jpg",
+  "courses": {
+    "title": "コース・種類",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "ESLプログラム",
+        "subtitle": [
+          "英語の基礎力を養うためのコースです。基礎的な英語力と英語でのコミュニケーションの取り方を重点的に学びます。"
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "TOEFLコース",
+        "subtitle": [
+          "Internet-Based Test (iBT)の4つのセクションのスコアで、高得点を取るためのスキルと対策を集中して学びます。"
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Vacation ESLプログラム (短期でESLを受講される方向け)",
+        "subtitle": [
+          "このプログラムは、短期の方向けの基礎英語を学ぶためのコースです。 <br>基礎的な英語力と英語でのコミュニケーションの取り方を重点的に学びます。"
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "IELTS™ Program",
+        "subtitle": [
+          "IELTSは主にイギリス・オーストラリアで開発された英語力を図るためのテストです。",
+          "昨今、多くのアメリカ大学はTOEFL® スコアを義務付けていますが、IELTS™でも条件として認める大学が増えてきました。",
+          "プログラムは、リスニング、スピーキング、リーディング、ライティングの４つのパートで構成されており、各セクションで高得点を取るためのスキル/ ストラテジーを学びます。",
+          "日本人にとってIELTS™はTOEFL®よりも比較的容易と言われており、TOEFL®を難しく感じる学生にぴったりなプログラムです。"
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "Conversation(会話)プログラム",
+        "subtitle": [
+          "私たちのConversation(会話)プログラムは、実践的なアクティビティや対話型学習を通じて、あなたの英会話スキルを向上させることに重点を置いています！このプログラムでは、様々な語彙、フレーズ、イディオムを学び、あなたの英語での会話能力をさらに高めることができます。CMARクラスでは、あなたの発音矯正を行い、楽しいディスカッションやロールプレイ、グループ活動を通じて、自己表現や「実生活」で使われる様々な会話を効果的に学習することができます。経験豊富な講師陣がサポートする学習環境で一緒に会話力アップを目指しましょう。"
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "Business plus TOEIC® Program",
+        "subtitle": [
+          "このプログラムは、通常のビジネスコースに加え、TOEIC®テストのスコアを上げることを目的としたコースです。TOEIC®テストは、世界中の様々な会社や組織において、ビジネスにおける英語力を示す指標となっています。",
+          "本コースを受講することで、語彙力、リーディング力、リスニング力、文法力といった英語力が向上することはもちろん、問題を正解に導くストラテジーを学ぶことで、テストで高得点が取れるようになります。"
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/jp/free_trial_banner_jp.png",
+  "link": "/jp/freetrial",
+  "partnerSchools": {
+    "title": "MLI の全米パートナー大学",
+    "subtitle": "\"MLIで定められた要件を満たせば、パートナー大学へ特別枠での入学が可能です。\""
+  },
+  "locationCampus": {
+    "title": "場所・キャンパス",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "ウェストウッドキャンパス",
+        "subtitle": "ウエストウッドはロサンザルス市の西側に位置するUCLA（California Univerity Los Angeles）のある活気に満ちた街です。この街は学生が多いことから多くのお店、レストランが立ち並んでいます。当校のキャンパスは世界的に有名なハマーミュージアムの目の前に位置します。",
+        "read_more" : ["<a href=\"/jp/westwood/\">» 詳しくみる</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "ハリウッドキャンパス",
+        "subtitle": "ハリウッドキャンパスは観名所としても有名なチャイニーズシアターのすぐ側にあります。数々の有名な映画館、お洒落なレストラン、ショッピングやクラブなど、ハリウッドキャンパスの周りは常に熱気に囲まれています。",
+        "read_more" : ["<a href=\"/jp/hollywood/\">» 詳しくみる</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "体験談",
+    "seemoreBtn": "他を見る",
+    "TestimonialLink": "/jp/testimonials",
+    "readmoreBtn" : "もっと読む"
+  }
+}

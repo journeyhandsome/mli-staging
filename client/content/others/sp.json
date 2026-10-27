@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Otros | Mentor Language Institute",
+    "pageDescription": "Gracias por su interés en aplicar a MLI. Esta página es para aquellos que ya tienen un estado de visa que no sea una visa de estudiante, o que son de ESTA Países o países de visas de turistas.",
+    "title": "Otros",
+    "image": "/images/how-to-apply/apply-others/apply-others.jpg",
+    "subtitle": [
+      "Gracias por su interés en aplicar a MLI.<br />Esta página es para aquellos que ya tienen un estado de visa que no sea una visa de estudiante, o que son de ESTA Países o países de visas de turistas.",
+      "Si planea inscribirse en MLI sin obtener una visa de estudiante (F-1), proceda con su inscripción desde esta página."
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/common/apply-now-sp.png",
+        "link": "/sp/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "Pasos de aplicación",
+      "description": [
+        "Los pasos de su solicitud son diferentes según su país, nacionalidad, cursos y visas, etc. <b> Nuestro personal lo guiará en los pasos exactos una vez que envíe su solicitud en línea.</b>"
+      ]
+    },
+    "needHelp": {
+      "title": "¿Necesitas ayuda? ¡Preguntanos!",
+      "description": [
+        "- ¿Puedo estudiar en MLI sin obtener una visa?<br />- ¿Es posible inscribirse con una visa diferente a la visa de estudiante (F-1)?<br />- ¿Cuánto tiempo puedo permanecer en los Estados Unidos sin una visa de estudiante?<br />- ¿Cuántas horas por semana debo estudiar en MLI para obtener una visa de estudiante? ",
+        "Las respuestas a estas preguntas se explican en el sitio web de EE. UU. Servicios de Ciudadanía e Inmigración de la Embajada o los Estados Unidos (USCIS).",
+        "Si desea una aclaración antes de enviar su solicitud, confirme en los sitios web o siéntase libre de contactarnos.¡Podemos asesorarte en 8 idiomas!"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/common/contact-us-sp.jpg",
+      "link": "/sp/contact",
+      "title": "Contáctenos",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    }
+  }

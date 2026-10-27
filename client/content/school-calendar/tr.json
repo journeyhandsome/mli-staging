@@ -1,0 +1,60 @@
+{
+    "pageTitle": "Okul Takvimi | Mentor Language Institute",
+    "pageDescription": "Programın başlangıç ​​tarihi F1 veya F1 öğrencisi olmayan öğrencilere göre değişir.",
+    "title": "Okul Takvimi",
+    "calendar": [
+      {
+        "year": "2026",
+        "image": "/images/courses/school-calendar/2026.PNG"
+      },
+      {
+        "year": "2027",
+        "image": "/images/courses/school-calendar/2027.png"
+      }
+    ],
+    "notes": [
+      "<font color=\"#FECC13\">Sarı</font>: Program Başlama Tarihi (Modül)<br /><font color=\"”#008000”\">Yeşil</font>： Okul yok (Tatil)"
+    ],
+    "schoolCalendar": {
+      "title": "Okul Takvimi (Program başlangıç ​​tarihleri)",
+      "description": [
+        "<span class=\"ymarker\">Programın başlangıç ​​tarihi F1 veya F1 öğrencisi olmayan öğrencilere göre değişir.</span>"
+      ],
+      "lists": [
+        {
+          "key": "Öğrenci vizesi almayan F1 öğrencisi değildir.",
+          "value": [
+            "Programlarına herhangi bir Pazartesi günü başlayabilir. <br> Pazartesi tatil ise, o hafta için programın başlama tarihi Salı olacaktır."
+          ]
+        },
+        {
+          "key": "Öğrenci (F) vizesi alan F1 öğrencileri.",
+          "value": [
+            "Belirli Pazartesi günleri başlayabilir.  (Takvim’de sarı ile vurgulanmıştır).",
+            "<2026> <br />1/20, 2/17, 3/16, 4/13, 5/11, 6/8, 7/6, 8/3, 8/31, 9/28, 10/26, 11/23, 12/21",
+            "<2027><br /> 1/25, 2/22, 3/22, 4/19, 5/17, 6/14, 7/12, 8/9, 9/7, 10/4, 11/1, 11/29",
+            "<2028> <br /> 1/3"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "ABD'ye varış tarihleri ​​hakkında sık sorulan sorular.",
+      "lists": [
+        {
+          "key": "<b>S: Program başlama tarihinden kaç gün önce bir öğrenci ABD'ye girebilir?</b>",
+          "value": [
+            "C: MLI, öğrencilerimizin belirli bir gün öncesinden ABD'ye gelmelerini gerektirmez.  Ancak, öğrencilerimiz genellikle programlarının başlama tarihinden 1 veya 2 gün önce ABD'ye girerler."
+          ],
+          "note": "Not: Uluslararası öğrencilerin, program başlama tarihinden 30 gün önce ABD'ye girmelerine izin verilir."
+        },
+        {
+          "key": "<b>S: Program başlama tarihinden önce konaklama yerlerine taşınmak mümkün müdür?</b>",
+          "value": [
+            "C: Evet.  Konaklama tarihinizi istediğiniz tarihte değiştirebiliriz.",
+            "Başka sorularınız varsa, lütfen bize danışmaktan çekinmeyin."
+          ]
+        }
+      ]
+    }
+  }

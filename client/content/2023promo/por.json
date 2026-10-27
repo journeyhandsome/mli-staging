@@ -1,0 +1,385 @@
+{
+    "pageTitle": "Bolsa Diversidade - MLI 2023 exclusiva para estudantes de nacionalidades específicas | Mentor Language Institute",
+    "pageDescription": " Bolsa Diversidade - MLI 2023 exclusiva para estudantes de nacionalidades específicas",
+    "title": " Bolsa Diversidade - MLI 2023 exclusiva para estudantes de nacionalidades específicas",
+    "subtitle": [
+        "A MLI está sempre empenhada em oferecer o melhor ambiente de aprendizado possível para seus alunos. No outono de 2023, disponibilizaremos uma bolsa especial/desconto exclusivamente para estudantes do <b>  Brasil, Colômbia, Espanha, Alemanha e Itália,  </b>com o objetivo de alcançar uma representação equilibrada de nacionalidades dentro da escola.",
+        "A bolsa será oferecida aos estudantes desses três países que se matricularem na MLI durante os meses de julho, agosto e setembro de 2023.",
+        "As bolsas são limitadas, e serão oferecidas a apenas 10 estudantes em cada campus (Campus Westwood e Hollywood). A distribuição das bolsas será feita por ordem de chegada.",
+        "Se você é do <b> Brasil, Colômbia, Espanha, Alemanha e Itália,</b> incentivamos você a aproveitar essa oferta especial/bolsa e aprimorar seu inglês na MLI!",
+        "Pergunta 1: Qual o valor da bolsa que posso receber da MLI?",
+        "Você encontrará os valores  abaixo:",
+        "Regras:",
+        "1. Os candidatos podem se inscrever para o curso escolhido, não sendo obrigatório optar pela hospedagem.",
+        "2.O valor especial da bolsa de estudos será aplicado apenas uma vez e não poderá ser aplicada para a extensão dos estudos.",
+        "3. Se você precisar dos nossos serviços de hospedagem por mais de 8 semanas, este preço especial de hospedagem estará disponível por mais de 8 semanas. Por favor, solicite um orçamento através do formulário de contato.",
+        "4. Todas as taxas escolares devem ser pagas na sua chegada."
+    ],
+    "questions": {
+        "tables" :[ 
+            { 
+                "title_optional": "= Visto de Turista =",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "2 semanas de estudos",
+                "weeksPlan": " Plano de  2 semanas de estudos",
+                "tbody": [
+                    [
+                        "$100",
+                        "Taxa de matrícula"
+                    ],
+                    [
+                        "$250",
+                        "Curso"
+                    ],
+                    [
+                        "$30",
+                        "Taxa de locação de livros"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$380</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total curso</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-50%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "2 semanas de acomodação em dormitório estudantil",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Taxa de Processamento"
+                    ],
+                    [
+                        "$420",
+                        "Aluguel (Quarto Quádruplo)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$520</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total acomodação </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$900</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escola e Acomodação</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-57%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "3 semanas de estudos",
+                "weeksPlan": "Plano de 3 semanas de estudos",
+                "tbody": [
+                    [
+                        "$100",
+                        "Taxa de matrícula"
+                    ],
+                    [
+                        "$375",
+                        "Curso"
+                    ],
+                    [
+                        "$35",
+                        "Taxa de locação de livros"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$510</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total curso</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-53%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "3 semanas de acomodação em dormitório estudantil",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Taxa de Processamento"
+                    ],
+                    [
+                        "$630",
+                        "Aluguel (Quarto Quádruplo)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$730</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total acomodação </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-34%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,240</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escola e Acomodação</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-43%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "4 Semanas de estudos",
+                "weeksPlan": "Plano de 4 semanas de estudos",
+                "tbody": [
+                    [
+                        "$100",
+                        "Taxa de matrícula"
+                    ],
+                    [
+                        "$400",
+                        "Curso"
+                    ],
+                    [
+                        "$40",
+                        "Taxa de locação de livros"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$540</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total curso</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-61%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "4 semanas de acomodação em dormitório estudantil",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Taxa de Processamento"
+                    ],
+                    [
+                        "$840",
+                        "Aluguel (Quarto Quádruplo)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$940</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total acomodação </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-33%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$1,480</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escola e Acomodação</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-47%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "title_optional": "Estudantes com visto F1",
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "12 Semanas de estudos",
+                "weeksPlan": "Plano de 12 semanas de estudos",
+                "tbody": [
+                    [
+                        "$150",
+                        "Taxa de matrícula"
+                    ],
+                    [
+                        "$1,721",
+                        "Curso"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,871</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total curso</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-38%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 semanas de acomodação em dormitório estudantil",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Taxa de Processamento"
+                    ],
+                    [
+                        "$1,512",
+                        "Aluguel (Quarto Quádruplo)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total acomodação </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-30%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$3,483</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escola e Acomodação</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-35%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "24 semanas de estudos",
+                "weeksPlan": "Plano de 24 semanas de estudos",
+                "tbody": [
+                    [
+                        "$150",
+                        "Taxa de matrícula"
+                    ],
+                    [
+                        "$3,125",
+                        "Curso"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$3,275</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total curso</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 semanas de acomodação em dormitório estudantil",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Taxa de Processamento"
+                    ],
+                    [
+                        "$1,512",
+                        "Aluguel (Quarto Quádruplo)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total acomodação </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$4,887</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escola e Acomodação</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-37%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+                ]
+                }
+            },
+            { 
+                "table": {
+                "tableMaxCol": 3,
+                "weeksStudy": "48 semanas de estudos",
+                "weeksPlan": "Plano de 48 semanas de estudos",
+                "tbody": [
+                    [
+                        "$150",
+                        "Taxa de matrícula"
+                    ],
+                    [
+                        "$5,789",
+                        "Curso"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$5,939</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total curso</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+
+                ],
+                "weeks2Study": "8 semanas de acomodação em dormitório estudantil",
+                "tbody1": [
+                    [
+                        "$100",
+                        "Taxa de Processamento"
+                    ],
+                    [
+                        "$1,512",
+                        "Aluguel (Quarto Quádruplo)"
+                    ],
+                    [
+                        "<b style=\"background-color: #F7DCB4;\">$1,612</b>",
+                        "<b style=\"background-color: #F7DCB4;\">Total acomodação </b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-32%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ],
+                    [
+                        "<b style=\"background-color: yellow;\">$7,551</b>",
+                        "<b style=\"background-color: yellow;\">TOTAL Escola e Acomodação</b>"
+                    ],
+                    [
+                        "<span style=\"color: red;\"><b>-39%</b></span>",
+                        "<span style=\"color: red;\"><b>De DESCONTO</b></span>"
+                    ]
+                ]
+                }
+            }
+        ]
+
+    },
+    "qa": [
+        {
+            "question": "P2. Como posso receber essa bolsa de estudos?", 
+            "answer": [
+                "Você pode se candidatar à bolsa de estudos por meio do nosso formulário de inscrição online, utilizando o código \"SCHOLAR2023\". Será necessário pagar uma taxa de processamento de apenas US$150, que não é reembolsável. Além disso, se você não for um estudante F1, receberá um crédito de US$50.",
+                "No primeiro dia de aula na MLI, você fará o pagamento do valor restante, com um desconto de US$50."
+            ],
+            "btn": "/images/home/image1.png",
+            "btn_link" : "/por/admission"
+        },
+        {
+            "question": "P3. Quais programas posso cursar com essa bolsa de estudos?", 
+            "answer": [
+                "Com essa bolsa de estudos, você poderá escolher entre os programas de ESL (9h00 às 13h15) e Conversação (13h45 às 18h00).",
+                "Aqui estão os horários dos programas nas escolas Westwood e Hollywood:",
+                "• <a href=\"/documents/2023/MLI WW Class schedule 2023.pdf\">Programação do Westwood </a> <br>• <a href=\"/documents/2023/MLI HW Class schedule 2023.pdf\">Programação do Hollywood </a>",
+                "Você pode selecionar o programa que melhor se adequa às suas necessidades e preferências."
+            ]
+        },
+        {
+            "question": "P4. A MLI oferece algum serviço de acomodação?", 
+            "answer": [
+                "Sim, temos opções de hospedagem em casas de família (homestay) e também em residências estudantis/dormitórios estudantis.",
+                "Visite nosso link <a href=\"/por/stay\">aqui</a>",
+                "Sinta-se à vontade para nos enviar uma mensagem caso precise de qualquer informação adicional. <br>Estamos à disposição para ajudar."
+            ],
+            "btn" : "/images/home/image2.png",
+            "btn_link": "/por/contact"
+        }
+    ]
+}

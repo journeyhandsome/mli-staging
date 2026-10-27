@@ -1,0 +1,139 @@
+{
+  "pageTitle": "MLI 수업과 강사 | Mentor Language Institute",
+  "pageDescription": "일반 영어 수업에서는 트위터, TED talks, 영화 장면같이 실용 영어를 습득할 수 있는 자료들을 사용합니다.",
+  "title": "MLI 수업과 강사",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "수업은 실질적으로 사용할 수 있는 부분에 집중합니다.",
+      "description": [
+        "일반 영어 수업에서는 트위터, TED talks, 영화 장면같이 실용 영어를 습득할 수 있는 자료들을 사용합니다. 또한 이 자료들을 통해서, 학생들은 체계적으로 문법, 쓰기, 읽기, 어휘, 듣기, 말하기의 패턴을 습득 할 수 있습니다.",
+        "그리고 토플과 같은 시험 준비반에서는 학생들이 그들만의 문제 푸는 방식을 만들어서 공부를 하는 방법을 배우게 됩니다. "
+      ]
+    },
+    {
+      "title": "MLI 강사",
+      "description": [
+        "매년 약 1,200명의 졸업생을 배출하고 이 숫자는 우리 학교 강사들의 질을 단편적으로 보여줍니다. 우리는 참관, 평가, 전문 인력개발 워크숍을 통해서 지속적으로 강사의 질을 향상 시키고 있습니다."
+      ],
+      "checklist": [
+        {
+          "title": "채용 요건(강사 채용 체크 리스트)",
+          "lists": [
+            "4년제 대학 졸업자",
+            "영어 강사로 3년 이상 일한 경험",
+            "TESOL과 같은 영어 강사 자격증",
+            "TOEFL® / GMAT® 같은 영어 시험에 대한 지식",
+            "탄탄한 의사 소통 능력",
+            "강의에 대한 열정과 헌신"
+          ]
+        },
+        {
+          "title": "채용 방법",
+          "lists": [
+            "이력서와 학위",
+            "영어 문법 시험",
+            "인터뷰",
+            "가상 수업"
+          ],
+          "note": "채용율은 20% 미만입니다."
+        }
+      ]
+    },
+    {
+      "title": "교육 & 평가 시스템",
+      "description": [
+        "MLI에서는 강사의 질을 유지하기 위해서 매 12주마다 다음의 세가지 항목을 체크합니다."
+      ],
+      "listType": "decimal",
+      "lists": [
+        "학생들은 강사와 사용하고 있는 교과서를 평가합니다. 85% 이하의 만족도를 받은 강사는 전문성 개발 교육을 받습니다.",
+        "경험이 많은 강사로 구성된 팀이 수업을 참관하고 평가 보고서를 만듭니다.",
+        "강사의 질을 향상시키기 위해 전문성 개발과 교육 워크샵을 개최합니다."
+      ],
+      "note": "관리자와 강사들은 교육의 질을 향상 시키기 위해 매일 노력합니다!"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

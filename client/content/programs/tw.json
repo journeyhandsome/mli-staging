@@ -1,0 +1,100 @@
+{
+  "pageTitle": "程式 | Mentor Language Institute",
+  "pageDescription": "MLI提供8個總類的課程: ESL課程, Vacation ESL 課程, 托福課程, 雅思課程, 中級會話課程, 高級會話課程, 商務課+託業課, GRE® / GMAT® 課程",
+  "title": "程式",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "MLI提供7個總類的課程",
+    "lists": [
+      "ESL課程",
+      "Vacation ESL 課程",
+      "TOEFL® Test Preparation / TOEFL® and University Preparation 課程",
+      "IELTS™️課程",
+      "中級會話課程",
+      "高級會話課程",
+      "商務英語+TOEIC®課程"
+    ]
+  },
+  "subtitle": [
+    "所有課程都以英文教授。許多學生都從基礎的語言課程開始學習。一段時間後，他們將申請換去（如托福）。<br />*所有的學生都可以選擇這個選修課。<br />**部分班級需要學生在入學考試中達到相應的分數才可進入。"
+  ],
+  "services_esl": [
+    {
+      "title": "ESL課程（語言課程）",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "該課程注重基礎英語的訓練。幫助學生提升綜合能力（聽，說，讀，寫）。",
+      "description": [
+        "該課程有8個等級是我校最受歡迎的課程之一。該課程能根據學生的等級有效的幫助他們提高英語能力。"
+      ],
+      "youtube": "https://www.youtube.com/embed/Aq_MfkF3x0g"
+    }
+  ],
+  "services_toefl": [
+    {
+      "title": "TOEFL® Test Preparation / TOEFL® and University Preparation 課程",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/tw/2026-年新版-toefl-ibt：你必須了解的所有變革/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "\"托福(iBT)是一項評估非英語母語人士英語水平的考試。美國許多大學都要求托福成績，政府機構、私營企業、資格獲取機構和獎學金機構也要求。",
+      "description": [
+        "MLI的托福準備項目專注於考試策略和提高所有四項技能(寫作、聽力、口語和閱讀)，以在網絡考試(iBT)中獲得高分。"
+      ],
+      "youtube": "https://www.youtube.com/embed/KYPYbU-D3M0"
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "IELTS™️課程",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "雅思™是在英國和澳大利亞為主的一種測試，用於評估學生的英語水平。近些年,許多美國大學也接受託福®得分,或雅思™得分。",
+      "description": [
+        "本課程由聽、說、讀、寫四部分組成。在本課程中，你將學習在雅思考試中的技巧/策略。",
+        "雅思比托福®™是相對容易。這對學習托福有 <br />難度的同學，是一個很好的選擇。"
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "會話課程",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "這個課程注重日常對話交流幫助學生說一口流利的英文。",
+      "description": [
+        "我們的課程專注於透過有趣的活動和互動學習，提升您在英語會話方面的技巧！在我們的會話課堂中，學生將探索各種豐富的詞彙、片語和慣用語，使您的對話生動有趣。在我們的CMAR課堂中練習發音。透過有趣的討論、角色扮演和小組活動，您將增強表達自己和參與有意義對話的自信。我們經驗豐富的教師提供支持性的學習環境，引導您踏上語言探索之旅。"
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "Business plus TOEIC®️課程",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "在國際商務領域，英語是世界通用的語言。這個課程的目的是提高商務英語溝通技巧",
+      "description": [
+        "英語技能將通過學生powerpoint演示文稿、電話練習、談判和會議等實際模擬得到全面提高，同時還將重點學習商務詞彙、聽力、寫作和討論技能。"
+      ],
+      "youtube": "https://www.youtube.com/embed/2htjAgPz984",
+      "other_info": {
+        "description": [
+          "TOEIC®考試是一項商業英語水平的指標，被世界各地的公司和組織使用。除了標準的商業課程外，託業®課程還通過介紹基本詞彙和探索在考試中取得高分的策略，為學生在託業®聽、讀考試中取得成功做好準備。",
+          "這個課程將有助於提高你的英語技能，如詞彙、閱讀、聽力和語法。通過學習找到正確答案的策略。"
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "私人課程",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "定制私人課程，以一對一或小組形式滿足您的目標。",
+      "description": [
+        "私教課",
+        "私人課程是定制的，以滿足您的目標在一對一或小組計劃。",
+        "私人課程是我們最靈活的語言學習選擇。老師會為你設計個性化的課程，幫助你實現特定的英語目標。你可以根據實際需求學習，如語言課程，會話，糾正口音，商務英語，托福，託業，GRE等等。您可以根據您的可用性和所需的速度來安排私人課程。例如，集中精力學習，可以要求每天上3小時的私人課程，或者如果放鬆的節奏，可以每週上一次私人課程，每次1小時。該課程不僅時間靈活，注重個性化教學，同時價格也是很實惠的。",
+        "常規私人課程費用： <br />$80/1 小時 <br />$912/12 小時 <br />$1,632/24 小時 <br />$2,688/48 小時",
+        "如果學生請求特定老師：  <br /> $92/1 小時 <br /> $1,044/12 小時 <br /> $1,896/24 小時 <br /> $3,120/48 小時",
+        "* 如果兩個學生共享一節私人課，第二個學生可以打五折."
+      ]
+    }
+  ]
+}

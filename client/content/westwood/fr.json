@@ -1,0 +1,132 @@
+{
+    "pageTitle": "Campus de Westwood | Mentor Language Institute",
+    "pageDescription": "Westwood est un quartier vivant et unique situé à l'ouest de Los Angeles.",
+    "title": "Campus de Westwood",
+    "image": "/images/location/westwood/westwood-campus.jpg",
+    "yt_link": "https://www.youtube.com/embed/kr-Ip37iVNE",
+    "subtitle": [
+      "Westwood est un quartier vivant et unique situé à l'ouest de Los Angeles.",
+      "Westwood est célèbre pour être y acceuillier UCLA. Le campus de Westwood est situé à l'intersection du boulevard de Wilshire et de Westwood.",
+      "Nous sommes situés à seulement 1 minute de la ligne de bus principale sur Wilshire Blvd et Westwood Blvd. C'est un quartier très amusant et populaire pour les étudiants et les employés de bureau car il y a beaucoup de magasins, de restaurants et d'endroits sûrs à visiter."
+    ],
+    "landmark": [
+      {
+        "image": "/images/location/westwood/santa-monica.jpg",
+        "title": "A 20 minutes de Santa Monica par bus"
+      },
+      {
+        "image": "/images/location/westwood/beverly-hills.jpg",
+        "title": "A 10 minutes de Beverly Hills par bus"
+      },
+      {
+        "image": "/images/location/westwood/los-angeles-skyline.jpg",
+        "title": "A 60 minutes de Downtown LA par bus"
+      }
+    ],
+    "gallery": {
+      "title": "Gallerie photo du campus de Westwood",
+      "photos": [
+        {
+          "image": "/images/location/westwood/10880-building.jpg",
+          "title": "Nous sommes situés au premier étage de l'immeuble.",
+          "subtitle": "Vous n'aves pas besoin de prendre l'ascenseur pour aller en cours."
+        },
+        {
+          "image": "/images/location/westwood/front-desk.jpg",
+          "title": "La récéption"
+        },
+        {
+          "image": "/images/location/westwood/classroom.jpg",
+          "title": "Les classes en murs de verre"
+        },
+        {
+          "image": "/images/location/westwood/computer-room.jpg",
+          "title": "La classe d'orninateurs"
+        },
+        {
+          "image": "/images/location/westwood/student-lounge.jpg",
+          "title": "Lounge d'étudiant"
+        },
+        {
+          "image": "/images/location/westwood/free-space.jpg",
+          "title": "Espace libre"
+        }
+      ]
+    },
+    "location": {
+      "title": "Location",
+      "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4289041796537!2d-118.44512238478478!3d34.05851788060419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb7e2b42fadf%3A0xad96227841e11efb!2s10880+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90024!5e0!3m2!1sen!2sus!4v1513884279258"
+    },
+    "video": [
+      {
+        "title": "1. Comment se rendre à MLI Westwood Campus en Bus",
+        "youtube": "https://www.youtube.com/embed/V2zydV7aWvA"
+      },
+      {
+        "title": "2. Comment se rendre au campus MLI Westwood en voiture",
+        "youtube": "https://www.youtube.com/embed/5FXkkyV3DZg"
+      }
+    ],
+    "environment": {
+      "title": "Emplacement",
+      "photos": [
+        {
+          "image": "/images/location/westwood/ucla.jpg",
+          "title": "À distance de marche de l'UCLA"
+        },
+        {
+          "image": "/images/location/westwood/hammer-museum.jpg",
+          "title": "Le musée Hammer, un des musées les plus célèbres de Los Angeles, est juste à côté de notre campus."
+        },
+        {
+          "image": "/images/location/westwood/westwood-library.jpg",
+          "title": "Il y a une bibliothèque derrière le campus où vous pouvez étudier."
+        },
+        {
+          "image": "/images/location/westwood/chevron-restaurant.jpg",
+          "title": "Il y a beaucoup de restaurants bon marché aux alentours."
+        }
+      ]
+    },
+    "accommodation": {
+      "title": "Hébergement",
+      "description": [
+        "Nous offrons des options de logement en famille d'acceuil ou en dortoir."
+      ],
+      "types": [
+        {
+          "desc": [
+            "Dortoir <br />Il y a 40 chambres dans les dortoirs et vous pouvez vous rendre à l'école à pied ou en bus."
+          ],
+          "yt_link2": "https://www.youtube.com/embed/V_eNdjw6Z1c"
+        },
+        {
+          "desc": [
+            "Famille d'acceuil"
+          ],
+          "other_desc": [
+            "Séjourner chez la famille d'acceuil est le meilleur moyen d'apprendre sur la culture américaine et d'augmenter vos chances d'améliorer votre anglais.",
+            "<a href=\"/fr/stay/\"><i class='bi bi-arrow-right'></i>  Plus de détails sur nos logements</a>"
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "Nos Cours",
+      "lists": [
+        "ESL",
+        "TOEFL®",
+        "IELTS™",
+        "Conversation",
+        "TOEIC®"
+      ]
+    },
+    "message": {
+      "title": "Message du directeur du campus",
+      "image": "/images/location/westwood/westwood-director.jpg",
+      "position": "Message du directeur du campus",
+      "description": [
+        "\"Le campus de Westwood est situé près de UCLA. Il y a plusieurs endroits à visiter tels que des restaurants, des boutiques et des musées. Notre cours TOEFL est très populaire car de nombreux étudiants de Westwood poursuivent des études universitaires. De plus, nos prix des cours sont étonnamment raisonnables. Beaucoup de gens transfèrent à MLI pour cette raison! Vous pouvez télécharger la brochure pour plus d'information."
+      ]
+    }
+  }

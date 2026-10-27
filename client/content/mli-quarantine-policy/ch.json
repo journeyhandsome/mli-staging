@@ -1,0 +1,53 @@
+{
+    "pageTitle": "检疫政策 | Mentor Language Institute",
+    "pageDescription": "MLI主要在Westwood校区恢复面对面的课程。 所有ESL课程将从7/06/21开始在Westwood校区面对面恢复。其他课程可用。 以下是MLI基于洛杉矶县要求的最新隔离政策。",
+    "title": "检疫政策",
+    "subtitle": [
+      "MLI主要在Westwood校区恢复面对面的课程。 <br /> 所有ESL课程将从7/06/21开始在Westwood校区面对面恢复。其他课程可用。 <br /> 以下是MLI基于洛杉矶县要求的最新隔离政策。",
+      "虽然会话课程在好莱坞校区提供，但所有其他好莱坞课程将保持线上教学，直至另行通知。"
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "完全接种疫苗的学生",
+        "unvaccinated": "未接种疫苗的学生"
+      },
+      "table_header": [
+        "海外学生",
+        "来自国内（在美国）",
+        "海内外"
+      ],
+      "table_content": [
+        [
+          "我可以在抵达洛杉矶后立即参加面授课程吗？",
+          "<span class='hutoaka'>是</span>",
+          "<span class='hutoaka'>是</span>",
+          "<span class='font-weight-bold'>否</span>"
+        ],
+        [
+          "如果我在抵达洛杉矶3-5 天后进行PCR 测试，我可以参加面授课程吗？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>否</span>"
+        ],
+        [
+          "抵达洛杉矶后，我是否需要隔离10 天才能参加面对面的课程？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>是</span>"
+        ],
+        [
+          "MLI 要求未接种疫苗的学生必须每周进行 PCR 测试并在每周一之前提交阴性结果，才能参加面对面的项目。",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>是</span>"
+        ],
+        [
+          "如果我在抵达洛杉矶后参加PCR测试，我可以缩短隔离时间（7天）吗？",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>是</span>"
+        ]
+      ]
+    },
+    "note": "*完全接种疫苗的学生必须提交证明。<br />**所有学生上课必须戴口罩。"
+  }

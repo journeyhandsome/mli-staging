@@ -1,0 +1,25 @@
+# Mentor Language Institute (MLI)
+
+> Affordable English language school in Los Angeles, CA, with campuses in Westwood (near UCLA) and Hollywood. Founded in 2002; accredited by ACCET and authorized by BPPE and SEVP. Offers ESL, test preparation, conversation, and short-term English programs; I-20 and Change of Status support for F-1 student visas; housing assistance and airport transfer; student activities; and UCLA summer, seasonal, and Dance Camps.
+
+## Pages
+
+- [Home](https://mliesl.edu/): School overview, courses, and campus information
+- [About](https://mliesl.edu/about): About MLI and our teaching philosophy
+- [Features](https://mliesl.edu/feature): What makes MLI unique
+- [Programs](https://mliesl.edu/programs): ESL, TOEFL®, IELTS™, Vacation ESL, Conversation, and Business/TOEIC® programs
+- [Prices](https://mliesl.edu/price): Tuition and fee information (from $201/week)
+- [Westwood Campus](https://mliesl.edu/westwood): Campus near UCLA in West Los Angeles
+- [Hollywood Campus](https://mliesl.edu/hollywood): Campus near the TCL Chinese Theatre in Hollywood
+- [Accommodations](https://mliesl.edu/stay): Housing options for international students
+- [How to Apply](https://mliesl.edu/how-to-apply): Application guide for international students
+- [Student Visa (F-1)](https://mliesl.edu/how-to-apply-for-a-student-visa): F-1 student visa application guide
+- [Testimonials](https://mliesl.edu/testimonials): Student reviews and experiences
+- [Company](https://mliesl.edu/company): Company information, certifications, and documents
+- [Careers](https://mliesl.edu/careers): Job openings at MLI
+- [Free Trial](https://mliesl.edu/freetrial): Register for a free trial lesson
+- [FAQ](https://mliesl.edu/faq): Frequently asked questions
+
+## Optional
+
+- [llms-full.txt](https://mliesl.edu/llms-full.txt): Full detailed information about MLI

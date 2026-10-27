@@ -1,0 +1,53 @@
+{
+    "pageTitle": "Política de cuarentena MLI | Mentor Language Institute",
+    "pageDescription": "MLI está reanudando las clases presenciales principalmente en el campus de Westwood.",
+    "title": "Política de cuarentena MLI",
+    "subtitle": [
+      "MLI está reanudando las clases presenciales principalmente en el campus de Westwood. <br /> Todas las clases de ESL se reanudarán en persona a partir del <b>7/06/21</b>.<br /> Otros programas disponibles. <br /> Aquí está la política de cuarentena actualizada de MLI basada en los requisitos del condado de Los Ángeles.",
+      "Si bien el programa de conversación se ofrece en el campus de Hollywood, todas las demás clases de Hollywood permanecerán en línea hasta nuevo aviso."
+    ],
+    "table": {
+      "main_header": {
+        "vaccinated": "Estudiantes completamente vacunados",
+        "unvaccinated": "Estudiantes no vacunados"
+      },
+      "table_header": [
+        "Desde el extrangero",
+        "Desde el interior (en U.S.)",
+        "Extrangeros & del Interior"
+      ],
+      "table_content": [
+        [
+          "¿Puedo unirme a clases en persona inmediatamente después de llegar a Los Ángeles?",
+          "<span class='hutoaka'>Yes</span>",
+          "<span class='hutoaka'>Yes</span>",
+          "<span class='font-weight-bold'>No</span>"
+        ],
+        [
+          "¿Puedo unirme a clases presenciales si me hago una prueba de PCR entre 3 y 5 días después de mi llegada a Los Ángeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>No</span>"
+        ],
+        [
+          "¿Necesito estar en cuarentena durante 10 días para poder unirme a clases presenciales después de llegar a Los Ángeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Yes</span>"
+        ],
+        [
+          "MLI requiere que los estudiantes no vacunados realicen una prueba de PCR cada semana y presenten un resultado negativo todos los lunes para poder asistir a los programas en persona.",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Yes</span>"
+        ],
+        [
+          "¿Puedo acortar mi cuarentena (7 días) si hago un examen de PCR después de mi llegada a Los Ángeles?",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='font-weight-bold'>-</span>",
+          "<span class='hutoaka'>Yes</span>"
+        ]
+      ]
+    },
+    "note": "* Los estudiantes completamente vacunados deben presentar prueba de la misma.<br />** Todos los estudiantes deben usar tapa bocas en las clases."
+  }

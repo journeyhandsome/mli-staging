@@ -1,0 +1,43 @@
+{
+    "pageTitle": "签证变更 | Mentor Language Institute",
+    "pageDescription": "此页面是针对目前在美国没有F1(学生签证)，而想要转换成F1签证的人。",
+    "title": "签证变更",
+    "image": "/images/how-to-apply/change-of-status/change-of-status.jpg",
+    "subtitle": [
+      "此页面是针对目前在美国没有F1(学生签证)，而想要转换成F1签证的人。",
+      "若您想申请，请参照以下内容:："
+    ],
+    "applyOnline": {
+      "imageLink": {
+        "image": "/images/how-to-apply/change-of-status/apply-now-ch.png",
+        "link": "/ch/admission"
+      }
+    },
+    "applicationSteps": {
+      "title": "申请步骤",
+      "description": [
+        "申请步骤是需根据您的国家、国籍、课程、签证需求而不同。我们的工作人员将根据学生的个别情况来指示确切的步骤。 "
+      ]
+    },
+    "needHelp": {
+      "title": "需要帮助吗? 请联系我们!",
+      "description": [
+        "签证规则及申请步骤会依照学生的情况而异。若是您在申请之前需要详细的说明，欢迎联系我们。我们有八个语言的服务。"
+      ]
+    },
+    "contactUs": {
+      "image": "/images/how-to-apply/change-of-status/contact-us-ch.jpg",
+      "link": "/ch/contact",
+      "title": "联系我们",
+      "lists": [
+        {
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "電話：310⁻887⁻0777"
+        },
+        {
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "電話：323⁻870⁻7102"
+        }
+      ]
+    }
+  }

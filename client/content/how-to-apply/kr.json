@@ -1,0 +1,40 @@
+{
+    "pageTitle": "등록 방법 | Mentor Language Institute",
+    "pageDescription": "Mentor Language Institute에 등록하기 위해 알아야하는 모든것",
+    "title": "등록 방법",
+    "image": "/images/how-to-apply/how-to-apply/mentors-mli.jpg",
+    "category":  [
+        {
+            "title": "Mentor Language Institute에 등록하기 위해 알아야하는 모든것",
+            "content": [
+                {
+                    "subtitle": "해외에서 등록하는 학생",
+                    "description": [
+                    "MLI를 통해서 학생 비자를 신청하고 다른 나라에서 신청하는 학생.<br /><a href='/kr/how-to-apply/overseas' target='_blank'>나머지 보기</a>"
+                    ]
+                },
+                {
+                    "subtitle": "학교를 옮기는 학생",
+                    "description": [
+                    "미국에 현재 있고 Mentor Language Institute로 학교를 옮기는 학생. <br /><a href='/kr/how-to-apply/student-visa-f1/transfer-students' target='_blank'>나머지 보기</a>"
+                    ]
+                },
+                {
+                    "subtitle": "신분 변경",
+                    "description": [
+                    "미국에서의 신분을 학생 신분으로 변경을 원하는 학생<br /><a href='/kr/how-to-apply/student-visa-f1/change-of-status' target='_blank'>나머지 보기</a>"
+                    ]
+                },
+                {
+                    "subtitle": "비 F1 학생",
+                    "description": [
+                    "F1 비자가 아닌 다른 미국 비자를 가지고 있는 학생<br /><a href='/kr/how-to-apply/nonf1' target='_blank'>나머지 보기</a>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "content": [
+        "영어 뿐만아니라, MLI는 8개 언어로 학생들을 지원합니다.<br /> 문의 사항이 있으시면, 언제든지 질문 페이지를 통해서 저희에게 연락주세요."
+    ]
+}

@@ -1,0 +1,92 @@
+{
+  "pageTitle": "MLI'da ilk gün | Mentor Language Institute",
+  "pageDescription": "MLI'da, her dönem başında (her 4 haftada bir) yeni öğrenciler için bir oryantasyon seansımız var.",
+  "title": "MLI'da ilk gün",
+  "image": "/images/what-is-mli/first-day-at-mli/mli-signup.jpg",
+  "categories": [
+    {
+      "title": "Welcome to Mentor Language Institute!",
+      "description": [
+        "MLI'da, her dönem başında (her 4 haftada bir) yeni öğrenciler için bir oryantasyon seansımız var.",
+        "Oryantasyon, programlarımız, göçmenlik yönetmeliklerimiz ve okul kurallarımız hakkındaki anlayışınızı arttırmak için size önemli bilgiler sağlayacaktır. Öğretmenlerimiz, Ön Büro, İdari ve Yönetim Kadromuz tarafından karşılanan Kabul Büromuz ve Personelimiz tarafından karşılanacaksınız."
+      ],
+      "dates": [
+        "＜ Sömestir Her dönemin başlangıç tarihi ＞",
+        "- May 22nd, 2023 <br/> - June 20th, 2023 <br/> - July 17th, 2023 <br/> - August 14th, 2023 <br/> - September 11th, 2023 <br/> - October 10th, 2023 <br/> - November 6th, 2023 <br/> - December 4th, 2023 <br/> - January 8th, 2024 <br/> - February 5th, 2024 <br/> - March 4th, 2024",
+        "Oryantasyon 1: 00'de başlar."
+      ],
+      "groups": [
+        {
+          "title": "Oryantasyon ve Seviye Testi",
+          "listType": "table",
+          "lists": [
+            {
+              "key": "1:00pm – 1:30pm",
+              "value": "Kayıt Evrakları"
+            },
+            {
+              "key": "1:30pm – 2:00pm",
+              "value": "Akademik Yönelim"
+            },
+            {
+              "key": "2:00pm – 3:00pm",
+              "value": "Seviye testi"
+            },
+            {
+              "key": "3:15pm – 3:35pm",
+              "value": "Okul Politikaları, Göçmenlik Kuralları"
+            },
+            {
+              "key": "3:35pm – 3:50pm",
+              "value": "College Transfer Hizmeti"
+            },
+            {
+              "key": "3:50pm – 4:00pm",
+              "value": "Faaliyetler ve Konut"
+            },
+            {
+              "key": "4:00pm – 4:10pm",
+              "value": "Konuşma Testi ve Sınıf Yerleşimi"
+            },
+            {
+              "key": "4:10pm – 4:20pm",
+              "value": "Ders Kitaplarını Satın Alın"
+            }
+          ]
+        },
+        {
+          "title": "İlk gün yanimda ne getireceğim",
+          "lists": [
+            "Passport (Öğrenci Vizesi Sahibi iseniz)",
+            "I-20 (Öğrenci Vizesi Sahibi iseniz)",
+            "Kalem ve kağıt",
+            "Ders Kitabı Ücreti ve Öğrenim Ücreti Bakiye Ödemesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ayrıntılar",
+      "groups": [
+        {
+          "title": "Oryantasyon programı",
+          "description": [
+            "Kayıt için gerekli evrakları dolduracaksınız.<br />Ardından, Akademik Direktör veya Program Koordinatörü, Diger programlarımızı, sınıf kurallarımız ve bir seviyeden diğerine ve bir programdan diğerine ilerlemek için çalışmalarınızda nasıl başarılı olunacağına dair bir sunum yapacak."
+          ]
+        },
+        {
+          "title": "Seviye Testi ve Mulakat",
+          "description": [
+            "Oryantasyonu takiben, yaklaşık 80 sorudan oluşan “İngilizce Seviye Testi” ne, Dilbilgisi, Kelime Bilgisi ve Okuduğunu anlama konularını kapsayan bir dinleme ve yazma bölümüyle gireceksiniz. İngilizce Seviyenizi belirlemenize yardımcı olan 60 dakikalık bir testtir.<br />Testten sonra, Eğitmenlerimizden biriyle (PC, AD veya MLI hocası) hızlı bir Konuşma Sınavına (Röportaj gibi) sahip olacaksınız.<br />Bu test, yerleşiminizi beceri ve hedeflerinize göre en uygun düzeyde ve / veya programla sonuçlandırmaya yardımcı olmaktır."
+          ]
+        },
+        {
+          "title": "Ders kitaplarını Satın almak",
+          "description": [
+            "Seviye (Yerleştirme) sınavından ve mülakattan sonra öğrenciler ön büro personelinden ders kitabı satın alırlar. Ön büro personeli, öğrencilerin sahip olabileceği diğer soruları veya endişeleri yanıtlamak için kullanılabilir."
+          ]
+        }
+      ]
+    }
+  ]
+}

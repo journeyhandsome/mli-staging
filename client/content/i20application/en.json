@@ -1,0 +1,267 @@
+{
+  "pageTitle": "I-20 Request Form | Mentor Language Institute",
+  "pageDescription": "This is the I-20 Request Form for MLI. Please fill out the necessary information below and select 'Continue to Confirmation Screen' when you are done.",
+  "title": "I-20 Request Form",
+  "subtitle": [
+    "This is the I-20 Request Form for MLI. Please fill out the necessary information below and select 'Continue to Confirmation Screen' when you are done."
+  ],
+  "customerInfo": {
+    "title": "Customer Information",
+    "form": [
+      {
+        "field": "email"
+      },
+      {
+        "field": "campus"
+      },
+      {
+        "field": "studentType"   
+      },
+      {
+        "field": "date",
+        "edit":[{"label":"Program Start Date","name":"programStartDate"}]
+      },
+      {
+        "field": "fname"
+      },
+      {
+        "field": "lname"
+      },
+      {
+        "field": "country",
+        "edit":[{"label":"Country of Birth","name":"countryBirth"}],
+        "partial":{"name":"country","appendTo":"selection"}
+      },
+      {
+        "field": "date",
+        "edit":[{"label":"Date of Birth","name":"birthday"}]
+      },
+      {
+        "field": "country",
+        "partial":{"name":"country","appendTo":"selection"},
+        "edit":[{"label":"Country of Citizenship","name":"citizenshipCountry"}]
+      },
+      {
+        "field": "gender"
+      },
+      {
+        "field": "birthCity"
+      }
+     
+    ]
+  },
+  "homeCountry": {
+    "title": "Home Country Address",
+    "form":[
+      {
+        "field": "street"
+      },
+      {
+        "field": "building"
+      },
+      {
+        "field": "city"
+      },
+      {
+        "field": "country",
+        "partial":{"name":"country","appendTo":"selection"}
+      },
+      {
+        "field": "state",
+        "edit":[{"isRequired":false}]
+      },
+      {
+        "field": "state",
+        "edit":[{"label":"Zip","name":"zip","isRequired":true}]
+      },
+      {
+        "field": "phone"
+      }
+    ]
+  },
+  "application": {
+    "title": "Program Information & Support Documents",
+    "form":[
+      {
+        "field": "program"
+      },
+      {
+        "field": "duration",
+        "func": {"name":"scheduleToObject","params":"Week|Weeks,12,48","appendTo":"selection"}
+      },
+      {
+        "field": "deliveryMode"
+      }
+    ]
+  },
+  "passport": {
+    "title": "Upload Your Supporting Documents",
+    "form":[
+      {
+        "field": "supportingDoc",
+        "edit":[{"btn":"Passport","label":""}]
+      }
+    ]
+  },
+  "financial": {
+    "title": "Financial Statement / Bank Statement",
+    "form":[
+      {
+        "field": "supportingDoc",
+        "edit":[{"btn":"Financial Statement / Bank Statement","btnkey":"financial","name":"supportingDocumentFinancial","label":""}]
+      }
+    ]
+  },
+  "visa": {
+    "title": "Visa",
+    "form":[
+      {
+        "field": "supportingDoc",
+        "edit":[{"btn":"Copy of Student Visa","btnkey":"visa","name":"supportingDocumentVisa","label":""}]
+      }
+    ]
+  },
+  "i94": {
+    "title": "I94",
+    "form":[
+      {
+        "field": "supportingDoc",
+        "edit":[{"btn":"I94","btnkey":"i94","name":"supportingDocumentI94","label":""}]
+      }
+    ]
+  },
+  "transfer_form": {
+    "title": "Signed Transfer Form",
+    "form":[
+      {
+        "field": "supportingDoc",
+        "edit":[{"btn":"Signed Transfer Form","btnkey":"transfer_form","name":"supportingDocumentTransferForm","label":""}]
+      },
+      {
+        "field": "downloadable",
+        "edit":[{"label":"If you transfer to Westwood Campus, download the form","id":"westwood","src":"https://mliesl.edu/documents/2022/TF%20form%20-%20Westwood%20-%202022.pdf"}]
+      },
+      {
+        "field": "downloadable",
+        "edit":[{"label":"If you transfer to Hollywood Campus, download the form","id":"hollywood","src":"https://mliesl.edu/documents/2022/TF%20form%20-%20Hollywood%20-%202022.pdf"}]
+      }
+    ]
+  },  
+  "optional": {
+    "title": "SEVIS Fee (I901)",
+    "form":[
+      {
+        "type": "radio",
+        "name": "optional",
+        "label": "Do you want MLI to pay the SEVIS fee and include your I901 (SEVIS fee receipt) with your I-20 package?",
+        "new_label": "Apply for a student visa",
+        "icon": "credit-card-fill",
+        "callback":"optionalFee",
+        "costs":{"Yes_(SEVIS_fee:_$350.00_+_credit_card_fee:_$15.00)":"365","No_(You,_the_student,_will_pay_the_SEVIS_fee_by_yourself":"0"},
+        "selection": [
+          {
+            "value": "Yes_(SEVIS_fee:_$350.00_+_credit_card_fee:_$15.00)",
+            "label": "Yes (SEVIS fee: $350.00 + Credit card fee: $15.00)"
+          },
+          {
+            "value": "No_(You,_the_student,_will_pay_the_SEVIS_fee_by_yourself",
+            "label": "No (You, the student, will pay the SEVIS fee by yourself.)"
+          }
+        ]
+      }
+    ]
+  },
+  "services": {
+    "title": "Optional Services",
+    "form":[
+      {
+        "type": "radio",
+        "name": "services",
+        "label": "Are you interested in or do you require our housing services?",
+        "new_label": "Housing Service",
+        "icon": "credit-card-fill",
+        "staticNote":"*When you check you need our housing service, our housing department will contact you via email separately.",
+        "selection": [
+          {
+            "value": "Homestay_Placement",
+            "label": "Homestay Placement"
+          },
+          {
+            "value": "Residence/_Dormitory_Placement",
+            "label": "Residence / Dormitory Placement"
+          },
+          {
+            "value": "No_Housing_Requested",
+            "label": "No Housing Requested"
+          }
+        ]
+      }
+    ]
+  },
+  "accountSource": {
+    "title": "Source of Account",
+    "form": [
+      {
+        "field": "manualInput",
+        "edit":[{"groupName":"account[]",
+                 "title":"A. Balance (U.S dollar)",
+                 "data":["number",{"vertical-align":"super","border-style":"none none solid none","text-align":"center","font-weight":"bold","outline":"none"}]
+              }]
+      },
+      {
+        "field": "radioGroup",
+        "edit":[{"groupName":"account[]",
+                 "title":"B. Source of the Account",
+                 "lists":[
+                          ["personal_account","Personal Account"],
+                          ["family_account","Family Account"],
+                          ["other_account","Other",["text",{"vertical-align":"super","border-style":"none none solid none", "text-align":"center","font-weight":"bold","outline":"none"}]]
+                        ]
+        }]
+      }
+    ]
+  },
+  "processingFee": {
+    "title": "Fees",
+    "new_title": "I-20 Payment",
+    "form": [
+      {
+        "field": "payViaStripe"
+      }
+    ],
+    "subtitle": "Application Regulations",
+    "details": [
+      {
+        "title": "Leaving a Course:",
+        "description": [
+          "It is possible for you to leave a course at any time during the term. When leaving a course, it is necessary to submit a written statement that states your intention to leave the course. In addition, MLI reserves the right to withdraw you from a course, such as if you engage in inappropriate behavior, if you do not maintain the required rate of attendance, or if you do not meet the academic standards of a course."
+        ]
+      },
+      {
+        "title": "Right to Cancellation:",
+        "description": [
+          "You have the right to cancel this enrollment and obtain a refund of charges paid through attendance at the first class session, or the seventh day after enrollment date, whichever is later. \"Cancellation\" is defined as: any voluntary change in enrollment or request for refund prior to enrollment."
+        ]
+      },
+      {
+        "title": "Refund Policy:",
+        "description": [
+          "If the student wishes to cancel, he or she must notify the school on the first day of attendance or the seventh day after enrollment (whichever date comes later).",
+          "If the cancellation deadline has passed, the refund policy for students who have completed 60 percent or less of the period of attendance shall be a pro rata refund, minus a $150 non-refundable processing fee, a $120 shipping and handling fee (if applicable) and the STRF fee.",
+          "Under California law, if the student withdraws after taking more than 60% of the class hours paid for, no refund will be issued."
+        ]
+      }
+    ],
+    "additional_form": [
+      {
+        "type": "checkbox",
+        "name": "agree_terms",
+        "label": "I agree to the above terms as listed in the \"Application Regulations.\"",
+        "isRequired": true
+      }
+    ]
+  },
+  "confirmation": "Confirm Register",
+  "btn_label": "Continue to Confirmation Screen",
+  "btn_confirmation": "Pay with Card"
+}

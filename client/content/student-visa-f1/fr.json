@@ -1,0 +1,38 @@
+{
+    "pageTitle": "Visa étudiant F-1 | Mentor Language Institute",
+    "pageDescription": "Veuillez-choisir votre situation parmi la liste ci-dessous.",
+    "title": "Visa étudiant F-1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "Veuillez-choisir votre situation parmi la liste ci-dessous. <br />Si vous n'êtes pas sûr de votre situation, cliquez sur LIRE Plus pour plus de détails"
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_fr.png",
+                    "link": "/fr/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_fr.png",
+                    "link": "/fr/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_fr.png",
+                    "link": "/fr/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "Autres questions?",
+            "description": [
+                "En règle général, vous avez besoin d'un visa étudiant pour rester à long terme aux Etats-Unis en tant qu'étudiant.",
+                "Si vous ne savez-pas si vous avez besoin d'un visa, contactez-nous",
+                "Nous avons du personnel multilingue à votre dispostion, en 8 langues différentes."
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-fr.jpg",
+                "link": "/fr/contact"
+            }
+        }
+}

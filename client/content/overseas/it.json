@@ -1,0 +1,16 @@
+{
+    "pageTitle": "Studente all'estero | Mentor Language Institute",
+    "pageDescription": "Quanto tempo resterai negli Stati Uniti?",
+    "title": "Studente all'estero",
+    "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+    "category": {
+      "title": "Quanto tempo resterai negli Stati Uniti?",
+      "subtitle": "per quanto tempo hai intenzione di rimanere negli Stati Uniti?",
+      "content": [
+        "<a class='btn btn-primary text-center' href='/it/how-to-apply/short'>Stay less than 90 days</a>",
+        "<span class='text-center'>oppure</span>",
+        "<a class='btn btn-primary text-center' href='/it/visaholder'>Stay longer than 90 days</a>",
+        "<span class='text-center'>*Se hai intenzione di permanere negli Stati Uniti per più di 90 giorni hai bisogno di un visto</span>"
+      ]
+    }
+  }

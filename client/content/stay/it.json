@@ -1,0 +1,175 @@
+{
+    "pageTitle": "Alloggi | Mentor Language Institute",
+    "pageDescription": "MLI collabora con U.S. Support Services Inc che fornisce alloggi per studenti",
+    "title": "Alloggi",
+    "subtitle": [
+      "MLI collabora con U.S. Support Services Inc che fornisce alloggi per studenti <br />Per maggiori dettagli, visita <a href=\"www.usssinc.net/it\" target=\"_blank\">www.usssinc.net/it</a>"
+    ],
+    "image": "/images/location/accommodations/accommodation-1.jpg",
+    "gallery": [
+      "/images/location/accommodations/accommodation-2.jpg",
+      "/images/location/accommodations/accommodation-3.jpg"
+    ],
+    "note": "Gli studenti hanno la possibilità di scegliere di alloggiare in uno dei nostri dormitori o di aderire al Programma Homestay.",
+    "types": [
+      {
+        "title": "Dormitori",
+        "description": [
+          "Disponiamo di 40 camere nei nostri dormitori. Hai l'opportunità di conoscere e condividere esperienze con altri studenti internazionali. Ti consigliamo di alloggiare nel dormitorio se hai un budget da rispettare."
+        ],
+        "lists": [
+          "<b>Camere</b> : Private (Individuali), condivise (due persone) o quadruple(4 persone)",
+          "<b>Pasti</b> : Non sono compresi i pasti. È disponibile una cucina interamente accessoriata.",
+          "<b>Privacy</b> : c'è più privacy nei dormitori che nelle Homestay. I dormitori hanno dei regolamenti da rispettare.",
+          "<b> Raggiungere la scuola</b> : circa 20 minuti a piedi e con l'autobus."
+        ],
+        "gallery": [
+          "/images/location/accommodations/dormitory-1.jpg",
+          "/images/location/accommodations/dormitory-2.jpg",
+          "/images/location/accommodations/dormitory-3.jpg",
+          "/images/location/accommodations/dormitory-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Prezzi dei dormitori",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Placement Fee* : $200<br /> Se il giovane ha meno di 18 anni, l'affitto sarà superiore di circa il 10% rispetto al prezzo per una persona di età superiore ai 18 anni.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared (2 people)",
+                "Quad (4 people)"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 weeks",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 weeks",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 weeks",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 weeks",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 weeks",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Homestay",
+        "description": [
+          "Gli studenti che scelgono di vivere con una famiglia ospitante nell'ambito del programma Homestay sono alla ricerca di un'atmosfera sicura, accogliente e confortevole in cui poter esercitare le proprie abilità linguistiche. È anche un'ottima opportunità per imparare costumi e tradizioni americane e valori familiari."
+        ],
+        "lists": [
+          "<b>Camere</b> : Private (Individual)",
+          "<b>Pasti</b> : 2 pasti al giorno(colazione e cena)",
+          "<b>Privacy</b> : vanno rispettate le regole richieste dalle diverse famiglie ospitanti.",
+          "<b>Raggiungere la scuola</b> : 30-45 minuti con l'autobus"
+        ],
+        "gallery": [
+          "/images/location/accommodations/homestay-1.jpg",
+          "/images/location/accommodations/homestay-2.jpg",
+          "/images/location/accommodations/homestay-3.jpg",
+          "/images/location/accommodations/homestay-4.jpg"
+        ],
+        "prices": [
+          {
+            "title": "Prezzi programma Homestay",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Placement Fee* : $300<br /> Se il giovane ha meno di 18 anni, l'affitto sarà superiore di circa il 10% rispetto al prezzo per una persona di età superiore ai 18 anni.",
+              "thead": [
+                "",
+                "Private (Individual)",
+                "Shared***"
+              ],
+              "tbody": [
+                [
+                  "<b>Deposit</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 week",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 weeks",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 weeks",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 weeks",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 weeks",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 weeks",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            },
+            "notes": [
+              "*Placement fee is a one time payment. It's not refundable.<br />**Security deposit will be refunded after students have moved out.<br />***If you request a homestay shared room, <span class=\"rmarker\">you must apply with another person.</span>"
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": {
+      "title": "Opinioni del nostro staff",
+      "description": [
+        "Non è semplice trovare un alloggio appena si arriva in città, specialmente se si è studenti internazionali senza un Social Security Number (SSN) e una storia creditizia. Molti posti richiedono entrambi SSN e storia creditizia per essere idonei ad affittare un apartamento o una stanza. Per questo vi consigliamo di considerare le soluzioni di alloggi da noi offerte almeno per il primo paio di mesi.",
+        "※L'alloggio è fornito da U.S. Support Service Inc. o altre agenzie."
+      ]
+    }
+  }

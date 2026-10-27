@@ -1,0 +1,138 @@
+{
+  "pageTitle": "MLI课程及教师团队 | Mentor Language Institute",
+  "pageDescription": "在ESL课程中，学生用现实生活中的素材（TED演讲，电视和电影）和上课内容相结合不断地练习提升综合实力。",
+  "title": "MLI课程及教师团队",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "课程注重练习与实践",
+      "description": [
+        "在ESL课程中，学生用现实生活中的素材（TED演讲，电视和电影）和上课内容相结合不断地练习提升综合实力。"
+      ]
+    },
+    {
+      "title": "MLI的教师团队",
+      "description": [
+        "每年平均有1200位学生从我校毕业。<br />我们不断努力增进我们教职员的能力，透过观察，评估及专业发展工作营。"
+      ],
+      "checklist": [
+        {
+          "title": "招聘要求",
+          "lists": [
+            "4年大学院校毕业",
+            "3年英语教学经验",
+            "有TESOL类的教学证书",
+            "有TOEFL®/GMAT®类似测验的知识",
+            "有高度沟通技巧能力",
+            "有教学的热情"
+          ]
+        },
+        {
+          "title": "选择方式",
+          "lists": [
+            "履历表及文凭",
+            "英语综合测试",
+            "面试",
+            "模拟教学"
+          ],
+          "note": "筛选体系严格（录取率低于20％）"
+        }
+      ]
+    },
+    {
+      "title": "训练及评估系统",
+      "description": [
+        "在MLI，我们每12周进行这三项检查以维系我们的教师品质。"
+      ],
+      "listType": "decimal",
+      "lists": [
+        "学生评价教科书及教师。得到85％以下满意度的教师需要接受专业教职训练。",
+        "资深的教学团队给予的教学观察及评分。",
+        "专业发展及训练工作营增进授课品质。"
+      ],
+      "note": "管理人员及教师群每天都努力增进教学品质！"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

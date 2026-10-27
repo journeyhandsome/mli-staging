@@ -1,0 +1,37 @@
+{
+    "pageTitle": "วีซ่านักเรียน F1 | Mentor Language Institute",
+    "pageDescription": "กรุณาเลือกข้อมูลของคุณจากตัวเลือกด้านล่าง. หากคุณไม่แน่ใจเกี่ยวกับสถานการณ์ของคุณ คลิก \"อ่านต่อ\" สำหรับรายละเอียดเพิ่มเติม.",
+    "title": "วีซ่านักเรียน F1",
+    "image": "/images/how-to-apply/student-visa-f1/visa_application.jpg",
+    "subtitle": [
+        "กรุณาเลือกข้อมูลของคุณจากตัวเลือกด้านล่าง. <br /> หากคุณไม่แน่ใจเกี่ยวกับสถานการณ์ของคุณ คลิก \"อ่านต่อ\" สำหรับรายละเอียดเพิ่มเติม."
+    ],
+    "category":[
+        {
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/student-visa-f1/overseas_btn_th.png",
+                    "link": "/th/how-to-apply/student-visa-f1/overseas-students"
+                },
+                "btn_transfer":  {
+                    "image": "/images/how-to-apply/student-visa-f1/transfer_student_btn_th.png",
+                    "link": "/th/how-to-apply/student-visa-f1/transfer-students"
+                },
+                "btn_status":  {
+                    "image": "/images/how-to-apply/student-visa-f1/change_status_btn_th.png",
+                    "link": "/th/how-to-apply/student-visa-f1/change-of-status"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "มีคำถาม",
+            "description": [
+                "โดยปกติคุณจะต้องมีวีซ่านักเรียน เพื่อการเรียนระยะยาวในประเทศสหรัฐอเมริกา<br />หากคุณไม่ทราบว่าคุณต้องการวีซ่าหรือไม่โปรดติดต่อเรา",
+                "เรามีให้บริการถึง 8 ภาษา"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-th.jpg",
+                "link": "/th/contact"
+            }
+        }
+}

@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "Скачайте брошюру, используя ссылки ниже",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "Скачайте брошюру, используя ссылки ниже:"
+    ],
+    "brochures": [
+      {
+        "title": "Школьная брошюра",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "Брошюра проживания",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 Цены и предложения при подаче заявки",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "Брошюра мероприятий MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "Если у вас есть какие-либо <br />вопросы, такие как проблема со<br />студенческой визой,<br />доступность жилья или другие<br />проблемы, пожалуйста, не<br />стесняйтесь обращаться к<br />нам в любое время.",
+      "<b>【 Вествуд Кампус 】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />ТЕЛ: ＋1（310）887-0777<br />Email: info@mliesl.edu<br />Часы работы: С понедельника по четверг 8:30 – 20:30, Пятница: 8:30 – 18:00",
+      "<b>【 Голливуд Кампус 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />ТЕЛ: ＋1（323）870-7102<br />Email: hollywood@mliesl.edu<br />Часы работы: С понедельника по пятницу: 8:30 – 17:00",
+      "Мы с нетерпением ждем <br />вас в MLI в Лос-Анджелесе!"
+    ]
+  }

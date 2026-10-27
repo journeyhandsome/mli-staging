@@ -1,0 +1,227 @@
+{
+  "pageTitle": "Precios | Mentor Language Institute",
+  "pageDescription": "Si contás con tu propio alojamiento, no necesitás pagar la ②Cuota de alojamiento.",
+  "title": "Precios",
+  "image": "/images/prices/price/get-a-quote.jpg",
+  "button": {
+    "lists":[
+        {
+          "link": [
+            "<a class=\"btn btn-primary\" href=\"/sp/price-auto\">Calcular precio</a>"
+          ]
+        }
+      ]
+    },
+  "steps": {
+    "title": "①Curso + ②Cuota de alojamiento + ③Otras tarifas",
+    "subtitle": [
+      "Si contás con tu propio alojamiento, no necesitás pagar la ②Cuota de alojamiento.<br> *Por favor usa  <a href=\"/sp/price-auto/\">Calcular precio</a> para obtener una cotización."
+    ],
+    "lists": [
+      {
+        "title": "①Curso",
+        "subtitle": [
+          "El precio cambiará dependiendo de tu curso y la duración de tu estadía.<br /> Mientras más estudies en MLI, mayor será el descuento."
+        ],
+        "image": "/images/prices/price/PRICE_CHART_WEB_JAN06.jpg",
+        "link": [
+          "<b>P&R</b>",
+          "<b>P:</b> ¿Puedo cambiar de curso después de que comience la escuela? <br /><b>R:</b> ¡Sí, puedes!",
+          "<br />"
+        ],
+        "category": [
+          {   
+            "title": "Servicio Opcional",     
+            "table": {
+              "tableMaxCol": 4,
+              "title_optional": "Cambio de estatus o recuperación del estatus (si tiene una visa B1/B2 o J1 y actualmente se encuentra en los EE. UU.)",
+              "tbody": [
+                [
+                  "<b>Descripciones de tarifas</b>",
+                  "<b>Tipo de aplicantes</b>",
+                  "<b>Tarifas</b>",
+                  "<b>Numero de solicitantes</b>"
+                ],
+                [
+                  "Tarifa de servicio de $1,885 que incluye la tarifa de tramitación ($370) y la tarifa de envío <br> *Tras la aprobación, se aplicarán $600 como crédito de matrícula para el estudiante (valor no en efectivo).",
+                  "F1 visa de estudiante",
+                  "$1,885",
+                  "1"
+                ],
+                [
+                  "Tarifa de servicio de $365 por cada dependiente",
+                  "F2 visa de dependiente",
+                  "$365",
+                  ""
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "② Tarifa de alojamiento",
+        "subtitle": [
+          "Brindamos alojamiento en casas de familia (Homestay) y opciones de domitorio para los estudiantes. Homestay se recomienda para las personas que deseen experimentar la cultura estadounidense. Los dormitorios se recomiendan para las personas que deseen hacer muchos amigos."
+        ],
+        "category": [
+          {
+            "title": "Precios Homestay",
+            "table": {
+              "tableMaxCol": 3,
+              "title": "Cuota de acomodación* : $300<br /> Si es menor de 18 años, el alquiler será aproximadamente un 10% superior al precio de una persona mayor de 18 años",
+              "thead": [
+                "",
+                "Privado (Individual)",
+                "Compartido***"
+              ],
+              "tbody": [
+                [
+                  "<b>Depósito**</b>",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semana",
+                  "$436",
+                  "$384"
+                ],
+                [
+                  "2 semanas",
+                  "$872",
+                  "$768"
+                ],
+                [
+                  "3 semanas",
+                  "$1,308",
+                  "$1,152"
+                ],
+                [
+                  "4 semanas",
+                  "$1,744",
+                  "$1,536"
+                ],
+                [
+                  "8 semanas",
+                  "$3,160",
+                  "$2,904"
+                ],
+                [
+                  "12 semanas",
+                  "$4,740",
+                  "$4,356"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Precios dormitorio",
+            "table": {
+              "tableMaxCol": 4,
+              "title": "Cuota de acomodación* : $200<br /> Si es menor de 18 años, el alquiler será aproximadamente un 10% superior al precio de una persona mayor de 18 años",
+              "thead": [
+                "",
+                "Privado (Individual)",
+                "Compartido (2 semanas)",
+                "Quádruple (4 personas)"
+              ],
+              "tbody": [
+                [
+                  "<b>Depósito**</b>",
+                  "$300",
+                  "$300",
+                  "$300"
+                ],
+                [
+                  "1 semana",
+                  "$550",
+                  "$410",
+                  "$300"
+                ],
+                [
+                  "2 semanas",
+                  "$1,100",
+                  "$820",
+                  "$600"
+                ],
+                [
+                  "3 semanas",
+                  "$1,650",
+                  "$1,230",
+                  "$900"
+                ],
+                [
+                  "4 semanas",
+                  "$2,200",
+                  "$1,640",
+                  "$1,200"
+                ],
+                [
+                  "8 semanas",
+                  "$4,160",
+                  "$2,960",
+                  "$2,160"
+                ],
+                [
+                  "12 semanas",
+                  "$6,240",
+                  "$4,440",
+                  "$3,240"
+                ]
+              ]
+            },
+            "description": [
+              "*La cuota de acomodación se paga por única vez. No es reembolsable.<br />**El depósito de seguridad sera reembolsado despues de que los alumnos se hayan ido de su acomodación.<br />***Si solicitas Homestay (cuarto compartido) , <span class=\"rmarker\">debes aplicar con otra persona</span>",
+              "※Su acomodación será proporcionada por U.S. Support Services u otros agentes.",
+              "<a href=\"/sp/stay/\"><i class='bi bi-arrow-right'></i>   Más información sobre alojamiento</a>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "③Cuotas iniciales",
+        "subtitle": [
+          "Además de las tarifas anteriores, existen otras tarifas iniciales."
+        ],
+        "lists": [
+          "Cuota de procesamiento inicial: $150",
+          "Tarifa de envío I-20 **: $120",
+          "Cuota SEVIS**: $350 (Pagado diréctamente a SEVP)",
+          "Libros de texto: $150-$240"
+        ],
+        "description": [
+          "*No reembolsable<br />**Si aplicas para una visa de estudiante"
+        ]
+      }
+    ]
+  },
+  "examples": {
+    "title": "Ejemplos",
+    "subtitle": [
+      "Aquí hay ejemplos de pagos: 4 semanas y 48 semanas"
+    ],
+    "lists": [
+      {
+        "title": "1 mes (4 semanas)",
+        "items": [
+          "Cuota inicial: $150",
+          "Curso: $1,220",
+          "Alojamiento: $1,560（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Total : $2,930</span>"
+        ]
+      },
+      {
+        "title": "1 año (48 semanas)",
+        "items": [
+          "Cuota inicial: $150",
+          "Tuition : $10,032",
+          "Alojamiento: $12,360（Dormitory : Quad Rent + Placement Fee + Airport Pickup- oneway)",
+          "<span class='total'>Total : $22,542</span>"
+        ]
+      }
+    ]
+  },
+  "other_info": [
+    "Si tienes alguna pregunta sobre tarifas, no dudes en contactarnos."
+  ]
+}

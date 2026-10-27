@@ -1,0 +1,54 @@
+{
+  "pageTitle": "Oversea Students | Mentor Language Institute",
+  "pageDescription": "Oversea students are those who currently live outside of the U.S. and will apply for a STUDENT VISA.",
+  "title": "Oversea Students",
+  "image": "/images/how-to-apply/overseas-student/overseas-student.png",
+  "subtitle": [
+    "Oversea students are those who currently live outside of the U.S. and will apply for a STUDENT VISA.",
+    "OR",
+    "Already have a STUDENT VISA and will re-enter to the US from another country."
+  ],
+  "category": [
+    {
+      "title": "Application Steps",
+      "image": "/images/how-to-apply/overseas-student/application-steps-en.jpg",
+      "listType": "decimal",
+      "lists": [
+        "Apply to MLI (Fill out on-line application)",
+        "Submit supporting documents for an I-20",
+        "Receive your I-20",
+        "Apply for a student Visa and have a Visa interview at the U.S. Embassy",
+        "Receive your Student Visa",
+        "Leave for the U.S."
+      ],
+      "description": [
+        "Students should apply to MLI at least 2 months before their desired program starting date. We will guide you through the application steps after you submit your on-line application for MLI."
+      ],
+      "hasApplyNow": true
+    },
+    {
+      "title": "Cancellation Policy",
+      "description": [
+        "The enrollment fee of $150 will be charged at the time of application. The enrollment fee is non-refundable regardless if a visa application is rejected or enrollment is cancelled."
+      ]
+    },
+    {
+      "title": "After submitting your application",
+      "image": "/images/how-to-apply/overseas-student/application-form-en.jpg",
+      "description": [
+        "After students submit the on-line application, MLI will process your application and send you the link for the iMLI (Each Student's on-line application page).<br />Students can follow the continued application process stated on iMLI."
+      ]
+    }
+  ],
+  "applyOnline": {
+    "title": "Apply Online",
+    "description": [
+      "Fill out the on-line application.<br />Contact us via e-mail with any questions.",
+      "Apply to MLI through the on-line application below."
+    ],
+    "imageLink": {
+      "image": "/images/how-to-apply/overseas-student/apply-now-en.jpg",
+      "link": "/en/admission"
+    }
+  }
+}

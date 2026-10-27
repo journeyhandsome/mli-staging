@@ -1,0 +1,43 @@
+{
+  "pageTitle": "Che cos'è MLI? | Mentor Language Institute",
+  "pageDescription": "Mentor Language Institute è stata fondata nel 2002 ed è dislocata in due note aree: Westwood e Hollywood.",
+  "section1": {
+    "title": "Che cos'è MLI?",
+    "description": [
+      "Mentor Language Institute è stata fondata nel 2002 ed è dislocata in due note aree: Westwood e Hollywood.<br />Lo scopo che ci siamo prefissi e’ quello di aiutare gli studenti provenienti da tutte le parti del mondo a migliorare il loro livello di conoscenza della lingua inglese."
+    ]
+  },
+  "section2": {
+    "image": "/images/what-is-mli/about/pay-less-for-quality-classes.jpg",
+    "title": "Corsi di qualita’ a un prezzo vantaggioso",
+    "description": [
+      "Diamo valore a due cose: <b>“Qualità dell'Insegnamento”</b> e <b>“Prezzo.”<b>",
+      "L'Inglese è la lingua utilizzata a livello globale e un necessario strumento di comunicazione con persone provenienti da diverse parti del mondo. Il nostro obiettivo principale è l'acquisizione da parte degli studenti internazionali di un livello di conoscenza della lingua che garantiscano loro il successo in qualsiasi parte del globo. Per questo motivo, rivolgiamo la nostra attenzione principalmente alla qualità dell'insegnamento e alla convenienza."
+    ]
+  },
+  "section3": {
+    "image": "/images/what-is-mli/about/mli-staff.jpg",
+    "title": "Nel 2020, più di 17000 studenti hanno scelto MLI e ottenuto il Diploma alla fine del loro percorso.",
+    "description": [
+      "I corsi da noi offerti sono ESL (programma di inglese generale costituito da 6 sezioni: Grammatica/Scrittura, Lettura/lessico, e Comprensione orale/Conversazione), TOEFL e IELTS (per chi vuole successivamente trasferirsi in un college) e TOEIC.",
+      "Molti studenti hanno continuato gli studi in Università o College americani, come UCLA, USC e Santa Monica College, dopo essersi diplomati nella nostra scuola."
+    ],
+    "lists": [
+      {
+        "link": "/it/feature",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "5 ragioni per scegliere MLI "
+      },
+      {
+        "link": "/it/company",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Informazioni sulla società"
+      },
+      {
+        "link": "/it/image-gallery",
+        "image": "/images/icons/boxed-arrow.svg",
+        "text": "Galleria Foto/video "
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+    "pageTitle": "Promo - Thanks Download Brochure | Mentor Language Institute",
+    "pageDescription": "다음의 링크를 클릭하셔서 브로셔를 다운받으세요.",
+    "title": "Promo - Thanks Download Brochure",
+    "subtitle": [
+      "다음의 링크를 클릭하셔서 브로셔를 다운받으세요."
+    ],
+    "brochures": [
+      {
+        "title": "2022 웰컴 프로모션",
+        "image": "/images/material/1642408961-WELCOME_Promotion_KOREAN_JAN12.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/assets/images/material/1642408961-WELCOME_Promotion_KOREAN_JAN12.jpg"
+      },
+      {
+        "title": "학교 브로셔",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "숙박 브로셔",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 가격 & 등록 패키지",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "MLI 액티비티 브로셔",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "<span class='hutoaka'>입학 담당자가 문의 사항에 대해 이메일을 보내드립니다.</span><br />학생 비자, 숙소 이용 가능 여부 또는 기타 궁금한 사항이 있으시면 언제든지 저희에게 연락해 주십시오.",
+      "미국 유학 절차가 매우 복잡하므로 전화로 절차를 안내해 드립니다.",
+      "\"전화로 연락하지 마세요\"를 체크하지 않으시면 하루나 이틀 후에 연락드리겠습니다.",
+      "<b>【웨스트우드 캠퍼스】</b><br />10880 Wilshire Blvd., Suite 122<br />Los Angeles, CA 90024<br />TEL: ＋1（310）887-0777<br />E-mail: info@mliesl.edu<br />근무 시간: 월요일~목요일 8:30~20:30, 금요일 8:30~18:00",
+      "<b>【할리우드 캠퍼스】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102<br />E-mail: hollywood@mliesl.edu<br />근무 시간: 월요일~금요일 8:30 – 17:00"
+    ]
+  }

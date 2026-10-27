@@ -1,0 +1,107 @@
+{
+  "pageTitle": "位於洛杉磯的平價英語學校 | 語言輔導機構",
+  "pageDescription": "位於洛杉磯的平價英語學校 | 語言輔導機構",
+  "peopleChooseMli": {
+    "title": "選擇MLI(語言輔導機構)的三個理由",
+    "lists": [
+      {
+        "image": "/images/home/tw/people-choose-mli-1.jpg",
+        "title": "Hollywood及Westwood",
+        "description": "我們位於洛杉磯最好，最熱鬧的地方。學生能夠好好學習英語，同時也能享受在洛杉磯的時光。",
+        "read_more" : ["<a href=\"/tw/feature/\">» 閱讀更多</a>"]
+      },
+      {
+        "image": "/images/home/tw/people-choose-mli-2.jpg",
+        "title": "早上、下午、晚上課程",
+        "description": "我們提供給有彈性課程需求的學生早上、下午、晚上時段課程",
+        "read_more" : ["<a href=\"/tw/feature/\">» 閱讀更多</a>"]
+      },
+      {
+        "image": "/images/home/tw/people-choose-mli-3.jpg",
+        "title": "一周$201起 ～",
+        "description": "極佳的地點和合理的價格!歡迎將我們的價格和其它學校做比較。更多學費的資訊，請點擊下方「聯繫我們」的地方。",
+        "read_more" : ["<a href=\"/tw/feature/\">» 閱讀更多</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/tw/mli-highly-rated.jpg",
+  "courses": {
+    "title": "課程",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "ESL課程",
+        "subtitle": [
+          "此課程包含聽力/口說、閱讀/單字及文法/寫作部分。ESL課程適合一般英語程度想要進修的學生。"
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "托福課程",
+        "subtitle": [
+          "MLI托福課程強調作題技巧及策略，在iBT測驗四個部分中達到理想的成績"
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Vacation ESL 課程",
+        "subtitle": [
+          "該課程由聽力/口語、閱讀/詞彙和語法/寫作課程組成。 <br>我們為想要短期學習英語的學生提供假期 ESL 課程。"
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "雅思課程",
+        "subtitle": [
+          "雅思測驗在英國及澳洲用來評估學生英語精通熟練度。近年來許多美國大專院校接受托福/雅思擇一的語言能力測驗成績。",
+          "此課程包含四個部分: 聽力，口說，閱讀及寫作。課程中會學習到四大項目到達高分數的作題技巧及策略。",
+          "有些人認為雅思相較於托福較為簡單。對於那些覺得托福很困難的學生來說這是一個很好的課程選擇。"
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "會話課程",
+        "subtitle": [
+          "我們的課程專注於透過有趣的活動和互動學習，提升您在英語會話方面的技巧！在我們的會話課堂中，學生將探索各種豐富的詞彙、片語和慣用語，使您的對話生動有趣。在我們的CMAR課堂中練習發音。透過有趣的討論、角色扮演和小組活動，您將增強表達自己和參與有意義對話的自信。我們經驗豐富的教師提供支持性的學習環境，引導您踏上語言探索之旅。"
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "商業英語加托福課程",
+        "subtitle": [
+          "托福測驗是世界上許多機構及組織用來作為評估英語熟練精通度的指標。除了商業英語課程，托福課程透過介紹必備單字及探討作題策略幫助學生在托福聽力及閱讀測驗中有好的成績。",
+          "此課程對增進您的英語能力上將會有很大的幫助: 單字、閱讀、聽力及文法等方面。透過策略找到正確的答案，您可以拿到高分。"
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/tw/free_trial_banner_CHI_TR.png",
+  "link": "/tw/freetrial",
+  "partnerSchools": {
+    "title": "MLI合作的大學",
+    "subtitle": "MLI學生在完成學校規定的課程後,可在無雅思和托福的語言成績下轉入我校的合作學校."
+  },
+  "locationCampus": {
+    "title": "地點 / 學院",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "Westwood學院",
+        "subtitle": "Westwood是一個位於洛杉磯西側的活耀、獨特的地區。Westwood是UCLA附近有名的住宅區，附近有許多商店、餐廳及大學生，是一個有名有趣又安全的地方。",
+        "read_more" : ["<a href=\"/tw/westwood/\">» 閱讀更多</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "Hollywood學院",
+        "subtitle": "Hollywood學院位於有名的中國劇院正旁邊，好萊塢商圈有許多有名的電影院，好的餐廳、商店及夜店。",
+        "read_more" : ["<a href=\"/tw/hollywood/\">» 閱讀更多</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "學生見證",
+    "seemoreBtn": "查看更多",
+    "TestimonialLink": "/tw/testimonials",
+    "readmoreBtn" : "閱讀更多"
+  }
+}

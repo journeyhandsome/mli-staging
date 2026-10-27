@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "กรุณาดาวน์โหลดแผ่นพับโดยใช้ลิงค์ด้านล่าง",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "กรุณาดาวน์โหลดแผ่นพับโดยใช้ลิงค์ด้านล่าง:"
+    ],
+    "brochures": [
+      {
+        "title": "แผ่นพับเกี่ยวกับโรงเรียน",
+        "image": "/images/material/mli-brochure-program-schedule-en.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/MLI School Brochure.pdf"
+      },
+      {
+        "title": "แผ่นพับเกี่ยวกับที่พัก",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf"
+      },
+      {
+        "title": "2026 ราคาและการลงทะเบียน",
+        "image": "/images/material/2026-price-package.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
+      },
+      {
+        "title": "โบรชัวร์กิจกรรมของ MLI",
+        "image": "/images/material/2027 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"
+      }
+    ],
+    "other_info": [
+      "หากท่านมีคำถาม เช่น ปัญหาเรื่องวีซ่านักเรียน ความพร้อมในการอยู่อาศัยหรือปัญหาอื่นๆ โปรดติดต่อเราได้ตลอดเวลา",
+      "<b>【【 สาขา Westwood 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />โทร: 310-887-0777 <br />E-mail: info@mliesl.edu <br />เวลาทำการ:จันทร์ - พฤหัสฯ: 8:30 – 20:30, ศุกร์: 8:30 – 18:00",
+      "<b>【 สาขา Hollywood 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />โทร: 323-870-7102<br />E-mail: hollywood@mliesl.edu <br />เวลาทำการ: จันทร์ - ศุกร์: 8:30 – 17:00",
+      "เราหวังเป็นอย่างยิ่งว่าจะได้ต้อนรับคุณสู่ MLI Los Angeles"
+    ]
+  }

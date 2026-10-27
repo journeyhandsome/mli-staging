@@ -1,0 +1,208 @@
+{
+  "pageTitle": "Contatto per la promozione 2022 | Mentor Language Institute",
+  "pageDescription": "Tuo nome",
+  "title": "Contatto per la promozione 2022",
+    "form": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "Tuo nome",
+        "isRequired": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "Tua email",
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "country",
+        "label": "Paese",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "Argentina",
+            "label": "Argentina"
+          },
+          {
+            "value": "Belgium",
+            "label": "Belgium"
+          },
+          {
+            "value": "Brazil",
+            "label": "Brazil"
+          },
+          {
+            "value": "China",
+            "label": "China"
+          },
+          {
+            "value": "Colombia",
+            "label": "Colombia"
+          },
+          {
+            "value": "France",
+            "label": "France"
+          },
+          {
+            "value": "Germany",
+            "label": "Germany"
+          },
+          {
+            "value": "Italy",
+            "label": "Italy"
+          },
+          {
+            "value": "Japan",
+            "label": "Japan"
+          },
+          {
+            "value": "Kazakhstan",
+            "label": "Kazakhstan"
+          },
+          {
+            "value": "Russia",
+            "label": "Russia"
+          },
+          {
+            "value": "Saudi Arabia",
+            "label": "Saudi Arabia"
+          },
+          {
+            "value": "South Korea",
+            "label": "South Korea"
+          },
+          {
+            "value": "Spain",
+            "label": "Spain"
+          },
+          {
+            "value": "Switzerland",
+            "label": "Switzerland"
+          },
+          {
+            "value": "Taiwan",
+            "label": "Taiwan"
+          },
+          {
+            "value": "Thailand",
+            "label": "Thailand"
+          },
+          {
+            "value": "Turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "Tunisia",
+            "label": "Tunisia"
+          },
+          {
+            "value": "Ukraine",
+            "label": "Ukraine"
+          },
+          {
+            "value": "Venezuela",
+            "label": "Venezuela"
+          },
+          {
+            "value": "Other",
+            "label": "Other"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "label": "Il tuo numero di telefono",
+        "isRequired": true
+      },
+      {
+        "type": "checkbox",
+        "name": "phone_call",
+        "label": "Non desidero ricevere telefonate da MLI"
+      },
+      {
+        "type": "select",
+        "name": "campus",
+        "label": "Campus Preference",
+        "selection": [
+          {
+            "value": "Hollywood",
+            "label": "Hollywood"
+          },
+          {
+            "value": "Westwood",
+            "label": "Westwood"
+          },
+          {
+            "value": "Both",
+            "label": "Both"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "time_to_start",
+        "label": "Approssimativamente quando pensi di iniziare il tuo programma negli Stati Uniti?",
+        "selection": [
+          {
+            "value": "",
+            "label": "---"
+          },
+          {
+            "value": "one month",
+            "label": "1 mese"
+          },
+          {
+            "value": "three months",
+            "label": "3 mesi"
+          },
+          {
+            "value": "six months",
+            "label": "6 mesi"
+          },
+          {
+            "value": "one year or more",
+            "label": "1 anno o oltre"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "select",
+        "name": "media",
+        "label": "Come hai conosciuto il MLI?",
+        "selection": [
+          {
+            "value": "Internet",
+            "label": "Internet"
+          },
+          {
+            "value": "An agent",
+            "label": "Agente"
+          },
+          {
+            "value": "Friend",
+            "label": "Amico"
+          },
+          {
+            "value": "Other",
+            "label": "Altro"
+          }
+        ],
+        "isRequired": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Tuo messaggio"
+      }
+    ],
+    "btn_label": "Invia"
+  }

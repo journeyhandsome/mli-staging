@@ -1,0 +1,31 @@
+{
+    "pageTitle": "您计划申请哪类签证？ | Mentor Language Institute",
+    "pageDescription": "请从以下选项选择您的签证种类",
+    "title": "您计划申请哪类签证？",
+    "image": "/images/how-to-apply/how-to-apply/visa.jpg",
+    "category":[
+        {
+                "title": "请从以下选项选择您的签证种类:",
+                "btn_visa":  {
+                    "image": "/images/how-to-apply/how-to-apply/visa_btn-ch.png",
+                    "link": "/ch/how-to-apply/student-visa-f1"
+                },
+                "btn_others":  {
+                    "image": "/images/how-to-apply/how-to-apply/others_btn-ch.png",
+                    "link": "/ch/how-to-apply/others"
+                }
+            }
+        ],
+    "content": 
+        {
+            "subtitle": "任何問題?",
+            "description": [
+                "通常情况下，你需要学生签证才能在美国长期留学。 <br /> 如果您不知道您是否需要签证，请与我们联系。",
+                "办公室有八国语言的工作人员。"
+            ],
+            "imageLink": {
+                "image": "/images/how-to-apply/how-to-apply/contact-us-ch.jpg",
+                "link": "/ch/contact"
+            }
+        }
+}

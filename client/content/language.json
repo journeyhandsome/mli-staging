@@ -1,0 +1,72 @@
+[
+  {
+    "image": "/images/flags/us.png",
+    "title": "English",
+    "link": "en"
+  },
+  {
+    "image": "/images/flags/sa.png",
+    "title": "عرب؛ عربيّc",
+    "link": "ar"
+  },
+  {
+    "image": "/images/flags/kr.png",
+    "title": "한국어",
+    "link": "kr"
+  },
+  {
+    "image": "/images/flags/ru.png",
+    "title": "Pусский",
+    "link": "ru"
+  },
+  {
+    "image": "/images/flags/fr.png",
+    "title": "Français",
+    "link": "fr"
+  },
+  {
+    "image": "/images/flags/es.png",
+    "title": "Español",
+    "link": "sp"
+  },
+  {
+    "image": "/images/flags/th.png",
+    "title": "ภาษาไทย",
+    "link": "th"
+  },
+  {
+    "image": "/images/flags/jp.png",
+    "title": "日本語",
+    "link": "jp"
+  },
+  {
+    "image": "/images/flags/br.png",
+    "title": "Português",
+    "link": "por"
+  },
+  {
+    "image": "/images/flags/cn.png",
+    "title": " 中文(简体)",
+    "link": "ch"
+  },
+  {
+    "image": "/images/flags/it.png",
+    "title": "Italiano",
+    "link": "it"
+  },
+  {
+    "image": "/images/flags/tr.png",
+    "title": "Türkçe",
+    "link": "tr"
+  },
+  {
+    "image": "/images/flags/de.png",
+    "title": "Deutsch",
+    "link": "de"
+  },
+  {
+    "image": "/images/flags/tw.png",
+    "title": "中文(繁體)",
+    "link": "tw"
+  }
+]

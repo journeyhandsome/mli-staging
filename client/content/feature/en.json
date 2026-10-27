@@ -1,0 +1,103 @@
+{
+  "pageTitle": "5 Reasons People Choose MLI | Mentor Language Institute",
+  "pageDescription": "We have helped more than 17,000 students improve their English skills since our opening.",
+  "section1": {
+    "title": "5 Reasons People Choose MLI",
+    "image": "/images/what-is-mli/feature/mli-mentor.jpg"
+  },
+  "section2": {
+    "title": "5 Characteristics of Mentor Language Institute",
+    "description": [
+      "We have helped <b>more than 17,000 students</b> improve their English skills since our opening. Why do students choose MLI even though there are so many English schools in Los Angeles? We took a survey of MLI students and their answers are below."
+    ],
+    "image": "/images/what-is-mli/feature/survey.jpg",
+    "notes": "Survey period : January to June in 2017 of 342 students"
+  },
+  "section3": [
+    {
+      "title": "No.1 : Reasonable Price",
+      "subtitle": "Great Price! From $209 per week Afternoon classes are 40% off the price of morning classes!",
+      "description": [
+        "The number 1 reason students choose MLI is affordability.",
+        "The longer you attend our school, the cheaper the tuition. If you apply for 1 month (4 weeks), the tuition is $1,220 = <b>$305 per week</b>. This is already reasonable price in LA. But, if you apply for 48 weeks, the tuition is $10,032 = <span style=\"color: #ff0000; font-weight: bold;\">$209 per week.</span> Please compare our rates with other schools."
+      ],
+      "image": "/images/what-is-mli/feature/PRICE_CHART_WEB_JAN06.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details about Tuition",
+          "link": "/price"
+        }
+      ]
+    },
+    {
+      "title": "No.2 : Great Location",
+      "subtitle": "Westwood & Hollywood : popular areas in Los Angeles",
+      "description": [
+        "We are located in great, popular areas of Los Angeles, <b>Westwood</b> and <b>Hollywood</b>. Students can easily access famous places such as Santa Monica and downtown LA."
+      ],
+      "image": "/images/what-is-mli/feature/great-location.jpg",
+      "locations": [
+        {
+          "image": "/images/what-is-mli/feature/westwood-campus.jpg",
+          "label": "Westwood Campus"
+        },
+        {
+          "image": "/images/what-is-mli/feature/hollywood-campus.jpg",
+          "label": "Hollywood Campus"
+        }
+      ],
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details about Westwood Campus",
+          "link": "/westwood"
+        },
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details about Hollywood Campus",
+          "link": "/hollywood"
+        }
+      ]
+    },
+    {
+      "title": "No.3 : Variety of College Preparation Courses",
+      "subtitle": "Many students transfer to UCLA and Santa Monica College after studying at MLI.",
+      "description": [
+        "We offer popular test preparation program such as <b>TOEFL®, IELTS™.</b> Many students transfer to <b>UCLA, USC</b> and <b>Santa Monica College</b> after completing our test preparation program."
+      ],
+      "image": "/images/what-is-mli/feature/going-to-college.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details about Going to Collage",
+          "link": "/going-to-college"
+        }
+      ]
+    },
+    {
+      "title": "No.4 : Flexible Class Schedule",
+      "subtitle": "We offer morning, afternoon and evening classes.",
+      "description": [
+        "<b>MLI offers 3 different class schedules.</b> Students can choose from morning, afternoon and evening classes."
+      ],
+      "image": "/images/what-is-mli/feature/class-schedule.png",
+      "notes": "※This is a class schedule for Westwood Campus. If you'd like the Hollywood Campus schedule, please contact us."
+    },
+    {
+      "title": "No.5 : Dormitory",
+      "subtitle": "Our Partner: US Support Services Inc. offers the opportunity to communicate with students from all over the world at our dormitory.",
+      "description": [
+        "Our partner: U.S. Support Service Inc. arranges homestay programs and also dormitories. They provide more than 40 rooms at our dormitories located near each campus.  Many students stay at a dormitory if it's their first time in the States."
+      ],
+      "image": "/images/what-is-mli/feature/dormitory.jpg",
+      "links": [
+        {
+          "icon": "/images/icons/boxed-arrow.svg",
+          "text": "Details about Accommodations",
+          "link": "/stay"
+        }
+      ]
+    }
+  ]
+}

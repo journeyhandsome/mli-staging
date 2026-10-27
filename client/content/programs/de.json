@@ -1,0 +1,96 @@
+{
+  "pageTitle": "Programm | Mentor Language Institute",
+  "pageDescription": "Wir bieten 8 Programm am MLI an. ESL Programm, TOEFL®, IELTS™, Konversationprogramm, Business ＋ TOEIC®, GRE® / GMAT®",
+  "title": "Programm",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "Wir bieten 7 Programme am MLI an.",
+    "lists": [
+      "ESL programm",
+      "Vacation ESL programm",
+      "TOEFL® Test Preparation / TOEFL® and University Preparation-Programm",
+      "IELTS programm",
+      "Conversation Intermediate programm",
+      "Conversation Advanced programm",
+      "Business plus TOEIC programm"
+    ]
+  },
+  "subtitle": [
+    "Alle Kurse werden in Englisch gehalten. Viele Studenten beginnen mit einem allgemeinen ESL Programm und nachdem sie sich an die englische Sprache gewöhnt haben, studieren sie Spezialgebiete wie TOEFL®.",
+    "※Manche Kurse benötigen eine Mindestpunktzahl beim Einstufungstest."
+  ],
+  "services_esl": [
+    {
+      "title": "ESL Programm (allgemeines Englisch)",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "Dieses Programm konzentriert sich auf die Kommunikation in Englisch. Es ist hilfreich zur Stärkung deiner 4 Fähigkeiten (Schreiben, Hören, Sprechen und Lesen).",
+      "description": [
+        "Dies ist das beliebteste Programm am MLI. Es ist in 8 Stufen unterteilt. Du kannst deine Englischkenntnisse in einer Klasse verbessern, die deinen Englischkenntnissen entspricht."
+      ]
+    }
+  ],
+  "services_toefl": [
+    {
+      "title": "TOEFL® Test Preparation / TOEFL® and University Preparation-Programm",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/de/der-neue-toefl-ibt-2026alle-anderungen-die-sie-kennen-mussen/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "TOEFL® iBT ist ein Test zur Bewertung der Englischkenntnisse nicht-englischsprachiger Personen. Ein TOEFL®-Nachweis mit einer bestimmten Punktzahl wird von vielen Universitäten in den Vereinigten Staaten gefordert, aber auch von Regierungsbehörden, privaten Unternehmen, Qualifizierungsakquisitionsorganisationen und Stipendieneinrichtungen.",
+      "description": [
+        "Das TOEFL®-Programm von MLI konzentriert sich auf Teststrategien und die Verbesserung aller 4 Fähigkeiten (Schreiben, Hören, Sprechen und Lesen), um eine hohe Punktzahl beim internetbasierten Test (iBT) zu erzielen."
+      ]
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "IELTS™ Programm",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "IELTS ™ ist ein Test, der in Großbritannien und Australien entwickelt wurde, um die Englischkenntnisse der Studenten zu bewerten. Seit einiger Zeit fodern viele amerikanische Universitäten den Nachweis eines TOEFL®- oder IELTS ™ -Tests mit einer bestimmten Punktzahl.",
+      "description": [
+        "Das Programm besteht aus vier Sektionen: Hören, Sprechen, Lesen und Schreiben. In diesem Kurs lernst du die Fähigkeiten / Strategien, um in jeder Sektion hohe Punktzahlen zu erreichen.",
+        "Man sagt IELTS™ wäre einfacher als der TOEFL® Test. Somit ist er das perfekte Programm für alle, denen TOEFL® zu schwierig ist."
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "Konversationsprogramm",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "Dieses Programm konzentriert sich auf Gespräche aus dem täglichen Leben und zielt darauf ab, Studenten zu helfen, fließend Englisch zu sprechen.",
+      "description": [
+        "Unser Programm konzentriert sich darauf, deine Konversationsfähigkeiten in Englisch durch fesselnde Aktivitäten und interaktives Lernen zu verbessern! In unseren Konversationskursen erkunden die Schüler eine Vielzahl von Vokabeln, Redewendungen und Idiomen, die deine Gespräche lebendiger machen werden. In unserer CMAR-Klasse kannst du deine Aussprache üben. Durch unterhaltsame Diskussionen, Rollenspiele und Gruppenaktivitäten wirst du an Selbstbewusstsein gewinnen und lernen, dich in sinnvolle Gespräche einzubringen. Unsere erfahrenen Lehrkräfte schaffen eine unterstützende Lernumgebung und begleiten dich auf einer Reise der sprachlichen Entdeckung."
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "Business plus TOEIC® Programm",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "In der internationalen Businesswelt ist Englisch die universelle Sprache. Ziel dieses Programms ist es, die Geschäftskommunikationsfähigkeiten in Englisch zu verbessern.",
+      "description": [
+        "Deine Englischkenntnisse werden durch praktische Simulationen wie studentische Powerpoint-Präsentationen, Telefongesprächsübungen, Verhandlungen und Meetings umfassend verbessert, aber auch durch die Konzentration auf Business Vokabular, Hören, Schreiben und Diskussionsfähigkeiten."
+      ],
+      "other_info": {
+        "description": [
+          "Der TOEIC® Test dient als Indikator für die Englischkenntnisse in der Geschäftswelt und wird von verschiedenen Unternehmen und Organisationen rund um den Globus genutzt. Als Ergänzung zum Standard Business Programm, bereitet das TOEIC® Programm Studenten auf den TOEIC® - Zuhören und Lesen Test vor, indem essentielle Vokabeln und Strategien erlernt werden, um eine möglichst hohe Punktzahl zu erzielen.",
+          "Diese Programm wird dir helfen, deine Englischkenntnisse wie Vokabular, Lesen, Zuhören und Grammatik zu verbessern. Durch das Erlernen von Strategien, die dir helfen die richtigen Lösungen zu finden, wirst du in der Lage sein eine hohe Punktzahl zu erreichen."
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "Privatunterricht",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "Privatstunden werden individuell auf DEINE Ziele in Einzelsitzungen oder Kleingruppenkursen abgestimmt.",
+      "description": [
+        "Privatunterricht ist unsere flexibelste Sprachlernoption. Sehr gut ausgebildete Instruktoren entwickeln personalisierte Unterrichtsinhalte, die dir helfen werden deine spezifischen Englischziele zu erreichen. Du kannst alles lernen, von allgemeinen Englischfertigkeiten, Konversation, Redegewandtheit, Akzentreduktion, Business Englisch, TOEFL, TOEIC, GRE und mehr. Du kannst Privatstunden basierend auf deiner Verfügbarkeit und deinem Wunschtempo vereinbaren. Wenn du intensiv studieren möchtest, kannst du zum Beispiel jeden Tag für 3 Stunden Privatunterricht anfordern, oder wenn du es lieber etwas entspannter möchtest, kannst du einmal pro Woche für 1 Stunde Privatunterricht nehmen. Du erhälst Flexibilität, personalisierte Inhalte und ein Tempo, dass für dich passt - alles für einen erschwinglichen Peis!",
+        "Kosten für regulären Einzelunterricht: <br />$80/1 Stunde <br />$912/12 Stunden <br />$1,632/24 Stunden <br />$2,688/48 Stunden",
+        "Wenn ein Schüler einen bestimmten Lehrer wünscht: <br /> $92/1 Stunde <br /> $1,044/12 Stunden <br /> $1,896/24 Stunden <br /> $3,120/48 Stunden",
+        "* Wenn sich 2 Studenten einen Privatunterricht teilen, erhält der zweite Student 50% Rabatt."
+      ]
+    }
+  ]
+}

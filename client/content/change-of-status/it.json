@@ -1,0 +1,38 @@
+{
+    "pageTitle": "Others | Mentor Language Institute",
+    "pageDescription": "Studente in possesso di un visto US invece che un visto F1(studenti).",
+    "title": "Others",
+    "image": "/images/how-to-apply/change-of-status/change-of-status-jp.jpg",
+    "visaFree": {
+      "title": "Studente in possesso di un visto US invece che un visto F1(studenti).",
+      "description": [
+        "Studente che ha la cittadinanza americana, greencard o visto che non appartenga alla categoria F1.",
+        "Iscriversi sotto"
+      ],
+      "btn_label": "Modulo di iscrizione online",
+      "link": "/it/admission"
+    },
+    "needHelp": {
+      "title": "Hai una domanda? Hai bisogno di aiuto? Contattaci",
+      "description": [
+        "-Domande sulla cittadinanza <br />-Domande relative al cambio di residenza <br />-Domande sullo status attuale <br />-Domande sulla procedura di iscrizione <br />",
+        "Per avere maggiori informazioni contattaci <br />Assistenza linguistica in 8 lingue diverse"
+      ]
+    },
+    "contactUs": {
+      "title": "Contattaci",
+      "lists": [
+        {
+          "campus": "＜WESTWOOD CAMPUS＞",
+          "address": "10880 Wilshire Blvd., Suite #122, Los Angeles, CA 90024",
+          "telephone": "Tel:310⁻887⁻0777"
+        },
+        {
+          "campus": "＜HOLLYWOOD CAMPUS＞",
+          "address": "7080 Hollywood Blvd., Suite 314 Los Angeles, CA 90028",
+          "telephone": "Tel:323⁻870⁻7102"
+        }
+      ]
+    },
+    "hasBrochure": true
+  }

@@ -1,0 +1,139 @@
+{
+  "pageTitle": "MLI課程及老師 | Mentor Language Institute",
+  "pageDescription": "在一般英語課程中，學生需要利用現實生活中的素材像是Twitter 文章、TED 演講及電影連結的活得實際技巧。利用這些素材，學生可以有系統地獲得文法、寫作、閱讀、單字、聽力和口說的典範。",
+  "title": "MLI課程及老師",
+  "image": "/images/what-is-mli/teachers/mli-student-teachers.jpg",
+  "lists": [
+    {
+      "title": "課程著重在實際練習",
+      "description": [
+        "在一般英語課程中，學生需要利用現實生活中的素材像是Twitter 文章、TED 演講及電影連結的活得實際技巧。利用這些素材，學生可以有系統地獲得文法、寫作、閱讀、單字、聽力和口說的典範。",
+        "除此之外, TOEFL®和其他測驗準備課程提供學生我們解決問題的方法及策略。 "
+      ]
+    },
+    {
+      "title": "MLI的老師",
+      "description": [
+        "每年有1,200位學生畢業於MLI，由此可見我們教職員的水準。<br />我們不斷努力增進我們教職員的能力，透過觀察、評估及專業發展工作營。"
+      ],
+      "checklist": [
+        {
+          "title": "聘請要求(老師的基本資格)",
+          "lists": [
+            "四年大專院校畢業",
+            "三年英語教師經驗",
+            "TESOL類的教學證書",
+            "TOEFL® / GMAT®類似測驗的知識",
+            "高度溝通技巧能力",
+            "教學的熱情和承諾"
+          ]
+        },
+        {
+          "title": "挑選的方式",
+          "lists": [
+            "履歷表及文憑",
+            "英語文法測驗",
+            "面試",
+            "模擬教學"
+          ],
+          "note": "錄取率低於20%"
+        }
+      ]
+    },
+    {
+      "title": "訓練及評估系統",
+      "description": [
+        "在MLI，我們每12周進行這三項檢查以維繫我們的教師品質。"
+      ],
+      "listType": "decimal",
+      "lists": [
+        "學生評價教科書及教師。得到85%以下滿意度的教師需要接受專業教職訓練。",
+        "資深的教學團隊給予的教學觀察及評分。",
+        "專業發展及訓練工作營增進授課品質。"
+      ],
+      "note": "管理人員及教師群每天都努力增進教學品質!"
+    }
+  ],
+  "teachers": [
+    {
+      "image": "/images/what-is-mli/teachers/teacher-julie.jpg",
+      "name": "Julie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-brian.jpg",
+      "name": "Brian"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kelsey.jpg",
+      "name": "Kelsey"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shawna.jpg",
+      "name": "Shawna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-benjamin.jpg",
+      "name": "Benjamin"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-kyle.jpg",
+      "name": "Kyle"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-lindsay.jpg",
+      "name": "Lindsay"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-leo.jpg",
+      "name": "Leo"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-carl.jpg",
+      "name": "Carl"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-shenna.jpg",
+      "name": "Shenna"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-bonnie.jpg",
+      "name": "Bonnie"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-patrick.jpg",
+      "name": "Patrick"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-hubert.jpg",
+      "name": "Hubert"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-matt.jpg",
+      "name": "Matt"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Maribel.jpg",
+      "name": "Maribel"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Joan.jpg",
+      "name": "Joan"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Sara.jpg",
+      "name": "Sara"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Tom.jpg",
+      "name": "Tom"
+    },
+    {
+      "image": "/images/what-is-mli/teachers/teacher-Gannon.jpg",
+      "name": "Gannon"
+    }
+  ]
+}

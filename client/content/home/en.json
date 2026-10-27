@@ -1,0 +1,108 @@
+{
+  "pageTitle": "Affordable English School in Los Angeles | Mentor Language Institute",
+  "pageDescription": "Affordable English School in Los Angeles | Mentor Language Institute",
+  "peopleChooseMli": {
+    "title": "3 Reasons People Choose MLI",
+    "subtitle": "(Mentor Language Institute)",
+    "lists": [
+      {
+        "image": "/images/home/en/people-choose-mli-1.jpg",
+        "title": "Hollywood & Westwood",
+        "description": "We are located in great, popular areas of Los Angeles. Students can not only study English, but also enjoy Los Angeles.",
+        "read_more" : ["<a href=\"/feature/\">» Read More</a>"]
+      },
+      {
+        "image": "/images/home/en/people-choose-mli-2.jpg",
+        "title": "Morning, Afternoon and Evening classes",
+        "description": "We provide Morning, Afternoon and Evening classes for people who need flexible schedules.",
+        "read_more" : ["<a href=\"/feature/\">» Read More » </a>"]
+      },
+      {
+        "image": "/images/home/en/people-choose-mli-3.jpg",
+        "title": "$201 / 1 week ～",
+        "description": "Good Location and Reasonable Price! Please compare our prices to other schools. If you want tuition information, click on Contact Us below.",
+        "read_more" : ["<a href=\"/feature/\">» Read More</a>"]
+      }
+    ]
+  },
+  "highlyRated": "/images/home/en/mli-highly-rated.jpg",
+  "courses": {
+    "title": "Courses",
+    "lists": [
+      {
+        "image": "/images/icons/paste.png",
+        "title": "ESL Program",
+        "subtitle": [
+          "This program is composed of listening/speaking, reading/vocabulary, and grammar/writing classes. The ESL program is ideal for students who want to improve their general English skills."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "TOEFL® Program",
+        "subtitle": [
+          "MLI’s TOEFL® program is an intensive look at the skills and strategies necessary to achieve a successful score on the four sections of the Internet-Based Test (iBT)."
+        ]
+      },
+      {
+        "image": "/images/icons/paste.png",
+        "title": "Vacation ESL program",
+        "subtitle": [
+          "This program is composed of listening/speaking, reading/vocabulary, and grammar/writing classes.  <br>We offer the Vacation ESL program for students who want to study English for a short term."
+        ]
+      },
+      {
+        "image": "/images/icons/pen.png",
+        "title": "IELTS™ Program",
+        "subtitle": [
+          "IELTS™ is a test, developed in the UK and Australia, to evaluate students' English proficiency. Recently, many American universities require either a TOEFL® score, or an IELTS™ score.",
+          "The program consists of four parts: listening, speaking, reading and writing. In this class, you will learn the skills/strategies for achieving high scores in each section.",
+          "IELTS™ is said to be relatively easier than TOEFL®. It is a perfect program for students who find TOEFL® difficult."
+        ]
+      },
+      {
+        "image": "/images/icons/message.png",
+        "title": "Conversation Program",
+        "subtitle": [
+          "Our program focuses on enhancing your conversational skills in English through engaging activities and interactive learning! In our conversation classes, students will explore a wide range of vocabulary, phrases, and idioms that will make your conversations come alive. Practice your pronunciation in our CMAR class. Through fun discussions, role-plays, and group activities, you'll gain confidence in expressing yourself and engaging in meaningful conversations. Our experienced instructors provide a supportive learning environment, guiding you on a journey of language discovery. "
+        ]
+      },
+      {
+        "image": "/images/icons/suitcase.png",
+        "title": "Business plus TOEIC® Program",
+        "subtitle": [
+          "The TOEIC® test is an indicator of English proficiency in business and is used by various companies and organizations around the world. In addition to the standard Business program, the TOEIC® program prepares students for success on the TOEIC® - Listening and Reading Exam by introducing essential vocabulary and exploring strategies for achieving a high score on the test.",
+          "This program will be helpful in improving your English skills, such as vocabulary, reading, listening, and grammar. By learning the strategies to find correct answers, you will be able to get a high score."
+        ]
+      }
+    ]
+  },
+  "schedule": "/images/home/en/free_trial_banner-En.png",
+  "link": "/freetrial",
+  "partnerSchools": {
+    "title": "MLI's Partner Universities / Colleges",
+    "subtitle": "\"MLI students can enroll at partner universities or colleges after completing certain MLI programs.\""
+  },
+  "locationCampus": {
+    "title": "Location / Campus",
+    "lists": [
+      {
+        "image": "/images/home/location-campus-1.jpg",
+        "title": "Westwood Campus",
+        "subtitle": "Westwood is a vibrant, unique neighborhood located on the west side of Los Angeles. Westwood is famous for being the home of UCLA. It is a very fun and popular area for students since there are a lot of university students and many shops, restaurants and safe places to hang out.",
+        "read_more" : ["<a href=\"/westwood/\">» Read More</a>"]
+      },
+      {
+        "image": "/images/home/location-campus-2.jpg",
+        "title": "Hollywood Campus",
+        "subtitle": "The Hollywood campus is right next to the famous Chinese Theater. There are famous movie theaters, good restaurants, shops and clubs in the Hollywood area. This area is always very livery.",
+        "read_more" : ["<a href=\"/hollywood/\">» Read More</a>"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Student Testimonials",
+    "seemoreBtn": "See more Testimonials",
+    "TestimonialLink": "/testimonials",
+    "readmoreBtn" : "Read More"
+  }
+}

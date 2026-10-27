@@ -1,0 +1,99 @@
+{
+  "pageTitle": "プログラム | Mentor Language Institute",
+  "pageDescription": "MLIで8個のコースを提供しております。 ESL（一般英語）, Vacation ESL, TOEFL®, IELTS™, Conversation中級, Conversation上級, Business＋TOEIC®, GRE® / GMAT®",
+  "title": "プログラム",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "MLIで7個のコースを提供しております。",
+    "lists": [
+      "ESLプログラム",
+      "Vacation ESLプログラム (短期でESLを受講される方向け)",
+      "TOEFL®テスト対策 / TOEFL® 大学進学準備プログラム",
+      "IELTS™",
+      "Conversation中級",
+      "Conversation上級",
+      "Business＋TOEIC®"
+    ]
+  },
+  "subtitle": [
+    "講義は全て英語で行われます。 多くの生徒はESLコースから開始し、ある程度英語に慣れてから、TOEFL。",
+    "※全ての生徒は選択クラスを受講することができます。<br />※来校、初日に受けて頂くクラス分けテストの結果によりご受講いただけないコースもありますので予めご了承下さい。"
+  ],
+  "services_esl": [
+    {
+      "title": "ESL プログラム（一般英語）",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "英語4技能（書く・聞く・話す・読む）を伸ばし、英語でコミュニケーションの取り方を重点的に学ぶプログラムです。",
+      "description": [
+        "当校で最も受講人数が多いコースで、8段階のレベルに分けられ自分の英語力に合ったクラスで英語力を高めていきます。"
+      ],
+      "youtube": "https://www.youtube.com/embed/Aq_MfkF3x0g"
+    }
+  ],
+  "services_toefl": [
+    {
+      "title": "TOEFL®テスト対策 / TOEFL® 大学進学準備プログラム",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/jp/2026年版-新toefl-ibt：知っておくべきすべての変更点/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "TOEFL® iBTは非英語圏の人の英語力を図るテスト。<br />アメリカのほぼ全ての大学の入学審査に利用されるほか、政府機関、民間企業、資格取得団体、および奨学金機構などでも、英語力の証明として活用されています",
+      "description": [
+        "MLIのTOEFL®プログラムはInternet-Based Test (iBT)の4つのセクションのスコアで、高得点を取るためのスキル/ストラテジーと対策（４技能セクション）を集中して学びます。"
+      ],
+      "youtube": "https://www.youtube.com/embed/KYPYbU-D3M0"
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "IELTS™ プログラム",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "IELTSは主にイギリス・オーストラリアで開発された英語力を図るためのテストです。<br />昨今、多くのアメリカ大学はTOEFL® スコアを義務付けていますが、IELTS™でも条件として認める大学が増えてきました。",
+      "description": [
+        "プログラムは、リスニング、スピーキング、リーディング、ライティングの４つのパートで構成されており、各セクションで高得点を取るためのスキル/ ストラテジーを学びます",
+        "日本人にとってIELTS™はTOEFL®よりも比較的容易と言われており、TOEFL®を難しく感じる学生にぴったりなプログラムです。"
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "Conversation(会話)プログラム",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "このプログラムは、日常生活にスポットをあてた、流暢に英語で会話する能力を高めるためのコースです。",
+      "description": [
+        "私たちのConversation(会話)プログラムは、実践的なアクティビティや対話型学習を通じて、あなたの英会話スキルを向上させることに重点を置いています！このプログラムでは、様々な語彙、フレーズ、イディオムを学び、あなたの英語での会話能力をさらに高めることができます。CMARクラスでは、あなたの発音矯正を行い、楽しいディスカッションやロールプレイ、グループ活動を通じて、自己表現や「実生活」で使われる様々な会話を効果的に学習することができます。経験豊富な講師陣がサポートする学習環境で一緒に会話力アップを目指しましょう。"
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "Business ＋ TOEIC® プログラム",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "国際的なビジネスシーンにおいて、英語は世界共通言語。このプログラムでは、英語による実践的なビジネスコミュニケーションスキルを向上させることを目的としたコースです。",
+      "description": [
+        "パワーポイントを使用したプレゼンや、電話応対、交渉、会議など、実践さながらのシュミレーションを通じて、ビジネス語彙を増やしていく事はもちろん、リスニング、リーディング、ライティング、ディスカッションスキルといった英語総合力も同時に高めていきます。"
+      ],
+      "youtube": "https://www.youtube.com/embed/2htjAgPz984",
+      "other_info": {
+        "description": [
+          "このプログラムは、通常のビジネスコースに加え、TOEIC®テストのスコアを上げることを目的としたコースです。TOEIC®テストは、世界中の様々な会社や組織において、ビジネスにおける英語力を示す指標となっています。",
+          "本コースを受講することで、語彙力、リーディング力、リスニング力、文法力といった英語力が向上することはもちろん、問題を正解に導くストラテジーを学ぶことで、テストで高得点が取れるようになります。"
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "プライベートレッスン",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "プライベートレッスンでは個人の目標に合わせてカスタマイズするものになります。マンツーマンもしくは小グループで授業を行います。",
+      "description": [
+        "プライベートレッスンは最も柔軟に語学学習ができるプログラムになっております。担当講師が生徒の達成したい英語目標に合わせて授業を制定していきます。一般英語スキル、英会話、流暢さの改善、発音矯正、ビジネス英会話、TOEFL、TOEIC、GREなどと言った学習したいものを勉強することができます。従って、生徒のペースや需要に合わせてレッスンを組み立てることができます。例えば、集中的に英語勉強したい場合、毎日3時間ずつかもしくは生徒のペースに合わせて、一週間に1時間で気長に授業を行うことができます。当プログラムは、リーズナブルな価格で、柔軟なオーダーメイド授業を受講することができます。",
+        "通常のプライベートレッスン料金： <br />$80/1時間 <br />$912/12時間 <br />$1,632/24時間 <br />$2,688/48時間",
+        "生徒が特定の教師を希望した場合：  <br /> $92/1時間 <br /> $1,044/12時間 <br /> $1,896/24時間 <br /> $3,120/48時間",
+        "* 生徒2名でプライベート授業をシェアする場合、二人目の生徒は50％オフの授業料で受講することが可能でございます。"
+      ]
+    }
+  ]
+}

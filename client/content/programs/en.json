@@ -1,0 +1,99 @@
+{
+  "pageTitle": "Programs | Mentor Language Institute",
+  "pageDescription": "We provide 8 programs at MLI: ESL Program,Vacation ESL Program,TOEFL® Preparation Program,IELTS™ Program,Conversation Intermediate Program,Conversation Advanced Program,Business plus TOEIC® Program,GRE® / GMAT® Program",
+  "title": "Programs",
+  "image": "/images/courses/course/mli_course.jpg",
+  "programs": {
+    "title": "We provide 7 programs at MLI",
+    "lists": [
+      "ESL Program",
+      "Vacation ESL Program",
+      "TOEFL® Test Preparation / TOEFL® and University Preparation Program",
+      "IELTS™ Program",
+      "Conversation Intermediate Program",
+      "Conversation Advanced Program",
+      "Business plus TOEIC® Program"
+    ]
+  },
+  "subtitle": [
+    "All programs are held in English. Many students begin with general ESL program, then after becoming accustomed to English, they often study special fields, such as TOEFL®.",
+    "*This elective is available to all students.<br />**Some classes require a minimum placement test score to join."
+  ],
+  "services_esl": [
+    {
+      "title": "ESL Program (General English)",
+      "image": "/images/courses/course/esl.png",
+      "subtitle": "This program focuses on how to communicate in English. It is helpful in strengthening your 4 skills (writing, listening, speaking, and reading.)",
+      "description": [
+        "This is the most popular program at MLI. It is divided into 8 levels. You can improve your English skills in a class that matches your English proficiency."
+      ],
+      "youtube": "https://www.youtube.com/embed/Aq_MfkF3x0g"
+    }
+  ],
+  "services_toefl": [  
+    {
+      "title": "TOEFL® Test Preparation / TOEFL® and University Preparation Program",
+      "image": "/images/courses/course/toefl.png",
+      "link": "https://mliesl.edu/contents/the-new-toefl-ibt-2026-all-the-changes-you-need-to-know/",
+      "other_image": "/images/courses/course/Banner_TOEFL_Jan_21.png",
+      "subtitle": "TOEFL® iBT is a test to evaluate the English proficiency of non-English speaking people. A TOEFL® score is required by many universities in the United States, but also government agencies, private enterprises, qualification acquisition organizations, and scholarship institutions.",
+      "description": [
+        "MLI's TOEFL® Preparation program concentrates on test strategies and improving all 4 skills (writing, listening, speaking, and reading) to get a high score on the Internet-Based Test (iBT)."
+      ],
+      "youtube": "https://www.youtube.com/embed/KYPYbU-D3M0"
+    }
+  ],
+  "services_ielts": [
+    {
+      "title": "IELTS™ Program",
+      "image": "/images/courses/course/ielts.jpg",
+      "subtitle": "IELTS™ is a test, developed in the UK and Australia, to evaluate students' English proficiency. Recently, many American universities require either a TOEFL® score, or an IELTS ™ score.",
+      "description": [
+        "The program consists of four parts: listening, speaking, reading and writing. In this class, you will learn the skills/strategies for achieving high scores in each section.",
+        "IELTS ™ is said to be relatively easier than TOEFL®. It is a perfect program for students who find TOEFL® difficult."
+      ],
+      "youtube": "https://www.youtube.com/embed/ho7kUVZoOng"
+    }
+  ],
+  "services_conversation": [
+    {
+      "title": "Conversation Program",
+      "image": "/images/courses/course/conversation.png",
+      "subtitle": "This program focuses on daily life conversation and aims at helping students speak English fluently.",
+      "description": [
+        "Our program focuses on enhancing your conversational skills in English through engaging activities and interactive learning! In our conversation classes, students will explore a wide range of vocabulary, phrases, and idioms that will make your conversations come alive. Practice your pronunciation in our CMAR class. Through fun discussions, role-plays, and group activities, you'll gain confidence in expressing yourself and engaging in meaningful conversations. Our experienced instructors provide a supportive learning environment, guiding you on a journey of language discovery."
+      ],
+      "youtube": "https://www.youtube.com/embed/mg04cOOxTQ4"
+    }
+  ],
+  "services_toeic": [
+    {
+      "title": "Business plus TOEIC® Program",
+      "image": "/images/courses/course/business-toeic.png",
+      "subtitle": "In the international business scene, English is the universal language of the world. The aim of this program is to improve business communication skills in English.",
+      "description": [
+        "Your English skills will comprehensively improve with practical simulations such as student powerpoint presentations, telephone practice, negotiations, and meetings, but also by focusing on business vocabulary, listening, writing, and discussion skills."
+      ],
+      "youtube": "https://www.youtube.com/embed/2htjAgPz984",
+      "other_info": {
+        "description": [
+          "The TOEIC® test is an indicator of English proficiency in business and is used by various companies and organizations around the world. In addition to the standard Business program, the TOEIC® program prepares students for success on the TOEIC® - Listening and Reading Exam by introducing essential vocabulary and exploring strategies for achieving a high score on the test.",
+          "This program will be helpful in improving your English skills, such as vocabulary, reading, listening, and grammar. By learning the strategies to find correct answers, you will be able to get a high score."
+        ]
+      }
+    }
+  ],
+  "services_private": [
+    {
+      "title": "Private Lessons",
+      "image": "/images/courses/course/private-lessons.png",
+      "subtitle": "Private lessons are customized to meet YOUR objectives in one-on-one or small group settings.",
+      "description": [
+        "Private lessons are our most flexible language learning option. Highly-trained instructors develop personalized lessons designed to help you achieve your specific English goals. You can study anything from General English skills, Conversation, Fluency, and Accent Reduction to Business English, TOEFL, TOEIC, GRE and more. You can schedule private lessons based on your availability and desired pace. For example, if you want to study intensively, you may request a private lesson every day for 3 hours or if you are looking for a more relaxed pace you may request a private lesson just once a week for 1 hour. You get flexibility, personalized instruction and a pace that works for you–all at an affordable price!",
+        "Regular private lesson cost: <br />$80/1 hour <br />$912/12 hours <br />$1,632/24 hours <br />$2,688/48 hours",
+        "If a student requests a specific teacher:  <br /> $92/1 hour <br /> $1,044/12 hours <br /> $1,896/24 hours <br /> $3,120/48 hours",
+        "If 2 students share a private lesson, the second student is discounted 50%."
+      ]
+    }
+  ]
+}

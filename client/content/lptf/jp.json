@@ -1,0 +1,408 @@
+{
+    "title": "/assets/images/lptf-new/jp/title.png",
+    "sched_text": [
+            "時間を最大限に",
+        "<br>",
+            "活用しよう！"
+    ],
+    "sched_per_week": [
+            "カスタマイズ可能な <br>英語クラスに参加しよう！ <br>大人気の <span>週２日 <br>スケジュールも <br>可能です！</span><br>"
+    ],
+    "click_for_change_of_status": "ステータス変更はこちら",
+    "affordable_price": [
+            "地域最安値！"
+    ],
+    "price": [
+            "$",
+        "<span class=\"mv__large\">",
+            "<span style=\"font-weight: 700;\">358</span>",
+        "</span><span class=\"mv__small\">",
+            "/ 4週間",
+        "</span>"
+    ],
+    "text_2": "全てのバケーションを含む場合",
+    "apply_online": [
+        "<span style=\"font-size: 2.2rem; white-space: nowrap;\">お問い合わせ</span>"
+        ],
+
+
+
+    "intro_text": [
+            "当校は2002年に設立された英語教育の専門機関です。MLIはロサンゼルスの人気エリアであるウェストウッド、ハリウッドにキャンパスを構えており、世界中の留学生の英語力向上をサポートしています。"
+    ],
+    "transfer": [""],
+    "free_trial": [
+            "無料の学校見学の予約はこちらから"
+    ],
+
+
+
+    "reason": "MLIが選ばれる３つの理由",
+    "reason_1": "理由＃1 <br> 低価格の授業料",
+    "reason_img": "/assets/images/lptf-new/jp/reason_table.png",
+    "reason_text_1": [
+        "<p class=\"reason__heading--blue\">",
+            "どこよりも安い授業料を提供いたします。",
+        "</p><p class=\"reasonIntro__text\">",
+            "MLIは、「教育の質」と「低価格」を大切にしており、 他の語学学校よりもはるかに安い価格設定で提供 しています。",
+        "</p>"
+    ],
+    "reason_text_2": [
+            "転校生限定の特別価格 <br> 最安値",
+        "</span><span class=\"reasonIntro__price\">",
+            "$358",
+        "<span class=\"reasonIntro__small\">",
+            " / 4 週間",
+        "</span></span>"
+    ],
+    "reason_text_3": "全てのバケーションを含む場合",
+    "prices": [
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 88px;\"></p><p class=\"reasonPrice__head\">",
+                "授業料",
+            "<br>",
+                "(午前)",
+            "</p><p class=\"reasonPrice__head\"  style=\"width: 450px;\">",
+                "授業料",
+            "<br>",
+                "(午後と夕方)",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__empty\" style=\"width: 140px;\">",
+                "",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Westwood",
+            "</p><p class=\"reasonPrice__head\">",
+                "Hollywood",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "12 週間",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,988",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 2,868",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,703*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 1,577*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "24 週間",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,424",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 5,208",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 3,092*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 2,864*",
+            "</p>"
+        ],
+        [
+            "<p class=\"reasonPrice__th\">",
+                "48 週間",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 10,032",
+            "</p><p class=\"reasonPrice__td gray\">",
+                "$ 9,648",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,718*",
+            "</p><p class=\"reasonPrice__td orange\">",
+                "$ 5,306*",
+            "</p>"
+        ]
+    ],
+    "price_notes": [
+        "<p class=\"reasonPrice__note\">",
+            "現地の生徒のみの",
+        "<br class=\"pc\">",
+            "プロモーション価格",
+        "</p><p class=\"reasonPrice__text\">",
+        "<br>入学金150ドル",
+        "<br><br class=\"pc\">",
+            "*入学金は",
+        "<br class=\"pc\">",
+            "返金不可となっております。",
+        "<br>",
+        "</p>"
+    ],
+    "compare_text_1": "他校と比較してみて下さい！",
+    "compare_text_2": "私たちの価格は非常に低価格で、どなたにとっても公正な価格設定となっております。",
+    "compare_img": "/assets/images/lptf-new/Tuition Comp Chart 2024.png",
+    "private_lessons": "/assets/images/lptf-new/jp/private_lessons.jpg",
+    "private_lessons_sp": "/assets/images/lptf-new/jp/private_lessons_sp.jpg",
+    "download_brochure": "パンフレットをダウンロード",
+    "reason_2": "理由＃2 <br> 柔軟なクラススケジュール",
+    "reason_2_text_1": [
+        "<span class=\"reason__heading--orange\">",
+            "ご希望のスケジュール",
+        "</span><br>",
+            "を選んでください！"
+    ],
+    "reason_2_text_2": [
+        "MLIはプログラム全体にわたって非常に柔軟なスケジュールを提供しており、あなたのライフスタイルに合わせて調整できます。また、新しい「クラスカスタマイズができるConversationプログラム」では、より柔軟なスケジュールが可能になります。"
+    ],
+    "reason_2_row_1": [ 
+        "<p class=\"reasonFlex__head\">",
+            "朝のプログラム",
+        "</p>",
+        "<div class=\"reasonFlex__textBox\">",
+        "<p class=\"reasonFlex__list\">",
+            "• ESLプログラム（4レベル）",
+        "<br>",
+            "• TOEFLテスト準備プログラム",
+        "</p>",
+        "<p class=\"reasonFlex__detail\">",
+            "午前9時から午後1時15分",
+        "<br><span class=\"reasonFlex__small\">",
+            "月曜日から木曜日開講",
+        "</span></p>",
+        "</div>"
+    ],
+    "reason_2_row_2": [
+        "<p class=\"reasonFlex__head\">",
+            "午後+夕方のプログラム",
+        "</p><div class=\"reasonFlex__textBox\"><p class=\"reasonFlex__list\">",
+            "• Conversation（4レベル）",
+        "</p><p class=\"reasonFlex__detail\">",
+            "午後：午後1時45分から午後6時",
+        "<br><span class=\"reasonFlex__small\">",
+            "月曜日から木曜日開講",
+        "</span></p><p class=\"reasonFlex__detail\">",
+            "Evening: 6:30 PM to 10:45 PM",
+        "<br><span class=\"reasonFlex__small\">",
+            "夕方：午後6時30分から午後10時45分 <br> 月曜日と水曜日のみの開講",
+        "</span></p></div>"
+    ],
+    "reason_2_notes": [
+        "<span class=\"reasonText__line\">",
+            "週2日、週3日、週4日のプログラムから選択することができます！",
+        "</span><br>",
+            "午後と夕方に開講する、MLIの新しいカスタマイズ可能Conversationプログラムをご紹介します。このプログラムは、あなたの授業スケジュールやライフスタイルに合わせて柔軟に受講することができます。"
+    ],
+    "reason_2_lead": "AーDのクラスを週に1回ずつ、A,B,C,Dの順番で取る必要があります。",
+    "reason_schedule_row_1": [
+        "<p class=\"reasonSchedule__head\">",
+            "月曜日",
+        "</p><p class=\"reasonSchedule__head\">",
+            "火曜日",
+        "</p><p class=\"reasonSchedule__head\">",
+            "水曜日",
+        "</p><p class=\"reasonSchedule__head\">",
+            "木曜日",
+        "</p>"
+    ],
+    "reason_schedule_row_2": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "9:00 AM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "1:15 PM",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p><p class=\"reasonSchedule__text--orange\">",
+            "ESL",
+        "<br>",
+            "or",
+        "<br>",
+            "TOEFL",
+        "</p>"
+    ],
+    "reason_schedule_row_3": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "1:45 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "6:00 PM",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "A",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--green\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "C",
+        "</p><p class=\"reasonSchedule__text--purple\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_schedule_row_4": [
+        "<p class=\"reasonSchedule__time--top\">",
+            "6:30 PM",
+        "</p><p class=\"reasonSchedule__time--bottom\">",
+            "10:45 PM",
+        "</p><p class=\"reasonSchedule__text--blue\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "B",
+        "</p><p class=\"reasonSchedule__text--purple mr\">",
+            "Conversation",
+        "<br>",
+            "Program",
+        "<br>",
+            "D",
+        "</p>"
+    ],
+    "reason_computation": "例：Conversationプログラム → 月曜日 A＆B + 水曜日C＆D（週2日）",
+    "ask_question": "ご質問はこちらから",
+    "reason_3": [
+            "理由＃3",
+        "<br>",
+            "好立地"
+    ],
+    "reason_heading":[
+        "<span class=\"reason__heading--purple\">",
+            "車は必要ございません！"
+    ],
+    "reason_location_text": [
+            "MLIキャンパスは、ロサンゼルスの中でも特に人気のあるウェストウッドとハリウッドの中心部に位置しています。公共交通機関を利用することで、車が必要ない便利な立地です。 "
+    ],
+    "westwood_text": [
+            "ウェストウッドキャンパスは、世界的に有名なショッピングやファッションエリアであるロデオドライブやビバリードライブを含む、ビバリーヒルズからわずか10分の距離に位置しています。ビバリーヒルズは、ロサンゼルスでも最も高級な都市の1つです。"
+    ],
+    "hollywood_text": [
+            "ハリウッドキャンパスは、有名なグラマン・チャイニーズ・シアターやウォーク・オブ・フェームまで徒歩圏内に位置しています。ハリウッドは、人気の劇場やおしゃれなレストラン、デザイナーショップ、クラブに囲まれた、常にエキサイティングな場所です。"
+    ],
+    "easy_transfer": "簡単な転校お手続き",
+    "transfer_text": "MLIはストレスなくスムーズな転校手続きをサポート致します。",
+    "transfer_text_2": [
+            "当社の多言語スタッフはとてもフレンドリーで親切です。入学に関する最も重要な書類の手続きや受講クラスの情報、寮情報、交通情報、サービスなど、あらゆる面でサポート致します。"
+    ],
+    "step_1": [
+        "<p class=\"process__head\">",
+            "ステップ1",
+        "</p><p class=\"process__desc--01\">",
+            "書類のご提出",
+        "</p><p class=\"process__btn\">",
+            ">> さらに詳しく",
+        "</p>"
+    ],
+    "step_2": [
+        "<p class=\"process__head\">",
+            "ステップ2",
+        "</p><p class=\"process__desc--02\">",
+            "オンラインアプリケーションご記入後、入学金150ドルをお支払い頂きます。",
+        "<br>",
+            "入学金150ドルは返金不可となっております。",
+        "</p><p class=\"process__btn\">",
+            ">> さらに詳しく",
+        "</p>"
+    ],
+    "step_3": [
+        "<p class=\"process__head\">",
+            "ステップ3",
+        "</p><p class=\"process__desc--03\">",
+            "新入生オリエンテーションは、月曜日の午後1時に始まります。",
+        "<br>",
+            "ただし、月曜日が祝日の場合は、オリエンテーションは火曜日に行われます。",
+        "</p><p class=\"process__btn\">",
+            ">> さらに詳しく",
+        "</p>"
+    ],
+    "read_1": [
+        "<p class=\"stepBox__head\">",
+            "ステップ1",
+        "</p><p class=\"stepBox__text\">",
+            "下記の書類を準備し、MLIへご提出ください。",
+        "</p><p class=\"stepBox__text\">",
+            "a) サインされた転校届",
+        "<br>",
+        "<a class=\"stepBox__link--01\" href=\"/documents/2022/TF form - Westwood - 2022.pdf\">",
+            "Download Westwood Transfer Form",
+        "</a><br>",
+        "<a class=\"stepBox__link--02\" href=\"/documents/2022/TF form - Hollywood - 2022.pdf\">",
+            "Download Hollywood Transfer Form",
+        "</a><br>",
+            "b) パスポート<br>c) ビザ",
+        "<br>",
+            "d) I-94",
+        "<br>",
+            "e) ３か月以内に発行された最低$7,800以上ある銀行残高証明書",
+        "</p>"
+    ],
+    "read_2": [
+        "<p class=\"stepBox__head\">",
+            "ステップ2",
+        "</p><p class=\"stepBox__text\">",
+            "下記リンクよりオンラインアプリケーションのご記入、またプロセシング費用（入学金）の$150をお支払いいただけます。",
+        "<br><a href=\"../admission\">https://mliesl.edu/admission</a></p>",
+        "<p class=\"stepBox__text\">",
+            "全ての準備が整いましたら、アクセプタンスレター（入学許可証）を発行いたします。",
+        "<br>",
+            "アクセプタンスレターを今通われている学校へご提出し、SEVIS IDをMLIへ転送してください。",
+        "</p>"
+    ],
+    "read_3": [
+        "<p class=\"stepBox__head\">",
+            "ステップ3",
+        "</p><p class=\"stepBox__text\">",
+            "下記リンクのMLIカレンダーより学校開始日をご参照いただけます。",
+        "<br><a href=\"../school-calendar\">https://mliesl.edu/school-calendar/</a></p>"
+    ],
+    "apply_now": "お申込みはこちらから",
+    "change_of_status": "/assets/images/lptf-new/jp/change_of_status.jpg",
+    "with_our_school_lawyer": "/assets/images/lptf-new/jp/with_our_school_lawyer.jpg",
+    "step_for_change_of_status": ["<span>在留資格変更の<br>6ステップはこちら</span>"],
+    "pop_up_steps": "/assets/images/lptf-new/jp/pop_up_steps.jpg",
+    "not_sure_text": [
+        "<p class=\"schedule__text\">",
+            "キャンパスを一度見てみませんか？",
+        "</p><p class=\"schedule__text\">",
+            "今すぐ無料の学校見学を予約しよう！",
+        "</p>"
+    ],
+    "free_trial_text": [
+            "学校見学の予約はこちら"
+    ],
+
+    "contact": "お問い合わせ",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone Number",
+    "receive": "I do not want to receive a call from MLI",
+    "campus_ref": "Campus Preference",
+    "approx": "Approximately how soon do you plan on starting your program in the U.S.? ",
+    "media": "How did you hear about MLI?",
+    "msg": "Your Message",
+    "send": "Send"
+
+}

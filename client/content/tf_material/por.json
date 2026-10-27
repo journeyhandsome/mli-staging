@@ -1,0 +1,52 @@
+{
+  "pageTitle": "Thanks Download Brochure | Mentor Language Institute",
+  "pageDescription": "Por favor, baixe o catálogo usando os links abaixo",
+    "title": "Thanks Download Brochure",
+    "subtitle": [
+      "Por favor, baixe o catálogo usando os links abaixo"
+    ],
+    "brochures": [
+      {
+        "title": "Tuition Chart Westwood",
+        "image": "/images/tf_material/Fee Chart WW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - WW Tuition.pdf"
+      },
+      {
+        "title": "Tuition Chart Hollywood",
+        "image": "/images/tf_material/Fee Chart HW.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI - HW Tuition.pdf"
+      },
+      {
+        "title": "Program Schedule at Westwood Campus",
+        "image": "/images/tf_material/Westwood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI_WW_Class_Schedule.pdf"
+      },
+      {
+        "title": "Program Schedule at Hollywood Campus",
+        "image": "/images/tf_material/Hollywood Schedule.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025_MLI-HW_Class_Schedulepdf.pdf"
+      },
+      {
+        "title": "Catálogo da escola",
+        "image": "/images/material/mli-brochure-program-schedule-por.jpg",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2025 MLI School Brochure[EN]_OCT17.pdf"
+      },
+      {
+        "title": "Catálogo da acomodação",
+        "image": "/images/material/2022-housing-brochure.png",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/_Digital_ 2025 USSS Brochure- Only Housing updated 10.20.2024.pdf"
+      }
+    ],
+    "other_info": [
+      "Se você tiver alguma dúvida, quanto a questão do visto de estudante, disponibilidade de acomodação, ou qualquer outra pergunta, por favor não hesite em entrar em contato a qualquer momento.",
+      "<b>【 Westwood Campus 】</b> <br />10880 Wilshire Blvd., Suite 122 <br />Los Angeles, CA, 90024 <br />TEL: ＋1（310）887-0777 <br />E-mail: info@mliesl.edu <br />Horário de expediente: Segunda a Quinta: das 08:30 às 20:30, Sexta: das 08:30 às 18:00",
+      "<b>【 Hollywood Campus 】</b><br />7080 Hollywood Blvd., Suite 314<br />Los Angeles, CA 90028<br />TEL: ＋1（323）870-7102 <br />E-mail: hollywood@mliesl.edu <br />Horário de expediente: Segunda a Sexta: das 08:30 às 17:00",
+      "Esperamos lhe dar boas-vindas na MLI em Los Angeles!"
+    ]
+  }
