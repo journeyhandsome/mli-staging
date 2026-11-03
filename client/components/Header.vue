@@ -176,7 +176,8 @@ export default {
     position: fixed;
     bottom: 0;
     left: 0;
-    z-index: 11;
+    z-index: 40;
+    pointer-events: auto;
     background: #FFFFFF;
     box-shadow: 0px -10px 30px #00000026;
     border-radius: 20px 20px 0px 0px;
@@ -189,6 +190,9 @@ export default {
       margin-right: auto;
       flex: 0 0 48%;
       margin-bottom: 10px;
+      position: relative;
+      z-index: 41;
+      pointer-events: auto;
     }
   }
 }
@@ -236,10 +240,12 @@ export default {
       background: unset;
       box-shadow: unset;
       justify-content: flex-end;
+      z-index: 20;
       button {
         flex: 0 0 45%;
         margin-left: 10px;
         margin-right: 0px;
+        z-index: 21;
       }
     }
   }
