@@ -16,7 +16,7 @@
         </a>
         <template v-if="isLanguageHandler">
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <span v-on:click="translate" :id="submenu.link" v-for="(submenu, index) in menuLink.submenus" :key="`${index}-submenu_${submenu.title}`" class="dropdown-item">
+            <span v-on:click="translate(submenu.link)" :id="submenu.link" v-for="(submenu, index) in menuLink.submenus" :key="`${index}-submenu_${submenu.title}`" class="dropdown-item">
               <img v-if="submenu.image" :src="submenu.image" :alt="submenu.title" />
               {{ submenu.title }}
             </span>
@@ -24,8 +24,8 @@
         </template>
         <template v-else>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <template v-for="(submenu, index) in menuLink.submenus">
-              <a :href="`${submenu.link}`" class="dropdown-item" :key="`${index}-submenu_${submenu.title}`">
+            <template v-for="(submenu, index) in menuLink.submenus" :key="`${index}-submenu_${submenu.title}`">
+              <a :href="`${submenu.link}`" class="dropdown-item">
                 <img v-if="submenu.image" :src="`/assets${submenu.image}`" :alt="submenu.title" />
                 {{ submenu.title }}
               </a>
@@ -78,30 +78,31 @@
       }
     },
     methods: {
-      translate(event) {
-        let lang = event.target.id;
-        let slug = this.$route.params.slug;
-            slug = (slug) ? slug : 'en';
-        let currentLocation = '/';
-        let fullPath = this.$route.fullPath;
+      translate(lang) {
+        if (!lang) return;
 
-        if(lang == 'en') {
-          if(!this.$route.fullPath.includes('home')) {
-            currentLocation = this.$route.path.replace(`/${this.$route.params.slug}/`, `/`);
+        const currentPath = this.$route.path || '/';
+        const currentSlug = this.$route.params && this.$route.params.slug ? this.$route.params.slug : '';
+        let nextPath = currentPath;
+
+        if (lang === 'en') {
+          if (currentSlug) {
+            nextPath = currentPath.replace(new RegExp(`^/${currentSlug}(?=/|$)`), '');
           }
-        } else {
-          if(slug == 'en') {
-            if(fullPath == '/') {
-              currentLocation = `/${lang}`;
-            } else {
-              currentLocation = `/${lang}${this.$route.fullPath}`;
-            }
-          } else {
-            currentLocation = this.$route.path.replace(`/${slug}/`, `/${event.target.id}/`);
-          }
+          if (!nextPath || nextPath === '') nextPath = '/';
+          return this.$router.push(nextPath);
         }
 
-        window.location.href = currentLocation;
+        if (currentSlug && currentSlug !== 'en') {
+          nextPath = currentPath.replace(new RegExp(`^/${currentSlug}(?=/|$)`), `/${lang}`);
+        } else if (currentSlug === 'en') {
+          nextPath = currentPath.replace(new RegExp(`^/en(?=/|$)`), `/${lang}`);
+        } else {
+          nextPath = currentPath === '/' ? `/${lang}` : `/${lang}${currentPath}`;
+        }
+
+        if (!nextPath || nextPath === '') nextPath = `/${lang}`;
+        this.$router.push(nextPath);
       },
       updateLanguage(lang) {
           lang = (lang) ? lang : 'en';
