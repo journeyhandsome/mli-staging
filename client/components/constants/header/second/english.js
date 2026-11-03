@@ -1,6 +1,6 @@
 export default [
   {
-    title: 'Online Application',
+    title: 'Online Applicationsssssss',
     link: '/admission'
   },
   {
