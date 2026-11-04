@@ -66,13 +66,14 @@ class CareerController extends Controller
 
     public function sendMail($data)
     {  
-    
         Mail::send('emails.career', ["data" => $data], function($message)
         {
-            $name = env('APP_NAME');
+            $name = env('APP_NAME', 'Mentor Language Institute');
             $to = "hr@mliesl.edu";                                
             $subject = "Career";
-            $message->to($to, $name)->subject($subject);
+            $message->from(env('MAIL_FROM_ADDRESS', 'no-reply@mliesl.edu'), env('MAIL_FROM_NAME', $name))
+                    ->to($to, $name)
+                    ->subject($subject);
         });
     }
     public function download($data)

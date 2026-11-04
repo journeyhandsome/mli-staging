@@ -24,12 +24,13 @@
         </template>
         <template v-else>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <template v-for="(submenu, index) in menuLink.submenus" :key="`${index}-submenu_${submenu.title}`">
-              <a :href="`${submenu.link}`" class="dropdown-item">
-                <img v-if="submenu.image" :src="`/assets${submenu.image}`" :alt="submenu.title" />
-                {{ submenu.title }}
-              </a>
-            </template>
+            <a v-for="(submenu, index) in menuLink.submenus"
+              :key="`${index}-submenu_${submenu.title}`"
+              :href="`${submenu.link}`"
+              class="dropdown-item">
+              <img v-if="submenu.image" :src="`/assets${submenu.image}`" :alt="submenu.title" />
+              {{ submenu.title }}
+            </a>
           </div>
         </template>
       </template>
