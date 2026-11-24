@@ -27,3 +27,8 @@ composer.lock
 docker-compose.yml
 mysqldata
 RUSSIAN_LP_CHANGES.md
+# Backups and dumps - never commit these
+*.sql
+*.sql.gz
+*.tar.gz
+*.zip
