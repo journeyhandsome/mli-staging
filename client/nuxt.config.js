@@ -139,7 +139,7 @@ export default {
     },
     // Public by design: the site key is served inside the generated HTML. Defaulted here so
     // a build on a machine without a client/.env still ships a working widget.
-    recaptcha_site_key: process.env.RECAPTCHA_SITE_KEY || '6Lel5L4tAAAAAEkdVhn6HaWQ3t9aLdo4w58lq0o6',
+    recaptcha_site_key: process.env.RECAPTCHA_SITE_KEY || '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',
   },
 
   ignore: [

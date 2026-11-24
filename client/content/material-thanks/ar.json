@@ -25,7 +25,13 @@
         "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
       },
       {
-        "title": "كتيب الأنشطة الخاص بـ MLI",
+        "title": "كتيب الأنشطة الخاص بـ 2026 MLI",
+        "image": "/images/material/2026 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> Download",
+        "link": "/documents/brochure/2026 MLI Activity Calendar Brochure.pdf"
+      },
+      {
+        "title": "كتيب الأنشطة الخاص بـ 2027 MLI",
         "image": "/images/material/2027 MLI Activity.PNG",
         "link_text": "<i class='bi bi-arrow-right'></i> Download",
         "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"

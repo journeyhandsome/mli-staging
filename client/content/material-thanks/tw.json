@@ -25,7 +25,13 @@
         "link": "/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf"
       },
       {
-        "title": "MLI 活動手冊",
+        "title": "2026 MLI 活動手冊",
+        "image": "/images/material/2026 MLI Activity.PNG",
+        "link_text": "<i class='bi bi-arrow-right'></i> 下載",
+        "link": "/documents/brochure/2026 MLI Activity Calendar Brochure.pdf"
+      },
+      {
+        "title": "2027 MLI 活動手冊",
         "image": "/images/material/2027 MLI Activity.PNG",
         "link_text": "<i class='bi bi-arrow-right'></i> 下載",
         "link": "/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf"

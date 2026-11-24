@@ -311,35 +311,35 @@
       toggleCompute: function() {
         this.isDefault = !this.isDefault;
       },
-      selectChange(forminfo) {
-        if (forminfo == 'accommodation') {
-          const isReadOnly = this.priceFields[forminfo] != "no";
+      // selectChange(forminfo) {
+      //   if (forminfo == 'accommodation') {
+      //     const isReadOnly = this.priceFields[forminfo] != "no";
 
-          this.$refs.ref_transport[0].disabled = isReadOnly;
+      //     this.$refs.ref_transport[0].disabled = isReadOnly;
 
-          if(isReadOnly) this.priceFields['transport'] = 'yes';
-        }
-      },
+      //     if(isReadOnly) this.priceFields['transport'] = 'yes';
+      //   }
+      // },
       computePrice: function(e) {
         const { course, week, extra, visa, age, accommodation, transport } = this.priceFields;
-        let price = 305;
+        let price = 318;
 
-        if (!course || !week || week < 1 || week > 48) {
+        if (!course || !week || week < 1 || week > 52) {
           return false;
         }
 
         if (week >= 1 && week <= 4) {
-          price = 305;
+          price = 318;
         } else if (week >= 5 && week <= 12) {
-          price = 249;
+          price = 259;
         } else if (week == 13) {
-          price = 238;
+          price = 248;
         } else if (week >= 14 && week <= 24) {
-          price = 226;
+          price = 236;
         } else if (week >= 25 && week <= 36) {
+          price = 227;
+        } else {
           price = 218;
-        } else if (week >= 37 && week <= 48) {
-          price = 209;
         }
 
         var cal_week_total = price * week;
@@ -356,8 +356,8 @@
         }
 
         if (transport == 'yes') {
-          this.resultFields.transport.value = '$160';
-          total_price += 160;
+          this.resultFields.transport.value = '$170';
+          total_price += 170;
         } else {
           this.resultFields.transport.show = false;
         }
@@ -379,71 +379,71 @@
               accommodation_name = "Homestay(Private)";
               accommodation_name_jp = "ホームステイ(1人部屋)";
               text = "ホームステイ（1人部屋）";
-              placement = 300;
+              placement = 350;
               extra_day = 63;
 
               if (week < 4){
-                price_per_week = 436;
+                price_per_week = 451;
               } else {
-                price_per_week = 395;
+                price_per_week = 409;
               }
             break;
             case "home_two":
               accommodation_name = "Homestay(Shared)";
               accommodation_name_jp = "ホームステイ(シェアルーム)";
               text = "ホームステイ（シェアルーム）";
-              placement = 300;
-              extra_day = 55;
+              placement = 350;
+              extra_day = 60;
 
               if (week < 4){
-                price_per_week = 384;
+                price_per_week = 397;
               } else {
-                price_per_week = 363;
+                price_per_week = 376;
               }
             break;
             case "one":
               accommodation_name = "Dormitory (Private Room)";
               accommodation_name_jp = "寮（1人部屋）";
               text = "寮（1人部屋）";
-              placement = 200;
-              extra_day = 80;
+              placement = 230;
+              extra_day = 88;
 
               if (week >= 1 && week <= 4) {
-                price_per_week = 550;
+                price_per_week = 590;
               } else if (week >= 5 && week <= 12) {
-                price_per_week = 520;
+                price_per_week = 559;
               } else {
-                price_per_week = 500;
+                price_per_week = 543;
               }
             break;
             case "two":
               accommodation_name = "Dormitory (Shared-2 Room)";
               accommodation_name_jp = "寮（2人部屋）";
               text = "寮（2人部屋）";
-              placement = 200;
-              extra_day = 60;
+              placement = 230;
+              extra_day = 67;
 
               if (week >= 1 && week <= 4) {
-                price_per_week = 410;
+                price_per_week = 445;
               } else if (week >= 5 && week <= 12) {
-                price_per_week = 370;
+                price_per_week = 398;
               } else {
-                price_per_week = 350;
+                price_per_week = 378;
               }
             break;
             case "four":
               accommodation_name = "Dormitory (Shared-4 Room)"
               accommodation_name_jp = "寮（4人部屋）";
               text = "寮（4人部屋）";
-              placement = 200;
-              extra_day = 50;
+              placement = 230;
+              extra_day = 52;
 
               if (week >= 1 && week <= 4) {
-                price_per_week = 300;
+                price_per_week = 326;
               } else if (week >= 5 && week <= 12) {
-                price_per_week = 270;
+                price_per_week = 300;
               } else {
-                price_per_week = 250;
+                price_per_week = 280;
               }
             break;
             default:
@@ -451,7 +451,11 @@
               price_per_week = 0;
           }
 
-          if (accommodation != 'no' && transport != 'yes' ) {
+          // if (accommodation != 'no' && transport != 'yes' ) {
+          //   placement = placement + 30;
+          // }
+
+          if (transport != 'yes' ) {
             placement = placement + 30;
           }
 
@@ -477,71 +481,65 @@
               accommodation_name = "Homestay(Private)";
               accommodation_name_jp = "ホームステイ(1人部屋)";
               text = "ホームステイ（1人部屋）";
-              placement = 300;
-              extra_day = 70;
+              placement = 350;
+              extra_day = 72;
 
               if (week < 4){
-                price_per_week = 480;
+                price_per_week = 496;
               } else {
-                price_per_week = 435;
+                price_per_week = 450;
               }
             break;
             case "home_two":
               accommodation_name = "Homestay(Shared)";
               accommodation_name_jp = "ホームステイ(シェアルーム)";
               text = "ホームステイ（シェアルーム）";
-              placement = 300;
-              extra_day = 60;
+              placement = 350;
+              extra_day = 65;
 
               if (week < 4){
-                price_per_week = 422;
+                price_per_week = 437;
               } else {
-                price_per_week = 399;
+                price_per_week = 413;
               }
             break;
             case "one":
               accommodation_name = "Dormitory (Private Room)";
               accommodation_name_jp = "寮（1人部屋）";
               text = "寮（1人部屋）";
-              placement = 200;
-              extra_day = 90;
+              placement = 230;
+              extra_day = 97;
 
               if (week >= 1 && week <= 4) {
-                price_per_week = 605;
-              } else if (week >= 5 && week <= 12) {
-                price_per_week = 572;
+                price_per_week = 649;
               } else {
-                price_per_week = 500;
+                price_per_week = 615;
               }
             break;
             case "two":
               accommodation_name = "Dormitory (Shared-2 Room)";
               accommodation_name_jp = "寮（2人部屋）";
               text = "寮（2人部屋）";
-              placement = 200;
-              extra_day = 65;
+              placement = 230;
+              extra_day = 74;
 
               if (week >= 1 && week <= 4) {
-                price_per_week = 451;
-              } else if (week >= 5 && week <= 12) {
-                price_per_week = 407;
+                price_per_week = 490;
               } else {
-                price_per_week = 350;
+                price_per_week = 438;
               }
             break;
             case "four":
               accommodation_name = "Dormitory (Shared-4 Room)"
               accommodation_name_jp = "寮（4人部屋）";
               text = "寮（4人部屋）";
-              placement = 200;
-              extra_day = 55;
+              placement = 230;
+              extra_day = 57;
 
               if (week >= 1 && week <= 4) {
-                price_per_week = 330;
-              } else if (week >= 5 && week <= 12) {
-                price_per_week = 297;
+                price_per_week = 359;
               } else {
-                price_per_week = 250;
+                price_per_week = 330;
               }
             break;
             default:
@@ -549,7 +547,11 @@
               price_per_week = 0;
           }
 
-          if (accommodation != 'no' && transport != 'yes' ) {
+          // if (accommodation != 'no' && transport != 'yes' ) {
+          //   placement = placement + 30;
+          // }
+          
+          if (transport != 'yes' ) {
             placement = placement + 30;
           }
 
@@ -610,7 +612,7 @@
       }
     },
     mounted() {
-      this.$refs.ref_transport[0].disabled = true;
+      // this.$refs.ref_transport[0].disabled = true;
       helpers.setToken('utm_source', this.$route.query.utm_source);
     }
 	}
