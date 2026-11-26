@@ -7,12 +7,12 @@ Please download the brochure using the links below.
 <br />
 ■ Housing Brochure
 <br />
-<a href="https://mliesl.edu/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf" target="_blank">https://mliesl.edu/documents/brochure/USSS Student Housing Brochure(updated 10.16.2024).pdf</a>
+<a href="https://mliesl.edu/documents/brochure/2027 USSS Brochure ver 3.15.26.pdf" target="_blank">https://mliesl.edu/documents/brochure/2027 USSS Brochure ver 3.15.26.pdf</a>
 <br />
 <br />
-■ 2025 Price & Enrollment Package
+■ Price & Enrollment Package
 <br />
-<a href="https://mliesl.edu/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf" target="_blank">https://mliesl.edu/documents/brochure/2026 MLI Info Pack updated_9.17.25.pdf</a>
+<a href="https://mliesl.edu/documents/brochure/2027 MLI Info Pack updated_11.10.26 Fillarble.pdf" target="_blank">https://mliesl.edu/documents/brochure/2027 MLI Info Pack updated_11.10.26 Fillarble.pdf</a>
 <br />
 <br />
 ■ MLI Activity Brochure

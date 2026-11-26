@@ -65,7 +65,7 @@ export default [
         title: 'Health Insurance',
       },
       {
-        link: '/documents/brochure/2026 MLI Activity Calendar Brochure.pdf',
+        link: '/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf',
         title: 'Activity Calendar',
       }
     ]

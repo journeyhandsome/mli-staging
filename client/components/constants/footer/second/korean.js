@@ -69,7 +69,7 @@ export default [
           title: '건강 보험',
         },
         {
-          link: '/documents/brochure/2026 MLI Activity Calendar Brochure.pdf',
+          link: '/documents/brochure/2027 MLI Activity Calendar Brochure 10.1.26.pdf',
           title: '활동 일정표',
         }
       ]
